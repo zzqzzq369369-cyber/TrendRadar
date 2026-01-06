@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-01-06T12:11:21.840789+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-01-06T13:04:07.238809+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时11分]"
-        },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
           "url": "https://www.cls.cn/detail/2248455",
@@ -30,8 +18,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时04分]"
+        },
+        {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时04分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -59,11 +60,12 @@
             22,
             28,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时01分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[03时01分 ~ 13时04分]"
         },
         {
           "title": "阿莫林赛后发布会解读",
@@ -75,11 +77,12 @@
             25,
             10,
             27,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时04分]"
         },
         {
           "title": "中国军号发布潜艇训练高清图",
@@ -102,42 +105,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 12时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 13时04分]"
         },
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
           "url": "https://wallstreetcn.com/articles/3762610",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 12时11分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
-          "url": "https://flash.jin10.com/detail/20260106115423474800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时11分]"
-        },
-        {
-          "title": "抖音：2025年AI兴趣用户增长翻倍",
-          "url": "https://wallstreetcn.com/livenews/3031344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 13时04分]"
         },
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -149,6 +130,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 13时04分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
+          "url": "https://flash.jin10.com/detail/20260106115423474800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 13时04分]"
         },
         {
           "title": "在美国参议员马克·凯利发布视频告诉美国军人他们有权拒绝非法命令后，美国国防部长赫格塞思表示，凯利将受到行政处罚，因为他的行为“具有煽动性质”。",
@@ -171,6 +177,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "AMD在CES展示多款企业级及消费级AI芯片",
+          "url": "https://flash.jin10.com/detail/20260106121524156800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 13时04分]"
+        },
+        {
+          "title": "苹果发布马年手机壳 售价449元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%94%AE%E4%BB%B7449%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 13时04分]"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 13时04分]"
         },
         {
           "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
@@ -257,15 +309,17 @@
           "time_info": "[01时49分 ~ 03时01分]"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
+          "title": "AMD在CES展会上发布了公司的MI455 GPU芯片，称基于该芯片的系统在性能指标上实现了巨大飞跃。",
+          "url": "https://wallstreetcn.com/livenews/3031333",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10,
+            11,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时01分 ~ 12时11分]"
+          "time_info": "[12时02分 ~ 13时04分]"
         },
         {
           "title": "全域AI能给汽车带来什么",
@@ -274,29 +328,6 @@
           "ranks": [
             18,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 12时11分]"
-        },
-        {
-          "title": "苹果发布马年手机壳 售价449元",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%94%AE%E4%BB%B7449%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 12时11分]"
-        },
-        {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -313,18 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时49分]"
-        },
-        {
-          "title": "AMD在CES展会上发布了公司的MI455 GPU芯片，称基于该芯片的系统在性能指标上实现了巨大飞跃。",
-          "url": "https://wallstreetcn.com/livenews/3031333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时11分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -361,6 +380,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时11分]"
+        },
+        {
+          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
+          "url": "https://www.zhihu.com/question/1991590957200716340",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         },
         {
           "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
@@ -498,6 +528,17 @@
           "time_info": "06时47分"
         },
         {
+          "title": "上海发布20条措施 鼓励外商投资企业以多种方式境内再投资",
+          "url": "https://wallstreetcn.com/livenews/3031355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "英伟达(NVDA.O)：发布用于语音、多模态检索增强生成和安全领域的NEMOTRON模型。",
           "url": "https://flash.jin10.com/detail/20260106055837713800",
           "source": "金十数据",
@@ -622,8 +663,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 12时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 13时04分]"
         },
         {
           "title": "合肥车厘子价格暴跌 一天卖出15吨",
@@ -639,8 +680,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时04分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -653,8 +694,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时04分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -666,8 +707,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时47分 ~ 12时11分]"
+          "appearance_count": 8,
+          "time_info": "[06时47分 ~ 13时04分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，铜价新高",
@@ -808,7 +849,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -822,8 +863,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 12时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时57分 ~ 13时04分]"
         },
         {
           "title": "扫描“主播”｜“程程正能量”直播算命带货，虚构剧情卖“改命”吊坠被指违法",
@@ -837,6 +878,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 05时42分]"
+        },
+        {
+          "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
+          "url": "https://www.cls.cn/detail/2248740",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时04分]"
         }
       ]
     },
