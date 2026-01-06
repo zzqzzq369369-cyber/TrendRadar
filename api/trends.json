@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-06T22:54:02.493537+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-01-06T23:48:11.854458+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 78,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "事关对日出口管制！商务部发布新年第1号公告",
+          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时01分 ~ 23时48分]"
+        },
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
           "url": "https://wallstreetcn.com/articles/3762610",
@@ -16,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时01分 ~ 22时54分]"
+          "appearance_count": 16,
+          "time_info": "[12时01分 ~ 23时48分]"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -34,6 +45,20 @@
           "time_info": "[00时57分 ~ 13时04分]"
         },
         {
+          "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
+          "url": "https://www.zhihu.com/question/1991814689013850864",
+          "source": "知乎",
+          "ranks": [
+            19,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时05分 ~ 23时48分]"
+        },
+        {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
           "url": "https://wallstreetcn.com/articles/3762568",
           "source": "华尔街见闻",
@@ -47,31 +72,6 @@
           "time_info": "[00时57分 ~ 17时53分]"
         },
         {
-          "title": "事关对日出口管制！商务部发布新年第1号公告",
-          "url": "https://news.ifeng.com/c/8phAzbwbn4t",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时01分 ~ 22时54分]"
-        },
-        {
-          "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
-          "url": "https://www.zhihu.com/question/1991814689013850864",
-          "source": "知乎",
-          "ranks": [
-            19,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时05分 ~ 22时54分]"
-        },
-        {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
           "url": "https://wallstreetcn.com/articles/3762605",
           "source": "华尔街见闻",
@@ -83,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时01分 ~ 22时54分]"
+          "appearance_count": 16,
+          "time_info": "[12时01分 ~ 23时48分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -171,8 +171,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时01分 ~ 22时54分]"
+          "appearance_count": 10,
+          "time_info": "[17时01分 ~ 23时48分]"
         },
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -182,8 +182,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时53分 ~ 22时54分]"
+          "appearance_count": 4,
+          "time_info": "[22时53分 ~ 23时48分]"
+        },
+        {
+          "title": "委内瑞拉发布「搜捕美国侵略支持者」等多项紧急防御措施，这意味着什么？对现状能有何改变？",
+          "url": "https://www.zhihu.com/question/1991807417319645333",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时54分 ~ 23时48分]"
         },
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -206,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
+          "url": "https://wallstreetcn.com/livenews/3031775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -261,7 +284,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -286,18 +309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
-        },
-        {
-          "title": "委内瑞拉发布「搜捕美国侵略支持者」等多项紧急防御措施，这意味着什么？对现状能有何改变？",
-          "url": "https://www.zhihu.com/question/1991807417319645333",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时54分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -502,6 +513,18 @@
           "time_info": "[21时53分 ~ 22时54分]"
         },
         {
+          "title": "AIG跌6%，创4月份以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3031743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时48分]"
+        },
+        {
           "title": "OpenAI家务机器人售价2万美元",
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
@@ -619,6 +642,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "AI初创公司Lmarena按17亿美元估值融资1.5亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3031770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "英伟达(NVDA.O)：推出Vera Rubin平台，包含六款全新芯片，旨在打造一台人工智能超级计算机。",
           "url": "https://flash.jin10.com/detail/20260106061624031800",
           "source": "金十数据",
@@ -641,26 +675,26 @@
           "time_info": "21时53分"
         },
         {
-          "title": "AIG跌6%，创4月份以来最差盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3031743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
           "title": "美股开盘，道指涨0.02%，标普500指数涨0.09%，纳指涨0.2%。英伟达(NVDA.O)涨1.23%，此前发布新一代AI服务器系统。英特尔(INTC.O)涨1%，其在CES上发布新一代PC芯片。AMD(AMD.O)涨0.27%，公司发布新一代移动和台式机处理器。",
           "url": "https://flash.jin10.com/detail/20260106223030431800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
+        },
+        {
+          "title": "雀巢：迄今已在24个欧洲国家、土耳其和阿根廷发布婴幼儿营养产品召回通知。",
+          "url": "https://flash.jin10.com/detail/20260106233008437800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
@@ -768,7 +802,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -883,6 +917,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "据The Information：人工智能初创公司LMArena以17亿美元估值融资1.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260106231814218800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
           "url": "https://flash.jin10.com/detail/20260106063634804800",
           "source": "金十数据",
@@ -922,7 +967,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         }
@@ -930,7 +975,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -940,8 +985,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时38分 ~ 22时54分]"
+          "appearance_count": 18,
+          "time_info": "[07时38分 ~ 23时48分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -968,6 +1013,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时47分 ~ 15时05分]"
+        },
+        {
+          "title": "黄仁勋CES演讲全文来了！Rubin全面投产，算力暴涨5倍，砸掉智驾门槛All in物理世界",
+          "url": "https://wallstreetcn.com/articles/3762621",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时52分 ~ 23时48分]"
+        },
+        {
+          "title": "车厘子暴跌第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9A%B4%E8%B7%8C%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时53分 ~ 23时48分]"
         },
         {
           "title": "合肥车厘子价格暴跌 一天卖出15吨",
@@ -1002,31 +1073,6 @@
           "time_info": "[00时57分 ~ 13时04分]"
         },
         {
-          "title": "车厘子暴跌第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E6%9A%B4%E8%B7%8C%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时54分]"
-        },
-        {
-          "title": "黄仁勋CES演讲全文来了！Rubin全面投产，算力暴涨5倍，砸掉智驾门槛All in物理世界",
-          "url": "https://wallstreetcn.com/articles/3762621",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时52分 ~ 22时54分]"
-        },
-        {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，铜价新高",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
@@ -1044,7 +1090,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1060,6 +1106,18 @@
           "time_info": "19时34分"
         },
         {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时53分 ~ 23时48分]"
+        },
+        {
           "title": "合肥车厘子价格暴跌 一天卖出15吨",
           "url": "https://www.toutiao.com/trending/7591475729259970614/",
           "source": "今日头条",
@@ -1073,16 +1131,15 @@
           "time_info": "[00时57分 ~ 03时38分]"
         },
         {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
+          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时54分]"
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -1097,6 +1154,29 @@
           "time_info": "[05时42分 ~ 06时47分]"
         },
         {
+          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3031741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时48分]"
+        },
+        {
+          "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
+          "url": "https://www.cls.cn/detail/2249336",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
+        },
+        {
           "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260106050512402800",
           "source": "金十数据",
@@ -1106,17 +1186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3031741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉涨3.1%，苹果跌约1.4%",
@@ -1169,7 +1238,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1194,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "美股网约车股上涨，此前英伟达(NVDA.O)宣布自动驾驶技术平台。Uber(UBER.N)涨5.6%，Lyft(LYFT.O)涨3%，特斯拉(TSLA.O)跌3.2%。",
+          "url": "https://flash.jin10.com/detail/20260106231547408800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -1224,7 +1304,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         }
@@ -1232,7 +1312,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -1274,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时03分 ~ 17时53分]"
+        },
+        {
+          "title": "2026年最容易赚钱的方向在哪",
+          "url": "https://www.toutiao.com/trending/7591495044801265727/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时47分 ~ 23时48分]"
         },
         {
           "title": "联合国难民署：自美国在委内瑞拉采取行动以来，尚未发现流离失所者跨境流动的迹象。",
