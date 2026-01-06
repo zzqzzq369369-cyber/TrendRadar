@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-06T17:01:54.978688+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-01-06T17:53:15.368033+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
+          "url": "https://wallstreetcn.com/articles/3762610",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 17时53分]"
+        },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
           "url": "https://www.cls.cn/detail/2248455",
@@ -31,20 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 17时01分]"
-        },
-        {
-          "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
-          "url": "https://wallstreetcn.com/articles/3762610",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 17时01分]"
+          "appearance_count": 21,
+          "time_info": "[00时57分 ~ 17时53分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -133,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 17时01分]"
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 17时53分]"
         },
         {
           "title": "事关对日出口管制！商务部发布新年第1号公告",
@@ -143,9 +143,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时53分]"
+        },
+        {
+          "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
+          "url": "https://www.zhihu.com/question/1991814689013850864",
+          "source": "知乎",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 17时53分]"
         },
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -245,7 +257,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -285,18 +297,6 @@
           "time_info": "[06时47分 ~ 07时39分]"
         },
         {
-          "title": "高盛发布最新研报，预计 2026 、 2027 年中国股市将每年上涨 15% 至 20%，你怎么看？",
-          "url": "https://www.zhihu.com/question/1991814689013850864",
-          "source": "知乎",
-          "ranks": [
-            19,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时01分]"
-        },
-        {
           "title": "LG在2026年国际消费电子展（CES）上发布W6壁纸电视，其厚度仅为9毫米。",
           "url": "https://wallstreetcn.com/livenews/3031038",
           "source": "华尔街见闻-快讯",
@@ -319,6 +319,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时39分]"
+        },
+        {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 17时53分]"
         },
         {
           "title": "通用汽车涨幅扩大至1%，刷新日高，此前发布了美国销售数据。",
@@ -394,6 +406,18 @@
           "time_info": "[12时02分 ~ 13时04分]"
         },
         {
+          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
+          "url": "https://www.cls.cn/detail/2248752",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时53分]"
+        },
+        {
           "title": "全域AI能给汽车带来什么",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -406,16 +430,15 @@
           "time_info": "[12时01分 ~ 12时11分]"
         },
         {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
+          "title": "英伟达发布DLSS 4.5",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            7
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时01分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 17时53分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -557,6 +580,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "智元发布SOP，实现通用机器人的规模化部署与智能化运行",
+          "url": "https://wallstreetcn.com/livenews/3031561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
           "url": "https://flash.jin10.com/detail/20260106060052070800",
           "source": "金十数据",
@@ -566,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "英伟达揭晓新一代AI服务器系统 盘前止跌回升",
+          "url": "https://flash.jin10.com/detail/20260106171719849800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
@@ -612,17 +657,6 @@
           "time_info": "06时47分"
         },
         {
-          "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
-          "url": "https://www.cls.cn/detail/2248752",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
-        },
-        {
           "title": "上海发布20条措施 鼓励外商投资企业以多种方式境内再投资",
           "url": "https://wallstreetcn.com/livenews/3031355",
           "source": "华尔街见闻-快讯",
@@ -662,7 +696,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -695,7 +729,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -720,17 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "英伟达发布DLSS 4.5",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
         },
         {
           "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
@@ -769,7 +792,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -779,8 +802,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 17时01分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 17时53分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -875,6 +898,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时47分]"
+        },
+        {
+          "title": "黄仁勋CES演讲全文来了！Rubin全面投产，算力暴涨5倍，砸掉智驾门槛All in物理世界",
+          "url": "https://wallstreetcn.com/articles/3762621",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股收盘）",
@@ -993,8 +1027,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时57分 ~ 17时01分]"
+          "appearance_count": 21,
+          "time_info": "[00时57分 ~ 17时53分]"
         },
         {
           "title": "扫描“主播”｜“程程正能量”直播算命带货，虚构剧情卖“改命”吊坠被指违法",
@@ -1019,8 +1053,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时03分 ~ 17时01分]"
+          "appearance_count": 6,
+          "time_info": "[13时03分 ~ 17时53分]"
         }
       ]
     },
@@ -1035,7 +1069,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
