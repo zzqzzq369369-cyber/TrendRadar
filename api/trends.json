@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:02:31.101656+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-01-07T17:55:40.278129+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "事关对日出口管制！商务部发布新年第1号公告",
@@ -115,8 +115,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 17时02分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 17时55分]"
         },
         {
           "title": "北欧五国就格陵兰岛发布联合声明",
@@ -127,8 +127,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -138,8 +138,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时47分 ~ 17时55分]"
         },
         {
           "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
@@ -152,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -180,18 +195,17 @@
           "time_info": "[07时39分 ~ 13时05分]"
         },
         {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
+          "title": "陈天桥代季峰团队实现 30B 参数跑出 1T 性能，这对大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1991902608064005627",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            6,
-            7
+            2,
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时47分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
         },
         {
           "title": "欧洲多国就格陵兰岛发布联合声明",
@@ -214,19 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        },
-        {
-          "title": "陈天桥代季峰团队实现 30B 参数跑出 1T 性能，这对大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1991902608064005627",
-          "source": "知乎",
-          "ranks": [
-            2,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
         },
         {
           "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
@@ -252,6 +253,33 @@
           "time_info": "07时39分"
         },
         {
+          "title": "委内瑞拉发布讣告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
+        },
+        {
           "title": "英伟达押注物理AI背后逻辑",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
           "source": "bilibili 热搜",
@@ -264,6 +292,35 @@
           "time_info": "[11时59分 ~ 15时04分]"
         },
         {
+          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
+        },
+        {
+          "title": "欧洲多国就格陵兰岛发布联合声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
+        },
+        {
           "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
           "url": "https://flash.jin10.com/detail/20260107042816684800",
           "source": "金十数据",
@@ -274,19 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时41分]"
-        },
-        {
-          "title": "委内瑞拉发布讣告",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
         },
         {
           "title": "xAI超额完成200亿美元融资 英伟达是战投之一",
@@ -325,19 +369,6 @@
           "time_info": "[06时48分 ~ 07时39分]"
         },
         {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
-        },
-        {
           "title": "我国去年年12月物流业景气指数发布 创全年最高",
           "url": "https://wallstreetcn.com/livenews/3031920",
           "source": "华尔街见闻-快讯",
@@ -350,32 +381,29 @@
           "time_info": "[06时48分 ~ 07时39分]"
         },
         {
-          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
-          "source": "澎湃新闻",
+          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
+          "url": "https://www.cls.cn/detail/2250185",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            11,
-            10,
-            12
+            13,
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 17时55分]"
         },
         {
-          "title": "欧洲多国就格陵兰岛发布联合声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
-          "source": "澎湃新闻",
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            12,
-            11,
-            13
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时55分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -390,6 +418,18 @@
           "time_info": "[04时45分 ~ 05时41分]"
         },
         {
+          "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时55分]"
+        },
+        {
           "title": "XAI：完成200亿美元的E轮融资。",
           "url": "https://flash.jin10.com/detail/20260107040102162800",
           "source": "金十数据",
@@ -400,6 +440,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时41分]"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时55分]"
         },
         {
           "title": "2025年12月物流业景气指数发布 创全年最高",
@@ -438,18 +490,6 @@
           "time_info": "[03时33分 ~ 04时45分]"
         },
         {
-          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
-          "url": "https://www.cls.cn/detail/2250185",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 17时02分]"
-        },
-        {
           "title": "中国空间站巡天空间望远镜科学仿真研究系列成果发布",
           "url": "https://wallstreetcn.com/livenews/3032066",
           "source": "华尔街见闻-快讯",
@@ -473,15 +513,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
+          "title": "北方导航：近期，部分网站、股吧将公司股票纳入商业航天板块。本公司从未发布过相关公告，且公司在商业航天领域无相关业务，也未取得相关订单。",
+          "url": "https://wallstreetcn.com/livenews/3032322",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "17时55分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-07）",
@@ -515,28 +555,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         },
         {
           "title": "美国最高法院确定周五为意见发布日，或就特朗普关税是否合法做裁决",
@@ -677,7 +695,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -795,7 +813,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "车厘子暴跌第一批受害者出现",
@@ -835,6 +853,18 @@
           "time_info": "[01时01分 ~ 07时39分]"
         },
         {
+          "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 17时55分]"
+        },
+        {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
@@ -860,18 +890,6 @@
           "time_info": "[01时01分 ~ 07时39分]"
         },
         {
-          "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
-          "url": "https://wallstreetcn.com/articles/3762631",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 17时02分]"
-        },
-        {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
           "url": "https://wallstreetcn.com/articles/3762638",
           "source": "华尔街见闻",
@@ -885,6 +903,21 @@
           "time_info": "[07时39分 ~ 15时04分]"
         },
         {
+          "title": "黄仁勋称无需依赖冷水机组，制冷设备股一度暴跌20%",
+          "url": "https://wallstreetcn.com/articles/3762687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 17时55分]"
+        },
+        {
           "title": "特朗普政策影响下，大众和奥迪在美销量暴跌",
           "url": "https://flash.jin10.com/detail/20260107013000574800",
           "source": "金十数据",
@@ -894,20 +927,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "黄仁勋称无需依赖冷水机组，制冷设备股一度暴跌20%",
-          "url": "https://wallstreetcn.com/articles/3762687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 17时02分]"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
@@ -1017,6 +1036,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
           "url": "https://wallstreetcn.com/livenews/3031910",
           "source": "华尔街见闻-快讯",
@@ -1059,12 +1089,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "Ventyx(VTYX.O)美股盘前飙升65%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
+          "url": "https://flash.jin10.com/detail/20260107171807580800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "扫描“主播”丨直播算命带货的“程程正能量”相关账号被封禁，店铺商品清空",
@@ -1076,11 +1117,12 @@
             8,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时47分 ~ 17时02分]"
+          "appearance_count": 8,
+          "time_info": "[06时47分 ~ 17时55分]"
         },
         {
           "title": "2026年最容易赚钱的方向在哪",
@@ -1094,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时45分 ~ 07时39分]"
+        },
+        {
+          "title": "年轻人“搞钱”有一套",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E2%80%9C%E6%90%9E%E9%92%B1%E2%80%9D%E6%9C%89%E4%B8%80%E5%A5%97",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "TikTok Shop2025年在海外主流电商平台中排名第五、增速第一",
@@ -1119,7 +1172,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
