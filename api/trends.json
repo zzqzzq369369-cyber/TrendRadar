@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T11:59:51.500674+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-01-07T13:05:28.580979+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "事关对日出口管制！商务部发布新年第1号公告",
@@ -115,8 +115,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 11时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时05分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -139,19 +139,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 11时59分]"
-        },
-        {
-          "title": "欧洲多国就格陵兰岛发布联合声明",
-          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 13时05分]"
         },
         {
           "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
@@ -160,7 +149,62 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "陈天桥代季峰团队实现 30B 参数跑出 1T 性能，这对大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1991902608064005627",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "北欧五国就格陵兰岛发布联合声明",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%AC%A7%E4%BA%94%E5%9B%BD%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "欧洲多国就格陵兰岛发布联合声明",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -176,39 +220,6 @@
           "time_info": "04时45分"
         },
         {
-          "title": "陈天桥代季峰团队实现 30B 参数跑出 1T 性能，这对大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1991902608064005627",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "北欧五国就格陵兰岛发布联合声明",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E6%AC%A7%E4%BA%94%E5%9B%BD%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "股份制银行AIC多元投资项目密集落地",
           "url": "https://wallstreetcn.com/livenews/3031945",
           "source": "华尔街见闻-快讯",
@@ -220,15 +231,18 @@
           "time_info": "07时39分"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            8,
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时47分 ~ 13时05分]"
         },
         {
           "title": "美国参议院：参议院以52比48的投票结果确认了Sara Bailey担任国家毒品管制政策主任的提名。",
@@ -243,17 +257,16 @@
           "time_info": "[04时45分 ~ 05时41分]"
         },
         {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            6
+            13,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时47分 ~ 11时59分]"
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
         },
         {
           "title": "xAI超额完成200亿美元融资 英伟达是战投之一",
@@ -316,6 +329,18 @@
           "time_info": "[04时45分 ~ 05时41分]"
         },
         {
+          "title": "委内瑞拉发布讣告",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
           "title": "XAI：完成200亿美元的E轮融资。",
           "url": "https://flash.jin10.com/detail/20260107040102162800",
           "source": "金十数据",
@@ -338,6 +363,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时39分]"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
         },
         {
           "title": "AMD的CEO苏姿丰：所有人都应该明白，AI并非炒作。",
@@ -364,6 +401,42 @@
           "time_info": "[03时33分 ~ 04时45分]"
         },
         {
+          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "欧洲多国就格陵兰岛发布联合声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "中国空间站巡天空间望远镜科学仿真研究系列成果发布",
+          "url": "https://wallstreetcn.com/livenews/3032066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
           "title": "百事公司宣布与西门子和英伟达开展业界首个人工智能和数字孪生合作。",
           "url": "https://flash.jin10.com/detail/20260107003021897800",
           "source": "金十数据",
@@ -375,15 +448,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107120242585800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时59分"
+          "time_info": "13时05分"
         },
         {
           "title": "西门子与英伟达扩大合作，打造工业人工智能操作系统。",
@@ -425,7 +498,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -463,17 +536,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "苏姿丰：人工智能不会取代人类，但会改变招聘对象",
           "url": "https://flash.jin10.com/detail/20260107034818041800",
           "source": "金十数据",
@@ -496,28 +558,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "委内瑞拉发布讣告",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
           "title": "恩智浦半导体宣布推出新的eIQ代理AI框架。",
           "url": "https://flash.jin10.com/detail/20260107010109299800",
           "source": "金十数据",
@@ -538,28 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
-        },
-        {
-          "title": "中国空间站巡天空间望远镜科学仿真研究系列成果发布",
-          "url": "https://wallstreetcn.com/livenews/3032066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "欧洲多国就格陵兰岛发布联合声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32327703",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
         },
         {
           "title": "摩根大通发布欧元区成员国评级动向展望，料法国遭降级的概率约五成",
@@ -590,7 +608,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -634,7 +652,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -656,7 +674,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -667,7 +685,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -770,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 13时05分]"
         },
         {
           "title": "特朗普政策影响下，大众和奥迪在美销量暴跌",
@@ -783,6 +801,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 13时05分]"
         },
         {
           "title": "Strategy美股盘后涨超6%。",
@@ -819,18 +849,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时48分]"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 11时59分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股收盘）",
@@ -881,6 +899,18 @@
           "time_info": "[05时41分 ~ 06时48分]"
         },
         {
+          "title": "黄仁勋称无需依赖冷水机组，制冷设备股一度暴跌20%",
+          "url": "https://wallstreetcn.com/articles/3762687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
           "title": "周二（1月6日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.81%，报93815美元，北京时间02:00刷新日低至91460美元。 CME以太币期货DCR主力合约涨1.23%，报3296.50美元。 美股加密货币与加密货币关联指数收跌2.09%，报66.31点，整体呈现出V形走势——北京时间02:00刷新日低至63.68点。 最近24小时，MarketVectorTM数字资产100小盘指数涨1.11%，暂报4269.69点。 MarketVectorTM数字资产100中盘指数涨0.21%，报3964.13点。 MarketVector数字资产100指数涨0.46%，报19504.12点。",
           "url": "https://wallstreetcn.com/livenews/3031915",
           "source": "华尔街见闻-快讯",
@@ -902,17 +932,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        },
-        {
-          "title": "黄仁勋称无需依赖冷水机组，制冷设备股一度暴跌20%",
-          "url": "https://wallstreetcn.com/articles/3762687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
         },
         {
           "title": "（美股）费城金银指数收涨4.72%，报370.56点，时隔数日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数收涨4.02%，报2605.98点，亚太盘初至美股开盘这段时间维持微幅上涨状态——持稳于2510点附近，之后跳空走高并持续扩大涨幅。 （美股）原材料指数涨2.70%，报241.25点。 （美股）金属与矿业指数涨1.88%，报232.82点。",
@@ -984,11 +1003,12 @@
           "ranks": [
             15,
             14,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时47分 ~ 11时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时47分 ~ 13时05分]"
         },
         {
           "title": "TikTok Shop2025年在海外主流电商平台中排名第五、增速第一",
@@ -997,7 +1017,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         }
