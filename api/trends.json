@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T05:41:56.658333+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-01-09T06:48:56.675512+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -17,19 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时41分]"
-        },
-        {
-          "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
-          "url": "https://wallstreetcn.com/livenews/3033566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -37,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "概念股半年暴涨1000%！磷化铟从冷板凳走到聚光灯下",
@@ -49,33 +39,71 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
+        {
+          "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
+          "url": "https://wallstreetcn.com/livenews/3033566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时48分]"
         },
         {
           "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260109050537009800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时48分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌约2.2%，谷歌A涨约1.1%，亚马逊涨超1.9%",
           "url": "https://wallstreetcn.com/livenews/3033564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时48分]"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260109050534682800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时48分]"
         },
         {
           "title": "美国总统特朗普暗示，无意赦免（被前总统拜登收监的）原加密货币交易所FTX创始人Sam Bankman-Fried（SBF）。（纽约时报）",
@@ -102,37 +130,50 @@
           "time_info": "[04时49分 ~ 05时41分]"
         },
         {
-          "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260109050534682800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
           "title": "周四（1月8日），彭博电动汽车价格回报指数跌0.94%，报3571.19点。 亚太早盘，指数持续下挫，北京时间10:00以来持续低位震荡，美股开盘刷新日低至3560.03点。 MobilEye Global跌8.5%，Ola Electric Mobility Ltd.跌4.37%，意法半导体跌2.79%，Sona Blw Precision Forgings Ltd.跌2.31%，MP材料、美国雅宝ALB、“特斯拉劲敌”Rivian至少跌超1%，宝马跌0.49%，特斯拉则涨1%，Lucid集团涨2.3%，Solid Power跌4.86%，沃尔沃汽车集团涨5.44%，微宏控股涨11.90%。",
           "url": "https://wallstreetcn.com/livenews/3033561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时48分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
           "url": "https://flash.jin10.com/detail/20260109050055276800",
           "source": "金十数据",
           "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时48分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.10%，报367.31点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.05%，报2583.79点，北京时间22:30美股开盘时候跳水，23:00刷新日低至2525.03点。 （美股）原材料指数涨0.94%，报239.45点。 （美股）金属与矿业指数跌0.89%，报228.50点。",
+          "url": "https://wallstreetcn.com/livenews/3033575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "06时48分"
         },
         {
           "title": "癌症药品生产商Revolution Medicines（RVMD）美股尾盘暂停交易，临时停牌前涨幅5.2%。 Erasca Inc.（ERAS）临时停牌，暂停交易前涨幅扩大至22%。 据英国金融时报，Merck洽谈收购该公司，但双方还没有敲定最终协议。",
@@ -141,16 +182,40 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "生科ETF收跌超2.5%，半导体ETF跌约1.6%，领跌美股行业ETF，标普能源板块创4月以来最大单日涨幅",
+          "url": "https://wallstreetcn.com/livenews/3033556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "TT发布处罚Feather公告",
+          "url": "https://search.bilibili.com/all?keyword=TT%E5%8F%91%E5%B8%83%E5%A4%84%E7%BD%9AFeather%E5%85%AC%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
+        },
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
@@ -163,19 +228,6 @@
           "time_info": "[01时03分 ~ 03时36分]"
         },
         {
-          "title": "TT发布处罚Feather公告",
-          "url": "https://search.bilibili.com/all?keyword=TT%E5%8F%91%E5%B8%83%E5%A4%84%E7%BD%9AFeather%E5%85%AC%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时41分]"
-        },
-        {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
           "url": "https://www.cls.cn/detail/2252328",
           "source": "财联社热门",
@@ -184,8 +236,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
@@ -219,8 +271,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时48分]"
+        },
+        {
+          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
+          "url": "https://flash.jin10.com/detail/20260109055249345800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
+          "url": "https://wallstreetcn.com/articles/3762810",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "风暴“戈雷蒂”登陆英国 多地发布降雪、大风等天气预警",
@@ -289,11 +363,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 06时48分]"
         },
         {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
