@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T22:57:31.368376+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-01-08T23:54:07.841964+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -54,6 +54,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时02分 ~ 15时01分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时54分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -118,19 +132,6 @@
           "time_info": "[01时02分 ~ 07时37分]"
         },
         {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时54分 ~ 22时57分]"
-        },
-        {
           "title": "法国云计算公司OVH CEO：正探索在6至7个欧洲国家建立多国人工智能基础设施合作伙伴关系。欧盟人工智能倡议过于关注资本支出和资产，而对收入关注不足——谁来买单？",
           "url": "https://flash.jin10.com/detail/20260108173116243800",
           "source": "金十数据",
@@ -151,6 +152,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
+          "url": "https://wallstreetcn.com/livenews/3033439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "TT发布处罚Feather公告",
+          "url": "https://search.bilibili.com/all?keyword=TT%E5%8F%91%E5%B8%83%E5%A4%84%E7%BD%9AFeather%E5%85%AC%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时57分 ~ 23时54分]"
         },
         {
           "title": "法国云计算公司OVH CEO：公司一直在与欧盟委员会就人工智能超级工厂计划进行谈判。",
@@ -295,17 +319,6 @@
           "time_info": "[03时38分 ~ 04时51分]"
         },
         {
-          "title": "TT发布处罚Feather公告",
-          "url": "https://search.bilibili.com/all?keyword=TT%E5%8F%91%E5%B8%83%E5%A4%84%E7%BD%9AFeather%E5%85%AC%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
           "url": "https://flash.jin10.com/detail/20260108033431215800",
           "source": "金十数据",
@@ -361,6 +374,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3033435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "AI狂潮重燃融资热火 全球可转债发行量创新高",
           "url": "https://flash.jin10.com/detail/20260108163706423800",
           "source": "金十数据",
@@ -405,6 +429,17 @@
           "time_info": "17时01分"
         },
         {
+          "title": "Eleveight AI在亚美尼亚部署英伟达B300 Blackwell GPUs。",
+          "url": "https://wallstreetcn.com/livenews/3033430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-08）",
           "url": "https://flash.jin10.com/detail/20260108115540261800",
           "source": "金十数据",
@@ -422,7 +457,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -521,7 +556,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -651,8 +686,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时37分 ~ 22时57分]"
+          "appearance_count": 14,
+          "time_info": "[07时37分 ~ 23时54分]"
         },
         {
           "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
@@ -707,7 +742,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -723,6 +758,19 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时54分 ~ 23时54分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
           "url": "https://wallstreetcn.com/livenews/3032705",
           "source": "华尔街见闻-快讯",
@@ -732,6 +780,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "概念股半年暴涨1000%！磷化铟从冷板凳走到聚光灯下",
+          "url": "https://www.cls.cn/detail/2252090",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时54分 ~ 23时54分]"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-08）",
@@ -756,30 +816,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 13时03分]"
-        },
-        {
-          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2252232",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时54分 ~ 22时57分]"
-        },
-        {
-          "title": "概念股半年暴涨1000%！磷化铟从冷板凳走到聚光灯下",
-          "url": "https://www.cls.cn/detail/2252090",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时54分 ~ 22时57分]"
         },
         {
           "title": "存储芯片价格失控！华尔街再调预期：2026年DRAM或暴涨88%，NAND涨74%",
@@ -844,7 +880,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -888,7 +924,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -954,7 +990,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -965,7 +1001,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
@@ -1025,6 +1061,20 @@
           "time_info": "[13时02分 ~ 17时54分]"
         },
         {
+          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时54分 ~ 23时54分]"
+        },
+        {
           "title": "跨境清算公司：加大拓展CIPS网络力度 为更好支持人民币跨境使用提供基础设施支撑",
           "url": "https://wallstreetcn.com/livenews/3033291",
           "source": "华尔街见闻-快讯",
@@ -1034,19 +1084,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
-        },
-        {
-          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时54分 ~ 22时57分]"
         },
         {
           "title": "请1400万网红带货成交4单男子发声",
@@ -1106,7 +1143,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时57分"
         },
