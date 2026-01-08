@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T18:54:47.019253+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-01-08T19:39:48.222264+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
@@ -196,8 +196,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 19时39分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时54分]"
+          "time_info": "[17时54分 ~ 19时39分]"
         },
         {
           "title": "尚界Z7官图发布 剑指小米SU7",
@@ -269,17 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时51分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时54分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
@@ -571,7 +571,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -583,8 +583,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时37分 ~ 18时54分]"
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 19时39分]"
         },
         {
           "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
@@ -740,7 +740,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -773,7 +773,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -820,12 +820,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "3万请1400万网红带货仅成交4单",
@@ -855,6 +866,17 @@
           "time_info": "[13时02分 ~ 17时54分]"
         },
         {
+          "title": "跨境清算公司：加大拓展CIPS网络力度 为更好支持人民币跨境使用提供基础设施支撑",
+          "url": "https://wallstreetcn.com/livenews/3033291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "请1400万网红带货成交4单男子发声",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B71400%E4%B8%87%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A7%E6%88%90%E4%BA%A44%E5%8D%95%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -865,6 +887,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时03分]"
+        },
+        {
+          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时39分]"
         },
         {
           "title": "跨境赌诈集团头目陈志被押解回国",
@@ -887,23 +920,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
-        },
-        {
-          "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342594",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
@@ -915,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "摩尔线程：正式发布开源大模型分布式训练仿真工具SimuMax的1.1版本",
+          "url": "https://wallstreetcn.com/livenews/3033274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     }
