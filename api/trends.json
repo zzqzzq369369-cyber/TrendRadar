@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T11:56:46.852469+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-01-08T13:03:10.011099+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -52,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 11时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 13时03分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -109,11 +109,12 @@
           "url": "https://www.cls.cn/detail/2251233",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时03分]"
         },
         {
           "title": "美国政府更新经济数据发布时间 2025全年GDP将在2月中旬出炉",
@@ -140,6 +141,17 @@
           "time_info": "[04时51分 ~ 05时39分]"
         },
         {
+          "title": "尚界Z7官图发布 剑指小米SU7",
+          "url": "https://www.toutiao.com/trending/7592414329543233030/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时03分]"
+        },
+        {
           "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
           "url": "https://flash.jin10.com/detail/20260108034000250800",
           "source": "金十数据",
@@ -162,6 +174,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时51分]"
+        },
+        {
+          "title": "阿里云推出面向AI硬件的多模态交互开发套件",
+          "url": "https://wallstreetcn.com/livenews/3032905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 13时03分]"
         },
         {
           "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
@@ -243,17 +267,6 @@
           "time_info": "05时39分"
         },
         {
-          "title": "阿里云推出面向AI硬件的多模态交互开发套件",
-          "url": "https://wallstreetcn.com/livenews/3032905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
           "url": "https://wallstreetcn.com/livenews/3032745",
           "source": "华尔街见闻-快讯",
@@ -271,9 +284,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108115540261800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "AI大模型上市第一股",
@@ -282,7 +306,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -304,9 +328,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "法拉第未来（FF）：目标在五年内实现40万至50万辆的生产和销售。目标在三年内实现正现金流，并达到20%的利润率。FX Super One车型在美国的最终发布计划定于第二季度。",
+          "url": "https://flash.jin10.com/detail/20260108114740659800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "美国政府针对劳工统计局（BLS）CPI数据没能覆盖10月PCE数据发布（统计）计划。",
@@ -359,7 +394,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -370,18 +405,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "尚界Z7官图发布 剑指小米SU7",
-          "url": "https://www.toutiao.com/trending/7592414329543233030/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -400,7 +424,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
@@ -412,6 +436,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 06时46分]"
+        },
+        {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时03分]"
         },
         {
           "title": "黄仁勋称无需依赖冷水机组，制冷设备股一度暴跌20%",
@@ -426,16 +462,27 @@
           "time_info": "[01时02分 ~ 04时51分]"
         },
         {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
           "ranks": [
-            4,
+            8,
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时03分]"
+        },
+        {
+          "title": "天价比特币，被美国“黑吃黑”？起底太子集团创始人陈志",
+          "url": "https://finance.ifeng.com/c/8pkAbqGJef5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 11时56分]"
+          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
@@ -464,23 +511,12 @@
           "url": "https://wallstreetcn.com/livenews/3032911",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
+            5,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 13时03分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -566,7 +602,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         }
@@ -574,18 +610,41 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "请1400万网红带货成交4单男子发声",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AF%B71400%E4%B8%87%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A7%E6%88%90%E4%BA%A44%E5%8D%95%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时03分]"
+        },
+        {
+          "title": "请1400万粉丝网红带货仅成交4单",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%B71400%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A7%E4%BB%85%E6%88%90%E4%BA%A44%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "3万请1400万网红带货仅成交4单",
+          "url": "https://s.weibo.com/weibo?q=%233%E4%B8%87%E8%AF%B71400%E4%B8%87%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A7%E4%BB%85%E6%88%90%E4%BA%A44%E5%8D%95%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
         }
       ]
     }
