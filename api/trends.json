@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T21:58:11.752269+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-01-09T22:59:18.943325+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "Nature 发布全球博士幸福指数调查，中国最低巴西最高，如何理解这一调查结果？",
@@ -28,8 +28,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时59分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时55分 ~ 22时59分]"
+        },
+        {
+          "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
+          "url": "https://www.cls.cn/detail/2253250",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时59分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -47,19 +73,6 @@
           "time_info": "[13时04分 ~ 19时36分]"
         },
         {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时55分 ~ 21时58分]"
-        },
-        {
           "title": "TT发布处罚Feather公告",
           "url": "https://search.bilibili.com/all?keyword=TT%E5%8F%91%E5%B8%83%E5%A4%84%E7%BD%9AFeather%E5%85%AC%E5%91%8A",
           "source": "bilibili 热搜",
@@ -73,17 +86,29 @@
           "time_info": "[01时03分 ~ 07时33分]"
         },
         {
-          "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
-          "url": "https://www.cls.cn/detail/2253250",
-          "source": "财联社热门",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            3,
-            1
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 21时58分]"
+          "appearance_count": 6,
+          "time_info": "[18时53分 ~ 22时59分]"
+        },
+        {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时55分 ~ 22时59分]"
         },
         {
           "title": "2025年12月辟谣榜发布",
@@ -110,18 +135,6 @@
           "time_info": "[17时01分 ~ 19时36分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时53分 ~ 21时58分]"
-        },
-        {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
           "source": "财联社热门",
@@ -133,29 +146,17 @@
           "time_info": "[01时03分 ~ 03时36分]"
         },
         {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时55分 ~ 21时58分]"
-        },
-        {
           "title": "淘宝闪购、美团发布声明",
           "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
           "source": "百度热搜",
           "ranks": [
             10,
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 21时58分]"
+          "appearance_count": 5,
+          "time_info": "[19时35分 ~ 22时59分]"
         },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
@@ -232,7 +233,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -299,6 +300,18 @@
           "time_info": "[11时59分 ~ 13时04分]"
         },
         {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时59分]"
+        },
+        {
           "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
           "url": "https://www.cls.cn/detail/2252286",
           "source": "财联社热门",
@@ -308,6 +321,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时48分]"
+        },
+        {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时59分]"
+        },
+        {
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时59分]"
         },
         {
           "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
@@ -344,39 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时04分 ~ 15时04分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
@@ -588,6 +592,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "NAMI INSIGHT One亮相2026 CES：纳米盒（Namibox）领跑AI学习穿戴设备市场",
+          "url": "https://wallstreetcn.com/livenews/3034220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "OpenAI将收购执Convogo背后的团队，后者是一款帮助执行教练、顾问、人才领导和人力资源团队实现领导力评估与反馈报告自动化和优化的商业软件平台。",
           "url": "https://flash.jin10.com/detail/20260109021642687800",
           "source": "金十数据",
@@ -619,12 +634,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        },
+        {
+          "title": "美国9日发布消息说，“扣押”一艘名为“奥利娜”的油轮。 （新华社）",
+          "url": "https://wallstreetcn.com/livenews/3034218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -634,8 +660,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时59分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[11时59分 ~ 22时59分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
@@ -643,11 +669,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时59分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[11时59分 ~ 22时59分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -750,6 +777,18 @@
           "time_info": "[05时41分 ~ 06时48分]"
         },
         {
+          "title": "商业航天暴涨的核心逻辑是什么",
+          "url": "https://www.toutiao.com/trending/7593237336901553710/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时59分]"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260109050534682800",
           "source": "金十数据",
@@ -772,17 +811,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时41分]"
-        },
-        {
-          "title": "商业航天暴涨的核心逻辑是什么",
-          "url": "https://www.toutiao.com/trending/7593237336901553710/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "委内瑞拉股指近期暴涨124% 外国投资者寻求入场机会",
@@ -833,15 +861,37 @@
           "time_info": "[06时48分 ~ 07时33分]"
         },
         {
+          "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260109223644840800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "美国非农等数据公布后，美股期货短线拉升，纳指期货日内涨0.43%，标普500指数期货涨0.33%，道指期货涨0.28%；美国国债下跌，美元指数短线下挫。现货黄金短线拉升，向上触及4490美元/盎司，日内涨0.30%。",
           "url": "https://wallstreetcn.com/livenews/3034194",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "房利美股价开盘上涨2.3%，房地美上涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260109223241174800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "Oklo美股盘前涨超20%，此前Oklo、Meta宣布达成协议，支持在俄亥俄州南部开发1.2吉瓦的核能项目。",
@@ -853,6 +903,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
+        },
+        {
+          "title": "美股开盘，道指涨0.18%，标普500指数涨0.18%，纳指涨0.07%。Oklo(OKLO.N)涨16%，Vistra Energy(VST.N)涨15%，Meta Platforms(META.O)宣布与Vistra、Oklo及TerraPower签署核能供电协议。部分抵押贷款机构股票走强，此前特朗普命令其代表购买2000亿美元抵押债券。",
+          "url": "https://flash.jin10.com/detail/20260109223033413800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.88%，公用事业ETF涨1.67%，生物科技指数ETF涨0.92%，银行业ETF涨0.72%，半导体ETF、全球科技股指数ETF至多涨0.62%，网络股指数ETF则跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3034235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "癌症药品生产商Revolution Medicines（RVMD）美股尾盘暂停交易，临时停牌前涨幅5.2%。 Erasca Inc.（ERAS）临时停牌，暂停交易前涨幅扩大至22%。 据英国金融时报，Merck洽谈收购该公司，但双方还没有敲定最终协议。",
@@ -877,6 +949,17 @@
           "time_info": "12时00分"
         },
         {
+          "title": "非农数据“坏中见好” 美股期货走高",
+          "url": "https://flash.jin10.com/detail/20260109221910186800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "生科ETF收跌超2.5%，半导体ETF跌约1.6%，领跌美股行业ETF，标普能源板块创4月以来最大单日涨幅",
           "url": "https://wallstreetcn.com/livenews/3033556",
           "source": "华尔街见闻-快讯",
@@ -891,7 +974,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "公安部：重大跨境赌诈犯罪集团头目陈志被从柬埔寨押解回国",
@@ -920,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时49分]"
+        },
+        {
+          "title": "为什么刘德华成龙为代表的老牌港星这么老了还在拼了老命赚钱？",
+          "url": "https://www.zhihu.com/question/646410028",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "菜鸟开通美国至墨西哥跨境物流服务",
