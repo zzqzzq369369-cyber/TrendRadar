@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T01:05:47.358243+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-10T01:55:40.939838+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
         },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -37,19 +37,42 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
+        },
+        {
+          "title": "人工智能云初创公司Lambda在上市前计划进行3.5亿美元的融资。",
+          "url": "https://flash.jin10.com/detail/20260110014650010800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "01时55分"
+        },
+        {
+          "title": "周五（1月9日），韩元兑美元最终跌0.47%，报1459.11韩元，美国非农就业报告发布后一度小幅回升，本周累计下跌1.01%，整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3034333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         },
         {
           "title": "淘宝闪购、美团发布声明",
           "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -59,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -70,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -81,8 +104,53 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
+        },
+        {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
+        },
+        {
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
+        },
+        {
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
+        },
+        {
+          "title": "【委内瑞拉：与美国启动“探索性外交”进程】委内瑞拉外交部长希尔9日通过社交媒体发布政府公报说，委内瑞拉政府决定与美国政府启动“探索性外交”进程，推动恢复各自外交使团工作，制定共同关心的工作议程。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3034328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "01时55分"
         },
         {
           "title": "最高法院定于下周三发布新一批裁决，关税案备受瞩目",
@@ -94,56 +162,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -153,8 +189,41 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260110013122783800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "01时55分"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260110013019599800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     },
@@ -167,11 +236,12 @@
           "url": "https://www.zhihu.com/question/646410028",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 01时55分]"
         }
       ]
     }
