@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T13:01:54.968468+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-01-10T13:44:47.886638+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时05分 ~ 13时01分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 13时44分]"
         },
         {
           "title": "淘宝闪购、美团发布声明",
@@ -122,6 +122,29 @@
           "time_info": "[01时05分 ~ 06时45分]"
         },
         {
+          "title": "2026人工智能十大趋势",
+          "url": "https://www.douyin.com/hot/2362706",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时44分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时44分]"
+        },
+        {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
           "source": "澎湃新闻",
@@ -135,27 +158,16 @@
           "time_info": "[01时05分 ~ 05时40分]"
         },
         {
-          "title": "2026人工智能十大趋势",
-          "url": "https://www.douyin.com/hot/2362706",
-          "source": "抖音",
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时01分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时01分]"
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 13时44分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -191,18 +203,6 @@
           "time_info": "01时55分"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 13时01分]"
-        },
-        {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
           "url": "https://flash.jin10.com/detail/20260110030422872800",
           "source": "金十数据",
@@ -218,11 +218,12 @@
           "url": "https://wallstreetcn.com/livenews/3034494",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时44分]"
         },
         {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
@@ -249,6 +250,19 @@
           "time_info": "[01时55分 ~ 03时05分]"
         },
         {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 13时44分]"
+        },
+        {
           "title": "【委内瑞拉：与美国启动“探索性外交”进程】委内瑞拉外交部长希尔9日通过社交媒体发布政府公报说，委内瑞拉政府决定与美国政府启动“探索性外交”进程，推动恢复各自外交使团工作，制定共同关心的工作议程。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3034328",
           "source": "华尔街见闻-快讯",
@@ -259,18 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时05分]"
-        },
-        {
-          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
-          "url": "https://flash.jin10.com/detail/20260110094533475800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 13时01分]"
         },
         {
           "title": "我使馆发布关于中国公民免签入境土耳其的提示",
@@ -412,11 +414,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时44分]"
         },
         {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
@@ -502,11 +505,12 @@
           "url": "https://wallstreetcn.com/livenews/3034497",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时44分]"
         }
       ]
     }
