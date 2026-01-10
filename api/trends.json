@@ -1,767 +1,116 @@
 {
-  "generated_at": "2026-01-10T23:42:58.033766+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-01-11T00:50:51.348286+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 49,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
-          "url": "https://www.cls.cn/detail/2253250",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时05分 ~ 13时01分]"
-        },
-        {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 07时39分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 11时53分]"
-        },
-        {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时52分 ~ 23时42分]"
-        },
-        {
-          "title": "2026人工智能十大趋势",
-          "url": "https://www.douyin.com/hot/2362706",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 16时52分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时05分 ~ 16时52分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时38分 ~ 19时37分]"
-        },
-        {
-          "title": "淘宝闪购、美团发布声明",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD%E3%80%81%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 07时39分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 11时53分]"
-        },
-        {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            28,
-            18,
-            23,
-            9,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 06时45分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 06时45分]"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 06时45分]"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 05时40分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时44分 ~ 23时42分]"
-        },
-        {
-          "title": "重庆人工智能湾区建设启动",
-          "url": "https://wallstreetcn.com/livenews/3034535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时49分 ~ 22时47分]"
-        },
-        {
-          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://flash.jin10.com/detail/20260110030900508800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "北方多地发布大风预警信息，部分水域禁航",
-          "url": "https://wallstreetcn.com/livenews/3034494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            14,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 16时52分]"
-        },
-        {
-          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3034456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "人工智能云初创公司Lambda在上市前计划进行3.5亿美元的融资。",
-          "url": "https://flash.jin10.com/detail/20260110014650010800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "网信办发布征求意见 APP不得频繁索要客户个人信息并影响正常使用",
-          "url": "https://flash.jin10.com/detail/20260110164355891800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时37分]"
-        },
-        {
-          "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260110030422872800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "网信办发布征求意见 拟起草新规防APP偷听",
-          "url": "https://flash.jin10.com/detail/20260110164053548800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时37分]"
-        },
-        {
-          "title": "华为联合云南建投物流发布智慧物流样板点 并启动“云链物流大模型”研发",
-          "url": "https://wallstreetcn.com/livenews/3034536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 22时47分]"
-        },
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
           "url": "https://www.zhihu.com/question/1993329446883651767",
           "source": "知乎",
           "ranks": [
-            12,
-            7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时44分 ~ 23时42分]"
-        },
-        {
-          "title": "网信办发布征求意见 新规拟定APP应提供注销账号便捷功能",
-          "url": "https://flash.jin10.com/detail/20260110164751967800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 19时37分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
           "url": "https://flash.jin10.com/detail/20260110221457641800",
           "source": "金十数据",
           "ranks": [
-            3,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 23时42分]"
-        },
-        {
-          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3034365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时47分]"
-        },
-        {
-          "title": "周五（1月9日），韩元兑美元最终跌0.47%，报1459.11韩元，美国非农就业报告发布后一度小幅回升，本周累计下跌1.01%，整体持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3034333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时05分]"
-        },
-        {
-          "title": "重庆启动人工智能湾区建设",
-          "url": "https://flash.jin10.com/detail/20260110183401930800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 21时44分]"
-        },
-        {
-          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
-          "url": "https://www.cls.cn/detail/2253847",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时44分 ~ 23时42分]"
-        },
-        {
-          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
-          "url": "https://flash.jin10.com/detail/20260110094533475800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时44分]"
-        },
-        {
-          "title": "国家互联网信息办公室发布关于《互联网应用程序个人信息收集使用规定（征求意见稿）》公开征求意见的通知",
-          "url": "https://flash.jin10.com/detail/20260110160409726800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时49分]"
-        },
-        {
-          "title": "月之暗面创始人杨植麟：中国技术不仅要好用还要参与制定规则，未来大模型要推出到K100",
-          "url": "https://wallstreetcn.com/livenews/3034545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 23时42分]"
-        },
-        {
-          "title": "国家海洋预报台根据《海洋灾害应急预案》发布海浪蓝色警报",
-          "url": "https://flash.jin10.com/detail/20260110160006518800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时49分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
           "url": "https://wallstreetcn.com/livenews/3034560",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
-          "title": "【委内瑞拉：与美国启动“探索性外交”进程】委内瑞拉外交部长希尔9日通过社交媒体发布政府公报说，委内瑞拉政府决定与美国政府启动“探索性外交”进程，推动恢复各自外交使团工作，制定共同关心的工作议程。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3034328",
-          "source": "华尔街见闻-快讯",
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            27
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时05分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
-          "title": "我使馆发布关于中国公民免签入境土耳其的提示",
-          "url": "https://wallstreetcn.com/livenews/3034387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时40分]"
-        },
-        {
-          "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
-          "url": "https://wallstreetcn.com/livenews/3034341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时35分]"
-        },
-        {
-          "title": "美国总统特朗普：将继续举办石油会议，（但后续）就没有新闻发布会了。",
-          "url": "https://wallstreetcn.com/livenews/3034430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "AI怕你在婚礼上冷",
-          "url": "https://www.douyin.com/hot/2363223",
-          "source": "抖音",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时44分]"
-        },
-        {
-          "title": "中央气象台继续发布大风蓝色预警",
-          "url": "https://www.toutiao.com/trending/7593173442657943593/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 22时47分]"
-        },
-        {
-          "title": "算力如何影响大模型",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AE%97%E5%8A%9B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
-          "title": "最高法院定于下周三发布新一批裁决，关税案备受瞩目",
-          "url": "https://wallstreetcn.com/livenews/3034297",
+          "title": "月之暗面创始人杨植麟：中国技术不仅要好用还要参与制定规则，未来大模型要推出到K100",
+          "url": "https://wallstreetcn.com/livenews/3034545",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "美联储巴尔金：在医疗保健或人工智能领域之外，很难找到正在招聘的公司。",
-          "url": "https://flash.jin10.com/detail/20260110021600074800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
-          "url": "https://www.zhihu.com/question/571427849",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "“AI+制造”开辟产业空间",
-          "url": "https://www.toutiao.com/trending/7593166046082170931/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美国商务部将于2月20日发布12月个人收入报告。",
-          "url": "https://flash.jin10.com/detail/20260110021132889800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。 白宫正在据此审查有关经济数据发布的规程。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3034371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "长安二十四计发布律师声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1%E5%8F%91%E5%B8%83%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "00时50分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 06时45分]"
-        },
-        {
-          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 06时45分]"
-        },
         {
           "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时52分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         },
         {
           "title": "商业航天暴涨背后逻辑是什么",
           "url": "https://www.toutiao.com/trending/7593544223693999662/",
           "source": "今日头条",
           "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时44分 ~ 23时42分]"
-        },
-        {
-          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
-          "url": "https://wallstreetcn.com/livenews/3034339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时35分]"
-        },
-        {
-          "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
-          "url": "https://wallstreetcn.com/livenews/3034432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时39分]"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260110013122783800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "金十图示：2026年01月09日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260110013019599800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3034317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么刘德华成龙为代表的老牌港星这么老了还在拼了老命赚钱？",
-          "url": "https://www.zhihu.com/question/646410028",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            17,
-            14,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 07时39分]"
-        },
-        {
-          "title": "北汽新能源与小马智行开启战略合作2.0阶段，L4级Robotaxi将出海中东、欧洲",
-          "url": "https://wallstreetcn.com/livenews/3034497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            11,
-            12,
-            25,
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时44分]"
+          "appearance_count": 1,
+          "time_info": "00时50分"
         }
       ]
     }
