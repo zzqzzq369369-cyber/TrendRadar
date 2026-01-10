@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T11:53:17.793320+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-01-10T13:01:54.968468+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "两部门发布公告，4月起取消光伏等产品增值税出口退税",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 11时53分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 13时01分]"
         },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 11时53分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 13时01分]"
         },
         {
           "title": "淘宝闪购、美团发布声明",
@@ -142,19 +142,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -190,6 +191,18 @@
           "time_info": "01时55分"
         },
         {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时38分 ~ 13时01分]"
+        },
+        {
           "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
           "url": "https://flash.jin10.com/detail/20260110030422872800",
           "source": "金十数据",
@@ -201,16 +214,15 @@
           "time_info": "03时35分"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
+          "title": "北方多地发布大风预警信息，部分水域禁航",
+          "url": "https://wallstreetcn.com/livenews/3034494",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 11时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
@@ -247,6 +259,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时05分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 13时01分]"
         },
         {
           "title": "我使馆发布关于中国公民免签入境土耳其的提示",
@@ -294,17 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
-          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
-          "url": "https://flash.jin10.com/detail/20260110094533475800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
         },
         {
           "title": "最高法院定于下周三发布新一批裁决，关税案备受瞩目",
@@ -398,11 +411,12 @@
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时01分]"
         },
         {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
@@ -465,7 +479,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么刘德华成龙为代表的老牌港星这么老了还在拼了老命赚钱？",
@@ -482,6 +496,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时05分 ~ 07时39分]"
+        },
+        {
+          "title": "北汽新能源与小马智行开启战略合作2.0阶段，L4级Robotaxi将出海中东、欧洲",
+          "url": "https://wallstreetcn.com/livenews/3034497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     }
