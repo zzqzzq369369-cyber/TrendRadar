@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T23:00:51.259731+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-01-12T23:54:56.397067+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 58,
+      "match_count": 68,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 23时00分]"
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 23时54分]"
         },
         {
           "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
@@ -38,8 +38,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 23时00分]"
+          "appearance_count": 7,
+          "time_info": "[18时55分 ~ 23时54分]"
+        },
+        {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 23时54分]"
         },
         {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
@@ -69,8 +83,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 23时00分]"
+          "appearance_count": 22,
+          "time_info": "[00时51分 ~ 23时54分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -85,6 +99,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时51分 ~ 17时04分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时06分 ~ 23时54分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -108,6 +136,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 07时35分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时06分 ~ 23时54分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -145,46 +186,6 @@
           "time_info": "[00时51分 ~ 07时35分]"
         },
         {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 23时00分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时06分 ~ 23时00分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时06分 ~ 23时00分]"
-        },
-        {
           "title": "AI每回答一个问题要消耗多少水",
           "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
           "source": "百度热搜",
@@ -199,6 +200,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时39分 ~ 07时35分]"
+        },
+        {
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时55分 ~ 23时54分]"
         },
         {
           "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
@@ -240,6 +254,19 @@
           "time_info": "[00时51分 ~ 06时42分]"
         },
         {
+          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
+          "url": "https://www.cls.cn/detail/2255330",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时56分 ~ 23时54分]"
+        },
+        {
           "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
           "url": "https://www.cls.cn/detail/2254903",
           "source": "财联社热门",
@@ -265,30 +292,6 @@
           "time_info": "[12时20分 ~ 15时06分]"
         },
         {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 23时00分]"
-        },
-        {
-          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
-          "url": "https://www.cls.cn/detail/2255330",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时56分 ~ 23时00分]"
-        },
-        {
           "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
           "url": "https://www.cls.cn/detail/2254978",
           "source": "财联社热门",
@@ -296,11 +299,23 @@
             10,
             11,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 23时00分]"
+          "appearance_count": 7,
+          "time_info": "[18时55分 ~ 23时54分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司盘中市值首次突破4万亿美元，日内当前涨幅1.7%。 报道称，苹果选择谷歌的Gemini来驱动今年推出的人工智能Siri。",
+          "url": "https://wallstreetcn.com/livenews/3035442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -328,6 +343,17 @@
           "time_info": "18时55分"
         },
         {
+          "title": "【苹果选择谷歌Gemini驱动将于今年面世的AI版Siri】苹果公司正与谷歌联手，为其计划于今年晚些时候推出的Siri等产品提供人工智能功能支持。一份声明显示，这项为期数年的合作伙伴关系将依托谷歌的 Gemini 模型和云技术，来构建苹果未来的基础模型。苹果在声明中写道：“经过仔细评估，我们认定谷歌的技术为‘苹果基础模型（Apple Foundation Models）’提供了最强大的基础。我们非常期待这一合作为用户开启的创新体验。”（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3035441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "蓝色光标：现阶段公司AI驱动的相关收入占公司整体营业收入的比重较小",
           "url": "https://wallstreetcn.com/livenews/3035292",
           "source": "华尔街见闻-快讯",
@@ -337,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
+          "url": "https://wallstreetcn.com/livenews/3035440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "俄军发布重要战果：摧毁一架F-16",
@@ -361,15 +398,17 @@
           "time_info": "18时55分"
         },
         {
-          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
-          "url": "https://wallstreetcn.com/livenews/3035425",
-          "source": "华尔街见闻-快讯",
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12,
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时00分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时56分 ~ 23时54分]"
         },
         {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
@@ -397,16 +436,16 @@
           "time_info": "[04时43分 ~ 06时42分]"
         },
         {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
+          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
+          "url": "https://wallstreetcn.com/livenews/3035425",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            10
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时56分 ~ 23时00分]"
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时54分]"
         },
         {
           "title": "俄军发布重要战果：摧毁一架F-16",
@@ -458,6 +497,18 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
+          "title": "万字解析中国AI产业",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 23时54分]"
+        },
+        {
           "title": "疑似马斯克AI登顶LOL韩服",
           "url": "https://www.douyin.com/hot/2364470",
           "source": "抖音",
@@ -480,6 +531,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
+          "url": "https://flash.jin10.com/detail/20260112232350979800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "挪威能源部：政府将于2027年发布油气白皮书。",
           "url": "https://flash.jin10.com/detail/20260112192522239800",
           "source": "金十数据",
@@ -489,6 +551,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3035434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
+          "url": "https://flash.jin10.com/detail/20260112232041088800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "恒为科技：公司关注到近期AI应用概念市场热度较高，公司不涉及AI应用相关业务。",
@@ -579,6 +663,28 @@
           "time_info": "12时20分"
         },
         {
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "法国兴业银行逐步淘汰自有人工智能工具，转而使用微软的Copilot。",
+          "url": "https://flash.jin10.com/detail/20260112230611686800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
           "url": "https://wallstreetcn.com/livenews/3034941",
           "source": "华尔街见闻-快讯",
@@ -596,7 +702,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时00分"
         },
@@ -629,7 +735,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时00分"
         },
@@ -667,15 +773,26 @@
           "time_info": "13时56分"
         },
         {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "英伟达(NVDA.O)将在未来五年内与礼来(LLY.N)共同投资10亿美元建立人工智能药物实验室。",
+          "url": "https://flash.jin10.com/detail/20260112230042713800",
+          "source": "金十数据",
           "ranks": [
-            25
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "23时54分"
+        },
+        {
+          "title": "G7网络专家小组发布密码学路线图",
+          "url": "https://wallstreetcn.com/livenews/3035407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "AI会取代演员吗",
@@ -695,7 +812,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时00分"
         }
@@ -703,7 +820,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -727,8 +844,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 23时00分]"
+          "appearance_count": 12,
+          "time_info": "[12时20分 ~ 23时54分]"
         },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
@@ -768,6 +885,17 @@
           "time_info": "[12时20分 ~ 15时06分]"
         },
         {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "沪银主力合约日内暴涨14.00%，现报20873.00元/千克，续创历史新高。",
           "url": "https://flash.jin10.com/detail/20260112134539612800",
           "source": "金十数据",
@@ -790,17 +918,6 @@
           "time_info": "13时56分"
         },
         {
-          "title": "加密货币法案进入美国参议院审议阶段，Coinbase加大施压力度",
-          "url": "https://wallstreetcn.com/livenews/3035428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时00分"
-        },
-        {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260112070303731800",
           "source": "金十数据",
@@ -812,6 +929,18 @@
           "time_info": "07时35分"
         },
         {
+          "title": "加密货币法案进入美国参议院审议阶段，Coinbase加大施压力度",
+          "url": "https://wallstreetcn.com/livenews/3035428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时54分]"
+        },
+        {
           "title": "美股集体低开 中概股逆势走强",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
           "source": "百度热搜",
@@ -819,19 +948,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
+          "appearance_count": 3,
+          "time_info": "[22时59分 ~ 23时54分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2255324",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时59分 ~ 23时54分]"
+        },
+        {
+          "title": "行业ETF美股盘初普跌",
+          "url": "https://wallstreetcn.com/livenews/3035421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
+          "time_info": "[23时00分 ~ 23时54分]"
+        },
+        {
+          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3035416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时54分]"
         },
         {
           "title": "韩国媒体报道，韩国将允许企业投资加密货币。",
@@ -856,17 +1010,6 @@
           "time_info": "15时06分"
         },
         {
-          "title": "行业ETF美股盘初普跌",
-          "url": "https://wallstreetcn.com/livenews/3035421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时00分"
-        },
-        {
           "title": "美股三大指数期货小幅低开。纳斯达克100指数期货跌0.2%。",
           "url": "https://wallstreetcn.com/livenews/3034791",
           "source": "华尔街见闻-快讯",
@@ -889,17 +1032,6 @@
           "time_info": "21时57分"
         },
         {
-          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3035416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时00分"
-        },
-        {
           "title": "现货白银日内涨幅扩大至6%，现报84.73美元/盎司。 纽约期银日内暴涨7%，向上触及85美元/盎司。 沪银主力期货日内大涨7%，现报21237元/千克。",
           "url": "https://wallstreetcn.com/livenews/3035364",
           "source": "华尔街见闻-快讯",
@@ -917,7 +1049,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时00分"
         },
@@ -928,7 +1060,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时00分"
         },
@@ -953,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
+        },
+        {
+          "title": "美股跌幅收窄，纳指转涨。AMD(AMD.O)现涨1.8%、诺和诺德(NVO.N)涨1.81%。",
+          "url": "https://flash.jin10.com/detail/20260112225800934800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
@@ -979,8 +1122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 23时00分]"
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 23时54分]"
         },
         {
           "title": "人民币破7 跨境消费怎样花最省钱",
