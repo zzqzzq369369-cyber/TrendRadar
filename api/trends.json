@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T17:04:05.153726+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-01-12T18:55:31.452625+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 50,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -27,11 +27,12 @@
             10,
             11,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 17时04分]"
+          "appearance_count": 16,
+          "time_info": "[00时51分 ~ 18时55分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -106,6 +107,20 @@
           "time_info": "[00时51分 ~ 07时35分]"
         },
         {
+          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
+          "url": "https://www.cls.cn/detail/2254504",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 18时55分]"
+        },
+        {
           "title": "AI每回答一个问题要消耗多少水",
           "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
           "source": "百度热搜",
@@ -120,19 +135,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时39分 ~ 07时35分]"
-        },
-        {
-          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
-          "url": "https://www.cls.cn/detail/2254504",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 17时04分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -182,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 18时55分]"
         },
         {
           "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
@@ -193,8 +195,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 18时55分]"
+        },
+        {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "星环科技：截至本公告披露日，公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3035220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "俄军发布重要战果：摧毁一架F-16",
@@ -206,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "值得买：公司注意到近期市场对MiniMax相关概念关注度较高，部分平台将公司股票纳入MiniMax概念股。MiniMax旗下大模型产品海螺AI现已接入值得买“消费大模型增强工具集”，基于海螺AI比价策略，用户可通过海螺AI“悬浮球”功能实现快速比价及跳转购买。目前，该合作事项对公司当前主营业务未构成实质性影响。",
+          "url": "https://wallstreetcn.com/livenews/3035215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
@@ -233,6 +268,30 @@
           "time_info": "[04时43分 ~ 06时42分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时55分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 18时55分]"
+        },
+        {
           "title": "俄军发布重要战果：摧毁一架F-16",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%86%9B%E5%8F%91%E5%B8%83%E9%87%8D%E8%A6%81%E6%88%98%E6%9E%9C%EF%BC%9A%E6%91%A7%E6%AF%81%E4%B8%80%E6%9E%B6F-16",
           "source": "百度热搜",
@@ -246,16 +305,16 @@
           "time_info": "[13时56分 ~ 17时04分]"
         },
         {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时04分]"
+          "time_info": "[17时03分 ~ 18时55分]"
         },
         {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
@@ -271,17 +330,6 @@
           "time_info": "[04时43分 ~ 06时42分]"
         },
         {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时04分]"
-        },
-        {
           "title": "UP主复盘疑似马斯克AI操作",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
           "source": "bilibili 热搜",
@@ -292,17 +340,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时06分 ~ 17时04分]"
-        },
-        {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "用户与AI聊黄开发者获刑",
@@ -345,9 +382,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "恒为科技：公司关注到近期AI应用概念市场热度较高，公司不涉及AI应用相关业务。",
+          "url": "https://wallstreetcn.com/livenews/3035208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
@@ -378,7 +459,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -389,7 +470,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -458,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "汉得信息：公司AI产品与服务业务目前尚处起步阶段，仍不占整体营业收入的主体",
+          "url": "https://wallstreetcn.com/livenews/3035176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "英伟达CES2026发布会大揭秘",
@@ -530,8 +622,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 18时55分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 18时55分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -545,17 +649,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 15时06分]"
-        },
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "沪银主力合约日内暴涨14.00%，现报20873.00元/千克，续创历史新高。",
@@ -648,8 +741,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 18时55分]"
         },
         {
           "title": "人民币破7 跨境消费怎样花最省钱",
@@ -673,6 +766,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时03分 ~ 17时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我是程序员，白天写代码晚上脑子停不下来，像有个后台线程一直在跑，怎么办？",
+          "url": "https://www.zhihu.com/question/1991140034745763088",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         }
       ]
     }
