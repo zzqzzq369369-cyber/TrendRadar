@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T19:40:36.963744+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-01-12T21:57:15.574181+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -17,22 +17,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时51分 ~ 07时35分]"
-        },
-        {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            10,
-            11,
-            15,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 19时40分]"
         },
         {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
@@ -47,6 +31,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时56分 ~ 19时40分]"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            10,
+            11,
+            15,
+            16,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 21时57分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时03分 ~ 21时57分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -121,6 +133,18 @@
           "time_info": "[00时51分 ~ 07时35分]"
         },
         {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时57分]"
+        },
+        {
           "title": "AI每回答一个问题要消耗多少水",
           "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
           "source": "百度热搜",
@@ -135,17 +159,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时39分 ~ 07时35分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时40分]"
         },
         {
           "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
@@ -187,6 +200,19 @@
           "time_info": "[00时51分 ~ 06时42分]"
         },
         {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时03分 ~ 21时57分]"
+        },
+        {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
           "url": "https://www.cls.cn/detail/2254168",
           "source": "财联社热门",
@@ -199,16 +225,56 @@
           "time_info": "[12时20分 ~ 15时06分]"
         },
         {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            10,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时06分 ~ 21时57分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时06分 ~ 21时57分]"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时57分]"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时06分 ~ 21时57分]"
         },
         {
           "title": "星环科技：截至本公告披露日，公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
@@ -228,7 +294,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -253,43 +319,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 19时40分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时06分 ~ 19时40分]"
-        },
-        {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时40分]"
         },
         {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
@@ -317,17 +346,29 @@
           "time_info": "[04时43分 ~ 06时42分]"
         },
         {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            28,
-            24
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时06分 ~ 19时40分]"
+          "time_info": "[18时55分 ~ 21时57分]"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 21时57分]"
         },
         {
           "title": "俄军发布重要战果：摧毁一架F-16",
@@ -356,15 +397,15 @@
           "time_info": "[04时43分 ~ 06时42分]"
         },
         {
-          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
-          "url": "https://www.cls.cn/detail/2254903",
+          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
+          "url": "https://www.cls.cn/detail/2255330",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "用户与AI聊黄开发者获刑",
@@ -379,27 +420,15 @@
           "time_info": "[12时20分 ~ 13时56分]"
         },
         {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
           "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
-        },
-        {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 19时40分]"
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "超7成三甲医生推荐AI医生",
@@ -441,7 +470,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -625,7 +654,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -645,11 +674,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时20分 ~ 19时40分]"
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 21时57分]"
         },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
@@ -676,6 +706,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时20分 ~ 15时06分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "沪银主力合约日内暴涨14.00%，现报20873.00元/千克，续创历史新高。",
@@ -742,6 +783,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货白银日内暴涨7.00%，现报85.53美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260112211951867800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至6%，现报84.73美元/盎司。 纽约期银日内暴涨7%，向上触及85美元/盎司。 沪银主力期货日内大涨7%，现报21237元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3035364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "纽约期银日内暴涨7.00%，现报84.90美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260112210506203800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "现货白银日内暴涨6.00%，现报84.73美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260112210412290800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
@@ -768,8 +853,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[17时03分 ~ 21时57分]"
         },
         {
           "title": "人民币破7 跨境消费怎样花最省钱",
@@ -801,7 +886,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
