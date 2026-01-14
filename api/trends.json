@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:55:54.819394+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-01-14T19:41:28.025402+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -95,8 +95,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 19时41分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 19时41分]"
+        },
+        {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            8,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 19时41分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -146,33 +174,6 @@
           "time_info": "[01时03分 ~ 03时34分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时55分]"
-        },
-        {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            8,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 18时55分]"
-        },
-        {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
           "url": "https://www.zhihu.com/question/1994009798958657948",
           "source": "知乎",
@@ -184,6 +185,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时15分 ~ 17时01分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 19时41分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -212,16 +225,15 @@
           "time_info": "01时03分"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
+          "title": "广期所发布关于多晶硅期货PS2701、碳酸锂期货LC2701合约有关事项的公告",
+          "url": "https://wallstreetcn.com/livenews/3036996",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
@@ -274,6 +286,20 @@
           "time_info": "[13时52分 ~ 18时55分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 19时41分]"
+        },
+        {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
           "url": "https://www.cls.cn/detail/2256809",
           "source": "财联社热门",
@@ -284,19 +310,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 13时52分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时55分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -320,6 +333,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时41分]"
+        },
+        {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时41分]"
         },
         {
           "title": "长端英债收益率涨超3个基点，美国CPI数据发布后一度回吐涨幅",
@@ -406,7 +431,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -442,17 +467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
-        },
-        {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "AI与制造业融合的重要载体 工业互联网产业规模有望爆发式增长",
@@ -516,7 +530,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -543,6 +557,17 @@
           "time_info": "15时02分"
         },
         {
+          "title": "三部门发布河套深港科技创新合作区深圳园区货物进出口有关税收政策",
+          "url": "https://wallstreetcn.com/livenews/3036978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "特朗普政府连续两天发布安全警告，敦促美国公民立即离",
           "url": "https://wallstreetcn.com/livenews/3036441",
           "source": "华尔街见闻-快讯",
@@ -560,9 +585,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "彩讯股份：拟发行可转债募资不超过14.6亿元，用于智算中心建设项目、Rich AIBox平台研发升级项目、企业级AI智能体应用开发项目。",
+          "url": "https://wallstreetcn.com/livenews/3036972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -609,6 +645,17 @@
           "time_info": "15时02分"
         },
         {
+          "title": "【上交所发布关于国晟科技相关情况的通报：对相关投资者采取了暂停账户交易等自律监管措施】国晟科技近期多次出现异常波动情形，公司已多次发布风险提示公告，提请广大投资者审慎投资，注意投资风险。近日，该股股价继续大幅波动，部分投资者在交易该股过程中存在影响股票交易正常秩序的异常交易行为，上交所依规对相关投资者采取了暂停账户交易等自律监管措施。上交所再次提醒投资者关注风险，审慎参与，合规交易。",
+          "url": "https://wallstreetcn.com/livenews/3036961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "报道：SK海力士停产消费级存储器 资源转向B2B与AI服务器市场",
           "url": "https://wallstreetcn.com/livenews/3036802",
           "source": "华尔街见闻-快讯",
@@ -633,8 +680,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 19时41分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
