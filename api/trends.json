@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T03:01:34.991854+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-01-15T03:36:48.655057+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -59,11 +59,12 @@
           "source": "微博",
           "ranks": [
             23,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -73,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -85,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -94,33 +95,48 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            27
+            27,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
           "url": "https://flash.jin10.com/detail/20260115021524216800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时36分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -129,53 +145,56 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时36分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3037234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时36分]"
         },
         {
           "title": "加州总检察长对xAI和Grok展开调查",
           "url": "https://wallstreetcn.com/livenews/3037233",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时36分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
           "url": "https://wallstreetcn.com/livenews/3037229",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时36分]"
+        },
+        {
+          "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3037259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "03时36分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -184,7 +203,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -206,7 +225,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -217,7 +236,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -228,7 +247,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
@@ -246,8 +265,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -256,9 +275,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时36分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -288,11 +307,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         },
         {
           "title": "美国天然气期货日内暴跌9.00%，现报3.111美元/百万英热。",
@@ -312,7 +332,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -323,7 +343,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
@@ -339,11 +359,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 03时36分]"
         }
       ]
     },
