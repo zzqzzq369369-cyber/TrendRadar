@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:01:29.011495+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-01-15T17:53:28.041850+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 56,
+      "match_count": 65,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -99,6 +99,19 @@
           "time_info": "[11时59分 ~ 17时01分]"
         },
         {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 17时53分]"
+        },
+        {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
@@ -107,11 +120,12 @@
             17,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 17时01分]"
+          "appearance_count": 17,
+          "time_info": "[01时03分 ~ 17时53分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -158,17 +172,16 @@
           "time_info": "[01时03分 ~ 07时32分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
+          "title": "聂卫平女儿发布讣告",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%A5%B3%E5%84%BF%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            3,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 17时01分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 17时53分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -184,16 +197,18 @@
           "time_info": "[01时03分 ~ 07时32分]"
         },
         {
-          "title": "聂卫平女儿发布讣告",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%A5%B3%E5%84%BF%E5%8F%91%E5%B8%83%E8%AE%A3%E5%91%8A",
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            6
+            9,
+            12,
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 17时01分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 17时53分]"
         },
         {
           "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
@@ -201,24 +216,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时01分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 17时53分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -229,8 +232,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 17时01分]"
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 17时53分]"
         },
         {
           "title": "直击阿里千问APP发布会：全面接入淘宝、支付宝、淘宝闪购等阿里生态业务",
@@ -241,8 +244,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 17时01分]"
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 17时53分]"
+        },
+        {
+          "title": "深圳：到2027年底 培育超千家高成长性人工智能创业企业",
+          "url": "https://wallstreetcn.com/livenews/3037862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
+          "url": "https://www.cls.cn/detail/2258750",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时00分 ~ 17时53分]"
         },
         {
           "title": "美联储发布经济状况褐皮书",
@@ -377,17 +403,6 @@
           "time_info": "[04时44分 ~ 05时43分]"
         },
         {
-          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
-          "url": "https://www.cls.cn/detail/2258750",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
-        },
-        {
           "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
           "url": "https://wallstreetcn.com/livenews/3037508",
           "source": "华尔街见闻-快讯",
@@ -504,6 +519,17 @@
           "time_info": "15时02分"
         },
         {
+          "title": "美驻以使馆发布安全警报 呼吁在以美国公民加强安全防范",
+          "url": "https://wallstreetcn.com/livenews/3037849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "突发！19天14板包装印刷大牛股发布业绩预告|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2257950",
           "source": "财联社热门",
@@ -559,6 +585,17 @@
           "time_info": "15时02分"
         },
         {
+          "title": "两市量能逼近4万亿，短线波动加剧，静待商业航天、AI 应用筹码沉淀",
+          "url": "https://www.cls.cn/detail/2258295",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
           "url": "https://flash.jin10.com/detail/20260115045202393800",
           "source": "金十数据",
@@ -576,9 +613,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "【午报】三大指数全线调整，商业航天、AI应用双双熄火，高位人气股集体退潮",
+          "url": "https://www.cls.cn/detail/2258510",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "韩国主权AI竞争阵容缩减 Naver及NCSoft旗下团队出局",
@@ -592,6 +640,17 @@
           "time_info": "15时02分"
         },
         {
+          "title": "印度航空：AI101航班在浓雾中滑行时遭遇异物，导致右侧发动机受损。",
+          "url": "https://flash.jin10.com/detail/20260115172343912800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
           "url": "https://flash.jin10.com/detail/20260115041052630800",
           "source": "金十数据",
@@ -601,6 +660,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "印度航空证实，从德里飞往纽约的AI101航班起飞后，因伊朗领空意外关闭，被迫返回德里。",
+          "url": "https://flash.jin10.com/detail/20260115172210698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
+          "title": "联发科发布天玑9500s、天玑8500两款移动芯片",
+          "url": "https://wallstreetcn.com/livenews/3037829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -614,6 +695,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "美驻以使馆发布安全警报 呼吁在以美国公民加强安全防范",
+          "url": "https://flash.jin10.com/detail/20260115171925723800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美国佛州州长加大对AI与数据中心“现实风险”的警告力度",
           "url": "https://wallstreetcn.com/livenews/3037201",
           "source": "华尔街见闻-快讯",
@@ -623,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "律师向法官提供AI编造的案例",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%90%91%E6%B3%95%E5%AE%98%E6%8F%90%E4%BE%9BAI%E7%BC%96%E9%80%A0%E7%9A%84%E6%A1%88%E4%BE%8B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "加州总检察长：我们要求xAI就其阻止深度伪造内容生成与传播的计划立即作出回应。",
@@ -683,7 +786,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -697,6 +800,17 @@
           "time_info": "[01时03分 ~ 07时32分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 17时53分]"
+        },
+        {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -707,17 +821,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时01分 ~ 06时50分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 17时01分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -755,6 +858,19 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "股价暴涨超500%！上交所出手，暂停光伏“妖股”相关投资者账户交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32384370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 17时53分]"
+        },
+        {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
@@ -786,19 +902,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
-        },
-        {
-          "title": "股价暴涨超500%！上交所出手，暂停光伏“妖股”相关投资者账户交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32384370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 17时01分]"
         },
         {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
@@ -857,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
+          "url": "https://wallstreetcn.com/livenews/3037834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "美股半导体设备股夜盘拉升，阿斯麦(ASML.O)涨超5%，台积电(TSM.N)涨超4%。此前台积电表示未来三年资本支出将更高。",
@@ -928,7 +1042,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "TikTok上掀起“当中国人很酷”的潮流",
@@ -968,6 +1082,17 @@
           "time_info": "[06时50分 ~ 07时32分]"
         },
         {
+          "title": "欧洲央行副行长金多斯：我们支持银行业跨境整合。",
+          "url": "https://flash.jin10.com/detail/20260115172855922800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "标普500指数初步收跌0.6%，可选消费板块跌1.8%，科技板块跌1.5%，电信板块跌0.6%，必需品板块涨1.1%，能源板块涨2.2%。 纳斯达克100指数初步收跌1.1%，成分股中，Applovin跌7.8%，Intuit跌6.4%，Shopify跌5.9%，博通跌4.1%，拼多多跌3.8%，德州仪器涨2.5%，英特尔涨3%，卡夫亨氏涨3.4%，Strategy涨3.8%。 亚马逊初步收跌2.4%，微软跌2.4%，英伟达跌1.5%，思科跌1.4%，领跌道指成分股，雪佛龙、强生、Merck则涨超2%。 半导体指数跌0.6%，银行指数跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/3037293",
           "source": "华尔街见闻-快讯",
@@ -988,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "25项跨境贸易便利化措施今起推广全国",
+          "url": "https://wallstreetcn.com/livenews/3037837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "市场消息：七家主要央行、国际清算银行以及40多家金融机构将启动Agora数字跨境支付项目的用户测试。",
