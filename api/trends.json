@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T07:39:22.374078+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-01-17T11:48:05.757276+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 11时48分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -93,17 +94,6 @@
           "time_info": "[00时59分 ~ 05时40分]"
         },
         {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
           "url": "https://flash.jin10.com/detail/20260117034809871800",
           "source": "金十数据",
@@ -115,15 +105,28 @@
           "time_info": "04时40分"
         },
         {
+          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
+          "url": "https://wallstreetcn.com/livenews/3039057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 11时48分]"
+        },
+        {
           "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
           "url": "https://wallstreetcn.com/livenews/3039053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 11时48分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -214,15 +217,60 @@
           "time_info": "[01时50分 ~ 03时01分]"
         },
         {
+          "title": "网警发布领取育儿补贴硬核攻略",
+          "url": "https://www.toutiao.com/trending/7596136547364310555/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "网警发布领取育儿补贴硬核攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%A2%86%E5%8F%96%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%A1%AC%E6%A0%B8%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
           "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
           "url": "https://wallstreetcn.com/livenews/3039052",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 11时48分]"
+        },
+        {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "马斯克称AI或能几分钟生成GTA6",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0AI%E6%88%96%E8%83%BD%E5%87%A0%E5%88%86%E9%92%9F%E7%94%9F%E6%88%90GTA6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "美国最高法院：可能会在下周二（1月20日）发布更多裁决。",
@@ -234,6 +282,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "酒价内参1月17日价格发布 核心产品显著下跌均价再创两月新低",
+          "url": "https://wallstreetcn.com/livenews/3039070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "美政府推动科技巨头为AI用电买单",
+          "url": "https://flash.jin10.com/detail/20260117082311101800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "美国最高法院将下周二定为下一个关税意见日，如不发布将至少再等一个月",
@@ -272,7 +353,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -292,11 +373,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 11时48分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -321,6 +403,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时50分 ~ 06时46分]"
+        },
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 11时48分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股盘中）",
@@ -357,6 +451,18 @@
           "time_info": "[05时40分 ~ 07时39分]"
         },
         {
+          "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
+          "url": "https://wallstreetcn.com/articles/3763441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 11时48分]"
+        },
+        {
           "title": "美股三大指数小幅收跌 美光收涨近8%",
           "url": "https://flash.jin10.com/detail/20260117050027802800",
           "source": "金十数据",
@@ -366,6 +472,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 07时39分]"
+        },
+        {
+          "title": "白银暴涨，光伏流泪",
+          "url": "https://wallstreetcn.com/articles/3763442",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
@@ -414,28 +531,6 @@
           "time_info": "03时32分"
         },
         {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
-          "url": "https://wallstreetcn.com/articles/3763441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
           "url": "https://wallstreetcn.com/livenews/3039017",
           "source": "华尔街见闻-快讯",
@@ -450,8 +545,19 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "鹿哈曾自曝带货7个月赚3500万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%9B%BE%E8%87%AA%E6%9B%9D%E5%B8%A6%E8%B4%A77%E4%B8%AA%E6%9C%88%E8%B5%9A3500%E4%B8%87%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
         {
           "title": "向出轨丈夫道歉女子带货销售额过万",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E9%81%93%E6%AD%89%E5%A5%B3%E5%AD%90%E5%B8%A6%E8%B4%A7%E9%94%80%E5%94%AE%E9%A2%9D%E8%BF%87%E4%B8%87%23&t=31&band_rank=23&Refer=top",
@@ -459,9 +565,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/1995580476212082609",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         }
       ]
     }
