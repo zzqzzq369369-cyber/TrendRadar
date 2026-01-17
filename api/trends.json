@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T22:41:08.421375+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-01-17T23:37:38.312101+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时33分 ~ 22时41分]"
+          "appearance_count": 10,
+          "time_info": "[15时33分 ~ 23时37分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -289,6 +290,19 @@
           "time_info": "[14时56分 ~ 17时39分]"
         },
         {
+          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://flash.jin10.com/detail/20260117195257548800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时37分]"
+        },
+        {
           "title": "首次将科技型中小企业纳入梯度培育范围 工信部发布管理办法",
           "url": "https://flash.jin10.com/detail/20260117153721802800",
           "source": "金十数据",
@@ -302,6 +316,19 @@
           "time_info": "[16时52分 ~ 18时42分]"
         },
         {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260117195232354800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时37分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
           "url": "https://wallstreetcn.com/livenews/3038964",
           "source": "华尔街见闻-快讯",
@@ -313,6 +340,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时40分]"
+        },
+        {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://wallstreetcn.com/livenews/3039127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时37分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
@@ -415,30 +455,6 @@
           "time_info": "[07时39分 ~ 11时48分]"
         },
         {
-          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://flash.jin10.com/detail/20260117195257548800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时41分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
-          "url": "https://flash.jin10.com/detail/20260117195232354800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时41分]"
-        },
-        {
           "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
           "url": "https://wallstreetcn.com/livenews/3039109",
           "source": "华尔街见闻-快讯",
@@ -449,18 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时42分 ~ 19时31分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://wallstreetcn.com/livenews/3039127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时41分]"
         },
         {
           "title": "马斯克称AI或能几分钟生成GTA6",
@@ -579,8 +583,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时39分 ~ 22时41分]"
+          "appearance_count": 17,
+          "time_info": "[07时39分 ~ 23时37分]"
         },
         {
           "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
@@ -807,8 +811,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时41分]"
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时37分]"
         },
         {
           "title": "告别单打独斗！国家医保局下场铺路构建出海平台，药械企业如何接住这波红利？",
@@ -818,8 +822,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时40分 ~ 22时41分]"
+          "appearance_count": 3,
+          "time_info": "[22时40分 ~ 23时37分]"
         },
         {
           "title": "鹿哈曾自曝带货7个月赚3500万",
@@ -875,8 +879,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时43分 ~ 22时41分]"
+          "appearance_count": 12,
+          "time_info": "[13时43分 ~ 23时37分]"
         }
       ]
     }
