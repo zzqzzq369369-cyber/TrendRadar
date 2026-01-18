@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:40:14.513032+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2026-01-18T18:44:27.531583+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时57分 ~ 17时40分]"
+          "appearance_count": 7,
+          "time_info": "[14时57分 ~ 18时44分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -47,6 +48,19 @@
           "time_info": "[02时53分 ~ 15时36分]"
         },
         {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 18时44分]"
+        },
+        {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
           "url": "https://www.zhihu.com/question/1994072855072235778",
           "source": "知乎",
@@ -58,6 +72,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时03分 ~ 17时40分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 18时44分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -80,30 +106,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 07时34分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 17时40分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 17时40分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -138,11 +140,12 @@
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 18时44分]"
         },
         {
           "title": "特朗普发布个人黑白照：我是关税王",
@@ -224,8 +227,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时46分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 18时44分]"
         },
         {
           "title": "为什么免签后越来越多的外国人来中国看病？带老外来中国看病会成为新的「搞钱赛道」吗？",
