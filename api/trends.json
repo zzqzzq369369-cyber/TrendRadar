@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T18:44:27.531583+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-01-18T19:31:37.639358+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -29,8 +29,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时57分 ~ 18时44分]"
+          "appearance_count": 9,
+          "time_info": "[14时57分 ~ 19时31分]"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时48分 ~ 19时31分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -48,17 +61,16 @@
           "time_info": "[02时53分 ~ 15时36分]"
         },
         {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
           "ranks": [
-            9,
-            10,
-            8
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时48分 ~ 18时44分]"
+          "appearance_count": 10,
+          "time_info": "[13时48分 ~ 19时31分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -72,18 +84,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时03分 ~ 17时40分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时48分 ~ 18时44分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -144,8 +144,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 19时31分]"
+        },
+        {
+          "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
+          "url": "https://wallstreetcn.com/livenews/3039234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "特朗普发布个人黑白照：我是关税王",
@@ -157,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "全国多地发布紧急停课通知",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE%E9%80%9A%E7%9F%A5%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时30分 ~ 19时31分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -224,11 +246,12 @@
           "url": "https://www.cls.cn/detail/2261187",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 18时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 19时31分]"
         },
         {
           "title": "为什么免签后越来越多的外国人来中国看病？带老外来中国看病会成为新的「搞钱赛道」吗？",
