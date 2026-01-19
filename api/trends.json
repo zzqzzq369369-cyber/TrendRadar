@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T07:35:38.850810+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-01-19T12:19:55.258317+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 12时19分]"
         },
         {
           "title": "大范围雨雪将至 多地发布停课通知",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 07时35分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-19）",
+          "url": "https://flash.jin10.com/detail/20260119115731413800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -126,15 +138,92 @@
           "time_info": "[02时52分 ~ 02时53分]"
         },
         {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "韩国青瓦台：韩国与意大利签署芯片产业合作谅解备忘录，涵盖人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20260119114123064800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "国新办发布会丨介绍2025年国民经济运行情况",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32400016",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
+          "url": "https://wallstreetcn.com/livenews/3039492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "三预警同时发布！重大气象灾害应急响应升级调整",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32412028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "市场监管总局最新统计数据显示，2025年发布国家计量技术规范213项，较2024年增长63.8%，总量达2273项。",
+          "url": "https://wallstreetcn.com/livenews/3039486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "国家统计局局长康义在国新办新闻发布会上介绍，2025年最终消费支出对经济增长贡献率超过五成。",
+          "url": "https://wallstreetcn.com/livenews/3039473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -173,7 +262,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -184,7 +273,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -192,7 +281,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "告别单打独斗！国家医保局下场铺路构建出海平台，药械企业如何接住这波红利？",
@@ -205,6 +294,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时49分 ~ 06时42分]"
+        },
+        {
+          "title": "游客出海意外拍到鲸鱼“干饭”",
+          "url": "https://www.toutiao.com/trending/7596287303790886931/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
