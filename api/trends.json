@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T12:09:02.448099+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-01-20T13:56:25.603185+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "人均95后的大模型公司上了新闻联播",
@@ -32,6 +32,18 @@
           "time_info": "[01时01分 ~ 07时39分]"
         },
         {
+          "title": "【早报】事关经济！两场重要发布会今日举行；最高检：从严惩治财务造假、操纵市场等证券犯罪",
+          "url": "https://www.cls.cn/detail/2262889",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 13时56分]"
+        },
+        {
           "title": "日本新政党“中道改革联合”发布政纲，坚持“无核三原则”",
           "url": "https://news.ifeng.com/c/8q3GTsfHQAP",
           "source": "凤凰网",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时50分 ~ 06时47分]"
-        },
-        {
-          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
-          "url": "https://www.cls.cn/detail/2262848",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "苹果将改为一年两次发布新品",
@@ -68,27 +69,50 @@
           "time_info": "[02时59分 ~ 07时39分]"
         },
         {
+          "title": "医生给1岁娃开小众药被AI提醒慎用",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "财政部发布关于优化实施设备更新贷款财政贴息政策的通知",
           "url": "https://wallstreetcn.com/livenews/3040121",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
         {
-          "title": "【早报】事关经济！两场重要发布会今日举行；最高检：从严惩治财务造假、操纵市场等证券犯罪",
-          "url": "https://www.cls.cn/detail/2262889",
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
           "ranks": [
-            10,
-            1
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时39分 ~ 12时09分]"
+          "time_info": "[12时08分 ~ 13时56分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时56分]"
         },
         {
           "title": "财政部发布关于优化实施服务业经营主体贷款贴息政策的通知",
@@ -97,7 +121,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -108,7 +132,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -176,6 +200,29 @@
           "time_info": "[04时46分 ~ 06时47分]"
         },
         {
+          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
+          "url": "https://www.cls.cn/detail/2262811",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时56分]"
+        },
+        {
+          "title": "如何评价最近从顶级量化交易机构泄露的 AlphaGPT？",
+          "url": "https://www.zhihu.com/question/1995864049414603432",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时56分]"
+        },
+        {
           "title": "苹果将改为一年两次发布新品",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%94%B9%E4%B8%BA%E4%B8%80%E5%B9%B4%E4%B8%A4%E6%AC%A1%E5%8F%91%E5%B8%83%E6%96%B0%E5%93%81%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -188,44 +235,11 @@
           "time_info": "[07时39分 ~ 12时09分]"
         },
         {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
           "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
           "url": "https://www.cls.cn/detail/2262717",
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
-          "url": "https://www.cls.cn/detail/2262811",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "如何评价最近从顶级量化交易机构泄露的 AlphaGPT？",
-          "url": "https://www.zhihu.com/question/1995864049414603432",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -272,9 +286,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "自然资源部将于1月20日下午3:00举行例行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3040162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -286,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "据英国金融时报：字节跳动推出AI云盘，瞄准阿里巴巴。",
+          "url": "https://flash.jin10.com/detail/20260120130643552800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "普华永道全球主席：人工智能定义CEO成败",
@@ -319,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "阿布扎比人工智能公司G42：推出“数字使馆”框架以及Greenshield，一个新的主权运营模式。",
+          "url": "https://flash.jin10.com/detail/20260120125924326800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "贺峻霖力证不是AI",
@@ -371,7 +418,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -434,8 +481,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 12时09分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 13时56分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -456,8 +503,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 12时09分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 13时56分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，金银再创新高",
@@ -508,8 +555,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 13时56分]"
         },
         {
           "title": "李亚鹏带货茶具暂停30天销售",
@@ -521,6 +568,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 12时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
+          "url": "https://flash.jin10.com/detail/20260120133012767800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     }
