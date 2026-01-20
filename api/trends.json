@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T22:00:08.466336+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-01-20T23:03:27.779743+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "人均95后的大模型公司上了新闻联播",
@@ -257,6 +257,17 @@
           "time_info": "[12时08分 ~ 15时06分]"
         },
         {
+          "title": "H200对AI产业影响如何",
+          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 23时03分]"
+        },
+        {
           "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
           "url": "https://wallstreetcn.com/livenews/3039907",
           "source": "华尔街见闻-快讯",
@@ -316,6 +327,17 @@
           "time_info": "[12时08分 ~ 12时09分]"
         },
         {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "外媒谈AI竞争：中国会笑到最后",
           "url": "https://www.douyin.com/hot/2373802",
           "source": "抖音",
@@ -326,17 +348,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时05分 ~ 18时59分]"
-        },
-        {
-          "title": "H200对AI产业影响如何",
-          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
         },
         {
           "title": "2025年年报业绩预告进入加速披露期，40余家上市公司净利翻番，AI成业绩增长强大驱动力",
@@ -411,7 +422,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         },
@@ -477,7 +488,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         },
@@ -543,7 +554,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         },
@@ -554,7 +565,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         },
@@ -661,7 +672,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -673,8 +684,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 22时00分]"
+          "appearance_count": 13,
+          "time_info": "[07时39分 ~ 23时03分]"
         },
         {
           "title": "网络工程师被控盗窃赌博网站资金，两地警方先后立案扣押183个比特币",
@@ -706,11 +717,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时45分 ~ 22时00分]"
+          "appearance_count": 6,
+          "time_info": "[19时45分 ~ 23时03分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，金银再创新高",
@@ -752,9 +764,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
+        },
+        {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时03分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
@@ -768,17 +791,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时59分]"
-        },
-        {
-          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2264127",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
         },
         {
           "title": "马斯克财富暴涨至近8000亿美元",
@@ -801,6 +813,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "美股三大指数大幅低开",
+          "url": "https://flash.jin10.com/detail/20260120223022654800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "行业ETF美股盘初几乎全线溃败，生物科技指数ETF、可选消费ETF、全球科技股指数ETF至多跌2.29%，网络股指数ETF、科技行业ETF、半导体ETF至多跌1.82%，能源业ETF涨0.55%。",
+          "url": "https://wallstreetcn.com/livenews/3040543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "日本债券价格暴跌 财政担忧推动收益率升至纪录高位",
@@ -859,7 +893,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时00分"
         }
