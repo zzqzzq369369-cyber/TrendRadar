@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:01:34.138424+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-01-21T19:48:26.849072+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             1,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 19时01分]"
+          "appearance_count": 9,
+          "time_info": "[12时04分 ~ 19时48分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -42,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 19时01分]"
+          "appearance_count": 7,
+          "time_info": "[13时55分 ~ 19时48分]"
         },
         {
           "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。",
@@ -52,7 +53,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -84,11 +85,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 19时48分]"
+        },
+        {
+          "title": "据福布斯：Lightning AI与Voltage Park合并，新公司估值达25亿美元。",
+          "url": "https://flash.jin10.com/detail/20260121193457132800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
@@ -103,6 +116,18 @@
           "time_info": "[04时37分 ~ 05时41分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 19时48分]"
+        },
+        {
           "title": "美国纽约州长Kathy Hochul发布2600亿美元预算计划，不包含原来拟议针对个人所得税+企业税提高税率的条款。",
           "url": "https://wallstreetcn.com/livenews/3040656",
           "source": "华尔街见闻-快讯",
@@ -115,17 +140,6 @@
           "time_info": "[04时37分 ~ 05时41分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
-        },
-        {
           "title": "上海中小学开设AI课程",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
           "source": "百度热搜",
@@ -136,6 +150,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时43分]"
+        },
+        {
+          "title": "上交所发布关于山东新华锦国际股份有限公司控股股东破产重整相关事项的监管工作函，涉及对象：上市公司，董事，高级管理人员，控股股东及实际控制人。",
+          "url": "https://wallstreetcn.com/livenews/3041264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "俄罗斯积雪9层楼高视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7597721748050444351/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "最高法发布关于审理矿产资源纠纷案件适用法律若干问题的解释",
@@ -243,7 +279,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -336,6 +372,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "志特新材：截至目前，公司业务不涉及AI应用、人工智能、量子科技、机器人及商业航天领域，亦未形成相关收入。自上市以来，公司主营业务为铝模、防护平台、装配式预制件等产品的研发、生产与销售，未发生任何变化。",
+          "url": "https://wallstreetcn.com/livenews/3041233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3040636",
           "source": "华尔街见闻-快讯",
@@ -369,15 +416,37 @@
           "time_info": "13时56分"
         },
         {
+          "title": "瑞银CEO：人工智能行业不会破产，但一些投资者会遭受损失，尤其是那些进行个股精选的投资者。",
+          "url": "https://flash.jin10.com/detail/20260121185931475800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
           "url": "https://wallstreetcn.com/livenews/3041173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
+          "url": "https://flash.jin10.com/detail/20260121185920177800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "工信部：将发布人形机器人与具身智能综合标准化体系建设指南",
@@ -389,12 +458,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。 需要建设数万亿美元规模的基础设施项目。 人工智能产业正在创造就业机会。 GPU租赁服务的现货价格正在上涨。",
+          "url": "https://wallstreetcn.com/livenews/3041219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -404,8 +484,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时43分 ~ 19时01分]"
+          "appearance_count": 10,
+          "time_info": "[07时43分 ~ 19时48分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -490,6 +570,18 @@
           "time_info": "[13时55分 ~ 17时03分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 19时48分]"
+        },
+        {
           "title": "女生怀孕后体重暴涨45斤",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%80%80%E5%AD%95%E5%90%8E%E4%BD%93%E9%87%8D%E6%9A%B4%E6%B6%A845%E6%96%A4%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -524,17 +616,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时43分]"
-        },
-        {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
@@ -583,6 +664,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时43分]"
+        },
+        {
+          "title": "强生第四季度调整后每股收益2.46美元，上年同期2.04美元，预估2.47美元。 第四季度销售额245.6亿美元，同比增长9.1%，预估241.5亿美元。 强生预计2026年销售额1,000亿美元至1,010亿美元，市场预估988.8亿美元。 强生预计2026年调整后每股收益11.43美元至11.63美元。 强生美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3041259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
@@ -643,7 +735,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "李亚鹏带货茶具暂停30天销售",
@@ -657,6 +749,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 07时43分]"
+        },
+        {
+          "title": "中国央行：加快建设人民币跨境支付体系，严格实施支付机构穿透式监管和支付业务功能监管",
+          "url": "https://wallstreetcn.com/livenews/3041244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "纳斯达克100指数跌幅收窄至不足1%。 成分股Strategy目前跌6.6%，FAST跌4%，Shopify跌3.9%，博通跌3.5%跌幅第四大，英伟达跌2.9%、特斯拉跌2.8%、铿腾电子（芯片软件设计/EDA公司）跌2.8%、科磊跌2.8%跌幅居前，美光科技则涨3.3%，西部数据涨3.4%，英特尔涨5.3%。",
