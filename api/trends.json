@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:48:26.849072+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-01-21T21:59:58.303888+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -40,11 +40,26 @@
           "ranks": [
             7,
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 19时48分]"
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 21时59分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 21时59分]"
         },
         {
           "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。",
@@ -80,28 +95,28 @@
           "time_info": "12时05分"
         },
         {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 19时48分]"
-        },
-        {
           "title": "据福布斯：Lightning AI与Voltage Park合并，新公司估值达25亿美元。",
           "url": "https://flash.jin10.com/detail/20260121193457132800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时00分 ~ 21时59分]"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
@@ -114,18 +129,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时41分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时00分 ~ 19时48分]"
         },
         {
           "title": "美国纽约州长Kathy Hochul发布2600亿美元预算计划，不包含原来拟议针对个人所得税+企业税提高税率的条款。",
@@ -158,7 +161,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -169,9 +172,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
+          "url": "https://www.cls.cn/detail/2265495",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "最高法发布关于审理矿产资源纠纷案件适用法律若干问题的解释",
@@ -251,6 +265,17 @@
           "time_info": "12时05分"
         },
         {
+          "title": "标普：人工智能基础设施建设掩盖了一些风险。",
+          "url": "https://flash.jin10.com/detail/20260121212132839800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
           "url": "https://wallstreetcn.com/livenews/3040648",
           "source": "华尔街见闻-快讯",
@@ -260,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "OpenAI CFO：星际之门（Stargate）园区建设进度已过半。",
+          "url": "https://wallstreetcn.com/livenews/3041298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "泰国央行行长Vitai：泰国央行近期出手干预以平抑泰铢汇率波动。 泰国央行认为泰铢应随着基本面因素而贬值。 泰国银行未发现异常资本流入。",
@@ -282,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "马斯克：不要让你的亲人使用 ChatGPT",
@@ -378,9 +425,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能发展速度对社会来说可能太快了。 我认为我们需要一个更强大的北约。 世界也需要一个更强大的欧洲。 这并非跨大西洋联盟首次出现危机。",
+          "url": "https://wallstreetcn.com/livenews/3041287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
@@ -416,13 +474,24 @@
           "time_info": "13时56分"
         },
         {
+          "title": "贝莱德首席运营官：人工智能交易彰显金融工程的“创造力”。",
+          "url": "https://flash.jin10.com/detail/20260121210255723800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "瑞银CEO：人工智能行业不会破产，但一些投资者会遭受损失，尤其是那些进行个股精选的投资者。",
           "url": "https://flash.jin10.com/detail/20260121185931475800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -438,13 +507,24 @@
           "time_info": "19时01分"
         },
         {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
           "url": "https://flash.jin10.com/detail/20260121185920177800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -466,7 +546,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         }
@@ -474,7 +554,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -484,8 +564,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时43分 ~ 19时48分]"
+          "appearance_count": 11,
+          "time_info": "[07时43分 ~ 21时59分]"
         },
         {
           "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
@@ -575,11 +655,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时00分 ~ 19时48分]"
+          "appearance_count": 4,
+          "time_info": "[19时00分 ~ 21时59分]"
         },
         {
           "title": "女生怀孕后体重暴涨45斤",
@@ -672,7 +753,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -710,6 +791,17 @@
           "time_info": "17时03分"
         },
         {
+          "title": "嘉信理财四季度净收入63.4亿美元，预估63.7亿美元。 四季度经调整后每股收益1.39美元，预估1.39美元。 第四财季净新增资产总额1582亿美元，预期1440.4亿美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3041290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "拼多多美股夜盘涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3041102",
           "source": "华尔街见闻-快讯",
@@ -730,12 +822,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "奈飞美股盘前跌幅扩大至7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3041281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "李亚鹏带货茶具暂停30天销售",
@@ -751,13 +854,24 @@
           "time_info": "[04时37分 ~ 07时43分]"
         },
         {
+          "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
+          "url": "https://www.cls.cn/detail/2265410",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "中国央行：加快建设人民币跨境支付体系，严格实施支付机构穿透式监管和支付业务功能监管",
           "url": "https://wallstreetcn.com/livenews/3041244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -771,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "妻子被丈夫要求同送外卖体验赚钱",
+          "url": "https://www.toutiao.com/trending/7597639208308703268/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         }
       ]
     },
