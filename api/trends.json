@@ -1,11 +1,207 @@
 {
-  "generated_at": "2026-01-21T07:43:38.163763+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-01-21T12:05:09.915091+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "疑似AI玩家确认是Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
+          "url": "https://flash.jin10.com/detail/20260121115736289800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
+          "url": "https://wallstreetcn.com/livenews/3040660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时41分]"
+        },
+        {
+          "title": "美国纽约州长Kathy Hochul发布2600亿美元预算计划，不包含原来拟议针对个人所得税+企业税提高税率的条款。",
+          "url": "https://wallstreetcn.com/livenews/3040656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时41分]"
+        },
+        {
+          "title": "上海中小学开设AI课程",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时43分]"
+        },
+        {
+          "title": "最高法发布关于审理矿产资源纠纷案件适用法律若干问题的解释",
+          "url": "https://wallstreetcn.com/livenews/3040930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
+          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3040928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "上海发布18项措施 提升有色金属大宗商品能级和全球定价影响力",
+          "url": "https://www.cls.cn/detail/2263763",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "据The Information：OpenAI已开始向数十家广告商提供其新聊天机器人广告服务。",
+          "url": "https://flash.jin10.com/detail/20260121113200635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
+          "url": "https://wallstreetcn.com/livenews/3040648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "马斯克：不要让你的亲人使用 ChatGPT",
+          "url": "https://flash.jin10.com/detail/20260121002446496800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3040591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
+          "url": "https://wallstreetcn.com/livenews/3040916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "韩国总统李在明：誓言要打击股市操纵行为。 韩国股市被低估。 无法对首尔综合指数作出预测。 股市出现分化是正常现象。 股市面临来自地缘政治和公司治理的风险，政治风险也是导致韩国股市折价的原因之一。 人工智能和半导体的繁荣是股市中的意外因素。 韩国股市正在走向正常化。",
+          "url": "https://wallstreetcn.com/livenews/3040915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "工信部：将发布人形机器人与具身智能综合标准化体系建设指南",
+          "url": "https://wallstreetcn.com/livenews/3040894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -19,6 +215,42 @@
           "time_info": "[01时05分 ~ 06时43分]"
         },
         {
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 12时05分]"
+        },
+        {
+          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时05分]"
+        },
+        {
+          "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2264307",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时05分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -30,15 +262,15 @@
           "time_info": "[01时05分 ~ 05时41分]"
         },
         {
-          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
+          "title": "【早报】欧美股市齐跌，英伟达、特斯拉跌逾4%；近期多家银行卫星上天",
+          "url": "https://www.cls.cn/detail/2264320",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 12时05分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌4.95%，刷新期内低点至3633.07点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌2.51%，报3436.59点。 MarketVector数字资产100指数跌4.12%，报18401.44点。 目前，Solana跌5.73%，狗狗币跌4.84%，XRP跌4.65%。 比特币跌3.30%，暂报90034美元；以太坊跌6.62%，暂报3003.75美元。",
@@ -52,27 +284,16 @@
           "time_info": "01时05分"
         },
         {
-          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2264127",
-          "source": "财联社热门",
+          "title": "女生怀孕后体重暴涨45斤",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%80%80%E5%AD%95%E5%90%8E%E4%BD%93%E9%87%8D%E6%9A%B4%E6%B6%A845%E6%96%A4%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            7
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 07时43分]"
-        },
-        {
-          "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2264307",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时05分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股收盘）",
@@ -158,119 +379,11 @@
           "time_info": "05时41分"
         },
         {
-          "title": "女生怀孕后体重暴涨45斤",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%80%80%E5%AD%95%E5%90%8E%E4%BD%93%E9%87%8D%E6%9A%B4%E6%B6%A845%E6%96%A4%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
           "url": "https://flash.jin10.com/detail/20260121032659165800",
           "source": "金十数据",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
-          "url": "https://wallstreetcn.com/livenews/3040660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时41分]"
-        },
-        {
-          "title": "美国纽约州长Kathy Hochul发布2600亿美元预算计划，不包含原来拟议针对个人所得税+企业税提高税率的条款。",
-          "url": "https://wallstreetcn.com/livenews/3040656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时41分]"
-        },
-        {
-          "title": "上海中小学开设AI课程",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 07时43分]"
-        },
-        {
-          "title": "上海发布18项措施 提升有色金属大宗商品能级和全球定价影响力",
-          "url": "https://www.cls.cn/detail/2263763",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
-          "url": "https://wallstreetcn.com/livenews/3040648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "马斯克：不要让你的亲人使用 ChatGPT",
-          "url": "https://flash.jin10.com/detail/20260121002446496800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3040591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3040636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -305,6 +418,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下载超10亿、衍生模型破20万，阿里千问刷新全球开源模型新纪录",
+          "url": "https://wallstreetcn.com/livenews/3040941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     }
