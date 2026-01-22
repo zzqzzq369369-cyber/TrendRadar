@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T12:16:42.261389+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-01-22T13:56:16.953553+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
@@ -26,11 +26,12 @@
             4,
             5,
             8,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时10分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[02时10分 ~ 13时56分]"
         },
         {
           "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 13时56分]"
         },
         {
           "title": "一天3场高层重磅发布 楼市重大利好",
@@ -51,9 +52,36 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时56分]"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            22,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时10分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 13时56分]"
         },
         {
           "title": "【苹果计划将 Siri 重塑为内置聊天机器人，以反击 OpenAI】苹果公司计划在今年晚些时候对 Siri 进行重大改组，将其转型为公司首款人工智能聊天机器人，项目代号为“Campos”。该机器人将深度嵌入 iPhone、iPad 和 Mac 操作系统中，并取代现有的 Siri 界面。用户依然可以通过语音指令“Siri”或长按设备侧边键来唤醒这项新服务。这种新方案的能力将远超目前的 Siri，其功能包括：分析屏幕内容、调用个人数据、搜索网页、创作内容、生成图像、总结信息以及分析上传的文件。",
@@ -73,7 +101,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -82,11 +110,12 @@
           "url": "https://www.douyin.com/hot/2375593",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时56分]"
         },
         {
           "title": "据知情人士透露，人工智能（AI）初创公司SambaNova Systems Inc.寻求融资，此前英特尔收购该公司的磋商陷入停滞。（彭博）",
@@ -112,17 +141,6 @@
           "time_info": "[02时10分 ~ 07时50分]"
         },
         {
-          "title": "黄仁勋谈AI如何改变经济",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "UP主带你玩转全球顶级AI现场",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -137,18 +155,16 @@
           "time_info": "[03时57分 ~ 07时50分]"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "title": "黄仁勋谈AI如何改变经济",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            22,
-            9,
-            29
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时10分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时56分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -161,19 +177,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时10分 ~ 07时50分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 12时16分]"
         },
         {
           "title": "市场消息：OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。",
@@ -212,6 +215,18 @@
           "time_info": "[06时56分 ~ 07时50分]"
         },
         {
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 13时56分]"
+        },
+        {
           "title": "业绩预告“亮红灯”，多家公司发布退市风险警示",
           "url": "https://wallstreetcn.com/livenews/3041549",
           "source": "华尔街见闻-快讯",
@@ -248,27 +263,50 @@
           "time_info": "[03时57分 ~ 07时50分]"
         },
         {
-          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
-          "url": "https://www.cls.cn/detail/2265674",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 12时16分]"
-        },
-        {
           "title": "xAI工程师因泄密被马斯克解雇",
           "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时56分]"
+        },
+        {
+          "title": "德云社发布严正声明",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%8F%91%E5%B8%83%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时56分]"
+        },
+        {
+          "title": "黄仁勋：AI算力需求强劲，将催生数万亿美元基础设施投资",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
@@ -277,7 +315,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -288,7 +326,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -299,7 +337,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -332,9 +370,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
+          "url": "https://flash.jin10.com/detail/20260122130616187800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
@@ -354,7 +403,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -379,17 +428,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "德云社发布严正声明",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E4%BA%91%E7%A4%BE%E5%8F%91%E5%B8%83%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -420,7 +458,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -428,8 +466,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 13时56分]"
+        },
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
           "url": "https://wallstreetcn.com/articles/3763668",
@@ -441,6 +490,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时10分 ~ 06时56分]"
+        },
+        {
+          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2265761",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 13时56分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -455,28 +517,15 @@
           "time_info": "[02时10分 ~ 05时01分]"
         },
         {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
+          "title": "全球市场深夜暴涨！特朗普，改口了",
+          "url": "https://finance.ifeng.com/c/8q6yeFE7hAX",
+          "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时50分 ~ 12时16分]"
-        },
-        {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时56分 ~ 12时16分]"
+          "time_info": "[12时16分 ~ 13时56分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -501,17 +550,6 @@
           "time_info": "03时57分"
         },
         {
-          "title": "全球市场深夜暴涨！特朗普，改口了",
-          "url": "https://finance.ifeng.com/c/8q6yeFE7hAX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "现货白银日内暴跌3.06美元，现报91.49美元/盎司，跌幅3.24%。",
           "url": "https://flash.jin10.com/detail/20260122033105025800",
           "source": "金十数据",
@@ -533,6 +571,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 05时01分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时56分]"
+        },
+        {
+          "title": "特朗普称暂时不会对欧洲 8 国加征关税，与北约达成格陵兰合作框架，美股反弹，黄金上涨，白银跳水，如何解读？",
+          "url": "https://www.zhihu.com/question/1997604050527601550",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "美股集体高开 百度涨5%",
@@ -567,17 +628,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报3629.95点，北京时间23:19涨至3791.91点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数涨0.08%，报3415.49点，23:56曾涨至3536.13点。 MarketVector数字资产100指数跌2.34%，报17964.88点，23:19也曾涨至18520.85点。 目前，Solana跌0.84%，狗狗币跌1.70%，XRP跌0.88%。 比特币跌1.72%，暂报88000美元；以太坊跌3.15%，暂报2901.24美元。",
@@ -682,7 +732,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "央行：加快建设人民币跨境支付体系 推进跨境支付互联互通",
@@ -710,6 +760,17 @@
           "time_info": "[03时57分 ~ 06时56分]"
         },
         {
+          "title": "田朴珺团队回应“直播带货翻车”",
+          "url": "https://www.toutiao.com/trending/7597667881020604467/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
           "title": "据Politico：法院裁定TikTok加拿大目前可以继续运营。",
           "url": "https://flash.jin10.com/detail/20260122031009424800",
           "source": "金十数据",
@@ -719,13 +780,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "法院裁定加拿大业务可继续运营，TikTok回应：期待与加政府找到最佳解决方案",
+          "url": "https://wallstreetcn.com/livenews/3041758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "曝腾讯法务强制下架开源微信聊天记录导出工具，对用户数据自主权有何影响？",
+          "url": "https://www.zhihu.com/question/1996383537063039406",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 13时56分]"
+        },
         {
           "title": "腾讯法务强制下架开源微信聊天记录导出工具，对用户数据自主权有何影响？",
           "url": "https://www.zhihu.com/question/1996383537063039406",
@@ -738,15 +821,15 @@
           "time_info": "07时50分"
         },
         {
-          "title": "曝腾讯法务强制下架开源微信聊天记录导出工具，对用户数据自主权有何影响？",
-          "url": "https://www.zhihu.com/question/1996383537063039406",
-          "source": "知乎",
+          "title": "不允许第三方导出微信聊天记录？腾讯回应：部分开源项目绕开加密措施，用户隐私和安全受威胁",
+          "url": "https://wallstreetcn.com/livenews/3041790",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "13时56分"
         }
       ]
     }
