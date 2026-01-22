@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:59:06.962961+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-01-22T19:46:05.407982+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -22,6 +22,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时10分 ~ 15时04分]"
+        },
+        {
+          "title": "德云社发布声明：已启动全面维权程序，依法维护员工合法权益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434278",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时57分 ~ 19时46分]"
         },
         {
           "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
@@ -45,6 +60,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时16分 ~ 15时04分]"
+        },
+        {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时03分 ~ 19时46分]"
         },
         {
           "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
@@ -98,33 +126,6 @@
           "time_info": "[06时56分 ~ 15时04分]"
         },
         {
-          "title": "德云社发布声明：已启动全面维权程序，依法维护员工合法权益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32434278",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时57分 ~ 18时59分]"
-        },
-        {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时03分 ~ 18时59分]"
-        },
-        {
           "title": "黄仁勋谈AI如何改变经济",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
@@ -151,6 +152,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时10分 ~ 13时56分]"
+        },
+        {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时45分 ~ 19时46分]"
         },
         {
           "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
@@ -234,6 +246,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 07时50分]"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时05分 ~ 19时46分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -330,17 +354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时16分 ~ 13时56分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时05分 ~ 18时59分]"
         },
         {
           "title": "黄仁勋：AI算力需求强劲，将催生数万亿美元基础设施投资",
@@ -519,6 +532,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
+          "url": "https://flash.jin10.com/detail/20260122191404959800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "新加坡金管局：将于1月29日发布货币政策声明。",
           "url": "https://flash.jin10.com/detail/20260122110058411800",
           "source": "金十数据",
@@ -569,7 +593,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         },
@@ -610,7 +634,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -620,8 +644,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时50分 ~ 18时59分]"
+          "appearance_count": 11,
+          "time_info": "[07时50分 ~ 19时46分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 19时46分]"
         },
         {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
@@ -658,18 +694,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时10分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 18时59分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -794,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "亮出抗议姿态 格陵兰养老基金考虑是否继续投资美股",
+          "url": "https://wallstreetcn.com/livenews/3042025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "又来喊多？特朗普放话：美股抛售“不值一提” 未来一年将翻倍",
@@ -1026,11 +1061,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时16分 ~ 18时59分]"
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 19时46分]"
         },
         {
           "title": "腾讯法务强制下架开源微信聊天记录导出工具，对用户数据自主权有何影响？",
