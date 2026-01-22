@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T05:48:26.843696+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-01-23T06:52:20.445793+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时52分]"
+        },
+        {
+          "title": "头号重仓股易主，公募持续掘金AI主线",
+          "url": "https://wallstreetcn.com/livenews/3042350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -27,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时52分]"
         },
         {
           "title": "六大行集体发布公告",
@@ -37,11 +48,25 @@
           "ranks": [
             8,
             18,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时52分]"
+        },
+        {
+          "title": "一天3场高层重磅发布 楼市重大利好",
+          "url": "https://www.toutiao.com/trending/7596864353657307190/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时52分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
@@ -56,16 +81,15 @@
           "time_info": "[03时04分 ~ 04时55分]"
         },
         {
-          "title": "一天3场高层重磅发布 楼市重大利好",
-          "url": "https://www.toutiao.com/trending/7596864353657307190/",
-          "source": "今日头条",
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
           "ranks": [
-            29,
-            28
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时48分]"
+          "time_info": "[04时55分 ~ 06时52分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：上个月API业务新增了约10亿美元的年度经常性收入(ARR)。",
@@ -118,9 +142,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO陈立武：快速部署人工智能需要软件栈的创新。",
+          "url": "https://flash.jin10.com/detail/20260123060723901800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -151,7 +186,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -165,23 +200,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
-        },
-        {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时55分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -191,8 +215,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时52分]"
         },
         {
           "title": "网络股指数ETF收涨1.9%，领跑美股行业ETF",
@@ -201,7 +225,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -214,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时52分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -226,8 +250,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时04分 ~ 05时48分]"
+          "appearance_count": 4,
+          "time_info": "[03时04分 ~ 06时52分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -242,15 +266,37 @@
           "time_info": "[01时08分 ~ 03时04分]"
         },
         {
+          "title": "英特尔(INTC.O)美股盘后跌幅扩大至10%，其一季度营收展望不及预期。",
+          "url": "https://flash.jin10.com/detail/20260123062128122800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
           "title": "美国铝业四季度销售34.5亿美元，分析师预期32.9亿美元。 美国铝业（AA）美股盘后涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3042306",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "英特尔股价美股盘后跌9%。",
+          "url": "https://wallstreetcn.com/livenews/3042340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.67%，暂报3704.62点，北京时间03:27出现一波显著的拉升行情，随后长时间地高位震荡，06:11达到3813.05点，18:00之前开始逐步回吐涨幅。 MarketVectorTM数字资产100中盘指数涨2.42%，报3504.02点。 MarketVector数字资产100指数涨1.85%，报18229.71点。 目前，Solana跌2%，狗狗币跌1.51%，XRP跌1.79%。 比特币跌1%，暂报88999美元；以太坊跌2.34%，暂报2950美元。",
@@ -270,7 +316,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -281,7 +327,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -292,7 +338,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -303,9 +349,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.78%，报426.08点，时隔一个交易日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.49%，报2968.32点，也创收盘历史新高，美股开盘之前维持微幅下跌状态、持续交投于2880点下方，随后显著拉升。 （美股）原材料指数收涨1.88%，（美股）金属与矿业指数收跌0.89%。",
+          "url": "https://wallstreetcn.com/livenews/3042327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "明晟公司MSCI新兴市场股票指数涨1%，创历史新高，亚洲、拉美股市走高。 成分股三星电子创历史新高，带动韩国股指首次突破5000点整数位心理关口。 MSCI拉美股票指数涨1.9%，创2018年4月份以来新高；拉美/原材料指数已经在2026年迄今狂飙17%，更大范围的股票指数同期也涨12%。 MSCI发展中国家外汇指数涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3042326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "美股收盘：三大股指收涨 阿里巴巴涨5%",
@@ -314,7 +382,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
