@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:06:01.496140+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-01-23T15:03:33.168407+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -24,11 +24,23 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时40分 ~ 13时06分]"
+          "appearance_count": 6,
+          "time_info": "[07时40分 ~ 15时03分]"
+        },
+        {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时03分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -43,17 +55,6 @@
           "time_info": "[01时08分 ~ 07时41分]"
         },
         {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时06分]"
-        },
-        {
           "title": "六大行集体发布公告",
           "url": "https://s.weibo.com/weibo?q=%E5%85%AD%E5%A4%A7%E8%A1%8C%E9%9B%86%E4%BD%93%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时08分 ~ 07时41分]"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "一天3场高层重磅发布 楼市重大利好",
@@ -180,7 +192,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -191,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -293,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "郑钦文的网友们人均用上了AI助理",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E7%BD%91%E5%8F%8B%E4%BB%AC%E4%BA%BA%E5%9D%87%E7%94%A8%E4%B8%8A%E4%BA%86AI%E5%8A%A9%E7%90%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         }
       ]
     },
@@ -300,6 +323,19 @@
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
       "match_count": 19,
       "titles": [
+        {
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时40分 ~ 15时03分]"
+        },
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
           "url": "https://wallstreetcn.com/articles/3763768",
@@ -310,18 +346,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 06时52分]"
-        },
-        {
-          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
-          "url": "https://www.cls.cn/detail/2267129",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时40分 ~ 13时06分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -367,8 +391,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时03分]"
         },
         {
           "title": "马克龙达沃斯意外带火“墨镜品牌” 相关概念股单日暴涨近30%",
@@ -520,18 +544,19 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "扫描“主播”丨警惕“黑白颠周媛”等博主背后的“偏门修炼”和带货生意",
           "url": "https://m.thepaper.cn/newsDetail_forward_32443484",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时03分]"
         },
         {
           "title": "赚钱的意义在这一刻具象化",
@@ -539,11 +564,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 15时03分]"
         },
         {
           "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
@@ -566,6 +592,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时05分 ~ 13时06分]"
+        },
+        {
+          "title": "警惕！孩子变成短视频赚钱工具",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E5%AD%A9%E5%AD%90%E5%8F%98%E6%88%90%E7%9F%AD%E8%A7%86%E9%A2%91%E8%B5%9A%E9%92%B1%E5%B7%A5%E5%85%B7",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         }
       ]
     }
