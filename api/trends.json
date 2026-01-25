@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T19:32:48.719749+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-01-25T21:45:23.389178+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "张又侠、刘振立被查，解放军报发布社论",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时51分 ~ 19时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时51分 ~ 21时45分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -42,8 +43,34 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时21分 ~ 19时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 21时45分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 21时45分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时21分 ~ 21时45分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -59,16 +86,18 @@
           "time_info": "[00时51分 ~ 07时36分]"
         },
         {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
+          "title": "腾讯发布反舞弊通报，2025 年 90 余人被解聘，20 余人被移送公安机关，有哪些警示意义？",
+          "url": "https://www.zhihu.com/question/1998001783453283501",
+          "source": "知乎",
           "ranks": [
-            9,
-            7
+            16,
+            4,
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时21分 ~ 19时32分]"
+          "appearance_count": 8,
+          "time_info": "[15时39分 ~ 21时45分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -114,32 +143,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 07时36分]"
-        },
-        {
-          "title": "腾讯发布反舞弊通报，2025 年 90 余人被解聘，20 余人被移送公安机关，有哪些警示意义？",
-          "url": "https://www.zhihu.com/question/1998001783453283501",
-          "source": "知乎",
-          "ranks": [
-            16,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时39分 ~ 19时32分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时59分 ~ 19时32分]"
         },
         {
           "title": "中国和东盟专家探讨人工智能发展与治理",
@@ -258,17 +261,6 @@
           "time_info": "[00时51分 ~ 05时34分]"
         },
         {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://wallstreetcn.com/livenews/3043383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
           "title": "美国能源部：发布紧急指令以缓解冬季风暴“费恩”期间中大西洋地区的停电状况。",
           "url": "https://flash.jin10.com/detail/20260125153455496800",
           "source": "金十数据",
@@ -308,6 +300,18 @@
           "time_info": "[01时39分 ~ 03时31分]"
         },
         {
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://wallstreetcn.com/livenews/3043383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 21时45分]"
+        },
+        {
           "title": "美国能源部发布紧急命令，在风暴期间向德克萨斯州的数据中心和其他主要设施部署备用发电资源。",
           "url": "https://flash.jin10.com/detail/20260125095211130800",
           "source": "金十数据",
@@ -322,6 +326,17 @@
           "time_info": "[12时22分 ~ 15时40分]"
         },
         {
+          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
+          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 21时45分]"
+        },
+        {
           "title": "帅弟弟逐渐量产 AI霸总围猎姐姐们",
           "url": "https://www.baidu.com/s?wd=%E5%B8%85%E5%BC%9F%E5%BC%9F%E9%80%90%E6%B8%90%E9%87%8F%E4%BA%A7+AI%E9%9C%B8%E6%80%BB%E5%9B%B4%E7%8C%8E%E5%A7%90%E5%A7%90%E4%BB%AC",
           "source": "百度热搜",
@@ -334,15 +349,16 @@
           "time_info": "[17时41分 ~ 19时32分]"
         },
         {
-          "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
-          "url": "https://news.ifeng.com/c/8qClugB0Wf0",
-          "source": "凤凰网",
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://flash.jin10.com/detail/20260125185356776800",
+          "source": "金十数据",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时32分]"
+          "time_info": "[19时32分 ~ 21时45分]"
         },
         {
           "title": "AI为何会一本正经“胡说八道”",
@@ -391,15 +407,15 @@
           "time_info": "[00时51分 ~ 01时39分]"
         },
         {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://flash.jin10.com/detail/20260125185356776800",
-          "source": "金十数据",
+          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
+          "url": "https://www.cls.cn/detail/2268686",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时32分"
+          "time_info": "21时45分"
         }
       ]
     },
@@ -511,6 +527,17 @@
           "time_info": "[00时51分 ~ 07时36分]"
         },
         {
+          "title": "日媒：最新民调显示高市内阁支持率暴跌10%",
+          "url": "https://news.ifeng.com/c/8qCgBsIPgy2",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时45分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
@@ -524,17 +551,6 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时51分 ~ 19时32分]"
-        },
-        {
-          "title": "日媒：最新民调显示高市内阁支持率暴跌10%",
-          "url": "https://news.ifeng.com/c/8qCgBsIPgy2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时32分]"
         }
       ]
     },
