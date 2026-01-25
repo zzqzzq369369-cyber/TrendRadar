@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T13:54:12.535219+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-01-25T14:59:35.381297+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "张又侠、刘振立被查，解放军报发布社论",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 13时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 14时59分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -126,6 +126,19 @@
           "time_info": "[00时51分 ~ 05时34分]"
         },
         {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 14时59分]"
+        },
+        {
           "title": "“十四五”时期我国发布34项中医国家标准",
           "url": "https://flash.jin10.com/detail/20260124211242432800",
           "source": "金十数据",
@@ -160,18 +173,6 @@
           "time_info": "[00时51分 ~ 06时42分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 13时54分]"
-        },
-        {
           "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3043305",
           "source": "华尔街见闻-快讯",
@@ -181,6 +182,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 05时34分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 14时59分]"
+        },
+        {
+          "title": "对谈亲手训练GPT4的研究员",
+          "url": "https://www.douyin.com/hot/2378468",
+          "source": "抖音",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 14时59分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -196,28 +221,43 @@
           "time_info": "[01时39分 ~ 03时31分]"
         },
         {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
+          "title": "美国能源部发布紧急命令，在风暴期间向德克萨斯州的数据中心和其他主要设施部署备用发电资源。",
+          "url": "https://flash.jin10.com/detail/20260125095211130800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
+            8,
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时59分]"
         },
         {
-          "title": "对谈亲手训练GPT4的研究员",
-          "url": "https://www.douyin.com/hot/2378468",
-          "source": "抖音",
+          "title": "北京市将加强全学段人工智能赋能教育",
+          "url": "https://wallstreetcn.com/livenews/3043344",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            15
+            9,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时59分]"
+        },
+        {
+          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3043343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时59分]"
         },
         {
           "title": "AI为何会一本正经“胡说八道”",
@@ -229,42 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "美国能源部发布紧急命令，在风暴期间向德克萨斯州的数据中心和其他主要设施部署备用发电资源。",
-          "url": "https://flash.jin10.com/detail/20260125095211130800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时54分]"
-        },
-        {
-          "title": "北京市将加强全学段人工智能赋能教育",
-          "url": "https://wallstreetcn.com/livenews/3043344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时54分]"
-        },
-        {
-          "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3043343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时54分]"
         },
         {
           "title": "OpenAI 翁家翌在 WhynotTV 的采访中，关于后训练、 infra 等观点中，哪些令你受到启发？",
@@ -288,6 +292,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时39分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     },
@@ -341,8 +356,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 14时59分]"
         },
         {
           "title": "普通但赚钱的工作",
@@ -405,11 +420,29 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 13时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 14时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待开源项目 vLLM 和 SGLang 团队纷纷创立公司？商业化将给项目和 Infra 行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1997984039219454411",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     }
