@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:58:04.323115+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-01-26T23:01:56.955041+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -56,8 +56,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时58分 ~ 21时58分]"
+          "appearance_count": 11,
+          "time_info": "[13时58分 ~ 23时01分]"
         },
         {
           "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
@@ -266,17 +266,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "高盛贵金属交易主管Binet-Laisne据悉将离职",
-          "url": "https://wallstreetcn.com/livenews/3044044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
           "url": "https://flash.jin10.com/detail/20260126051356994800",
           "source": "金十数据",
@@ -301,6 +290,30 @@
           "time_info": "[06时44分 ~ 07时39分]"
         },
         {
+          "title": "高盛贵金属交易主管Binet-Laisne据悉将离职",
+          "url": "https://wallstreetcn.com/livenews/3044044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时01分]"
+        },
+        {
+          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/articles/3764155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时01分]"
+        },
+        {
           "title": "你怎么看iPhone Air降价",
           "url": "https://www.toutiao.com/trending/7599137251189800969/",
           "source": "今日头条",
@@ -323,17 +336,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时36分 ~ 13时59分]"
-        },
-        {
-          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
-          "url": "https://wallstreetcn.com/articles/3764155",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "知情人士透露 deepseek 即将发布 V4 新模型，不知道各位有什么看法？",
@@ -368,6 +370,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "阶跃星辰印奇谈AI商业化",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-26）",
@@ -436,6 +449,17 @@
           "time_info": "19时40分"
         },
         {
+          "title": "CoreWeave涨13%，创11月以来盘中新高。 英伟达与CoreWeave宣布扩大长期的互补合作关系，使CoreWeave能够加速到2030年建设超过5吉瓦的人工智能（AI）工厂，推动全球范围内的人工智能应用。英伟达投资20亿美元到CoreWeaveA类普通股。",
+          "url": "https://wallstreetcn.com/livenews/3044071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "据德国商报：三位欧盟高级官员透露称，欧盟委员会将于周一根据《数字服务法》对人工智能聊天机器人Grok启动调查程序。",
           "url": "https://flash.jin10.com/detail/20260126162201774800",
           "source": "金十数据",
@@ -469,6 +493,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "苹果推出新款AirTag。",
+          "url": "https://wallstreetcn.com/livenews/3044055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "Anthropic据悉曾与苹果就为其重建Siri人工智能助手提供模型展开谈判，但这项或价值数十亿美元的交易因双方在财务条款方面存在分歧，最终未能达成协议。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3043632",
           "source": "华尔街见闻-快讯",
@@ -497,9 +532,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "高盛顶级贵金属交易员Binet Laisne离职。",
@@ -508,16 +554,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "苹果(AAPL.O)：全新AirTag今日上市，单个AirTag售价29美元，四件装售价99美元。",
+          "url": "https://flash.jin10.com/detail/20260126220730931800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时04分 ~ 23时01分]"
+        },
         {
           "title": "日媒：最新民调显示高市内阁支持率暴跌10%",
           "url": "https://news.ifeng.com/c/8qCgBsIPgy2",
@@ -531,17 +599,6 @@
           "time_info": "[00时53分 ~ 07时39分]"
         },
         {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时04分 ~ 21时58分]"
-        },
-        {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
@@ -551,17 +608,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时36分 ~ 15时06分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3044049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -575,6 +621,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 05时35分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时01分]"
         },
         {
           "title": "高市内阁民调支持率暴跌10%",
@@ -613,6 +671,17 @@
           "time_info": "18时57分"
         },
         {
+          "title": "英特尔(INTC.O)延续上周五的跌势，美股盘初跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20260126224209981800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "美股期货周一低开",
           "url": "https://wallstreetcn.com/livenews/3043448",
           "source": "华尔街见闻-快讯",
@@ -622,6 +691,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260126223659265800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
@@ -635,6 +726,17 @@
           "time_info": "18时57分"
         },
         {
+          "title": "美股金矿股大幅上涨，SPDR黄金份额ETF上涨2%，安格鲁阿散蒂黄金(AU.N)涨3%，Sibanye-Stillwater(SBSW.N)涨3%，巴里克黄金(GOLD.N)涨3.1%。",
+          "url": "https://flash.jin10.com/detail/20260126223615447800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
           "url": "https://flash.jin10.com/detail/20260126181712395800",
           "source": "金十数据",
@@ -646,15 +748,37 @@
           "time_info": "18时57分"
         },
         {
+          "title": "美股开盘 贵金属矿业股走高",
+          "url": "https://flash.jin10.com/detail/20260126223032497800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "CoreWeave美股盘前涨超10%，报道称英伟达向CoreWeave A类普通股投资20亿美元。",
           "url": "https://wallstreetcn.com/livenews/3044022",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-26）",
+          "url": "https://flash.jin10.com/detail/20260126221652476800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "IONQ美股盘前涨超3%，该公司将以每股35美元的价格收购Skywater Technology。",
@@ -663,7 +787,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }
@@ -671,7 +795,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "麦琳何美延都开始直播带货了",
@@ -690,6 +814,17 @@
           "time_info": "[00时53分 ~ 06时44分]"
         },
         {
+          "title": "英国石油公司特立尼达负责人：公司对与委内瑞拉的跨境机遇感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260126222636533800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
+        },
+        {
           "title": "【中国人民银行副行长邹澜：上海黄金交易所在港设立交割库并上市相关合约】中国人民银行副行长邹澜在第19届亚洲金融论坛上表示，在股票市场方面，沪深港通机制不断扩容。内地投资者通过港股通持有香港股票市值逾6万亿港元，全球投资者则通过沪深股通持有内地股票市值超2.5万亿元人民币。与此同时，黄金市场亦取得突破。上海黄金交易所在港设立交割库并上市相关合约，丰富了离岸人民币资产配置工具。伴随人民币跨境使用扩大，其作为全球第二大贸易融资货币、第三大支付货币的地位进一步巩固，在IMF特别提款权（SDR）货币篮子中权重位列第三。（上证报）",
           "url": "https://wallstreetcn.com/livenews/3043814",
           "source": "华尔街见闻-快讯",
@@ -704,7 +839,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "独立开发者猜测 Windows 终局是 Linux，是这样吗？",
@@ -716,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
+          "url": "https://wallstreetcn.com/livenews/3044053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         }
       ]
     }
