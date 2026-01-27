@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T17:04:20.193814+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-01-27T19:01:46.219967+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -53,8 +53,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 19时01分]"
+        },
+        {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 19时01分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 19时01分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -82,30 +107,6 @@
           "time_info": "[01时06分 ~ 07时44分]"
         },
         {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 17时04分]"
-        },
-        {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 17时04分]"
-        },
-        {
           "title": "如何解读最高法发布的《2025 年司法审判工作主要数据》？",
           "url": "https://www.zhihu.com/question/1996909155680818668",
           "source": "知乎",
@@ -120,15 +121,37 @@
           "time_info": "[03时04分 ~ 07时44分]"
         },
         {
+          "title": "如何评价阿里 1 月 26 日新发布的 Qwen3-Max-Thinking 模型？",
+          "url": "https://www.zhihu.com/question/1999268803641639542",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时01分]"
+        },
+        {
           "title": "SK海力士将在美国设立人工智能投资部门。（韩国《每日经济新闻》）",
           "url": "https://wallstreetcn.com/livenews/3044617",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "中微半导发布涨价通知函：涨价幅度15%~50%",
+          "url": "https://wallstreetcn.com/livenews/3044727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -143,17 +166,6 @@
           "time_info": "[07时43分 ~ 12时14分]"
         },
         {
-          "title": "如何评价阿里 1 月 26 日新发布的 Qwen3-Max-Thinking 模型？",
-          "url": "https://www.zhihu.com/question/1999268803641639542",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
           "url": "https://wallstreetcn.com/livenews/3044481",
           "source": "华尔街见闻-快讯",
@@ -164,6 +176,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 15时04分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时01分]"
         },
         {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
@@ -203,6 +227,18 @@
           "time_info": "[12时14分 ~ 13时54分]"
         },
         {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 19时01分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-27）",
           "url": "https://flash.jin10.com/detail/20260127115319873800",
           "source": "金十数据",
@@ -214,15 +250,37 @@
           "time_info": "12时14分"
         },
         {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
+          "title": "英国金融行为监管局（FCA）：将根据人工智能审查的反馈制定一系列建议，这些建议将于2026年夏季提交给FCA委员会。",
+          "url": "https://flash.jin10.com/detail/20260127183525604800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "英国金融行为监管局（FCA）：此次审查涵盖其人工智能讨论文件（AI Discussion Paper）、AI 冲刺计划（AI Sprint）、AI 实验室（包括 AI 实时测试）以及英伟达支持的超级沙盒（Supercharged Sandbox）。",
+          "url": "https://flash.jin10.com/detail/20260127183428395800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时04分"
+          "time_info": "19时01分"
+        },
+        {
+          "title": "英国金融行为监管局（FCA）：启动审查，以评估先进人工智能对消费者、零售金融市场和监管机构的影响。",
+          "url": "https://flash.jin10.com/detail/20260127183211051800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
@@ -245,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "我国将出台应对人工智能影响促就业文件，强化重点群体就业支持，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999431995927787127",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -278,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "我国新修订《药品管理法实施条例》发布 将产生哪些影响？权威解读",
+          "url": "https://www.cls.cn/detail/2271304",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -396,18 +476,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时04分"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -432,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "美团魏巍：精致餐饮门店率先应用AI",
+          "url": "https://wallstreetcn.com/livenews/3044691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         },
         {
           "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
@@ -492,8 +572,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时50分 ~ 17时04分]"
+          "appearance_count": 8,
+          "time_info": "[06时50分 ~ 19时01分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -507,6 +587,17 @@
           "time_info": "[01时06分 ~ 05时48分]"
         },
         {
+          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
+          "url": "https://wallstreetcn.com/articles/3764206",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 19时01分]"
+        },
+        {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
           "url": "https://www.cls.cn/detail/2270324",
           "source": "财联社热门",
@@ -516,17 +607,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时06分 ~ 07时44分]"
-        },
-        {
-          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
-          "url": "https://wallstreetcn.com/articles/3764206",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 17时04分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -576,6 +656,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时50分]"
+        },
+        {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 19时01分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
@@ -636,18 +728,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时50分]"
-        },
-        {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 17时04分]"
         },
         {
           "title": "网络股指数ETF收涨超1.5%，领跑美股行业ETF",
@@ -745,7 +825,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -793,11 +873,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 19时01分]"
         },
         {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
