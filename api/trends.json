@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-27T22:02:05.272769+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-01-27T23:06:54.587735+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
       "match_count": 55,
       "titles": [
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 23时06分]"
+        },
         {
           "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
@@ -36,18 +48,6 @@
           "time_info": "[01时06分 ~ 15时04分]"
         },
         {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 22时02分]"
-        },
-        {
           "title": "阶跃星辰印奇谈AI商业化",
           "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
           "source": "bilibili 热搜",
@@ -70,6 +70,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时06分 ~ 15时04分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时04分 ~ 23时06分]"
         },
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -108,19 +121,6 @@
           "time_info": "[01时06分 ~ 07时44分]"
         },
         {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时04分 ~ 22时02分]"
-        },
-        {
           "title": "如何解读最高法发布的《2025 年司法审判工作主要数据》？",
           "url": "https://www.zhihu.com/question/1996909155680818668",
           "source": "知乎",
@@ -135,15 +135,18 @@
           "time_info": "[03时04分 ~ 07时44分]"
         },
         {
-          "title": "汇丰策略师Kettner建议在财报发布前重新配置美国超级大盘股",
-          "url": "https://wallstreetcn.com/livenews/3044807",
-          "source": "华尔街见闻-快讯",
+          "title": "我国新修订《药品管理法实施条例》发布 将产生哪些影响？权威解读",
+          "url": "https://www.cls.cn/detail/2271304",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            13,
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 23时06分]"
         },
         {
           "title": "SK海力士将在美国设立人工智能投资部门。（韩国《每日经济新闻》）",
@@ -181,6 +184,18 @@
           "time_info": "[07时43分 ~ 12时14分]"
         },
         {
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时06分]"
+        },
+        {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
           "url": "https://wallstreetcn.com/livenews/3044481",
           "source": "华尔街见闻-快讯",
@@ -191,6 +206,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 15时04分]"
+        },
+        {
+          "title": "汇丰策略师Kettner建议在财报发布前重新配置美国超级大盘股",
+          "url": "https://wallstreetcn.com/livenews/3044807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时06分]"
         },
         {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
@@ -218,17 +245,29 @@
           "time_info": "[19时01分 ~ 19时47分]"
         },
         {
-          "title": "我国新修订《药品管理法实施条例》发布 将产生哪些影响？权威解读",
-          "url": "https://www.cls.cn/detail/2271304",
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时06分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
           "ranks": [
             12,
-            13,
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时01分 ~ 22时02分]"
+          "time_info": "[22时01分 ~ 23时06分]"
         },
         {
           "title": "当《姑苏繁华图》遇见AI",
@@ -264,17 +303,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 15时04分]"
-        },
-        {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "英国金融行为监管局（FCA）：此次审查涵盖其人工智能讨论文件（AI Discussion Paper）、AI 冲刺计划（AI Sprint）、AI 实验室（包括 AI 实时测试）以及英伟达支持的超级沙盒（Supercharged Sandbox）。",
@@ -313,17 +341,6 @@
           "time_info": "[19时01分 ~ 19时47分]"
         },
         {
-          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
-          "url": "https://www.cls.cn/detail/2271472",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "我国将出台应对人工智能影响促就业文件，强化重点群体就业支持，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1999431995927787127",
           "source": "知乎",
@@ -333,17 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时01分 ~ 19时47分]"
-        },
-        {
-          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
-          "url": "https://www.cls.cn/detail/2271331",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "AI承诺内容有误赔偿10万 用户起诉",
@@ -617,7 +623,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -647,7 +653,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -658,8 +664,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时50分 ~ 22时02分]"
+          "appearance_count": 13,
+          "time_info": "[06时50分 ~ 23时06分]"
         },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -669,8 +675,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时14分 ~ 22时02分]"
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 23时06分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -693,6 +699,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时06分 ~ 07时44分]"
+        },
+        {
+          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
+          "url": "https://www.zhihu.com/question/1999391504246990744",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 23时06分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -720,16 +738,37 @@
           "time_info": "[07时43分 ~ 13时54分]"
         },
         {
-          "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
-          "url": "https://www.zhihu.com/question/1999391504246990744",
-          "source": "知乎",
+          "title": "捷蓝航空美股跌超9%，此前CEO报告第四季度亏损超出预期。",
+          "url": "https://flash.jin10.com/detail/20260127223641684800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 22时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260127223622976800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.23%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.07%，网络股指数ETF涨0.8%，银行业ETF涨0.38%，医疗业ETF跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
@@ -828,6 +867,18 @@
           "time_info": "[05时48分 ~ 06时50分]"
         },
         {
+          "title": "任泽平：黄金白银暴涨的原因有两个",
+          "url": "https://www.toutiao.com/trending/7600018593677315590/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
           "title": "UPS四季度营收245亿美元，预估239.9亿美元。 四季度营调整后每股收益2.38美元，预估2.21美元。 UPS预计2026年营收约897亿美元，市场预估879.5亿美元。 UPS预计2026年资本支出约为30亿美元，市场预估37.2亿美元。 UPS美股盘前涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3044744",
           "source": "华尔街见闻-快讯",
@@ -837,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
+        },
+        {
+          "title": "美股医疗计划概念股领跌，联合健康跌近17%，哈门那跌超16%，西维斯健康跌近10%；此前美国提议小幅上调医保保险公司支付费率。",
+          "url": "https://flash.jin10.com/detail/20260127223127849800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "联合健康四季度营收1132.2亿美元，预估1138.7亿美元。 四季度经调整后每股收益2.11美元，预估2.1美元。 联合健康预计2026年全年经调整后每股收益在17.75美元上方，市场预估17.69美元。 联合健康美股盘前跌近13%。",
@@ -861,13 +923,24 @@
           "time_info": "05时48分"
         },
         {
+          "title": "美股开盘，道指跌0.6%，标普500指数涨0.27%，纳指涨0.5%。康宁(GLW.N)涨7.8%，Meta将向康宁支付高达60亿美元的采购费用。通用汽车(GM.N)涨5.4%，四季度核心利润高于预期。",
+          "url": "https://flash.jin10.com/detail/20260127223030810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "康宁美股盘前涨8.5%，报道：Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆",
           "url": "https://wallstreetcn.com/livenews/3044789",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -900,9 +973,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3044819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
@@ -966,7 +1050,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -988,7 +1072,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -999,7 +1083,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1020,6 +1104,18 @@
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
       "match_count": 6,
       "titles": [
+        {
+          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
+          "url": "https://www.zhihu.com/question/1999166962421429182",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时01分 ~ 23时06分]"
+        },
         {
           "title": "蚂蚁灵波开源LingBot - Depth模型，误差大降推动具身智能行业发展",
           "url": "https://wallstreetcn.com/livenews/3044517",
@@ -1044,15 +1140,15 @@
           "time_info": "[15时04分 ~ 19时47分]"
         },
         {
-          "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
-          "url": "https://www.zhihu.com/question/1999166962421429182",
-          "source": "知乎",
+          "title": "噬血代码2首发开荒",
+          "url": "https://search.bilibili.com/all?keyword=%E5%99%AC%E8%A1%80%E4%BB%A3%E7%A0%812",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时05分]"
         },
         {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
@@ -1067,17 +1163,6 @@
           "time_info": "[12时14分 ~ 13时54分]"
         },
         {
-          "title": "噬血代码2首发开荒",
-          "url": "https://search.bilibili.com/all?keyword=%E5%99%AC%E8%A1%80%E4%BB%A3%E7%A0%812",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
           "title": "Hugging Face最新数据显示，Qwen衍生模型数量突破20万，成为全球首个达成此目标的开源大模型。 同时，Qwen系列模型下载量突破10亿次，平均每天被开发者们下载110万次，稳居全球开源大模型TOP1。",
           "url": "https://wallstreetcn.com/livenews/3044092",
           "source": "华尔街见闻-快讯",
@@ -1087,6 +1172,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这就是赚钱的意义吧",
+          "url": "https://www.douyin.com/hot/2380995",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
         }
       ]
     }
