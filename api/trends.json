@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T19:01:46.219967+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-01-27T19:47:19.527350+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -33,6 +33,32 @@
           "time_info": "[01时06分 ~ 13时54分]"
         },
         {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 19时47分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 19时47分]"
+        },
+        {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
           "url": "https://wallstreetcn.com/articles/3764149",
           "source": "华尔街见闻",
@@ -51,31 +77,6 @@
           "source": "澎湃新闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 19时01分]"
-        },
-        {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 19时01分]"
-        },
-        {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -121,17 +122,6 @@
           "time_info": "[03时04分 ~ 07时44分]"
         },
         {
-          "title": "如何评价阿里 1 月 26 日新发布的 Qwen3-Max-Thinking 模型？",
-          "url": "https://www.zhihu.com/question/1999268803641639542",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 19时01分]"
-        },
-        {
           "title": "SK海力士将在美国设立人工智能投资部门。（韩国《每日经济新闻》）",
           "url": "https://wallstreetcn.com/livenews/3044617",
           "source": "华尔街见闻-快讯",
@@ -143,15 +133,28 @@
           "time_info": "17时04分"
         },
         {
-          "title": "中微半导发布涨价通知函：涨价幅度15%~50%",
-          "url": "https://wallstreetcn.com/livenews/3044727",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时47分]"
+        },
+        {
+          "title": "如何评价阿里 1 月 26 日新发布的 Qwen3-Max-Thinking 模型？",
+          "url": "https://www.zhihu.com/question/1999268803641639542",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 19时47分]"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -178,18 +181,6 @@
           "time_info": "[13时54分 ~ 15时04分]"
         },
         {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 19时01分]"
-        },
-        {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
           "url": "https://www.cls.cn/detail/2270597",
           "source": "财联社热门",
@@ -201,6 +192,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 17时04分]"
+        },
+        {
+          "title": "中微半导发布涨价通知函：涨价幅度15%~50%",
+          "url": "https://wallstreetcn.com/livenews/3044727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时47分]"
+        },
+        {
+          "title": "英国金融行为监管局（FCA）：将根据人工智能审查的反馈制定一系列建议，这些建议将于2026年夏季提交给FCA委员会。",
+          "url": "https://flash.jin10.com/detail/20260127183525604800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时47分]"
         },
         {
           "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
@@ -215,6 +230,18 @@
           "time_info": "[13时54分 ~ 15时04分]"
         },
         {
+          "title": "英国金融行为监管局（FCA）：此次审查涵盖其人工智能讨论文件（AI Discussion Paper）、AI 冲刺计划（AI Sprint）、AI 实验室（包括 AI 实时测试）以及英伟达支持的超级沙盒（Supercharged Sandbox）。",
+          "url": "https://flash.jin10.com/detail/20260127183428395800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时47分]"
+        },
+        {
           "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
           "url": "https://www.zhihu.com/question/1998804557132690728",
           "source": "知乎",
@@ -225,6 +252,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时14分 ~ 13时54分]"
+        },
+        {
+          "title": "英国金融行为监管局（FCA）：启动审查，以评估先进人工智能对消费者、零售金融市场和监管机构的影响。",
+          "url": "https://flash.jin10.com/detail/20260127183211051800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时47分]"
+        },
+        {
+          "title": "我国将出台应对人工智能影响促就业文件，强化重点群体就业支持，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999431995927787127",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时47分]"
+        },
+        {
+          "title": "我国新修订《药品管理法实施条例》发布 将产生哪些影响？权威解读",
+          "url": "https://www.cls.cn/detail/2271304",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时47分]"
         },
         {
           "title": "AI承诺内容有误赔偿10万 用户起诉",
@@ -250,39 +312,6 @@
           "time_info": "12时14分"
         },
         {
-          "title": "英国金融行为监管局（FCA）：将根据人工智能审查的反馈制定一系列建议，这些建议将于2026年夏季提交给FCA委员会。",
-          "url": "https://flash.jin10.com/detail/20260127183525604800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "英国金融行为监管局（FCA）：此次审查涵盖其人工智能讨论文件（AI Discussion Paper）、AI 冲刺计划（AI Sprint）、AI 实验室（包括 AI 实时测试）以及英伟达支持的超级沙盒（Supercharged Sandbox）。",
-          "url": "https://flash.jin10.com/detail/20260127183428395800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "英国金融行为监管局（FCA）：启动审查，以评估先进人工智能对消费者、零售金融市场和监管机构的影响。",
-          "url": "https://flash.jin10.com/detail/20260127183211051800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
           "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3044512",
           "source": "华尔街见闻-快讯",
@@ -305,15 +334,15 @@
           "time_info": "13时54分"
         },
         {
-          "title": "我国将出台应对人工智能影响促就业文件，强化重点群体就业支持，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1999431995927787127",
-          "source": "知乎",
+          "title": "【沐曦股份：预计2025年净亏损6.5亿元-7.98亿元，亏损同比收窄43.36%至53.86%】报告期内，公司坚持“1+6+X”发展战略，加大市场开拓力度，不断提升公司在高性能GPU行业的市场地位和影响力，推动人工智能技术与千行百业深度融合。凭借优越的产品性能及完善的软件生态，公司产品及服务获得下游客户的广泛认可与持续采购，报告期内收入规模较上年同期实现显著增长。报告期内，公司股份支付费用较上年同期有所减少，该项因素对公司利润产生正向影响，降低公司亏损幅度，使得公司经营业绩呈现减亏向好的发展态势。",
+          "url": "https://wallstreetcn.com/livenews/3044741",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "19时47分"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -347,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "我国新修订《药品管理法实施条例》发布 将产生哪些影响？权威解读",
-          "url": "https://www.cls.cn/detail/2271304",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -509,7 +527,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
@@ -561,7 +579,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -572,8 +590,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时50分 ~ 19时01分]"
+          "appearance_count": 9,
+          "time_info": "[06时50分 ~ 19时47分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -594,8 +612,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 19时01分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 19时47分]"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -666,8 +684,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 19时47分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
@@ -740,6 +758,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时50分]"
+        },
+        {
+          "title": "UPS四季度营收245亿美元，预估239.9亿美元。 四季度营调整后每股收益2.38美元，预估2.21美元。 UPS预计2026年营收约897亿美元，市场预估879.5亿美元。 UPS预计2026年资本支出约为30亿美元，市场预估37.2亿美元。 UPS美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3044744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "联合健康四季度营收1132.2亿美元，预估1138.7亿美元。 四季度经调整后每股收益2.11美元，预估2.1美元。 联合健康预计2026年全年经调整后每股收益在17.75美元上方，市场预估17.69美元。 联合健康美股盘前跌近13%。",
+          "url": "https://wallstreetcn.com/livenews/3044739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "美股收盘：三大股指收涨 苹果涨近3%",
@@ -877,8 +917,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 19时47分]"
         },
         {
           "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
