@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-01-28T01:04:30.022708+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T03:19:09.043086+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
           "url": "https://wallstreetcn.com/articles/3764269",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -45,11 +47,12 @@
           "url": "https://www.cls.cn/detail/2271472",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -59,19 +62,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         },
         {
           "title": "我国新修订《药品管理法实施条例》发布 将产生哪些影响？权威解读",
           "url": "https://www.cls.cn/detail/2271304",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
+        },
+        {
+          "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
+          "url": "https://flash.jin10.com/detail/20260128021217733800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "03时19分"
+        },
+        {
+          "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
+          "url": "https://flash.jin10.com/detail/20260128021207935800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -85,6 +111,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "消息人士称，美国政府即将发布一项通用许可证，解除对委内瑞拉石油行业的部分制裁。",
+          "url": "https://flash.jin10.com/detail/20260128020730191800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
           "title": "加拿大发布长期人口展望：高增长情景下或突破7500万",
           "url": "https://flash.jin10.com/detail/20260127233644822800",
           "source": "金十数据",
@@ -94,12 +131,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
+          "url": "https://flash.jin10.com/detail/20260128020246054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3044927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
+          "url": "https://wallstreetcn.com/livenews/3044925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -109,8 +179,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         },
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -120,19 +190,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         },
         {
           "title": "白银价格暴涨后日内急速回落，这轮行情结束了吗？这种暴涨暴跌说明了什么？",
           "url": "https://www.zhihu.com/question/1999391504246990744",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
+        },
+        {
+          "title": "任泽平：黄金白银暴涨的原因有两个",
+          "url": "https://www.toutiao.com/trending/7600018593677315590/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -157,15 +240,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "任泽平：黄金白银暴涨的原因有两个",
-          "url": "https://www.toutiao.com/trending/7600018593677315590/",
-          "source": "今日头条",
+          "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3044921",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "03时19分"
         }
       ]
     },
@@ -178,11 +261,12 @@
           "url": "https://www.douyin.com/hot/2380995",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         }
       ]
     },
@@ -195,11 +279,12 @@
           "url": "https://www.zhihu.com/question/1999487395494588876",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 03时19分]"
         }
       ]
     }
