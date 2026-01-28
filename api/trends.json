@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:56:20.999386+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-01-28T15:04:41.873817+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 13时56分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 15时04分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -77,19 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时56分]"
-        },
-        {
-          "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
-          "url": "https://wallstreetcn.com/livenews/3045293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时04分]"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -114,6 +103,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时48分 ~ 13时56分]"
+        },
+        {
+          "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
+          "url": "https://wallstreetcn.com/livenews/3045293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时04分]"
         },
         {
           "title": "OpenAI推出面向科学家的全新工具Prism",
@@ -146,9 +147,32 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时04分]"
+        },
+        {
+          "title": "iPhone18标准版或明年发布",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%A0%87%E5%87%86%E7%89%88%E6%88%96%E6%98%8E%E5%B9%B4%E5%8F%91%E5%B8%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时04分]"
+        },
+        {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时04分]"
         },
         {
           "title": "财报发布后，德州仪器(TXN.O)盘后上涨3.5%。",
@@ -162,13 +186,35 @@
           "time_info": "05时39分"
         },
         {
+          "title": "ASML第四季度订单额创新高 AI投资浪潮汹涌提振需求",
+          "url": "https://wallstreetcn.com/livenews/3045333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "人工智能发展到什么阶段了",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -206,6 +252,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "金十整理：机构前瞻鲍威尔发布会——言辞料谨慎，或强硬表态政治干预",
+          "url": "https://flash.jin10.com/detail/20260128141802574800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3044870",
           "source": "华尔街见闻-快讯",
@@ -223,7 +280,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -248,17 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "马云：孩子不应和AI比拼计算和记忆",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         },
         {
           "title": "加拿大发布长期人口展望：高增长情景下或突破7500万",
@@ -314,23 +360,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "iPhone18标准版或明年发布",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%A0%87%E5%87%86%E7%89%88%E6%88%96%E6%98%8E%E5%B9%B4%E5%8F%91%E5%B8%83%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -382,6 +417,19 @@
           "time_info": "[01时04分 ~ 07时42分]"
         },
         {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 15时04分]"
+        },
+        {
           "title": "世界大型企业研究会：美国消费者信心“暴跌”",
           "url": "https://wallstreetcn.com/livenews/3045040",
           "source": "华尔街见闻-快讯",
@@ -415,18 +463,6 @@
           "time_info": "05时39分"
         },
         {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时42分 ~ 13时56分]"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
           "url": "https://flash.jin10.com/detail/20260128050333486800",
           "source": "金十数据",
@@ -446,8 +482,33 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时04分]"
+        },
+        {
+          "title": "解读金银加速暴涨背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E9%93%B6%E5%8A%A0%E9%80%9F%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            24,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时04分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时04分]"
         },
         {
           "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
@@ -462,30 +523,6 @@
           "time_info": "[06时49分 ~ 07时42分]"
         },
         {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时56分]"
-        },
-        {
-          "title": "解读金银加速暴涨背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E9%93%B6%E5%8A%A0%E9%80%9F%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时56分]"
-        },
-        {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3044985",
           "source": "华尔街见闻-快讯",
@@ -497,6 +534,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "加密货币巨头悄然囤货 CEO豪言Tether将成全球最大黄金央行之一",
+          "url": "https://wallstreetcn.com/livenews/3045338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "现货白银日内暴涨3.02美元，现报115.34美元/盎司，涨幅2.69%。",
           "url": "https://flash.jin10.com/detail/20260128112157994800",
           "source": "金十数据",
@@ -506,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.47%，道指期货涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3045325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -528,6 +587,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "阿斯麦美股夜盘拉升，一度涨10%，公司四季度财报好于预期。阿斯麦CEO称，2026年将是阿斯麦公司的又一个增长之年。",
+          "url": "https://wallstreetcn.com/livenews/3045316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "白银不到一个月暴涨超60%",
@@ -577,7 +658,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Kimi 发布并开源 K2.5 模型，哪些信息值得关注？Agent 集群能力能做哪些任务？",
@@ -603,6 +684,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 13时56分]"
+        },
+        {
+          "title": "“我们确实搞砸了”！奥特曼罕见直播“反思”：GPT-5曾走弯路，写代码将不再重要",
+          "url": "https://wallstreetcn.com/articles/3764249",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "阿里云通义开源Z-Image基座模型",
