@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T12:08:44.980488+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-28T13:56:20.999386+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 12时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时56分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 12时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时56分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -73,11 +73,23 @@
           "url": "https://www.zhihu.com/question/1999186592472986900",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时56分]"
+        },
+        {
+          "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
+          "url": "https://wallstreetcn.com/livenews/3045293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "13时56分"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -89,6 +101,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时48分 ~ 13时56分]"
         },
         {
           "title": "OpenAI推出面向科学家的全新工具Prism",
@@ -115,16 +140,15 @@
           "time_info": "[06时49分 ~ 07时42分]"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时48分 ~ 12时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "财报发布后，德州仪器(TXN.O)盘后上涨3.5%。",
@@ -136,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "人工智能发展到什么阶段了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -155,7 +190,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -182,6 +217,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
+          "url": "https://wallstreetcn.com/livenews/3045264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "消息人士称，美国政府即将发布一项通用许可证，解除对委内瑞拉石油行业的部分制裁。",
           "url": "https://flash.jin10.com/detail/20260128020730191800",
           "source": "金十数据",
@@ -199,9 +245,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         },
         {
           "title": "加拿大发布长期人口展望：高增长情景下或突破7500万",
@@ -254,9 +311,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "iPhone18标准版或明年发布",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E6%A0%87%E5%87%86%E7%89%88%E6%88%96%E6%98%8E%E5%B9%B4%E5%8F%91%E5%B8%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
@@ -347,6 +415,18 @@
           "time_info": "05时39分"
         },
         {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时56分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
           "url": "https://flash.jin10.com/detail/20260128050333486800",
           "source": "金十数据",
@@ -358,16 +438,16 @@
           "time_info": "05时39分"
         },
         {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
-          "source": "财联社热门",
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            3
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时42分 ~ 12时08分]"
+          "time_info": "[12时08分 ~ 13时56分]"
         },
         {
           "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
@@ -382,6 +462,30 @@
           "time_info": "[06时49分 ~ 07时42分]"
         },
         {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时56分]"
+        },
+        {
+          "title": "解读金银加速暴涨背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E9%93%B6%E5%8A%A0%E9%80%9F%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时56分]"
+        },
+        {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3044985",
           "source": "华尔街见闻-快讯",
@@ -393,24 +497,13 @@
           "time_info": "05时39分"
         },
         {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "现货白银日内暴涨3.02美元，现报115.34美元/盎司，涨幅2.69%。",
           "url": "https://flash.jin10.com/detail/20260128112157994800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -443,7 +536,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -457,28 +550,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "解读金银加速暴涨背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E9%93%B6%E5%8A%A0%E9%80%9F%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
         },
         {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
@@ -529,9 +600,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时56分]"
         },
         {
           "title": "阿里云通义开源Z-Image基座模型",
@@ -540,7 +611,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
@@ -564,8 +635,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 12时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时04分 ~ 13时56分]"
         }
       ]
     }
