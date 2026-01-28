@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-28T07:42:39.169261+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-01-28T12:08:44.980488+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 12时08分]"
+        },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
@@ -16,20 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时42分]"
-        },
-        {
-          "title": "Clawdbot引爆整个AI agent生态",
-          "url": "https://wallstreetcn.com/articles/3764269",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 12时08分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 06时49分]"
+        },
+        {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -107,11 +119,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时48分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[06时48分 ~ 12时08分]"
         },
         {
           "title": "财报发布后，德州仪器(TXN.O)盘后上涨3.5%。",
@@ -134,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
+          "url": "https://www.zhihu.com/question/1999418734398366788",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
@@ -167,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3045207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "加拿大发布长期人口展望：高增长情景下或突破7500万",
@@ -211,12 +246,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "经济日报：让人工智能促进青年就业",
+          "url": "https://wallstreetcn.com/livenews/3045199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -274,7 +320,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -312,6 +358,18 @@
           "time_info": "05时39分"
         },
         {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 12时08分]"
+        },
+        {
           "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3045008",
           "source": "华尔街见闻-快讯",
@@ -335,15 +393,26 @@
           "time_info": "05时39分"
         },
         {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
-          "source": "财联社热门",
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时42分"
+          "time_info": "12时08分"
+        },
+        {
+          "title": "现货白银日内暴涨3.02美元，现报115.34美元/盎司，涨幅2.69%。",
+          "url": "https://flash.jin10.com/detail/20260128112157994800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -368,6 +437,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "白银不到一个月暴涨超60%",
+          "url": "https://www.toutiao.com/trending/7600193393037151790/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
           "url": "https://wallstreetcn.com/livenews/3045005",
           "source": "华尔街见闻-快讯",
@@ -377,6 +457,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "解读金银加速暴涨背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E9%93%B6%E5%8A%A0%E9%80%9F%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
@@ -403,30 +505,8 @@
       ]
     },
     {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "这就是赚钱的意义吧",
-          "url": "https://www.douyin.com/hot/2380995",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            17,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi 发布并开源 K2.5 模型，哪些信息值得关注？Agent 集群能力能做哪些任务？",
@@ -441,6 +521,51 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 06时49分]"
+        },
+        {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "阿里云通义开源Z-Image基座模型",
+          "url": "https://wallstreetcn.com/livenews/3045221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这就是赚钱的意义吧",
+          "url": "https://www.douyin.com/hot/2380995",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22,
+            17,
+            18,
+            19,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 12时08分]"
         }
       ]
     }
