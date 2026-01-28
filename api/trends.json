@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T19:01:45.252829+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-01-28T19:46:32.947553+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时04分 ~ 19时01分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -51,11 +51,25 @@
           "ranks": [
             4,
             2,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 19时46分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时08分 ~ 19时01分]"
+          "time_info": "[13时56分 ~ 19时46分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -82,16 +96,18 @@
           "time_info": "[01时04分 ~ 06时49分]"
         },
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
           "source": "财联社热门",
           "ranks": [
+            13,
+            9,
             6,
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时56分 ~ 19时01分]"
+          "time_info": "[15时04分 ~ 19时46分]"
         },
         {
           "title": "SK海力士将以资本投入的方式向人工智能部门投入100亿美元。（彭博）",
@@ -105,15 +121,15 @@
           "time_info": "17时05分"
         },
         {
-          "title": "亚马逊将裁员1.6万人 在AI竞争中精简架构",
-          "url": "https://flash.jin10.com/detail/20260128184459127800",
+          "title": "AT&T(T.N)四季度财报发布后美股盘前涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260128192941928800",
           "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "19时46分"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -127,17 +143,16 @@
           "time_info": "01时04分"
         },
         {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            6
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时04分 ~ 19时01分]"
+          "time_info": "[17时04分 ~ 19时46分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -177,6 +192,18 @@
           "time_info": "[04时50分 ~ 05时39分]"
         },
         {
+          "title": "亚马逊将裁员1.6万人 在AI竞争中精简架构",
+          "url": "https://flash.jin10.com/detail/20260128184459127800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时46分]"
+        },
+        {
           "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
           "url": "https://wallstreetcn.com/livenews/3045027",
           "source": "华尔街见闻-快讯",
@@ -201,18 +228,6 @@
           "time_info": "[17时04分 ~ 19时01分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 19时01分]"
-        },
-        {
           "title": "人工智能发展到什么阶段了",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E9%98%B6%E6%AE%B5%E4%BA%86",
           "source": "bilibili 热搜",
@@ -223,6 +238,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时56分 ~ 17时05分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 19时46分]"
         },
         {
           "title": "iPhone18标准版或明年发布",
@@ -246,17 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时56分 ~ 15时04分]"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "财报发布后，德州仪器(TXN.O)盘后上涨3.5%。",
@@ -290,6 +306,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
+          "title": "Meta盘前下跌 市场担忧AI支出或拖累盈利前景",
+          "url": "https://flash.jin10.com/detail/20260128191659738800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -356,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "深圳：鼓励智能家居企业加快适配国产操作系统和芯片，推动家具、电视、扫地机器人等全面接入AI",
+          "url": "https://wallstreetcn.com/livenews/3045533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "消息人士称，美国政府即将发布一项通用许可证，解除对委内瑞拉石油行业的部分制裁。",
@@ -438,7 +487,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -490,6 +539,20 @@
           "time_info": "[01时04分 ~ 07时42分]"
         },
         {
+          "title": "解读金银加速暴涨背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E9%93%B6%E5%8A%A0%E9%80%9F%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            24,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 19时46分]"
+        },
+        {
           "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
           "url": "https://www.cls.cn/detail/2271921",
           "source": "财联社热门",
@@ -503,20 +566,6 @@
           "time_info": "[07时42分 ~ 15时04分]"
         },
         {
-          "title": "解读金银加速暴涨背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E9%93%B6%E5%8A%A0%E9%80%9F%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            24,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 19时01分]"
-        },
-        {
           "title": "世界大型企业研究会：美国消费者信心“暴跌”",
           "url": "https://wallstreetcn.com/livenews/3045040",
           "source": "华尔街见闻-快讯",
@@ -526,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 19时46分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -550,6 +610,17 @@
           "time_info": "17时05分"
         },
         {
+          "title": "AT&T第四季度营收335亿美元，预估328.3亿美元。 第四季度调整后EBITDA 112亿美元，预估111.1亿美元。 第四季度调整后每股收益0.52美元，预估0.46美元。 第四季度自由现金流42亿美元。 AT&T预计2026年自由现金流至少180亿美元。 AT&T美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3045563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
+        },
+        {
           "title": "金十图示：2026年01月27日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260128050530858800",
           "source": "金十数据",
@@ -559,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "GE Vernova美股盘前涨超7%，公司四季度营收超预期",
+          "url": "https://wallstreetcn.com/livenews/3045562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 美光科技涨超5%",
@@ -572,15 +654,17 @@
           "time_info": "05时39分"
         },
         {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
+          "title": "黄金再暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%86%8D%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            10,
+            23,
+            29
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时04分 ~ 19时01分]"
+          "time_info": "[17时04分 ~ 19时46分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -595,16 +679,16 @@
           "time_info": "[12时08分 ~ 17时05分]"
         },
         {
-          "title": "黄金再暴涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%86%8D%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            23
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 19时46分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -617,17 +701,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 15时04分]"
-        },
-        {
-          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
-          "url": "https://wallstreetcn.com/articles/3764338",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
         },
         {
           "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
