@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T03:43:42.514019+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-30T04:58:41.421290+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -35,11 +35,23 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
+        },
+        {
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         },
         {
           "title": "英国针对与诺和诺德减肥药Wegovy和礼来Mounjaro发布关于胰腺重症和死亡风险的警告。",
@@ -61,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -73,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "中国金币集团发布风险提示",
@@ -82,11 +94,12 @@
           "source": "百度热搜",
           "ranks": [
             6,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -96,8 +109,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
+        },
+        {
+          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
+          "url": "https://wallstreetcn.com/livenews/3046652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时58分]"
+        },
+        {
+          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
+          "url": "https://flash.jin10.com/detail/20260130024543915800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时58分]"
+        },
+        {
+          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
+          "url": "https://flash.jin10.com/detail/20260130023851550800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时58分]"
         },
         {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
@@ -106,29 +155,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
-          "url": "https://wallstreetcn.com/livenews/3046652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
-          "url": "https://flash.jin10.com/detail/20260130024543915800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -144,15 +171,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
-          "url": "https://flash.jin10.com/detail/20260130023851550800",
-          "source": "金十数据",
+          "title": "报道：SpaceX在潜在上市前与xAI讨论合并",
+          "url": "https://wallstreetcn.com/livenews/3046654",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "04时58分"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
@@ -161,7 +188,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -172,7 +199,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -183,7 +210,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
@@ -191,7 +218,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -201,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -212,8 +239,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "黄金暴跌",
@@ -223,8 +250,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -235,8 +262,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "银价暴涨10倍带火CT废胶片",
@@ -244,33 +271,47 @@
           "source": "微博",
           "ranks": [
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时58分]"
         },
         {
           "title": "此次白银暴涨的结局会如何",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时58分]"
         },
         {
           "title": "据美国证券交易委员会（SEC）主席Atkins：SEC和商品期货交易委员会（CFTC）料将围绕加密货币监管问题签署备忘录（MOU）。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3046639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时58分]"
+        },
+        {
+          "title": "金铜暴涨，中国矿企赚麻了？",
+          "url": "https://wallstreetcn.com/articles/3764455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "04时58分"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -290,7 +331,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
