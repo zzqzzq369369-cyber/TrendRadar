@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T06:59:46.001199+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-01-30T07:54:11.473797+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -38,11 +39,12 @@
             7,
             3,
             2,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -51,11 +53,50 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
+        },
+        {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9,
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
+        },
+        {
+          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
+          "url": "https://www.cls.cn/detail/2274202",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -68,42 +109,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 06时59分]"
-        },
-        {
-          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
-          "url": "https://www.cls.cn/detail/2274202",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
-        },
-        {
-          "title": "中国金币集团发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
-        },
-        {
-          "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
-          "url": "https://flash.jin10.com/detail/20260130065505073800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
         },
         {
           "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
@@ -128,6 +133,18 @@
           "time_info": "01时07分"
         },
         {
+          "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
+          "url": "https://flash.jin10.com/detail/20260130065505073800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时54分]"
+        },
+        {
           "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
           "url": "https://wallstreetcn.com/livenews/3046700",
           "source": "华尔街见闻-快讯",
@@ -150,6 +167,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时58分]"
+        },
+        {
+          "title": "SpaceX据悉正在考虑与特斯拉或xAI合并",
+          "url": "https://flash.jin10.com/detail/20260130064632549800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时54分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -188,17 +217,6 @@
           "time_info": "[03时43分 ~ 04时58分]"
         },
         {
-          "title": "SpaceX据悉正在考虑与特斯拉或xAI合并",
-          "url": "https://flash.jin10.com/detail/20260130064632549800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
-        },
-        {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
@@ -216,9 +234,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "消息人士称，OpenAI已聘请新高管，以帮助为IPO做准备，OpenAI计划在第四季度进行IPO，以在上市竞争中击败Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260130070522656800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
@@ -238,7 +267,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -263,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "在特朗普发布有关提高关税的言论之后，韩美双方在首轮会谈中未能在第一天就达成一致意见。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3046771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",
@@ -348,7 +388,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         }
@@ -356,7 +396,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -374,22 +414,24 @@
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
         },
         {
           "title": "黄金暴跌",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -400,8 +442,34 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时54分]"
+        },
+        {
+          "title": "此次白银暴涨的结局会如何",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            15,
+            14,
+            29,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时59分]"
+          "time_info": "[03时43分 ~ 07时54分]"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "银价暴涨10倍带火CT废胶片",
@@ -418,30 +486,17 @@
           "time_info": "[01时06分 ~ 06时59分]"
         },
         {
-          "title": "此次白银暴涨的结局会如何",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            15,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时59分]"
-        },
-        {
           "title": "金铜暴涨，中国矿企赚麻了？",
           "url": "https://wallstreetcn.com/articles/3764455",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时59分]"
+          "appearance_count": 5,
+          "time_info": "[04时58分 ~ 07时54分]"
         },
         {
           "title": "据美国证券交易委员会（SEC）主席Atkins：SEC和商品期货交易委员会（CFTC）料将围绕加密货币监管问题签署备忘录（MOU）。（华尔街日报）",
@@ -539,7 +594,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -564,6 +619,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "演员周瑞带货的「五常大米」被指 100% 造假，造假为啥会有百分比？什么样的米才能叫「五常大米」？",
+          "url": "https://www.zhihu.com/question/2000152198055751912",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         }
       ]
     }
