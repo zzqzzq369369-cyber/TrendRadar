@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T04:58:41.421290+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-01-30T05:58:36.171577+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -39,19 +39,78 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
-          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3046674",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260130051543942800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时58分"
+        },
+        {
+          "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
+          "url": "https://wallstreetcn.com/livenews/3046700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
+        },
+        {
+          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+          "url": "https://wallstreetcn.com/articles/3764497",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
+        },
+        {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
+        },
+        {
+          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
+          "url": "https://www.cls.cn/detail/2274202",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "英国针对与诺和诺德减肥药Wegovy和礼来Mounjaro发布关于胰腺重症和死亡风险的警告。",
@@ -65,52 +124,16 @@
           "time_info": "01时07分"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
-        },
-        {
-          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
-          "url": "https://wallstreetcn.com/articles/3764497",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
-        },
-        {
-          "title": "中国金币集团发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
-        },
-        {
-          "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
-          "url": "https://www.cls.cn/detail/2274202",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时58分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -160,6 +183,28 @@
           "time_info": "03时43分"
         },
         {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "黑石总裁：AI颠覆传统产业是当前最大的风险",
           "url": "https://wallstreetcn.com/livenews/3046598",
           "source": "华尔街见闻-快讯",
@@ -171,15 +216,37 @@
           "time_info": "01时07分"
         },
         {
+          "title": "苹果(AAPL.O)收购以色列人工智能初创公司Q.ai。",
+          "url": "https://flash.jin10.com/detail/20260130050039950800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
           "title": "报道：SpaceX在潜在上市前与xAI讨论合并",
           "url": "https://wallstreetcn.com/livenews/3046654",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
@@ -191,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -218,7 +296,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -228,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -239,8 +317,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "黄金暴跌",
@@ -250,8 +328,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -262,8 +340,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "银价暴涨10倍带火CT废胶片",
@@ -272,11 +350,12 @@
           "ranks": [
             23,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 05时58分]"
         },
         {
           "title": "此次白银暴涨的结局会如何",
@@ -284,11 +363,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 05时58分]"
+        },
+        {
+          "title": "金铜暴涨，中国矿企赚麻了？",
+          "url": "https://wallstreetcn.com/articles/3764455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时58分]"
+          "time_info": "[04时58分 ~ 05时58分]"
         },
         {
           "title": "据美国证券交易委员会（SEC）主席Atkins：SEC和商品期货交易委员会（CFTC）料将围绕加密货币监管问题签署备忘录（MOU）。（华尔街日报）",
@@ -303,15 +394,81 @@
           "time_info": "[03时43分 ~ 04时58分]"
         },
         {
-          "title": "金铜暴涨，中国矿企赚麻了？",
-          "url": "https://wallstreetcn.com/articles/3764455",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050645865800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时58分"
+        },
+        {
+          "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260130050643601800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "Robinhood(HOOD.O)美股盘后涨3%。",
+          "url": "https://flash.jin10.com/detail/20260130050229767800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月29日）），美国科技股七巨头（Magnificent 7）指数跌0.90%，报207.72点，美股盘初持续下跌，北京时间23:55刷新日低至202.72点，随后逐步收复失地。 “超大”市值科技股指数跌0.58%，报396.22点。 成分股Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美国考虑利用美股经纪商Robinhood为儿童设立“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260130050156352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 微软跌近10%",
+          "url": "https://flash.jin10.com/detail/20260130050123427800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3046680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
