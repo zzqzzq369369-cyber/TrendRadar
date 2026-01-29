@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:31:44.545400+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-01-29T18:05:06.090901+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -33,13 +33,36 @@
           "time_info": "[01时51分 ~ 15时31分]"
         },
         {
+          "title": "中国金币集团发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B8%81%E9%9B%86%E5%9B%A2%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 18时05分]"
+        },
+        {
           "title": "中国已批准进口首批英伟达H200人工智能芯片？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3046225",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -139,6 +162,19 @@
           "time_info": "[06时59分 ~ 07时52分]"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 18时05分]"
+        },
+        {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -151,27 +187,38 @@
           "time_info": "[12时55分 ~ 15时31分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时31分]"
-        },
-        {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
+            13,
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时05分]"
+        },
+        {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时31分]"
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "金十数据整理：美联储声明及鲍威尔发布会重点一览",
@@ -205,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "聚焦人工智能、量子信息等战略性新兴产业 我国质量强链工作成效显著",
+          "url": "https://wallstreetcn.com/livenews/3046365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "美联储发布1月决议声明前，标普500指数和道指微幅下跌，纳斯达克100指数涨幅不足0.4%，科技股七巨头指数涨0.1%，半导体指数涨2.2%，银行指数跌1%。",
@@ -257,7 +315,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -282,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
-        },
-        {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "金十提示：美联储主席鲍威尔新闻发布会结束。",
@@ -441,7 +488,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -454,6 +501,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时51分 ~ 07时52分]"
+        },
+        {
+          "title": "此次白银暴涨的结局会如何",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A4%E6%AC%A1%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E7%9A%84%E7%BB%93%E5%B1%80%E4%BC%9A%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -558,13 +616,24 @@
           "time_info": "[07时52分 ~ 12时55分]"
         },
         {
+          "title": "金银暴涨之后“投资铜条”也卖爆了",
+          "url": "https://www.toutiao.com/trending/7600664772341665306/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
           "title": "金银暴涨",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%93%B6%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -578,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)美股盘前上涨1.9%，此前竞争对手Meta公司上调了年度资本支出计划。",
+          "url": "https://flash.jin10.com/detail/20260129175710247800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "“新债王”Gundlach：相比私人市场，我更青睐于公开市场。 没有对我自己的投资组合做出任何调整。 美元不像是一种避险货币。 避险似乎属于明确的资产，比特币不是。",
@@ -638,8 +718,19 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "茅台回应黄牛用插件抢茅台，29天拦截异常行为4.26亿次",
+          "url": "https://wallstreetcn.com/livenews/3046354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
         {
           "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
           "url": "https://www.zhihu.com/question/1999819158431503971",
