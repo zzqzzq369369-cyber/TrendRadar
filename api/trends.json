@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T17:54:55.986567+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-01-31T18:55:27.230878+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "黄金、白银急速跳水，此轮暴跌的主要原因有哪些？瑞银为何在金银暴跌时逆势上调黄金目标价？",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 18时55分]"
         },
         {
           "title": "黄金暴跌!韭菜党全员跳崖",
@@ -49,11 +49,12 @@
           "ranks": [
             11,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时06分 ~ 17时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 18时55分]"
         },
         {
           "title": "美国天然气期货日内暴涨12.00%，现报4.389美元/百万英热。",
@@ -89,6 +90,34 @@
           "time_info": "[07时52分 ~ 07时53分]"
         },
         {
+          "title": "黄金白银为何暴涨暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            23,
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 18时55分]"
+        },
+        {
+          "title": "暴涨、火爆、崩盘--金银领衔主演，2026的市场“开年大戏”格外精彩",
+          "url": "https://wallstreetcn.com/articles/3764638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时05分 ~ 18时55分]"
+        },
+        {
           "title": "白银迎来暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E8%BF%8E%E6%9D%A5%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -100,18 +129,17 @@
           "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "黄金白银为何暴涨暴跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
-          "source": "bilibili 热搜",
+          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
+          "url": "https://www.cls.cn/detail/2276378",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            23,
-            21,
-            22
+            9,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时50分 ~ 18时55分]"
         },
         {
           "title": "李大霄解读金银暴跌",
@@ -136,17 +164,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "暴涨、火爆、崩盘--金银领衔主演，2026的市场“开年大戏”格外精彩",
-          "url": "https://wallstreetcn.com/articles/3764638",
-          "source": "华尔街见闻",
+          "title": "李大霄：金银超涨 暴跌前我就很紧张",
+          "url": "https://www.toutiao.com/trending/7601448477414936091/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时05分 ~ 17时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "金十图示：2026年01月30日（周五）美股热门股票行情一览（美股盘中）",
@@ -169,19 +195,6 @@
             18,
             23,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 17时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 多只金矿股跌超两位数",
-          "url": "https://www.cls.cn/detail/2276378",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -221,11 +234,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时55分]"
         },
         {
           "title": "机构：金价雪崩式暴跌或因“伽马挤压”而加剧",
@@ -325,6 +339,18 @@
           "time_info": "[06时59分 ~ 07时53分]"
         },
         {
+          "title": "金价银价为何创纪录暴跌",
+          "url": "https://www.douyin.com/hot/2385262",
+          "source": "抖音",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 18时55分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（1月30日），美国科技股七巨头（Magnificent 7）指数跌0.37%，报206.96点，本周累计上涨0.84%，1月份累计下跌0.27%，1月12-27日呈现出V形反转行情。 “超大”市值科技股指数跌0.76%，报393.21点，本周累计下跌0.53%，1月份累跌0.75%。",
           "url": "https://wallstreetcn.com/livenews/3047586",
           "source": "华尔街见闻-快讯",
@@ -360,6 +386,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "金价30小时暴跌670美元 后市怎么走",
+          "url": "https://www.toutiao.com/trending/7601454930070605321/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
           "title": "40年最大单日跌幅！现货黄金价格跳水超10%，白银一度暴跌近36%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32505461",
           "source": "澎湃新闻",
@@ -380,17 +417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "金价银价为何创纪录暴跌",
-          "url": "https://www.douyin.com/hot/2385262",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
         },
         {
           "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
@@ -484,7 +510,7 @@
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "多地GDP数据发布 数字之外怎么看",
@@ -546,6 +572,20 @@
           "time_info": "[12时50分 ~ 14时05分]"
         },
         {
+          "title": "叫兽易小星报名B站AI大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            3,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 18时55分]"
+        },
+        {
           "title": "美国参议院Warren计划美东时间13:30就美联储举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3047513",
           "source": "华尔街见闻-快讯",
@@ -557,18 +597,29 @@
           "time_info": "02时05分"
         },
         {
-          "title": "叫兽易小星报名B站AI大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "财政部发布《关于明确增值税应税交易销售额计算口径的公告》、《关于出口业务增值税和消费税政策的公告》。",
+          "url": "https://wallstreetcn.com/livenews/3047675",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            3,
-            28,
-            27
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[14时05分 ~ 18时55分]"
         },
         {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
@@ -576,11 +627,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时55分]"
         },
         {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
@@ -588,11 +640,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时55分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -632,20 +685,6 @@
           "time_info": "[03时57分 ~ 07时53分]"
         },
         {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时05分 ~ 17时54分]"
-        },
-        {
           "title": "加拿大统计局表示，1月份消费者价格指数报告将于2月17日发布，而非2月16日。",
           "url": "https://flash.jin10.com/detail/20260131025108947800",
           "source": "金十数据",
@@ -656,6 +695,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 07时53分]"
+        },
+        {
+          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
+          "url": "https://flash.jin10.com/detail/20260131153449024800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时55分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -681,18 +733,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时04分 ~ 03时57分]"
-        },
-        {
-          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
-          "url": "https://flash.jin10.com/detail/20260131153449024800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时54分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -740,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "财政部、税务总局发布《关于增值税征税具体范围有关事项的公告》",
+          "url": "https://wallstreetcn.com/livenews/3047667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时55分"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
