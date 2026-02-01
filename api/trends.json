@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T19:42:52.287712+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-02-01T21:56:16.310357+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -21,6 +21,20 @@
           "time_info": "[00时59分 ~ 07时45分]"
         },
         {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 21时56分]"
+        },
+        {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
           "url": "https://www.cls.cn/detail/2275533",
           "source": "财联社热门",
@@ -32,20 +46,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时59分 ~ 18时57分]"
-        },
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 19时42分]"
         },
         {
           "title": "中信证券发布房地产行业2025年业绩预告点评报告时指出，2026年房地产市场具备止跌回稳的基础，房价止跌回稳也是房企资产负债表修复的关键。",
@@ -111,6 +111,19 @@
           "time_info": "[00时59分 ~ 07时45分]"
         },
         {
+          "title": "工行、建行等多家银行发布风险提示",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E3%80%81%E5%BB%BA%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 21时56分]"
+        },
+        {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
           "url": "https://wallstreetcn.com/articles/3764643",
           "source": "华尔街见闻",
@@ -137,16 +150,15 @@
           "time_info": "[00时59分 ~ 06时53分]"
         },
         {
-          "title": "工行、建行等多家银行发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E3%80%81%E5%BB%BA%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
+          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
+          "url": "https://flash.jin10.com/detail/20260201210033131800",
+          "source": "金十数据",
           "ranks": [
-            27,
             1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 19时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "爆火AI助手数小时两度改名",
@@ -162,6 +174,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时52分 ~ 05时43分]"
+        },
+        {
+          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3047820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
@@ -206,11 +229,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 21时56分]"
         },
         {
           "title": "2025中国造船业全年数据发布，三大指标继续全球领跑",
@@ -230,11 +254,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 21时56分]"
         },
         {
           "title": "男子被AI诊断梅毒医生否认却不信",
@@ -261,6 +286,19 @@
           "time_info": "[13时17分 ~ 17时03分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 21时56分]"
+        },
+        {
           "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
           "url": "https://www.zhihu.com/question/2000979139897811762",
           "source": "知乎",
@@ -274,28 +312,28 @@
           "time_info": "[13时17分 ~ 17时03分]"
         },
         {
-          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
-          "url": "https://flash.jin10.com/detail/20260201175015575800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
-        },
-        {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
           "url": "https://wallstreetcn.com/livenews/3047799",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 21时56分]"
+        },
+        {
+          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
+          "url": "https://www.cls.cn/detail/2276797",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "沈腾 不方便的话全让AI说了",
@@ -356,7 +394,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "暴涨、火爆、崩盘--金银领衔主演，2026的市场“开年大戏”格外精彩",
@@ -453,6 +491,18 @@
           "time_info": "[00时59分 ~ 06时53分]"
         },
         {
+          "title": "高盛交易员：大逻辑没有变化，不要\"过度解读\"过去两天的暴跌，尤其要考虑1月的大涨",
+          "url": "https://wallstreetcn.com/articles/3764676",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 21时56分]"
+        },
+        {
           "title": "暴跌之后印尼宣布将调查股市操纵行为",
           "url": "https://wallstreetcn.com/livenews/3047704",
           "source": "华尔街见闻-快讯",
@@ -468,29 +518,6 @@
           "time_info": "[00时59分 ~ 07时45分]"
         },
         {
-          "title": "高盛交易员：大逻辑没有变化，不要\"过度解读\"过去两天的暴跌，尤其要考虑1月的大涨",
-          "url": "https://wallstreetcn.com/articles/3764676",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 19时42分]"
-        },
-        {
-          "title": "金银之后加密货币也崩了",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%B9%8B%E5%90%8E%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%B9%9F%E5%B4%A9%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
           "url": "https://wallstreetcn.com/articles/3764674",
           "source": "华尔街见闻",
@@ -500,8 +527,70 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时17分 ~ 21时56分]"
+        },
+        {
+          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时17分 ~ 19时42分]"
+          "time_info": "[17时03分 ~ 21时56分]"
+        },
+        {
+          "title": "金银价格暴跌的原因",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 21时56分]"
+        },
+        {
+          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
+          "url": "https://www.cls.cn/detail/2276774",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时56分]"
+        },
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 21时56分]"
+        },
+        {
+          "title": "金银之后加密货币也崩了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%B9%8B%E5%90%8E%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%B9%9F%E5%B4%A9%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 21时56分]"
         },
         {
           "title": "金价暴跌回收柜台前挤满顾客",
@@ -516,28 +605,27 @@
           "time_info": "[18时57分 ~ 19时42分]"
         },
         {
-          "title": "金银价格暴跌的原因",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
+          "title": "金价暴跌 深圳水贝挤满了人",
+          "url": "https://www.toutiao.com/trending/7601809209675484713/",
+          "source": "今日头条",
           "ranks": [
-            21,
-            22
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时51分 ~ 19时42分]"
+          "time_info": "[18时57分 ~ 21时56分]"
         },
         {
-          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
-          "source": "澎湃新闻",
+          "title": "黄金暴跌的成因与未来展望",
+          "url": "https://www.toutiao.com/trending/7601661575115574827/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时57分 ~ 21时56分]"
         },
         {
           "title": "比特币跌破8万美元关口，创去年4月以来最低",
@@ -553,6 +641,19 @@
           "time_info": "[05时43分 ~ 07时45分]"
         },
         {
+          "title": "沙特股市因地缘政治与黄金暴跌创六月以来最大跌幅",
+          "url": "https://flash.jin10.com/detail/20260201171429390800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 21时56分]"
+        },
+        {
           "title": "黄金暴跌的原因找到了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -562,41 +663,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
-          "url": "https://www.cls.cn/detail/2276774",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
-        },
-        {
-          "title": "沙特股市因地缘政治与黄金暴跌创六月以来最大跌幅",
-          "url": "https://flash.jin10.com/detail/20260201171429390800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
-        },
-        {
-          "title": "金价暴跌 深圳水贝挤满了人",
-          "url": "https://www.toutiao.com/trending/7601809209675484713/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
         },
         {
           "title": "金价暴跌后顾客排长队出售黄金",
@@ -611,15 +677,15 @@
           "time_info": "[18时57分 ~ 19时42分]"
         },
         {
-          "title": "黄金暴跌的成因与未来展望",
-          "url": "https://www.toutiao.com/trending/7601661575115574827/",
+          "title": "金银史诗级暴跌 后市怎么走",
+          "url": "https://www.toutiao.com/trending/7601861219527429695/",
           "source": "今日头条",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "金价暴跌 有柜姐发帖退单一律扣500",
@@ -632,17 +698,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时17分 ~ 15时51分]"
-        },
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "黄金暴跌后银行网点仍一金难求",
@@ -680,6 +735,23 @@
       ]
     },
     {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广深港高铁今年1月跨境客流超260万人次",
+          "url": "https://wallstreetcn.com/livenews/3047816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
       "match_count": 1,
       "titles": [
@@ -689,11 +761,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 21时56分]"
         }
       ]
     }
