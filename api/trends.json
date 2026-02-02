@@ -1,239 +1,152 @@
 {
-  "generated_at": "2026-02-02T22:27:09.024087+08:00",
-  "total_titles_processed": 1231,
-  "failed_sources": [],
+  "generated_at": "2026-02-03T00:11:36.343352+08:00",
+  "total_titles_processed": 298,
+  "failed_sources": [
+    "cls-hot",
+    "jin10"
+  ],
   "trends": [
     {
-      "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 31,
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
+      "match_count": 9,
       "titles": [
         {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时11分]"
         },
         {
-          "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
-          "url": "https://www.cls.cn/detail/2276797",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
-          "url": "https://wallstreetcn.com/articles/3764694",
+          "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
+          "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 16时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时11分]"
         },
         {
-          "title": "工行、建行等多家银行发布风险提示",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%A1%8C%E3%80%81%E5%BB%BA%E8%A1%8C%E7%AD%89%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E5%B8%83%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
+          "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
+          "url": "https://wallstreetcn.com/articles/3764708",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
-          "ranks": [
-            5,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 16时02分]"
+          "time_info": "[00时08分 ~ 00时11分]"
         },
         {
-          "title": "华为云发布业界首个智慧病理云边端解决方案",
-          "url": "https://wallstreetcn.com/livenews/3047822",
+          "title": "NYMEX天然气期货暴跌20%，受累于（北美）天期转暖。",
+          "url": "https://wallstreetcn.com/livenews/3048453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
         },
         {
-          "title": "九部门发布活动方案：增加春节期间消费品以旧换新补贴数量",
-          "url": "https://www.cls.cn/detail/2277328",
+          "title": "这次白银暴跌是人为操纵的？",
+          "url": "https://wallstreetcn.com/articles/3764750",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时11分]"
+        },
+        {
+          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2278222",
           "source": "财联社热门",
           "ranks": [
-            11,
-            2,
-            1
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 19时24分]"
+          "appearance_count": 1,
+          "time_info": "00时08分"
         },
         {
-          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3047820",
+          "title": "彭博汇编数据显示，加密货币交易所交易产品（ETPs）最近一周资金外流16.1亿美元。 投资者最近一个月累计赎回8.766亿美元。 最近一年累计流入396亿美元。 当前，加密货币ETP资产规模为1603亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3048439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时56分]"
-        },
-        {
-          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
-          "url": "https://flash.jin10.com/detail/20260202221537167800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "00时11分"
         },
         {
-          "title": "上期所发布关于做好市场风险控制工作的通知",
-          "url": "https://wallstreetcn.com/livenews/3048322",
-          "source": "华尔街见闻-快讯",
+          "title": "金银价格暴跌的原因",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时56分]"
-        },
-        {
-          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
-          "url": "https://flash.jin10.com/detail/20260202220631439800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "00时11分"
         },
         {
-          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
-          "url": "https://flash.jin10.com/detail/20260201210033131800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时47分]"
-        },
-        {
-          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
-          "url": "https://wallstreetcn.com/livenews/3047799",
+          "title": "黄金波动率创2008年以来最高，连“过山车”般的比特币也相形见绌",
+          "url": "https://wallstreetcn.com/livenews/3048427",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时47分]"
-        },
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
+      "match_count": 7,
+      "titles": [
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            12,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 22时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 00时11分]"
         },
         {
           "title": "多家银行发布风险提示",
           "url": "https://www.douyin.com/hot/2386782",
           "source": "抖音",
           "ranks": [
-            11,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 22时27分]"
-        },
-        {
-          "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
-          "url": "https://www.cls.cn/detail/2277867",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时27分]"
-        },
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "time_info": "[00时08分 ~ 00时11分]"
         },
         {
           "title": "穆祉丞 周五晚高疯发布会",
-          "url": "https://s.weibo.com/weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E%20%E5%91%A8%E4%BA%94%E6%99%9A%E9%AB%98%E7%96%AF%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=27&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E%20%E5%91%A8%E4%BA%94%E6%99%9A%E9%AB%98%E7%96%AF%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "time_info": "[00时08分 ~ 00时11分]"
         },
         {
           "title": "事关汽车门把手 强制性国家标准发布",
@@ -244,548 +157,40 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "time_info": "[00时08分 ~ 00时11分]"
         },
         {
-          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260202220614192800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "上期所发布关于做好市场风险控制工作的通知",
-          "url": "https://flash.jin10.com/detail/20260202190722589800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "中国银行发布关于代理个人上金所业务调整白银延期合约业务参数的公告",
-          "url": "https://wallstreetcn.com/livenews/3048312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "邮储银行发布贵金属市场风险提示",
-          "url": "https://wallstreetcn.com/livenews/3048182",
-          "source": "华尔街见闻-快讯",
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "00时08分"
         },
         {
-          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3048404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "国家人工智能产业投资基金入股芯片研发商新芯航途",
-          "url": "https://wallstreetcn.com/livenews/3048057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "新加坡制造业谨慎乐观 AI浪潮助推半导体行业领跑",
-          "url": "https://flash.jin10.com/detail/20260202152127038800",
-          "source": "金十数据",
+          "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
+          "url": "https://www.cls.cn/detail/2277867",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "00时08分"
         },
         {
-          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
-          "url": "https://flash.jin10.com/detail/20260202183736296800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "北京大学与中国铁塔合作 推动AI产教融合",
-          "url": "https://wallstreetcn.com/livenews/3048300",
+          "title": "提醒：北京时间23:00将发布，美国1月ISM制造业指数、12月营建支出。",
+          "url": "https://wallstreetcn.com/livenews/3048425",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "马斯克：Grok Imagine 1.0 版本现已全面发布。",
-          "url": "https://flash.jin10.com/detail/20260202115750959800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 16时02分]"
-        },
-        {
-          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
-          "url": "https://www.cls.cn/detail/2276774",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509153",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "高盛交易员：大逻辑没有变化，不要\"过度解读\"过去两天的暴跌，尤其要考虑1月的大涨",
-          "url": "https://wallstreetcn.com/articles/3764676",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "金银价格暴跌的原因",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 22时27分]"
-        },
-        {
-          "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
-          "url": "https://wallstreetcn.com/articles/3764674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "金银之后加密货币也崩了",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%B9%8B%E5%90%8E%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%B9%9F%E5%B4%A9%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            15,
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "金银史诗级暴跌 后市怎么走",
-          "url": "https://www.toutiao.com/trending/7601861219527429695/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            25,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时52分]"
-        },
-        {
-          "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
-          "url": "https://wallstreetcn.com/articles/3764708",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 22时27分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 22时27分]"
-        },
-        {
-          "title": "金价暴跌后回收变现火爆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 07时52分]"
-        },
-        {
-          "title": "商品暴跌震动市场！纳指期货跌超1%，甲骨文盘前上涨4%，现货金银“V”型反转，布油跌5%",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜、沪铝期货主力合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "这次金价暴跌真的只是因为沃什吗",
-          "url": "https://www.toutiao.com/trending/7602102244296625670/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "德意志银行在金价暴跌后仍然看涨 维持6000美元目标价",
-          "url": "https://wallstreetcn.com/livenews/3048186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "黄金白银为何暴涨暴跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时06分]"
-        },
-        {
-          "title": "金价暴跌后黄金市场挤满顾客",
-          "url": "https://www.douyin.com/hot/2386891",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 16时02分]"
-        },
-        {
-          "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2278222",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
-          "title": "商品暴跌震动市场！全球股市遭遇“黑色星期一”，纳指期货跌超1%，黄金股盘前大跌，印尼跌停",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "贵金属雪崩触发南非股市暴跌 矿业巨头集体开启“自由落体”模式",
-          "url": "https://flash.jin10.com/detail/20260202152955021800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
-          "url": "https://wallstreetcn.com/livenews/3047847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "金价暴跌，刚买的金饰能退吗？",
-          "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "贵金属巨震！金银史诗级暴跌 一文解析：为何华尔街并不恐慌？",
-          "url": "https://www.cls.cn/detail/2277141",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3048399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "黄金暴跌为何瑞银却上调金价目标",
-          "url": "https://www.toutiao.com/trending/7602143255571992083/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "现货金银快速下挫 白银盘初暴跌8%",
-          "url": "https://flash.jin10.com/detail/20260202071241275800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "美股股指期货周一低开，其中纳指期货跌0.8%。",
-          "url": "https://flash.jin10.com/detail/20260202070305178800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "现货金银周一开盘暴跌",
-          "url": "https://flash.jin10.com/detail/20260202070154001800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "面对暴跌不为所动：从新加坡到悉尼 散户排起长龙争购黄金",
-          "url": "https://wallstreetcn.com/livenews/3048386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "广深港高铁今年1月跨境客流超260万人次",
-          "url": "https://wallstreetcn.com/livenews/3047816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时56分]"
-        },
-        {
-          "title": "外交部：中方将继续深化国际执法合作 加大力度打击电诈网赌等跨境犯罪活动",
-          "url": "https://wallstreetcn.com/livenews/3048183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "新规！“三品一械”禁止达人带货",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%A7%84%EF%BC%81%E2%80%9C%E4%B8%89%E5%93%81%E4%B8%80%E6%A2%B0%E2%80%9D%E7%A6%81%E6%AD%A2%E8%BE%BE%E4%BA%BA%E5%B8%A6%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
-          "url": "https://wallstreetcn.com/livenews/3047809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时56分]"
-        },
-        {
-          "title": "阶跃星辰发布开源基座模型Step 3.5 Flash",
-          "url": "https://wallstreetcn.com/livenews/3048044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "00时11分"
         }
       ]
     }
