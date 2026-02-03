@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T20:02:03.414101+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-03T22:35:29.964473+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 49,
       "titles": [
         {
           "title": "事关汽车门把手安全，强制性国家标准发布",
@@ -33,28 +33,30 @@
           "time_info": "[15时58分 ~ 20时02分]"
         },
         {
-          "title": "2026年中央一号文件发布",
-          "url": "https://www.cls.cn/detail/2279269",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
           "ranks": [
             7,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时35分]"
+        },
+        {
+          "title": "2026年中央一号文件发布",
+          "url": "https://www.cls.cn/detail/2279269",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时35分]"
         },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -69,15 +71,39 @@
           "time_info": "[13时08分 ~ 15时58分]"
         },
         {
-          "title": "2026 年中央一号文件发布，首提「常态化精准帮扶」，如何解读？还有哪些新的举措值得关注？",
-          "url": "https://www.zhihu.com/question/2002083195005474767",
-          "source": "知乎",
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
           "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时35分]"
+        },
+        {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时35分]"
+        },
+        {
+          "title": "2026年中央一号文件发布",
+          "url": "https://www.toutiao.com/trending/7602525523988103204/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "摩尔线程AI Coding Plan上线",
@@ -97,9 +123,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "2026中央一号文件发布",
+          "url": "https://www.douyin.com/hot/2388571",
+          "source": "抖音",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时35分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -124,15 +162,29 @@
           "time_info": "07时58分"
         },
         {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
+          "title": "2026 年中央一号文件发布，首提「常态化精准帮扶」，如何解读？还有哪些新的举措值得关注？",
+          "url": "https://www.zhihu.com/question/2002083195005474767",
+          "source": "知乎",
           "ranks": [
-            14
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时35分]"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时35分]"
         },
         {
           "title": "又一位AI亿万富豪诞生了",
@@ -183,50 +235,28 @@
           "time_info": "[00时08分 ~ 07时58分]"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时02分]"
-        },
-        {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时02分]"
-        },
-        {
-          "title": "2026中央一号文件发布",
-          "url": "https://www.douyin.com/hot/2388571",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
           "title": "2026年中央一号文件发布",
           "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时35分]"
+        },
+        {
+          "title": "股价大跌后 寒武纪发布严正声明",
+          "url": "https://www.baidu.com/s?wd=%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E+%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E5%B8%83%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时35分]"
         },
         {
           "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
@@ -257,17 +287,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
-          "title": "股价大跌后 寒武纪发布严正声明",
-          "url": "https://www.baidu.com/s?wd=%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E+%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E5%B8%83%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -329,15 +348,59 @@
           "time_info": "15时58分"
         },
         {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "中国银行发布关于代理个人上金所业务调整部分延期合约业务参数的公告",
           "url": "https://wallstreetcn.com/livenews/3049106",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
+          "url": "https://www.zhihu.com/question/1999077818584228918",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "英国数据保护监管机构对xAI展开调查",
+          "url": "https://flash.jin10.com/detail/20260203215454655800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "LSEG股价下跌9.2%，因AI风险敞口较大的欧洲股市大幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260203215354679800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "十部门联合发布《低空经济标准体系建设指南（2025年版）》",
@@ -349,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
+          "url": "https://www.cls.cn/detail/2279310",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -395,6 +469,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "问界M6汽车官图发布",
           "url": "https://www.toutiao.com/trending/7601345846491467327/",
           "source": "今日头条",
@@ -406,6 +491,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "2026年中央一号文件发布，部署扎实推进乡村全面振兴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523727",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "澳洲联储主席布洛克将于十分钟后召开货币政策新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260203122000001800",
           "source": "金十数据",
@@ -415,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
+          "url": "https://wallstreetcn.com/livenews/3049154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "提醒：北京时间23:00将发布，美国1月ISM制造业指数、12月营建支出。",
@@ -464,18 +571,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时08分 ~ 22时35分]"
         },
         {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
@@ -504,6 +612,19 @@
           "time_info": "[00时08分 ~ 18时07分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时35分]"
+        },
+        {
           "title": "金银暴跌之后，所有目光都盯着周一中国开盘",
           "url": "https://wallstreetcn.com/articles/3764708",
           "source": "华尔街见闻",
@@ -514,18 +635,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 07时58分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时02分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -584,6 +693,19 @@
           "time_info": "00时11分"
         },
         {
+          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
+          "url": "https://wallstreetcn.com/articles/3764803",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 22时35分]"
+        },
+        {
           "title": "金银价格暴跌的原因",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
@@ -593,18 +715,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 13时08分]"
-        },
-        {
-          "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
-          "url": "https://wallstreetcn.com/articles/3764803",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时02分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -629,6 +739,18 @@
           "time_info": "[18时07分 ~ 20时02分]"
         },
         {
+          "title": "如何应对金银暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E9%87%91%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时35分]"
+        },
+        {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
           "url": "https://www.cls.cn/detail/2278170",
           "source": "财联社热门",
@@ -651,17 +773,6 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "如何应对金银暴跌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E9%87%91%E9%93%B6%E6%9A%B4%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
-        },
-        {
           "title": "黄金价格创新高后暴跌背后的逻辑",
           "url": "https://www.toutiao.com/trending/7602407740257865279/",
           "source": "今日头条",
@@ -679,9 +790,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "MP材料美股盘前涨幅迅速扩大至5%，USAR涨6.7%，UUUU涨4.8%。 欧盟将向美国提议构建关键矿物合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3049172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
@@ -706,13 +828,35 @@
           "time_info": "07时58分"
         },
         {
+          "title": "Galaxy的CEO Novogratz：加密货币价格处于“区间底部”。",
+          "url": "https://wallstreetcn.com/livenews/3049170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2279540",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "默沙东第四季度调整后每股收益2.04美元。 第四季度每股收益（EPS）为1.19美元 第四季度销售额为164亿美元，同比增长5%，市场预期为161.7亿美元。 预计全年销售额为655亿至670亿美元，市场预期为675亿美元。 预计全年调整后每股收益（EPS）为5.00至5.15美元。 默沙东美股盘前一度跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3049101",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -770,12 +914,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "现货白银美盘继续发力，日内暴涨12.00%，现报88.63美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203212927383800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "沪银主力合约日内暴涨8.00%，现报22845.00元/千克。",
+          "url": "https://flash.jin10.com/detail/20260203212904225800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "纽约期银日内暴涨15.00%，现报88.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260203212856740800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全球资本瞄准中国资产 境内ETF出海引“活水”",
@@ -787,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "中共中央国务院：规范农产品直播带货",
+          "url": "https://www.toutiao.com/trending/7602584834587181110/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     }
