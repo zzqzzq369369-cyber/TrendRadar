@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-04T13:01:35.911222+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-02-04T15:36:01.120755+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "【早报】中央一号文件发布；深夜，黄金白银大反攻",
+          "url": "https://www.cls.cn/detail/2279730",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 15时36分]"
+        },
         {
           "title": "2026年中央一号文件发布",
           "url": "https://www.toutiao.com/trending/7602525523988103204/",
@@ -28,6 +40,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时08分 ~ 07时56分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 15时36分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -54,28 +78,26 @@
           "time_info": "[02时08分 ~ 06时04分]"
         },
         {
-          "title": "【早报】中央一号文件发布；深夜，黄金白银大反攻",
-          "url": "https://www.cls.cn/detail/2279730",
-          "source": "财联社热门",
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 13时01分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            5,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时55分 ~ 13时01分]"
+          "time_info": "[13时01分 ~ 15时36分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时36分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -89,6 +111,17 @@
           "time_info": "[02时08分 ~ 06时04分]"
         },
         {
+          "title": "中央一号文件发布：整治农村高额彩礼，今年有了新要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523740",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时36分]"
+        },
+        {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
           "url": "https://wallstreetcn.com/livenews/3049304",
           "source": "华尔街见闻-快讯",
@@ -100,15 +133,16 @@
           "time_info": "04时06分"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
+          "title": "总台2026年春晚主持人阵容发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B02026%E5%B9%B4%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            6,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时36分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -188,26 +222,16 @@
           "time_info": "04时06分"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "中央一号文件发布：整治农村高额彩礼，今年有了新要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32523740",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时36分]"
         },
         {
           "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
@@ -295,6 +319,30 @@
           "time_info": "[02时08分 ~ 07时56分]"
         },
         {
+          "title": "2026年中央一号文件发布，部署扎实推进乡村全面振兴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523727",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时08分 ~ 15时36分]"
+        },
+        {
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时36分]"
+        },
+        {
           "title": "2026年中央一号文件发布",
           "url": "https://www.baidu.com/s?wd=2026%E5%B9%B4%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
@@ -308,16 +356,15 @@
           "time_info": "[02时08分 ~ 06时04分]"
         },
         {
-          "title": "2026年中央一号文件发布，部署扎实推进乡村全面振兴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32523727",
-          "source": "澎湃新闻",
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            20
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 06时04分]"
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -331,17 +378,6 @@
           "time_info": "[02时08分 ~ 04时06分]"
         },
         {
-          "title": "总台2026年春晚主持人阵容发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B02026%E5%B9%B4%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
           "url": "https://wallstreetcn.com/livenews/3049297",
           "source": "华尔街见闻-快讯",
@@ -351,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "英伟达(NVDA.O)首席执行官：人工智能将促使能源成本降低。",
@@ -386,13 +411,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "涉及智能网联汽车、生命健康等领域 32项国家计量技术规范发布",
+          "url": "https://wallstreetcn.com/livenews/3049654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -458,7 +494,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -472,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
-          "url": "https://www.cls.cn/detail/2279757",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -502,7 +527,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -535,7 +560,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -656,7 +681,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -708,7 +733,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
@@ -717,11 +742,23 @@
           "ranks": [
             5,
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时08分 ~ 13时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时08分 ~ 15时36分]"
+        },
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 15时36分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -733,17 +770,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时08分 ~ 06时04分]"
-        },
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 13时01分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -955,7 +981,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -993,6 +1019,28 @@
           "time_info": "04时06分"
         },
         {
+          "title": "纽约期银日内暴涨7.00%，现报89.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260204145241306800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "现货白银日内大涨4%，现报88.62美元/盎司。纽约期银日内暴涨6%，现报88.32美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260204144847165800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3049320",
           "source": "华尔街见闻-快讯",
@@ -1014,11 +1062,12 @@
           "url": "https://wallstreetcn.com/articles/3764895",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时36分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我确实担心美国在开源人工智能领域没有处于领先地位。",
