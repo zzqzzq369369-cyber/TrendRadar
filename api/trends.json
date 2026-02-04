@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:56:14.173232+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-02-04T13:01:35.911222+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 51,
+      "match_count": 62,
       "titles": [
         {
           "title": "2026年中央一号文件发布",
@@ -54,6 +54,30 @@
           "time_info": "[02时08分 ~ 06时04分]"
         },
         {
+          "title": "【早报】中央一号文件发布；深夜，黄金白银大反攻",
+          "url": "https://www.cls.cn/detail/2279730",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时01分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时01分]"
+        },
+        {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764779",
           "source": "华尔街见闻",
@@ -65,28 +89,6 @@
           "time_info": "[02时08分 ~ 06时04分]"
         },
         {
-          "title": "【早报】中央一号文件发布；深夜，黄金白银大反攻",
-          "url": "https://www.cls.cn/detail/2279730",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
-        },
-        {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
           "url": "https://wallstreetcn.com/livenews/3049304",
           "source": "华尔街见闻-快讯",
@@ -96,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -148,7 +161,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -175,6 +188,28 @@
           "time_info": "04时06分"
         },
         {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "中央一号文件发布：整治农村高额彩礼，今年有了新要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32523740",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
           "url": "https://wallstreetcn.com/livenews/3049262",
           "source": "华尔街见闻-快讯",
@@ -192,7 +227,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -296,6 +331,17 @@
           "time_info": "[02时08分 ~ 04时06分]"
         },
         {
+          "title": "总台2026年春晚主持人阵容发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%BB%E5%8F%B02026%E5%B9%B4%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
           "url": "https://wallstreetcn.com/livenews/3049297",
           "source": "华尔街见闻-快讯",
@@ -305,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "英伟达(NVDA.O)首席执行官：人工智能将促使能源成本降低。",
@@ -324,9 +381,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
@@ -379,9 +447,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204115345286800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
@@ -395,6 +474,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
           "url": "https://flash.jin10.com/detail/20260204033202172800",
           "source": "金十数据",
@@ -404,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "OpenAI：ChatGPT有关问题现已解决。",
+          "url": "https://flash.jin10.com/detail/20260204115251438800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "2026 年中央一号文件发布，首提「常态化精准帮扶」，如何解读？还有哪些新的举措值得关注？",
@@ -428,6 +529,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
+          "url": "https://flash.jin10.com/detail/20260204115113569800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3049339",
           "source": "华尔街见闻-快讯",
@@ -445,7 +557,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -478,7 +590,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -511,7 +623,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -522,7 +634,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -533,9 +645,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "GAI周延儿子柚柚近照",
+          "url": "https://s.weibo.com/weibo?q=%23GAI%E5%91%A8%E5%BB%B6%E5%84%BF%E5%AD%90%E6%9F%9A%E6%9F%9A%E8%BF%91%E7%85%A7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
@@ -555,7 +678,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -566,7 +689,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -577,7 +700,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
@@ -585,7 +708,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "沪指涨1%，太空光伏、算力硬件爆发，寒武纪跌超9%，恒科指跌超1%，互联网平台盘中齐跳水，沪银暴跌16%",
@@ -593,11 +716,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时08分 ~ 07时56分]"
+          "appearance_count": 6,
+          "time_info": "[02时08分 ~ 13时01分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -611,6 +735,17 @@
           "time_info": "[02时08分 ~ 06时04分]"
         },
         {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时01分]"
+        },
+        {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -622,17 +757,6 @@
           "time_info": "[02时08分 ~ 06时04分]"
         },
         {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
-        },
-        {
           "title": "【超微电脑上调全年净销售指引，股价盘后涨8%】超微电脑第二财季净销售126.8亿美元，分析师预期104.3亿美元。 预计全年净销售至少400亿美元，公司原本预计至少360亿美元。 预计第三财季净销售至少123亿美元，分析师预期102.5亿美元。 超微电脑美股盘后涨8%。",
           "url": "https://wallstreetcn.com/livenews/3049352",
           "source": "华尔街见闻-快讯",
@@ -642,6 +766,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时01分]"
         },
         {
           "title": "（美股）费城金银指数收涨4.63%，报398.43点。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.29%，报2815.40点。 （美股）原材料指数收涨4.04%，金属与矿业指数收涨5.35%。",
@@ -701,17 +837,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时08分 ~ 06时04分]"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
         },
         {
           "title": "比特币出现V型走势，在跌穿7.3万美元之后“直线”回升，目前收复7.5万美元关口，当前跌幅不足4.3%。",
@@ -824,6 +949,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "“大空头”巴里警告比特币价格暴跌可能引发连锁反应",
+          "url": "https://wallstreetcn.com/livenews/3049534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
           "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
           "url": "https://wallstreetcn.com/livenews/3049332",
           "source": "华尔街见闻-快讯",
@@ -871,8 +1007,19 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
         {
           "title": "OpenAI创始人奥尔特曼：我确实担心美国在开源人工智能领域没有处于领先地位。",
           "url": "https://flash.jin10.com/detail/20260204013737107800",
