@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:10:08.673782+08:00",
-  "total_titles_processed": 1945,
+  "generated_at": "2026-02-05T23:40:45.354341+08:00",
+  "total_titles_processed": 2066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时27分 ~ 22时10分]"
+          "appearance_count": 15,
+          "time_info": "[07时27分 ~ 23时40分]"
         },
         {
           "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 22时10分]"
+          "appearance_count": 14,
+          "time_info": "[10时01分 ~ 23时40分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 06时28分]"
+        },
+        {
+          "title": "宁波发布小洛熙事件处理结果",
+          "url": "https://news.ifeng.com/c/8qUvUj7K9UH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 23时40分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时49分 ~ 07时27分]"
-        },
-        {
-          "title": "宁波发布小洛熙事件处理结果",
-          "url": "https://news.ifeng.com/c/8qUvUj7K9UH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时42分 ~ 22时10分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -158,6 +158,17 @@
           "time_info": "[15时52分 ~ 21时01分]"
         },
         {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时40分]"
+        },
+        {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
           "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
@@ -169,17 +180,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时55分 ~ 19时35分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时10分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -260,7 +260,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -282,7 +282,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -486,6 +486,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
+          "url": "https://wallstreetcn.com/articles/3765006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
           "url": "https://wallstreetcn.com/livenews/3050124",
           "source": "华尔街见闻-快讯",
@@ -495,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
+          "url": "https://www.cls.cn/detail/2281879",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -613,7 +635,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -638,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "提醒：欧洲央行行长拉加德新闻发布会结束。",
+          "url": "https://wallstreetcn.com/livenews/3050745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国劳工统计局：将1月份CPI报告发布日期重新安排至2月13日发布。",
@@ -690,7 +723,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -715,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "德国10年期国债收益率短线反弹，重回2.095%上方，日内整体转涨，欧洲央行行长拉加德新闻发布会开始后，一度跌至2.078%刷新日低。 欧元兑美元一度刷新日高至1.1820上方。 欧元兑英镑涨0.7%，有望创2025年8月份以来最大单日涨幅，报0.8709。",
+          "url": "https://wallstreetcn.com/livenews/3050739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "复星医药：控股子公司复宏汉霖与Eisai签订《许可协议》，由复宏汉霖授予Eisai于许可区域（即日本）及领域（即用于肿瘤适应症治疗）开发、生产及商业化斯鲁利单抗注射液的权利。根据约定，Eisai应就许可产品向复宏汉霖支付至多1.55亿美元不可退还的首付款、监管里程碑款项。",
@@ -753,7 +797,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -783,18 +827,6 @@
           "time_info": "[05时32分 ~ 22时10分]"
         },
         {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 10时01分]"
-        },
-        {
           "title": "解读白银暴涨暴跌背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%99%BD%E9%93%B6%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
@@ -805,8 +837,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 22时10分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 23时40分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时01分]"
         },
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -825,11 +869,12 @@
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "appearance_count": 3,
+          "time_info": "[22时09分 ~ 23时40分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -852,6 +897,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
+        },
+        {
+          "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
+          "url": "https://www.cls.cn/detail/2281946",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时09分 ~ 23时40分]"
         },
         {
           "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -904,6 +961,31 @@
           "time_info": "[16时42分 ~ 19时35分]"
         },
         {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时40分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时09分 ~ 23时40分]"
+        },
+        {
           "title": "软件股恐慌蔓延至全球股市，韩股收跌3.9%，白银暴跌17%，铁矿石下探至100美元",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -927,40 +1009,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 07时27分]"
-        },
-        {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时10分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
-          "url": "https://www.cls.cn/detail/2281946",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
@@ -1052,7 +1100,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1079,6 +1127,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3050756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "比特币持续下跌 加密市场正陷入一场“信仰危机”",
           "url": "https://www.cls.cn/detail/2281264",
           "source": "财联社热门",
@@ -1101,6 +1160,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "Strategy跌7%，Coinbase跌4.9%，2月5日稍早，比特币跌穿70000美元整数位心理关口。",
+          "url": "https://wallstreetcn.com/livenews/3050754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "百度将派发股息 美股盘后涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%B0%86%E6%B4%BE%E5%8F%91%E8%82%A1%E6%81%AF+%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
@@ -1112,13 +1182,24 @@
           "time_info": "10时01分"
         },
         {
+          "title": "美股三大股指均跌超1%，纳指跌1.7%，标普500指数跌1.28%。",
+          "url": "https://flash.jin10.com/detail/20260205231307246800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "周四美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3050714",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时10分"
         },
@@ -1204,11 +1285,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 22时10分]"
+          "appearance_count": 9,
+          "time_info": "[15时52分 ~ 23时40分]"
         },
         {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
