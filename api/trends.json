@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T14:58:22.688845+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-02-05T15:52:48.474586+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "中央广播电视总台《2026年春节联欢晚会》主持人阵容发布",
@@ -46,6 +46,17 @@
           "time_info": "[00时49分 ~ 07时27分]"
         },
         {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 15时52分]"
+        },
+        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -68,19 +79,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 14时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 15时52分]"
         },
         {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时27分 ~ 14时58分]"
+          "time_info": "[10时01分 ~ 15时52分]"
         },
         {
           "title": "2026年NBA全明星球衣发布",
@@ -108,17 +119,6 @@
           "time_info": "[00时49分 ~ 07时27分]"
         },
         {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 14时58分]"
-        },
-        {
           "title": "19990美元起！贾跃亭发布人形机器人",
           "url": "https://www.toutiao.com/trending/7602939814740754441/",
           "source": "今日头条",
@@ -128,6 +128,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 15时52分]"
+        },
+        {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 15时52分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
@@ -150,31 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 14时58分]"
-        },
-        {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 14时58分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -232,8 +233,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 15时52分]"
+        },
+        {
+          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时55分 ~ 14时58分]"
+          "time_info": "[13时55分 ~ 15时52分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -307,17 +319,6 @@
           "time_info": "[05时32分 ~ 06时28分]"
         },
         {
-          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
           "title": "财政部等三部门发布《关于海南自由贸易港岛内居民消费的进境商品“零关税”政策的通知》",
           "url": "https://wallstreetcn.com/livenews/3050334",
           "source": "华尔街见闻-快讯",
@@ -340,6 +341,17 @@
           "time_info": "04时37分"
         },
         {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
           "url": "https://wallstreetcn.com/livenews/3050124",
           "source": "华尔街见闻-快讯",
@@ -349,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -393,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "我国牵头发布多项起重机领域国际标准",
+          "url": "https://wallstreetcn.com/livenews/3050429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "美国劳工部：非农将于2月11日发布，CPI数据改至2月13日公布",
@@ -512,6 +546,20 @@
           "time_info": "[00时53分 ~ 06时28分]"
         },
         {
+          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时32分 ~ 15时52分]"
+        },
+        {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
           "url": "https://www.cls.cn/detail/2280791",
           "source": "财联社热门",
@@ -524,20 +572,6 @@
           "time_info": "[00时49分 ~ 10时01分]"
         },
         {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时32分 ~ 14时58分]"
-        },
-        {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
           "url": "https://www.cls.cn/detail/2280969",
           "source": "财联社热门",
@@ -546,8 +580,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 15时52分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -773,7 +807,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -810,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     }
