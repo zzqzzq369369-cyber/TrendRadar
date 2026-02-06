@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:46:30.699202+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-02-06T16:41:04.565553+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -41,6 +41,17 @@
           "time_info": "[00时46分 ~ 05时29分]"
         },
         {
+          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
+          "url": "https://wallstreetcn.com/articles/3765096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时41分]"
+        },
+        {
           "title": "UP主们用AI办了场春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -48,11 +59,12 @@
             3,
             2,
             22,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时46分 ~ 15时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 16时41分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -69,15 +81,17 @@
           "time_info": "[00时46分 ~ 07时23分]"
         },
         {
-          "title": "擅长金融研究！Anthropic发布Claude Opus4.6，金融数据库FactSet、汤森路透持续重挫",
-          "url": "https://wallstreetcn.com/articles/3765096",
-          "source": "华尔街见闻",
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
           "ranks": [
-            3
+            6,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时41分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -105,16 +119,29 @@
           "time_info": "[07时23分 ~ 15时46分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时46分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时41分]"
+        },
+        {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时41分]"
         },
         {
           "title": "唐宫奇案剧宣闯入ai赛道",
@@ -143,17 +170,6 @@
           "time_info": "[09时59分 ~ 15时46分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时46分]"
-        },
-        {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -171,7 +187,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -185,19 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时46分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -403,6 +406,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "影石“Pocket”将于2026上半年发布，确认带长焦功能",
+          "url": "https://wallstreetcn.com/livenews/3051264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
           "url": "https://flash.jin10.com/detail/20260206012934439800",
           "source": "金十数据",
@@ -464,7 +478,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -585,6 +599,29 @@
           "time_info": "[00时46分 ~ 09时59分]"
         },
         {
+          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时41分]"
+        },
+        {
+          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
+          "url": "https://wallstreetcn.com/articles/3765079",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时41分]"
+        },
+        {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2282073",
           "source": "财联社热门",
@@ -597,15 +634,18 @@
           "time_info": "[00时46分 ~ 12时21分]"
         },
         {
-          "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
-          "url": "https://wallstreetcn.com/articles/3765023",
-          "source": "华尔街见闻",
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            3,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时46分]"
+          "appearance_count": 8,
+          "time_info": "[09时59分 ~ 16时41分]"
         },
         {
           "title": "【早报】深夜，贵金属、原油、比特币全线重挫；八部门发文！事关中药工业高质量发展",
@@ -632,18 +672,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时46分 ~ 07时23分]"
-        },
-        {
-          "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
-          "url": "https://wallstreetcn.com/articles/3765079",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时46分]"
         },
         {
           "title": "美股收盘：纳指连续三天均跌超1%",
@@ -681,11 +709,12 @@
           "ranks": [
             20,
             17,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时46分 ~ 15时46分]"
+          "appearance_count": 14,
+          "time_info": "[02时46分 ~ 16时41分]"
         },
         {
           "title": "美股",
@@ -714,19 +743,6 @@
           "time_info": "[00时46分 ~ 09时59分]"
         },
         {
-          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
-          "url": "https://www.cls.cn/detail/2282354",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时46分]"
-        },
-        {
           "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
           "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
@@ -734,8 +750,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 15时46分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 16时41分]"
+        },
+        {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -747,18 +775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
-          "url": "https://www.zhihu.com/question/2002848288005718086",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 15时46分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
@@ -1026,7 +1042,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
