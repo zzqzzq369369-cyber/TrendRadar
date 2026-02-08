@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-08T18:26:59.615986+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-02-08T19:23:00.613620+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时03分 ~ 19时23分]"
+        },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
           "url": "https://wallstreetcn.com/livenews/3051748",
@@ -35,22 +50,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 18时26分]"
-        },
-        {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时03分 ~ 18时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 19时23分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
@@ -62,8 +63,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时48分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时48分 ~ 19时23分]"
+        },
+        {
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 19时23分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -81,18 +96,18 @@
           "time_info": "[06时25分 ~ 15时39分]"
         },
         {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8,
-            5,
-            4
+            15,
+            13,
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时48分 ~ 19时23分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -126,6 +141,20 @@
           "time_info": "[06时25分 ~ 15时39分]"
         },
         {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时23分]"
+        },
+        {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
           "url": "https://wallstreetcn.com/articles/3765198",
           "source": "华尔街见闻",
@@ -137,41 +166,28 @@
           "time_info": "[00时29分 ~ 05时25分]"
         },
         {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            13,
-            12
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时48分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 19时23分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
           "url": "https://wallstreetcn.com/livenews/3051816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时26分]"
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时23分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -199,18 +215,6 @@
           "time_info": "[14时48分 ~ 16时32分]"
         },
         {
-          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
-          "url": "https://wallstreetcn.com/articles/3765244",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时26分]"
-        },
-        {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
           "url": "https://flash.jin10.com/detail/20260208081050471800",
           "source": "金十数据",
@@ -224,6 +228,29 @@
           "time_info": "[10时28分 ~ 14时48分]"
         },
         {
+          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
+          "url": "https://flash.jin10.com/detail/20260208172718886800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时23分]"
+        },
+        {
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
           "url": "https://www.cls.cn/detail/2283686",
           "source": "财联社热门",
@@ -235,6 +262,28 @@
           "time_info": "[07时29分 ~ 10时28分]"
         },
         {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
           "title": "何同学谢谢AI请客",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E8%B0%A2%E8%B0%A2AI%E8%AF%B7%E5%AE%A2%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -244,17 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 17时30分]"
-        },
-        {
-          "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
-          "url": "https://flash.jin10.com/detail/20260208172718886800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
@@ -329,16 +367,28 @@
           "time_info": "[00时29分 ~ 06时25分]"
         },
         {
+          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
+          "url": "https://www.cls.cn/detail/2283800",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时23分]"
+        },
+        {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 18时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 19时23分]"
         },
         {
           "title": "2026 年 1 月份广汽本田销量再次暴跌 70% 至 4558 辆，未受到新能源车购置税提振，如何看待这一结果？",
@@ -356,15 +406,16 @@
           "time_info": "[10时28分 ~ 18时26分]"
         },
         {
-          "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
-          "url": "https://www.cls.cn/detail/2283800",
-          "source": "财联社热门",
+          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
+          "url": "https://wallstreetcn.com/articles/3765240",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时26分]"
+          "time_info": "[14时48分 ~ 19时23分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -376,18 +427,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 06时25分]"
-        },
-        {
-          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
-          "url": "https://wallstreetcn.com/articles/3765240",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时48分 ~ 18时26分]"
         },
         {
           "title": "华尔街分析师称比特币或跌至零美元",
@@ -533,8 +572,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 18时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 19时23分]"
         },
         {
           "title": "程序员自己都在抄代码，为什么还要用变态面试题为难求职者？",
@@ -557,11 +596,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 19时23分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
