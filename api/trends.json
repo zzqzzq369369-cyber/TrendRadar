@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T13:03:21.617011+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-02-08T14:48:48.178453+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -17,11 +17,12 @@
             4,
             5,
             15,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时25分 ~ 14时48分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -34,8 +35,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 14时48分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -51,6 +52,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时29分]"
+        },
+        {
+          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
+          "url": "https://wallstreetcn.com/articles/3765226",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 14时48分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -71,25 +87,24 @@
             1,
             2,
             11,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 13时03分]"
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 14时48分]"
         },
         {
-          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
-          "url": "https://wallstreetcn.com/articles/3765226",
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5,
-            4
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 13时03分]"
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 14时48分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -110,11 +125,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -128,15 +144,15 @@
           "time_info": "[07时29分 ~ 10时28分]"
         },
         {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
+          "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
+          "url": "https://wallstreetcn.com/articles/3765225",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "14时48分"
         },
         {
           "title": "预制菜国标征求意见稿发布，对餐饮行业有何影响？按此标准，哪些品牌已经步入预制菜行列了？",
@@ -150,13 +166,35 @@
           "time_info": "00时29分"
         },
         {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
           "title": "沈月说身边人都在用千问AI点奶茶",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E8%AF%B4%E8%BA%AB%E8%BE%B9%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%94%A8%E5%8D%83%E9%97%AEAI%E7%82%B9%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -170,12 +208,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "“AI.com”域名卖出7000万美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -197,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 13时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 14时48分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -218,7 +267,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -228,11 +277,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
         },
         {
           "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
@@ -242,8 +292,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
         },
         {
           "title": "韩国加密货币交易所Bithumb误发62万枚比特币，价值约440亿美元，已追回99.7%",
@@ -251,11 +301,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
         },
         {
           "title": "韩员工手滑发62万枚比特币",
@@ -264,9 +315,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "史诗级失误：韩国交易所“手滑”发出440亿美元比特币",
+          "url": "https://wallstreetcn.com/articles/3765240",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "韩国加密货币交易所 Bithumb 误发 62 万枚比特币，如何评价这一乌龙事件？为何会造成比特币价格闪崩？",
+          "url": "https://www.zhihu.com/question/2003781811025700367",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "韩员工误发超400亿美元比特币",
@@ -351,8 +424,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 13时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 14时48分]"
+        },
+        {
+          "title": "程序员自己都在抄代码，为什么还要用变态面试题为难求职者？",
+          "url": "https://www.zhihu.com/question/1994417989173389039",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时28分 ~ 14时48分]"
         },
         {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
@@ -365,18 +451,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 10时28分]"
-        },
-        {
-          "title": "程序员自己都在抄代码，为什么还要用变态面试题为难求职者？",
-          "url": "https://www.zhihu.com/question/1994417989173389039",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 13时03分]"
         }
       ]
     }
