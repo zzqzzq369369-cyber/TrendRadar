@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-09T19:44:20.423460+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-02-09T21:07:50.941745+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 19时44分]"
-        },
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
           "url": "https://wallstreetcn.com/articles/3765241",
@@ -40,6 +29,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 07时31分]"
+        },
+        {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 21时07分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -68,6 +69,22 @@
           "time_info": "[12时59分 ~ 19时44分]"
         },
         {
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 21时07分]"
+        },
+        {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
           "source": "澎湃新闻",
@@ -78,21 +95,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 06时27分]"
-        },
-        {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 19时44分]"
         },
         {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
@@ -136,6 +138,20 @@
           "time_info": "[00时31分 ~ 10时06分]"
         },
         {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时12分 ~ 21时07分]"
+        },
+        {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
           "url": "https://wallstreetcn.com/articles/3765254",
           "source": "华尔街见闻",
@@ -150,17 +166,17 @@
           "time_info": "[10时06分 ~ 19时44分]"
         },
         {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
           "ranks": [
-            6,
-            4,
-            3
+            9,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时12分 ~ 19时44分]"
+          "time_info": "[15时57分 ~ 21时07分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -219,29 +235,30 @@
           "time_info": "[00时31分 ~ 10时06分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 19时44分]"
-        },
-        {
           "title": "AIGC整活新春联欢会",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时44分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时07分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 21时07分]"
         },
         {
           "title": "报道：苹果计划于2月23日当周向开发者发布iOS 26.4测试版",
@@ -276,18 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时57分 ~ 19时44分]"
         },
         {
           "title": "这会是改变视频行业的AI吗",
@@ -325,6 +330,30 @@
           "time_info": "[00时31分 ~ 04时27分]"
         },
         {
+          "title": "百大厨神年夜饭菜谱发布",
+          "url": "https://www.douyin.com/hot/2394539",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时07分]"
+        },
+        {
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 21时07分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-09）",
           "url": "https://flash.jin10.com/detail/20260209120019975800",
           "source": "金十数据",
@@ -335,6 +364,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 14时12分]"
+        },
+        {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 21时07分]"
         },
         {
           "title": "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十七批），小米SU7、比亚迪方程豹钛3等多款车型在列。",
@@ -372,29 +414,6 @@
           "time_info": "[00时31分 ~ 01时26分]"
         },
         {
-          "title": "百大厨神年夜饭菜谱发布",
-          "url": "https://www.douyin.com/hot/2394539",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时44分]"
-        },
-        {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 19时44分]"
-        },
-        {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
           "url": "https://www.cls.cn/detail/2284689",
           "source": "财联社热门",
@@ -416,17 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
         },
         {
           "title": "摩根士丹利：美股科技股抛售后人工智能板块存在机遇",
@@ -457,7 +465,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -512,9 +520,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "高盛：AI焦虑引发抛售潮 对冲基金创纪录做空美股",
+          "url": "https://flash.jin10.com/detail/20260209204658735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "AI应用概念股午后持续拉升，A股方面，东方国信直线涨停，荣信文化、中文在线此前封板，壹网壹创、万兴科技、安诺其跟涨；港股方面，智谱涨超26%，金山云涨超10%，MINIMAX-WP涨近10%。",
@@ -545,9 +564,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "千家人AI购物实录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%AE%B6%E4%BA%BAAI%E8%B4%AD%E7%89%A9%E5%AE%9E%E5%BD%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
@@ -572,13 +602,24 @@
           "time_info": "14时12分"
         },
         {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "广期所发布关于多晶硅期货PS2702、碳酸锂期货LC2702、铂期货PT2702、钯期货PD2702合约有关事项的公告",
           "url": "https://wallstreetcn.com/livenews/3052272",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -589,15 +630,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "瑞风新能源：拟投资约人民币240亿元建设宣化人工智能算力中心项目",
+          "url": "https://wallstreetcn.com/livenews/3052308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "币圈超级乌龙指：奖金单位错输成比特币 交易所狂撒逾400亿美元",
@@ -684,9 +736,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
@@ -725,13 +788,24 @@
           "time_info": "[14时12分 ~ 15时57分]"
         },
         {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美股内存芯片制造商盘前走低，闪迪(SNDK.O)跌1.3%，希捷科技(STX.O)跌1.2%。",
           "url": "https://flash.jin10.com/detail/20260209190334515800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -771,62 +845,8 @@
       ]
     },
     {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 07时31分]"
-        },
-        {
-          "title": "码农圈出神人:捧代码踩中文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350431&amp;topic_name=%E7%A0%81%E5%86%9C%E5%9C%88%E5%87%BA%E7%A5%9E%E4%BA%BA%3A%E6%8D%A7%E4%BB%A3%E7%A0%81%E8%B8%A9%E4%B8%AD%E6%96%87",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时57分 ~ 19时44分]"
-        },
-        {
-          "title": "开源证券：牛市颠簸期，“守正”投资为先",
-          "url": "https://wallstreetcn.com/livenews/3051805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时27分]"
-        },
-        {
-          "title": "AI应用端开盘大涨，荣信文化、中文在线、掌阅科技、海看股份、风语筑等多股竞价涨停，当虹科技涨超10%，消息面上，开源证券发布研报称，字节跳动在即梦平台上线Seedance2.0视频生成模型，引发AI产业界广泛测评与讨论，且实测效果惊艳。",
-          "url": "https://wallstreetcn.com/livenews/3051971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "未来能赚钱的行业有哪些",
@@ -854,6 +874,17 @@
           "time_info": "[15时57分 ~ 18时07分]"
         },
         {
+          "title": "与企业共同出海 讲中国发展故事 界面财联社发布全链路中企出海服务矩阵",
+          "url": "https://www.cls.cn/detail/2284640",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "财政部发布关于跨境电子商务出口退运商品税收优惠政策的公告",
           "url": "https://wallstreetcn.com/livenews/3052232",
           "source": "华尔街见闻-快讯",
@@ -863,6 +894,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 07时31分]"
+        },
+        {
+          "title": "码农圈出神人:捧代码踩中文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350431&amp;topic_name=%E7%A0%81%E5%86%9C%E5%9C%88%E5%87%BA%E7%A5%9E%E4%BA%BA%3A%E6%8D%A7%E4%BB%A3%E7%A0%81%E8%B8%A9%E4%B8%AD%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时57分 ~ 21时07分]"
+        },
+        {
+          "title": "开源证券：牛市颠簸期，“守正”投资为先",
+          "url": "https://wallstreetcn.com/livenews/3051805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时27分]"
+        },
+        {
+          "title": "AI应用端开盘大涨，荣信文化、中文在线、掌阅科技、海看股份、风语筑等多股竞价涨停，当虹科技涨超10%，消息面上，开源证券发布研报称，字节跳动在即梦平台上线Seedance2.0视频生成模型，引发AI产业界广泛测评与讨论，且实测效果惊艳。",
+          "url": "https://wallstreetcn.com/livenews/3051971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         }
       ]
     }
