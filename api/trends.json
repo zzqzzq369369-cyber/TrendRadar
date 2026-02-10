@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T21:12:34.542535+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-02-10T22:58:33.651643+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "《黑神话：钟馗》发布 6 分钟实机预告，如何评价该预告中展现出的信息？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时03分 ~ 21时12分]"
+          "appearance_count": 11,
+          "time_info": "[13时03分 ~ 22时58分]"
         },
         {
           "title": "不要对AI说谢谢",
@@ -160,11 +161,12 @@
             10,
             15,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时03分 ~ 21时12分]"
+          "appearance_count": 11,
+          "time_info": "[13时03分 ~ 22时58分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -184,6 +186,49 @@
           "time_info": "[01时54分 ~ 16时56分]"
         },
         {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时58分]"
+        },
+        {
+          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
+          "url": "https://www.zhihu.com/question/2002714528765457419",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时58分]"
+        },
+        {
+          "title": "国新办发布《“一国两制”下香港维护国家安全的实践》白皮书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572527",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 22时58分]"
+        },
+        {
           "title": "百大厨神年夜饭菜谱发布",
           "url": "https://www.douyin.com/hot/2394539",
           "source": "抖音",
@@ -198,33 +243,6 @@
           "time_info": "[01时54分 ~ 10时23分]"
         },
         {
-          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
-          "url": "https://wallstreetcn.com/articles/3765363",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 21时12分]"
-        },
-        {
-          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
-          "url": "https://www.zhihu.com/question/2002714528765457419",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 21时12分]"
-        },
-        {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
           "url": "https://www.cls.cn/detail/2284689",
           "source": "财联社热门",
@@ -237,17 +255,16 @@
           "time_info": "[01时54分 ~ 07时36分]"
         },
         {
-          "title": "国新办发布《“一国两制”下香港维护国家安全的实践》白皮书",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572527",
-          "source": "澎湃新闻",
+          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
+          "url": "https://www.cls.cn/detail/2286121",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            15,
-            12
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时55分 ~ 21时12分]"
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 22时58分]"
         },
         {
           "title": "佰维存储：公司为Meta AI智能眼镜提供ROM+RAM存储器芯片",
@@ -261,18 +278,6 @@
           "time_info": "19时06分"
         },
         {
-          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
-          "url": "https://www.cls.cn/detail/2286121",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时12分]"
-        },
-        {
           "title": "光合组织启动国产算力与大模型联合攻关",
           "url": "https://wallstreetcn.com/livenews/3052784",
           "source": "华尔街见闻-快讯",
@@ -282,6 +287,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            4,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 22时58分]"
         },
         {
           "title": "不要对AI说谢谢",
@@ -317,18 +335,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时05分 ~ 21时12分]"
         },
         {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
@@ -415,6 +421,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "富国银行CFO：今年的行动并不依赖人工智能，人工智能带来的好处将在明年及以后显现。",
+          "url": "https://flash.jin10.com/detail/20260210222816368800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "韩国一公司用AI开发诊疗平台 可预防心脏病发作",
           "url": "https://wallstreetcn.com/livenews/3052637",
           "source": "华尔街见闻-快讯",
@@ -457,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "沪指震荡收涨六连阳，AI应用大爆发，太空光伏集体调整，恒指上涨0.5%，智谱暴涨近15%",
+          "url": "https://wallstreetcn.com/articles/3765360",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "千问发布最新图像模型Qwen-Image-2.0，超长文字渲染，摄影级真实质感",
@@ -558,6 +586,28 @@
           "time_info": "10时23分"
         },
         {
+          "title": "AI周星驰视频大量传播 经纪人质疑",
+          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
           "url": "https://flash.jin10.com/detail/20260210010437354800",
           "source": "金十数据",
@@ -657,13 +707,24 @@
           "time_info": "07时36分"
         },
         {
+          "title": "摩根大通策略师称对AI颠覆性的担忧过度，软件股有望反弹",
+          "url": "https://wallstreetcn.com/livenews/3053093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "“AI新大陆”正在向平民招手",
           "url": "https://www.toutiao.com/trending/7605168435990892082/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -674,7 +735,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -726,7 +787,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -737,8 +798,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时23分 ~ 21时12分]"
+          "appearance_count": 12,
+          "time_info": "[10时23分 ~ 22时58分]"
         },
         {
           "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
@@ -795,9 +856,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股盘中）",
@@ -895,6 +967,18 @@
           "time_info": "[06时35分 ~ 07时36分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时58分]"
+        },
+        {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3052510",
           "source": "华尔街见闻-快讯",
@@ -905,6 +989,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "美股开盘，道指涨0.11%，标普500指数涨0.13%，纳指涨0.1%。标普全球(SPGI.N)跌5.7%，2026年利润展望低于市场预期。指数提供商和分析公司股票跟跌，穆迪(MCO.N)跌6.89%。华纳兄弟探索公司(WBD.O)涨2.1%，派拉蒙新增收购额外补偿费用。",
+          "url": "https://flash.jin10.com/detail/20260210223027072800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
@@ -924,18 +1019,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2286272",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -949,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "网络股指数ETF涨0.92%，可选消费ETF涨0.67%，全球科技股指数ETF涨0.45%，科技行业ETF涨0.31%，在美股盘初领跑行业ETF，生物科技指数ETF则跌0.2%，全球航空业ETF跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
@@ -990,7 +1085,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1004,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "派拉蒙维持美股30美元收购华纳兄弟探索的报价不变，增加往外补偿费",
+          "url": "https://wallstreetcn.com/livenews/3053092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美股延续涨势，纳指上涨1%。",
@@ -1042,7 +1148,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "大V带货遭重锤，基金公司投放急刹车，营销生态最新调查",
@@ -1090,9 +1196,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "推动医疗出海，上海三甲医院亮相迪拜世界健康博览会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567906",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
