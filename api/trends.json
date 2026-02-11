@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T21:08:20.339250+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-02-11T22:53:22.788652+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -41,8 +41,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时12分 ~ 22时53分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时12分 ~ 21时08分]"
+          "time_info": "[13时02分 ~ 22时53分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -113,20 +125,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时09分 ~ 21时08分]"
-        },
-        {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时02分 ~ 21时08分]"
+          "appearance_count": 20,
+          "time_info": "[00时09分 ~ 22时53分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -168,6 +168,19 @@
           "time_info": "[10时12分 ~ 18时03分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时02分 ~ 22时53分]"
+        },
+        {
           "title": "《黑神话：钟馗》发布 6 分钟实机预告，如何评价该预告中展现出的信息？",
           "url": "https://www.zhihu.com/question/2004496502488327792",
           "source": "知乎",
@@ -181,19 +194,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 06时39分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时02分 ~ 21时08分]"
         },
         {
           "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
@@ -224,6 +224,18 @@
           "time_info": "[00时09分 ~ 05时42分]"
         },
         {
+          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
+          "url": "https://www.cls.cn/detail/2287511",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时53分]"
+        },
+        {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
           "url": "https://www.cls.cn/detail/2286559",
           "source": "财联社热门",
@@ -234,6 +246,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时12分 ~ 16时01分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时01分 ~ 22时53分]"
+        },
+        {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -253,18 +291,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
-          "url": "https://www.cls.cn/detail/2287511",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -280,20 +307,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时02分 ~ 18时03分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时01分 ~ 21时08分]"
         },
         {
           "title": "AI制图骗局",
@@ -382,6 +395,18 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时53分]"
+        },
+        {
           "title": "美国财政部在其官方网站发布了一项与委内瑞拉相关的通用许可，授权开展港口和机场运营所必需的某些交易。",
           "url": "https://flash.jin10.com/detail/20260211053603484800",
           "source": "金十数据",
@@ -456,7 +481,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -527,15 +552,37 @@
           "time_info": "00时10分"
         },
         {
+          "title": "中美AI“隔空开打”",
+          "url": "https://www.toutiao.com/trending/7605571340929601066/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "四川女生相亲焦虑获AI高能量安慰",
           "url": "https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%94%9F%E7%9B%B8%E4%BA%B2%E7%84%A6%E8%99%91%E8%8E%B7AI%E9%AB%98%E8%83%BD%E9%87%8F%E5%AE%89%E6%85%B0",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        },
+        {
+          "title": "微博发布2025年十大热搜“互联网人物” 雷军、罗永浩、刘强东位列前三",
+          "url": "https://wallstreetcn.com/livenews/3053788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "阶跃星辰把刚发布的大模型命名为 Flash，你怎么看？",
@@ -582,17 +629,6 @@
           "time_info": "18时03分"
         },
         {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
           "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
           "url": "https://www.zhihu.com/question/2003053229764732430",
           "source": "知乎",
@@ -626,6 +662,17 @@
           "time_info": "15时01分"
         },
         {
+          "title": "Principal资产管理分析师Seema Shah：在退休、移民动态变化和人工智能驱动的生产力提高等强大的结构性因素抑制就业增长的背景下，非农数据表明劳动力市场依然稳固。",
+          "url": "https://flash.jin10.com/detail/20260211220820282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
           "url": "https://flash.jin10.com/detail/20260211024100542800",
           "source": "金十数据",
@@ -635,6 +682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "MiniMax最新大模型M2.5上线Agent平台。 （硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3053783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -720,7 +778,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -739,7 +797,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -797,8 +855,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 22时53分]"
+        },
+        {
+          "title": "全天振幅36.3%！“疯狂ST股”11天暴涨336%，“拉萨天团”齐聚龙虎榜",
+          "url": "https://www.cls.cn/detail/2287278",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时03分 ~ 22时53分]"
+        },
+        {
+          "title": "美泰(MAT.O)暴跌达29%，创1999年以来最大盘中跌幅。",
+          "url": "https://flash.jin10.com/detail/20260211223151291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
@@ -810,18 +892,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "全天振幅36.3%！“疯狂ST股”11天暴涨336%，“拉萨天团”齐聚龙虎榜",
-          "url": "https://www.cls.cn/detail/2287278",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 21时08分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -920,6 +990,28 @@
           "time_info": "[06时39分 ~ 07时38分]"
         },
         {
+          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "1月非农大超预期 美股高开",
+          "url": "https://flash.jin10.com/detail/20260211223022292800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3053182",
           "source": "华尔街见闻-快讯",
@@ -948,7 +1040,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -959,7 +1051,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -973,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "财晓得｜当黄金开始暴涨暴跌，你得知道为何它这么“激动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549036",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "Coinbasee 投资主管警告称，约 32.7% 的比特币面临潜在的量子计算攻击风险，你怎么看？",
@@ -997,6 +1100,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3053787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
           "url": "https://wallstreetcn.com/livenews/3053171",
           "source": "华尔街见闻-快讯",
@@ -1017,6 +1131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "美国非农数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3053777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "现货白银日内暴涨6.00%，现报85.57美元/盎司。",
@@ -1103,7 +1228,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -1114,7 +1239,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         }
