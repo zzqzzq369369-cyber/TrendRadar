@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:01:28.420608+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-02-11T16:01:29.493590+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -97,8 +97,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时09分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时09分 ~ 16时01分]"
+        },
+        {
+          "title": "微信出新功能 以后删好友要注意了",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD+%E4%BB%A5%E5%90%8E%E5%88%A0%E5%A5%BD%E5%8F%8B%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时01分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -113,16 +125,27 @@
           "time_info": "[00时09分 ~ 06时39分]"
         },
         {
-          "title": "微信出新功能 以后删好友要注意了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%87%BA%E6%96%B0%E5%8A%9F%E8%83%BD+%E4%BB%A5%E5%90%8E%E5%88%A0%E5%A5%BD%E5%8F%8B%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BA%86",
-          "source": "百度热搜",
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时01分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时12分 ~ 15时01分]"
+          "time_info": "[13时02分 ~ 16时01分]"
         },
         {
           "title": "《黑神话：钟馗》发布 6 分钟实机预告，如何评价该预告中展现出的信息？",
@@ -140,29 +163,6 @@
           "time_info": "[00时09分 ~ 06时39分]"
         },
         {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 15时01分]"
-        },
-        {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时01分]"
-        },
-        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
@@ -176,6 +176,31 @@
           "time_info": "[00时09分 ~ 05时42分]"
         },
         {
+          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
+          "url": "https://www.cls.cn/detail/2286559",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时01分]"
+        },
+        {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时01分]"
+        },
+        {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
           "url": "https://flash.jin10.com/detail/20260211014445221800",
           "source": "金十数据",
@@ -187,16 +212,18 @@
           "time_info": "02时01分"
         },
         {
-          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
-          "url": "https://www.cls.cn/detail/2286559",
+          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
+          "url": "https://www.cls.cn/detail/2286616",
           "source": "财联社热门",
           "ranks": [
+            10,
             6,
-            4
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 15时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时12分 ~ 16时01分]"
         },
         {
           "title": "AI制图骗局",
@@ -237,18 +264,6 @@
           "time_info": "[02时01分 ~ 03时22分]"
         },
         {
-          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
-          "url": "https://www.cls.cn/detail/2286740",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时01分]"
-        },
-        {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
           "url": "https://wallstreetcn.com/livenews/3053187",
           "source": "华尔街见闻-快讯",
@@ -261,19 +276,6 @@
           "time_info": "[02时01分 ~ 03时22分]"
         },
         {
-          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
-          "url": "https://www.cls.cn/detail/2286616",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 15时01分]"
-        },
-        {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
           "url": "https://www.zhihu.com/question/2004629058894389561",
           "source": "知乎",
@@ -281,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时01分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -293,8 +295,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时01分]"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -398,6 +400,28 @@
           "time_info": "13时02分"
         },
         {
+          "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
+          "url": "https://www.cls.cn/detail/2286560",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
           "title": "报道：Alphabet有望筹资320亿美元，AI军备竞赛进入白热化阶段",
           "url": "https://wallstreetcn.com/livenews/3053132",
           "source": "华尔街见闻-快讯",
@@ -407,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "阶跃星辰把刚发布的大模型命名为 Flash，你怎么看？",
@@ -470,7 +505,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -503,9 +538,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "阿斯顿马丁发布2026F1新车",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%96%AF%E9%A1%BF%E9%A9%AC%E4%B8%81%E5%8F%91%E5%B8%832026F1%E6%96%B0%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "美财长：沃什领导下的美联储将密切关注AI对就业的影响",
@@ -536,7 +582,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -813,11 +859,12 @@
           "url": "https://www.toutiao.com/trending/7605157507811622954/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时01分]"
         }
       ]
     },
@@ -830,11 +877,12 @@
           "url": "https://wallstreetcn.com/livenews/3053495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 16时01分]"
         }
       ]
     }
