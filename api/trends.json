@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T01:58:55.411687+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-13T03:14:57.484274+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "欧洲航空安全局：此前发布的关于航空公司避免飞越伊朗领空的建议有效期延长至2026年3月31日。",
@@ -69,7 +69,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -80,9 +80,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "沙特阿美与微软签订备忘录，帮助推进工业AI。",
+          "url": "https://wallstreetcn.com/livenews/3054694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -104,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -116,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -127,42 +138,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
-        },
-        {
-          "title": "中国AI视频双雄并起",
-          "url": "https://www.toutiao.com/trending/7605961413458136639/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "贵州遵义市联合调查组发布仁怀市涉企有关问题的调查通报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32592578",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -172,8 +173,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -183,8 +184,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "哈尔滨小哥为早回家过年找AI替班",
@@ -192,11 +193,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -204,6 +206,18 @@
           "source": "贴吧",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
+        },
+        {
+          "title": "中国AI视频双雄并起",
+          "url": "https://www.toutiao.com/trending/7605961413458136639/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -227,7 +241,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -238,7 +252,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -265,13 +279,24 @@
           "time_info": "00时58分"
         },
         {
+          "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
           "url": "https://wallstreetcn.com/livenews/3054635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -285,23 +310,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
+          "url": "https://wallstreetcn.com/livenews/3054662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "Vital Knowledge分析师亚当·克里萨富利（Adam Crisafulli）认为：人工智能（AI）正在“摧毁那些面临被颠覆风险的传统行业的股价”。 虽然最初的担忧始于软件和服务行业，但现在运输行业也正受到冲击。",
+          "url": "https://wallstreetcn.com/livenews/3054661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美欧市场物流股集体跳水，成为“AI恐慌交易”又一受害者",
+          "url": "https://wallstreetcn.com/livenews/3054660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "春节机票预订暴涨 400%，大量外国游客涌入中国过年，是什么吸引了他们？",
           "url": "https://www.zhihu.com/question/2003049327480836197",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -310,9 +369,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时14分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -332,7 +391,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -344,8 +403,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "创业板涨超1%，算力硬件股全线大涨，恒科指跌超1%，智谱狂飙近30%、MINIMAX-WP暴涨15%，人民币升破6.9关口",
@@ -355,8 +414,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         },
         {
           "title": "现货黄金短线暴跌 分析师：原因不明",
@@ -376,7 +435,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -398,7 +457,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -420,9 +479,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "加密货币交易所Coinbase：用户目前无法购买、出售、交易。",
+          "url": "https://wallstreetcn.com/livenews/3054671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美股延续跌势，纳指跌超1.5%，标普500指数跌超1%，道指下跌0.7%。",
@@ -450,8 +520,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时14分]"
         }
       ]
     }
