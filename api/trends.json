@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:57:22.367462+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-02-17T16:48:58.704971+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 56,
+      "match_count": 64,
       "titles": [
         {
           "title": "今晚见！央视总台《2026年春节联欢晚会》节目单发布",
@@ -19,23 +19,24 @@
           "time_info": "[00时42分 ~ 13时57分]"
         },
         {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时48分]"
+        },
+        {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 15时57分]"
-        },
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 18,
@@ -61,11 +62,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 15时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时48分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -99,11 +101,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 15时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时48分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -181,6 +184,33 @@
           "time_info": "[00时42分 ~ 07时29分]"
         },
         {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时48分]"
+        },
+        {
+          "title": "苹果春季发布会落地上海",
+          "url": "https://www.douyin.com/hot/2403646",
+          "source": "抖音",
+          "ranks": [
+            2,
+            15,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时48分]"
+        },
+        {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
           "url": "https://wallstreetcn.com/livenews/3055799",
           "source": "华尔街见闻-快讯",
@@ -208,32 +238,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时42分 ~ 06时28分]"
-        },
-        {
-          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时57分]"
-        },
-        {
-          "title": "苹果春季发布会落地上海",
-          "url": "https://www.douyin.com/hot/2403646",
-          "source": "抖音",
-          "ranks": [
-            2,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时57分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -318,6 +322,19 @@
           "time_info": "[01时38分 ~ 03时32分]"
         },
         {
+          "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3055891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时48分]"
+        },
+        {
           "title": "据法新社：法国总统马克龙周二将开始对印度为期三天的访问，重点讨论人工智能合作以及可能达成的数十亿美元达索猎鹰战斗机交易。",
           "url": "https://flash.jin10.com/detail/20260217051608443800",
           "source": "金十数据",
@@ -328,18 +345,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
-        },
-        {
-          "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3055891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时57分]"
         },
         {
           "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
@@ -474,6 +479,28 @@
           "time_info": "[06时28分 ~ 07时29分]"
         },
         {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时48分]"
+        },
+        {
+          "title": "阿里发布新一代基模千问3.5，每百万Token低至0.8元",
+          "url": "https://www.cls.cn/detail/2290936",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
           "url": "https://flash.jin10.com/detail/20260217064752239800",
           "source": "金十数据",
@@ -502,9 +529,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "从模型到算力再到场景 AI点亮上海年味|2026新春走基层",
+          "url": "https://www.cls.cn/detail/2290743",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "印孚瑟斯：将为各公司开发并交付先进企业人工智能解决方案。",
@@ -535,7 +606,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -606,15 +677,15 @@
           "time_info": "13时57分"
         },
         {
-          "title": "当高定遇上AI，“上海定制”的变与不变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
-          "source": "澎湃新闻",
+          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
+          "url": "https://flash.jin10.com/detail/20260217160309287800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时57分"
+          "time_info": "16时48分"
         },
         {
           "title": "华尔街女股神：卖出AI的人都会后悔",
@@ -628,13 +699,24 @@
           "time_info": "10时01分"
         },
         {
+          "title": "印度方面表示，英伟达(NVDA.O)正在与一些人工智能基础设施/软件公司合作。",
+          "url": "https://flash.jin10.com/detail/20260217155637581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "印度的阿达尼计划到2035年投资1000亿美元建设人工智能数据中心。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3055895",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -648,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "阿达尼计划投资千亿美元建数据中心 瞄准印度AI领域的崛起机遇",
+          "url": "https://wallstreetcn.com/livenews/3055895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "博主：多数传统数字公司难享AI红利",
@@ -694,11 +787,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 15时57分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 16时48分]"
         },
         {
           "title": "加密货币市场周一冲高回落",
@@ -786,8 +880,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 15时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时48分]"
         }
       ]
     }
