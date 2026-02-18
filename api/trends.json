@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:28:41.578728+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-02-18T10:05:45.727125+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 60,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时05分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时05分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时05分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -62,11 +62,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时05分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -77,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时05分]"
         },
         {
           "title": "苹果春季发布会落地上海",
@@ -87,11 +88,12 @@
           "ranks": [
             13,
             15,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 10时05分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -123,9 +125,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
@@ -159,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "新西兰联储主席布雷曼将于十分钟后召开货币政策新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260218095000001800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -272,6 +296,17 @@
           "time_info": "[02时57分 ~ 04时45分]"
         },
         {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 10时05分]"
+        },
+        {
           "title": "美联储理事巴尔：从长远来看，人工智能应提高生产率和生活水平。",
           "url": "https://flash.jin10.com/detail/20260218014506909800",
           "source": "金十数据",
@@ -330,17 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时45分 ~ 05时36分]"
-        },
-        {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时28分]"
         },
         {
           "title": "美联储理事巴尔：强劲的生产率前景部分归功于人工智能的推动。",
@@ -402,6 +426,17 @@
           "time_info": "[06时31分 ~ 07时28分]"
         },
         {
+          "title": "日本首相高市早苗：日本与美国就贸易协议中5500亿美元承诺下的首轮投资项目达成一致。 项目包括工业用合成钻石、原油出口基础设施以及为人工智能数据中心提供能源的燃气发电。 这些项目将使日本和美国互利共赢。",
+          "url": "https://wallstreetcn.com/livenews/3056184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "美联储理事巴尔：迄今为止，几乎没有证据表明人工智能正在推高失业率。",
           "url": "https://flash.jin10.com/detail/20260218014436126800",
           "source": "金十数据",
@@ -435,6 +470,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "加拿大发布国防工业战略 强调提升自主能力",
+          "url": "https://flash.jin10.com/detail/20260218093809402800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "马斯克：Grok 4.2公测版现已可用，需手动选择使用。诚邀反馈。与前代不同，Grok 4.2具备快速学习能力，将每周更新迭代并发布说明。",
           "url": "https://flash.jin10.com/detail/20260218024102986800",
           "source": "金十数据",
@@ -444,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
+        },
+        {
+          "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
+          "url": "https://wallstreetcn.com/livenews/3056193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "美联储理事巴尔：应做好准备，应对人工智能对劳动力市场的颠覆。",
@@ -600,6 +657,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "用AI打开非遗里的中国年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%89%93%E5%BC%80%E9%9D%9E%E9%81%97%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "美联储戴利：美联储必须深入研究人工智能的影响，才能在未来做出正确的利率决策。",
           "url": "https://flash.jin10.com/detail/20260218033040854800",
           "source": "金十数据",
@@ -609,12 +677,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "印度AI峰会差评如潮",
+          "url": "https://www.toutiao.com/trending/7607984521316797978/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3056169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -771,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股盘中）",
