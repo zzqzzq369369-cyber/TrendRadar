@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T19:22:27.388205+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-02-21T20:45:03.982835+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 20时45分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -98,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 20时45分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -186,8 +186,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 20时45分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -217,18 +217,6 @@
           "time_info": "[03时37分 ~ 07时29分]"
         },
         {
-          "title": "中央气象台继续发布寒潮蓝色预警",
-          "url": "https://wallstreetcn.com/livenews/3057184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时22分]"
-        },
-        {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
@@ -243,6 +231,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 15时32分]"
+        },
+        {
+          "title": "中央气象台继续发布寒潮蓝色预警",
+          "url": "https://wallstreetcn.com/livenews/3057184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时45分]"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -260,15 +261,17 @@
           "time_info": "[07时29分 ~ 14时40分]"
         },
         {
-          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
-          "url": "https://flash.jin10.com/detail/20260221184309452800",
-          "source": "金十数据",
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
           "ranks": [
-            3
+            10,
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时45分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -325,6 +328,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时29分]"
+        },
+        {
+          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
+          "url": "https://flash.jin10.com/detail/20260221184309452800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时45分]"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时45分]"
         },
         {
           "title": "河南平顶山针对网传“15岁女孩被当街暴打”发布情况通报",
@@ -388,28 +415,15 @@
           "time_info": "[15时32分 ~ 16时31分]"
         },
         {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            7
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时22分]"
-        },
-        {
-          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
-          "url": "https://www.zhihu.com/question/2008176730532234790",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时22分]"
+          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "美国白宫发布行政命令，宣布将终止某些贸易税措施。",
@@ -515,8 +529,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时28分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[07时28分 ~ 20时45分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -540,8 +554,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 20时45分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -553,8 +567,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 19时22分]"
+          "appearance_count": 25,
+          "time_info": "[00时38分 ~ 20时45分]"
+        },
+        {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时40分 ~ 20时45分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -580,21 +609,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时38分 ~ 12时07分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时40分 ~ 19时22分]"
         },
         {
           "title": "中国游客赴日人数暴跌日媒回应没影响",
@@ -746,11 +760,12 @@
           "ranks": [
             5,
             12,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时45分]"
         },
         {
           "title": "美国总统特朗普考虑对贸易伙伴实施新版、跨境关税。 特朗普的盘算包括实施新的全面关税。 301关税是正在讨论的工具之一。 特朗普的助手们还考虑动用122条款加征关税（纽约时报）",
