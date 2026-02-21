@@ -1,807 +1,144 @@
 {
-  "generated_at": "2026-02-21T23:25:03.646440+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-02-22T00:29:22.890450+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
           "url": "https://www.cls.cn/detail/2292111",
           "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时38分 ~ 23时25分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 16时31分]"
-        },
-        {
-          "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
-          "url": "https://www.cls.cn/detail/2291708",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 17时29分]"
-        },
-        {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时38分 ~ 13时41分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            5,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时26分 ~ 23时25分]"
-        },
-        {
-          "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
-          "url": "https://wallstreetcn.com/articles/3765904",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时25分 ~ 19时22分]"
-        },
-        {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 15时32分]"
-        },
-        {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时38分 ~ 23时25分]"
-        },
-        {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时40分]"
-        },
-        {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.toutiao.com/trending/7607847863079108650/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            14,
-            28,
-            9,
-            29,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时29分]"
-        },
-        {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            13,
-            16,
-            14,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时45分 ~ 09时55分]"
-        },
-        {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时26分]"
-        },
-        {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时26分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            25,
-            26,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时38分 ~ 23时25分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 17时29分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "中央气象台继续发布寒潮蓝色预警",
           "url": "https://wallstreetcn.com/livenews/3057184",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            3,
-            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "金十提示：美国总统特朗普关税新闻发布会结束。",
-          "url": "https://flash.jin10.com/detail/20260221030926975800",
-          "source": "金十数据",
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            26
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时37分 ~ 07时29分]"
-        },
-        {
-          "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3057138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            20,
-            23,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 15时32分]"
-        },
-        {
-          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            24,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 14时40分]"
-        },
-        {
-          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
-          "url": "https://flash.jin10.com/detail/20260221184309452800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 22时26分]"
-        },
-        {
-          "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 12时07分]"
-        },
-        {
-          "title": "OpenAI：预计到2030年营收将超过2800亿美元",
-          "url": "https://flash.jin10.com/detail/20260221100811881800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            16,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 16时31分]"
-        },
-        {
-          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
-          "url": "https://www.zhihu.com/question/2008176730532234790",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 21时42分]"
-        },
-        {
-          "title": "中央气象台发布寒潮大风沙尘暴预警",
-          "url": "https://www.toutiao.com/trending/7608012136886878251/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            21,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时37分]"
-        },
-        {
-          "title": "网络安全股重挫，Anthropic发布Claude安全工具",
-          "url": "https://wallstreetcn.com/livenews/3057110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时29分]"
-        },
-        {
-          "title": "印度AI峰会为何引发全球群嘲",
-          "url": "https://www.toutiao.com/trending/7609263367261261318/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时44分 ~ 22时26分]"
-        },
-        {
-          "title": "河南平顶山针对网传“15岁女孩被当街暴打”发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32638961",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 17时29分]"
-        },
-        {
-          "title": "提醒：美国总统特朗普与关税相关的新闻发布会结束。",
-          "url": "https://wallstreetcn.com/livenews/3057085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 05时24分]"
-        },
-        {
-          "title": "Global X网络安全ETF收跌4.94%，报25.59美元，创2023年以来收盘新低，此前Anthropic发布大模型安全功能。",
-          "url": "https://wallstreetcn.com/livenews/3057115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 09时55分]"
-        },
-        {
-          "title": "报道：英伟达接近向OpenAI投资300亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 09时55分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "苹果官宣春季发布会 3 月 4 日落地上海，系首次在中国举办，对此你有哪些期待？",
           "url": "https://www.zhihu.com/question/2007050103865762395",
           "source": "知乎",
           "ranks": [
-            17,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时26分 ~ 23时25分]"
-        },
-        {
-          "title": "美媒嘲讽印度AI峰会如同闹剧",
-          "url": "https://www.toutiao.com/trending/7609182148255305259/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 16时31分]"
-        },
-        {
-          "title": "美国白宫发布行政命令，宣布将终止某些贸易税措施。",
-          "url": "https://flash.jin10.com/detail/20260221081602775800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 12时07分]"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普将于美国东部时间12:45（北京时间1:45）就最高法院的关税裁决举行新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20260221010104768800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "00时29分"
         },
         {
-          "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3057029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "提醒：美国总统特朗普将于美东时间2月20日12:45（北京时间21日01:45）举行新闻发布会，回应最高法院判决其关税政策违法一事。",
-          "url": "https://wallstreetcn.com/livenews/3057028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3057039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "美联储洛根：在劳动力方面，人工智能似乎并未取代工人。",
-          "url": "https://flash.jin10.com/detail/20260221015546689800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "微软任命AI高管执掌Xbox，重新致力于发展主机业务",
-          "url": "https://wallstreetcn.com/livenews/3057100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "OpenAI创始人点赞中国大模型",
-          "url": "https://www.toutiao.com/trending/7608951834689932827/",
-          "source": "今日头条",
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时38分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
         {
           "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时28分 ~ 23时25分]"
-        },
-        {
-          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时55分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
           "url": "https://wallstreetcn.com/articles/3765925",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6,
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时40分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
           "source": "财联社热门",
           "ranks": [
-            4,
-            5,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时38分 ~ 23时25分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时36分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 12时07分]"
-        },
-        {
-          "title": "中国游客赴日人数暴跌日媒回应没影响",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B5%B4%E6%97%A5%E4%BA%BA%E6%95%B0%E6%9A%B4%E8%B7%8C%E6%97%A5%E5%AA%92%E5%9B%9E%E5%BA%94%E6%B2%A1%E5%BD%B1%E5%93%8D&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            17,
-            20,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时29分]"
-        },
-        {
-          "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时45分]"
-        },
-        {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 04时31分]"
-        },
-        {
-          "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3057137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            21,
-            24,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 15时32分]"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 09时55分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3057139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时32分]"
-        },
-        {
-          "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
-          "url": "https://wallstreetcn.com/livenews/3057124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时26分 ~ 09时55分]"
-        },
-        {
-          "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
-          "url": "https://wallstreetcn.com/livenews/3057004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "美股走强，纳指现涨1%、标普500指数涨0.59%。",
-          "url": "https://flash.jin10.com/detail/20260220235256591800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "美国去年第四季度GDP增速为何暴跌",
-          "url": "https://www.toutiao.com/trending/7609184007351176750/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
           "url": "https://wallstreetcn.com/livenews/3057172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            12,
-            14,
-            21,
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 23时25分]"
-        },
-        {
-          "title": "美国总统特朗普考虑对贸易伙伴实施新版、跨境关税。 特朗普的盘算包括实施新的全面关税。 301关税是正在讨论的工具之一。 特朗普的助手们还考虑动用122条款加征关税（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3057051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "00时29分"
         }
       ]
     }
