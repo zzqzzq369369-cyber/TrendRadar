@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T17:29:14.768778+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-02-21T18:26:24.436385+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 18时26分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时25分 ~ 17时29分]"
+          "appearance_count": 14,
+          "time_info": "[06时25分 ~ 18时26分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -98,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 18时26分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -181,11 +181,12 @@
             23,
             25,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 18时26分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -229,6 +230,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 15时32分]"
+        },
+        {
+          "title": "中央气象台继续发布寒潮蓝色预警",
+          "url": "https://wallstreetcn.com/livenews/3057184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
@@ -408,6 +420,28 @@
           "time_info": "01时38分"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "ClaudeCode 之父称不再需要「planmode」，将对 AI 编程带来哪些变革？",
+          "url": "https://www.zhihu.com/question/2008176730532234790",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3057039",
           "source": "华尔街见闻-快讯",
@@ -466,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时28分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[07时28分 ~ 18时26分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -482,19 +516,6 @@
           "time_info": "[00时38分 ~ 06时26分]"
         },
         {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 17时29分]"
-        },
-        {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
@@ -504,8 +525,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 18时26分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 18时26分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -548,6 +582,21 @@
           "time_info": "[00时38分 ~ 07时29分]"
         },
         {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 18时26分]"
+        },
+        {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
@@ -568,20 +617,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时38分 ~ 04时31分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 17时29分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -694,11 +729,12 @@
           "url": "https://wallstreetcn.com/livenews/3057172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时26分]"
         },
         {
           "title": "美国总统特朗普考虑对贸易伙伴实施新版、跨境关税。 特朗普的盘算包括实施新的全面关税。 301关税是正在讨论的工具之一。 特朗普的助手们还考虑动用122条款加征关税（纽约时报）",
