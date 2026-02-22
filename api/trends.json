@@ -1,299 +1,66 @@
 {
-  "generated_at": "2026-02-22T23:25:21.208299+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-02-23T00:29:41.948189+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
           "url": "https://www.cls.cn/detail/2292111",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 23时25分]"
-        },
-        {
-          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
-          "url": "https://www.zhihu.com/question/2004982651719812885",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6,
-            5,
-            4,
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时48分 ~ 23时25分]"
-        },
-        {
-          "title": "苹果官宣春季发布会 3 月 4 日落地上海，系首次在中国举办，对此你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2007050103865762395",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            6,
-            5,
-            4,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 10时04分]"
-        },
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时03分 ~ 17时31分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
           "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时31分 ~ 23时25分]"
-        },
-        {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时36分 ~ 23时25分]"
-        },
-        {
-          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
-          "url": "https://www.cls.cn/detail/2291896",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 17时31分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时48分 ~ 23时25分]"
-        },
-        {
-          "title": "Seedance2.0重写全球AI版图",
-          "url": "https://www.douyin.com/hot/2407569",
-          "source": "抖音",
-          "ranks": [
-            13,
-            15,
-            16,
-            22,
-            23,
-            17,
-            30,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时03分 ~ 23时25分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时31分 ~ 23时25分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时30分 ~ 23时25分]"
-        },
-        {
-          "title": "中央气象台继续发布寒潮蓝色预警",
-          "url": "https://wallstreetcn.com/livenews/3057184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "智谱发布GLM-5技术报告，技术细节全公开",
-          "url": "https://wallstreetcn.com/livenews/3057260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            10,
-            11,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 23时25分]"
-        },
-        {
-          "title": "谷爱凌泪洒发布会",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%B3%AA%E6%B4%92%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
-          "url": "https://wallstreetcn.com/livenews/3057217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 15时36分]"
-        },
-        {
-          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
-          "url": "https://wallstreetcn.com/articles/3765936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 15时36分]"
-        },
-        {
-          "title": "在现实生活与工作场景中，AI 给过你哪些「看似正确实则荒谬或难以落地」的回答？",
-          "url": "https://www.zhihu.com/question/2003060035803116831",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时46分 ~ 17时31分]"
+          "time_info": "00时29分"
         },
         {
           "title": "智谱发布GLM-5技术细节：工程级智能，适配国产算力",
           "url": "https://wallstreetcn.com/articles/3765961",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "芯片初创公司 taalas 融资 1.69 亿美元研发 AI 芯片挑战英伟达，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2008005974397576586",
-          "source": "知乎",
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
-            14
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 23时25分]"
-        },
-        {
-          "title": "据华尔街日报：纽约市自2017年以来首次发布暴风雪预警。",
-          "url": "https://flash.jin10.com/detail/20260222081250346800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时52分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "韩美军方发生分歧，军演发布会被推迟",
@@ -303,71 +70,92 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
-          "url": "https://wallstreetcn.com/articles/3765927",
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "据美国哥伦比亚广播公司（CBS）：暴风雪威胁美国东海岸，纽约州、新泽西州和康涅狄格州发布暴风雪预警。",
-          "url": "https://flash.jin10.com/detail/20260222220140398800",
-          "source": "金十数据",
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "央视军事最新AI大片发布",
-          "url": "https://www.toutiao.com/trending/7608653159187300415/",
-          "source": "今日头条",
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
           "ranks": [
-            22
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "印度AI峰会为何引发全球群嘲",
-          "url": "https://www.toutiao.com/trending/7609263367261261318/",
-          "source": "今日头条",
+          "title": "Seedance2.0重写全球AI版图",
+          "url": "https://www.douyin.com/hot/2407569",
+          "source": "抖音",
           "ranks": [
-            29
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 05时23分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "如何看待飞碟社发布原神动画大致上线时间？",
           "url": "https://www.zhihu.com/question/2008592348859347404",
           "source": "知乎",
           "ranks": [
-            10
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时29分"
         },
         {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
           "ranks": [
-            30
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：暴风雪威胁美国东海岸，纽约州、新泽西州和康涅狄格州发布暴风雪预警。",
+          "url": "https://flash.jin10.com/detail/20260222220140398800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "智谱发布GLM-5技术报告，技术细节全公开",
+          "url": "https://wallstreetcn.com/livenews/3057260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -377,105 +165,29 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 10时04分]"
-        },
-        {
-          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
           "url": "https://wallstreetcn.com/articles/3765941",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时46分 ~ 23时25分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 19时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "乘联分会崔东树：中国汽车海外产销体系完成从“产品出海”到“产业出海”关键转型",
-          "url": "https://wallstreetcn.com/livenews/3057172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大一计算机新生怎么合理利用 GitHub？",
-          "url": "https://www.zhihu.com/question/11379810074",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "00时29分"
         }
       ]
     }
