@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T03:56:32.868051+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-02-24T04:44:04.483597+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         },
         {
           "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -36,11 +36,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -54,15 +55,26 @@
           "time_info": "02时02分"
         },
         {
-          "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
-          "url": "https://wallstreetcn.com/livenews/3057622",
+          "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
+          "url": "https://wallstreetcn.com/livenews/3057634",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时56分"
+          "time_info": "04时44分"
+        },
+        {
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         },
         {
           "title": "欧洲央行行长拉加德：欧洲仍可从人工智能中获益。",
@@ -76,26 +88,63 @@
           "time_info": "02时02分"
         },
         {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
+          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
+          "url": "https://wallstreetcn.com/livenews/3057632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         },
         {
           "title": "中央气象台发布暴雪、寒潮、大风、沙尘暴预警",
           "url": "https://www.cls.cn/detail/2292444",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
+        },
+        {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
+        },
+        {
+          "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
+          "url": "https://wallstreetcn.com/livenews/3057622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时44分]"
         },
         {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
@@ -110,60 +159,52 @@
           "time_info": "[00时57分 ~ 03时56分]"
         },
         {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
-        },
-        {
-          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
-        },
-        {
           "title": "拉加德：欧洲仍能极大受益于人工智能",
           "url": "https://wallstreetcn.com/livenews/3057615",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时44分]"
         },
         {
           "title": "美国务院对黎巴嫩发布最高级别旅行警告",
           "url": "https://wallstreetcn.com/livenews/3057606",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时44分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
           "url": "https://flash.jin10.com/detail/20260224031211079800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时44分]"
+        },
+        {
+          "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
+          "url": "https://flash.jin10.com/detail/20260224030646410800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时44分]"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -177,15 +218,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
-          "url": "https://flash.jin10.com/detail/20260224030646410800",
-          "source": "金十数据",
+          "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
+          "url": "https://wallstreetcn.com/livenews/3057628",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时56分"
+          "time_info": "04时44分"
         },
         {
           "title": "Altman为AI资源消耗辩护：耗水担忧是“假的”，且“人类也消耗能量”",
@@ -205,7 +246,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -256,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         },
         {
           "title": "LCK杯票价暴跌,黄牛上天台",
@@ -267,8 +308,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -280,6 +321,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2292918",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         },
         {
           "title": "股价暴跌市值蒸发近半，Paypal引潜在收购者兴趣",
@@ -304,18 +357,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2292918",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
         },
         {
           "title": "数字货币市场周一亚太早盘出现一波V形下跌行情，比特币目前跌约3%",
@@ -354,8 +395,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 04时44分]"
         }
       ]
     }
