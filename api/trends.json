@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T10:05:12.438440+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-02-23T12:58:33.920245+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 12时58分]"
         },
         {
           "title": "智谱发布GLM-5技术细节：工程级智能，适配国产算力",
@@ -36,11 +37,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 12时58分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -51,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 12时58分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -78,6 +80,19 @@
           "time_info": "[00时29分 ~ 10时05分]"
         },
         {
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 12时58分]"
+        },
+        {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
           "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
@@ -89,16 +104,15 @@
           "time_info": "[00时29分 ~ 10时05分]"
         },
         {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
           "source": "财联社热门",
           "ranks": [
-            10,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 12时58分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -110,17 +124,6 @@
             16,
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时25分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -157,6 +160,19 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "谷爱凌发布会落泪：刚得知外婆去世，我向她保证过会勇敢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643518",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时58分]"
+        },
+        {
           "title": "在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？",
           "url": "https://www.zhihu.com/question/2003062708547843506",
           "source": "知乎",
@@ -182,27 +198,62 @@
           "time_info": "[00时29分 ~ 05时24分]"
         },
         {
-          "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
-          "url": "https://wallstreetcn.com/livenews/3057331",
-          "source": "华尔街见闻-快讯",
+          "title": "SK海力士董事长承诺提高人工智能内存芯片产量",
+          "url": "https://flash.jin10.com/detail/20260223122126699800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时05分"
+          "time_info": "12时58分"
         },
         {
-          "title": "谷爱凌发布会落泪：刚得知外婆去世，我向她保证过会勇敢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643518",
+          "title": "一民俗活动引发广泛关注，广东湛江发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643305",
           "source": "澎湃新闻",
           "ranks": [
-            11,
+            18,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时05分]"
+          "time_info": "[10时04分 ~ 12时58分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3057331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时58分]"
+        },
+        {
+          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
+          "url": "https://wallstreetcn.com/articles/3765955",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时58分]"
+        },
+        {
+          "title": "皇马官博发布赫伊森道歉内容",
+          "url": "https://www.douyin.com/hot/2408951",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时58分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -215,17 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时23分]"
-        },
-        {
-          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
-          "url": "https://wallstreetcn.com/articles/3765955",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "国足U23亚洲杯先导片发布",
@@ -251,28 +291,6 @@
           "time_info": "[00时29分 ~ 01时25分]"
         },
         {
-          "title": "皇马官博发布赫伊森道歉内容",
-          "url": "https://www.douyin.com/hot/2408951",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
-          "title": "一民俗活动引发广泛关注，广东湛江发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643305",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
-        },
-        {
           "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
           "url": "https://www.toutiao.com/trending/7609833127870991881/",
           "source": "今日头条",
@@ -284,13 +302,24 @@
           "time_info": "[10时04分 ~ 10时05分]"
         },
         {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "人工智能热潮提振芯片需求 韩国出口延续强劲势头",
           "url": "https://flash.jin10.com/detail/20260223084535159800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -306,6 +335,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
+          "url": "https://wallstreetcn.com/livenews/3057338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
           "title": "墨西哥毒枭在军方抓捕行动中身亡 美国发布安全警告",
           "url": "https://flash.jin10.com/detail/20260223062439780800",
           "source": "金十数据",
@@ -315,23 +355,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "冬季风暴逼近美国东海岸 多州发布紧急状态令",
+          "url": "https://wallstreetcn.com/livenews/3057333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 10时05分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 12时58分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -352,9 +404,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "加密货币集体大跌，超13万人爆仓，比特币跌破65000美元",
+          "url": "https://wallstreetcn.com/livenews/3057352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         }
       ]
     },
@@ -367,11 +430,12 @@
           "url": "https://wallstreetcn.com/livenews/3057327",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时58分]"
         }
       ]
     }
