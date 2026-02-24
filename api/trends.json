@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:59:01.275851+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-02-24T15:09:00.056686+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -58,6 +58,44 @@
           "time_info": "[00时57分 ~ 10时01分]"
         },
         {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时44分 ~ 15时08分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 15时08分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 15时08分]"
+        },
+        {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
           "url": "https://www.cls.cn/detail/2292870",
           "source": "财联社热门",
@@ -85,44 +123,6 @@
           "time_info": "[00时57分 ~ 12时54分]"
         },
         {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时44分 ~ 13时59分]"
-        },
-        {
-          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
-          "url": "https://www.cls.cn/detail/2293058",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 13时59分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时59分]"
-        },
-        {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
@@ -131,8 +131,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 15时08分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -165,11 +165,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 15时08分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术",
+          "url": "https://wallstreetcn.com/livenews/3057929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
@@ -273,6 +285,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时44分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时08分]"
         },
         {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
@@ -357,17 +381,6 @@
           "time_info": "[06时42分 ~ 07时35分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
-        },
-        {
           "title": "美国务院对黎巴嫩发布最高级别旅行警告",
           "url": "https://wallstreetcn.com/livenews/3057606",
           "source": "华尔街见闻-快讯",
@@ -404,6 +417,17 @@
           "time_info": "[03时56分 ~ 04时44分]"
         },
         {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
           "url": "https://news.ifeng.com/c/8qzuXxwgvLV",
           "source": "凤凰网",
@@ -424,6 +448,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "Citrini报告作者：文章引发的AI恐慌超预期",
+          "url": "https://wallstreetcn.com/livenews/3057915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -479,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "专家称AI时代文科比理科吃香",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E6%96%87%E7%A7%91%E6%AF%94%E7%90%86%E7%A7%91%E5%90%83%E9%A6%99%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
         },
         {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
@@ -552,8 +609,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 13时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 15时08分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -603,6 +660,19 @@
           "time_info": "12时54分"
         },
         {
+          "title": "相机价格暴涨 有的价格翻10倍",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E4%BB%B7%E6%A0%BC%E7%BF%BB10%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 15时08分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
           "url": "https://wallstreetcn.com/livenews/3057665",
           "source": "华尔街见闻-快讯",
@@ -613,18 +683,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时42分]"
-        },
-        {
-          "title": "相机价格暴涨 有的价格翻10倍",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B8%E6%9C%BA%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%9C%89%E7%9A%84%E4%BB%B7%E6%A0%BC%E7%BF%BB10%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时59分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -675,6 +733,17 @@
           "time_info": "[00时57分 ~ 02时02分]"
         },
         {
+          "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
+          "url": "https://wallstreetcn.com/articles/3766008",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时08分]"
+        },
+        {
           "title": "美股三大股指大幅收跌 IBM大跌13%",
           "url": "https://flash.jin10.com/detail/20260224050545152800",
           "source": "金十数据",
@@ -685,6 +754,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时42分]"
+        },
+        {
+          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
+          "url": "https://wallstreetcn.com/articles/3765995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时08分]"
         },
         {
           "title": "相机价格5年暴涨10倍",
@@ -698,28 +778,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时01分 ~ 13时59分]"
-        },
-        {
-          "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
-          "url": "https://wallstreetcn.com/articles/3766008",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时59分]"
-        },
-        {
-          "title": "美股看跌保护需求创四年新高，高盛交易员：专业投资者正在为\"某种突破\"做准备",
-          "url": "https://wallstreetcn.com/articles/3765995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时59分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -752,7 +810,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -827,19 +885,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 15时08分]"
         },
         {
           "title": "芒果搞钱综艺要来了",
           "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E6%90%9E%E9%92%B1%E7%BB%BC%E8%89%BA%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时08分]"
         },
         {
           "title": "跨境和行业ETF逆势“吸金”",
@@ -868,8 +927,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时57分 ~ 13时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时57分 ~ 15时08分]"
         }
       ]
     }
