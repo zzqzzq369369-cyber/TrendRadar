@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:03:22.454631+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-02-25T22:49:46.589718+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 85,
+      "match_count": 94,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 21时03分]"
+          "appearance_count": 12,
+          "time_info": "[07时31分 ~ 22时49分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时01分 ~ 21时03分]"
+          "appearance_count": 19,
+          "time_info": "[03时01分 ~ 22时49分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -77,6 +77,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 05时34分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 22时49分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -111,17 +123,6 @@
           "time_info": "[07时31分 ~ 19时40分]"
         },
         {
-          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
-          "url": "https://wallstreetcn.com/articles/3766127",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 21时03分]"
-        },
-        {
           "title": "李佳薇JKAI声乐大师课",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
           "source": "bilibili 热搜",
@@ -135,6 +136,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时10分 ~ 07时31分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 22时49分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -209,6 +225,20 @@
           "time_info": "[01时10分 ~ 07时31分]"
         },
         {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 22时49分]"
+        },
+        {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
           "url": "https://wallstreetcn.com/articles/3766010",
           "source": "华尔街见闻",
@@ -223,21 +253,6 @@
           "time_info": "[01时10分 ~ 07时31分]"
         },
         {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            7,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 21时03分]"
-        },
-        {
           "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
           "url": "https://news.ifeng.com/c/8r0R9181ylh",
           "source": "凤凰网",
@@ -249,18 +264,18 @@
           "time_info": "[01时10分 ~ 07时31分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://www.douyin.com/hot/2411215",
+          "source": "抖音",
           "ranks": [
-            10,
-            8,
             7,
-            6
+            22,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时53分 ~ 21时03分]"
+          "time_info": "[14时05分 ~ 22时49分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -314,20 +329,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 07时31分]"
-        },
-        {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://www.douyin.com/hot/2411215",
-          "source": "抖音",
-          "ranks": [
-            7,
-            22,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时05分 ~ 21时03分]"
         },
         {
           "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
@@ -462,6 +463,20 @@
           "time_info": "[04时51分 ~ 07时31分]"
         },
         {
+          "title": "如何看待广州、杭州多地发布学位预警？学位紧张该如何缓解？",
+          "url": "https://www.zhihu.com/question/2009562814054942020",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 22时49分]"
+        },
+        {
           "title": "美联储巴尔金：生产率提升并非仅源于人工智能。",
           "url": "https://flash.jin10.com/detail/20260225044639286800",
           "source": "金十数据",
@@ -545,19 +560,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时28分 ~ 21时03分]"
-        },
-        {
-          "title": "如何看待广州、杭州多地发布学位预警？学位紧张该如何缓解？",
-          "url": "https://www.zhihu.com/question/2009562814054942020",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 21时03分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -678,6 +680,18 @@
           "time_info": "[03时01分 ~ 03时53分]"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 22时49分]"
+        },
+        {
           "title": "美联储柯林斯：到目前为止，人工智能一直在增强而非取代劳动力。",
           "url": "https://flash.jin10.com/detail/20260225045310493800",
           "source": "金十数据",
@@ -783,6 +797,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "恶意不息发布后新增内容盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E6%81%B6%E6%84%8F%E4%B8%8D%E6%81%AF%E5%8F%91%E5%B8%83%E5%90%8E%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-25）",
           "url": "https://flash.jin10.com/detail/20260225120311650800",
           "source": "金十数据",
@@ -838,6 +863,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "戴尔(DELL.N)推出PowerEdge XR9700服务器，面向云无线接入网 (Cloud RAN) 和边缘人工智能 (Edge AI) 。",
+          "url": "https://flash.jin10.com/detail/20260225222134762800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "上海发布楼市“沪七条” 进一步调减住房限购政策",
           "url": "https://wallstreetcn.com/livenews/3058614",
           "source": "华尔街见闻-快讯",
@@ -847,17 +883,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
-        },
-        {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
         },
         {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
@@ -888,9 +913,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "SoundHound AI Inc.在Bengaluru（印度班加罗尔）成立新的创新中心。",
+          "url": "https://wallstreetcn.com/livenews/3058919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
@@ -924,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "市场消息：墨西哥选举改革将要求在竞选活动中对人工智能生成内容进行标识。",
+          "url": "https://flash.jin10.com/detail/20260225220244476800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
@@ -981,6 +1028,17 @@
           "time_info": "14时05分"
         },
         {
+          "title": "荷兰国际：逃离人工智能动荡的投资者可能转向欧元债券",
+          "url": "https://flash.jin10.com/detail/20260225214840051800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "英国军费开支占GDP的比重在2027-2028年将有所下降。根据英国国防部本月发布的预测，两年后“核心”国防开支将占国民生产总值的2.13%左右，低于9月份估计的2.2%。",
           "url": "https://flash.jin10.com/detail/20260225135237747800",
           "source": "金十数据",
@@ -1014,6 +1072,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
+          "url": "https://wallstreetcn.com/livenews/3058897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
           "url": "https://wallstreetcn.com/livenews/3058417",
           "source": "华尔街见闻-快讯",
@@ -1023,6 +1092,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "美国贸易代表格里尔：15%关税的公告将在未来几天内发布，很快。",
+          "url": "https://flash.jin10.com/detail/20260225213605602800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
+          "url": "https://wallstreetcn.com/livenews/3058893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国将就15%的关税发布公告。",
+          "url": "https://flash.jin10.com/detail/20260225213515785800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "AI助盲眼镜成出行神器",
@@ -1039,7 +1141,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -1109,6 +1211,17 @@
           "time_info": "[07时31分 ~ 15时19分]"
         },
         {
+          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3058936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "甲骨文(ORCL.N)美股盘前一度上涨3%。",
           "url": "https://flash.jin10.com/detail/20260225193717302800",
           "source": "金十数据",
@@ -1118,6 +1231,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
+        },
+        {
+          "title": "美股锂矿概念股走强，Sigma Lithium大涨27%，美国雅保涨9.91%，Lithium Argentina AG涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260225223210838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股开盘，道指涨0.35%、标普500指数涨0.43%、纳指涨0.67%，英伟达(NVDA.O)开涨1%，公司将于盘后公布四季度财报，甲骨文涨2.5%，此前奥本海默将其评级上调至“跑赢大盘”。",
+          "url": "https://flash.jin10.com/detail/20260225223043019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
@@ -1181,6 +1327,19 @@
           "time_info": "[15时19分 ~ 18时28分]"
         },
         {
+          "title": "战略金属钨一年暴涨220%",
+          "url": "https://www.douyin.com/hot/2411517",
+          "source": "抖音",
+          "ranks": [
+            14,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 22时49分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
           "url": "https://flash.jin10.com/detail/20260225050111394800",
           "source": "金十数据",
@@ -1217,18 +1376,6 @@
           "time_info": "[19时40分 ~ 21时03分]"
         },
         {
-          "title": "战略金属钨一年暴涨220%",
-          "url": "https://www.douyin.com/hot/2411517",
-          "source": "抖音",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时40分]"
-        },
-        {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
           "url": "https://wallstreetcn.com/livenews/3058381",
           "source": "华尔街见闻-快讯",
@@ -1262,6 +1409,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -1271,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
@@ -1290,9 +1459,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
