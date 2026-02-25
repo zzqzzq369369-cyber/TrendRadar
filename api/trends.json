@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-26T05:34:50.237127+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-02-26T06:33:49.790475+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "上海发布楼市“沪七条”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
         },
         {
           "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
@@ -38,8 +39,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
         },
         {
           "title": "恶意不息发布后新增内容盘点",
@@ -65,15 +77,42 @@
           "time_info": "00时02分"
         },
         {
-          "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3059064",
+          "title": "AI需求拉动，被动元器件全面涨价即将到来",
+          "url": "https://wallstreetcn.com/livenews/3059090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时33分"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://www.douyin.com/hot/2411215",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
         },
         {
           "title": "美联储巴尔金：美联储职责范围有限，可或许并不能解决在人工智能环境下企业兴衰起伏所引发的问题。",
@@ -98,26 +137,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "三星Galaxy S26系列发布：AI三引擎融合+隐私屏首发，两款机型涨价100美元",
-          "url": "https://wallstreetcn.com/livenews/3059063",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
+          "url": "https://flash.jin10.com/detail/20260226062302497800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "time_info": "06时33分"
         },
         {
           "title": "Thrive Capital以2850亿美元估值投资OpenAI",
@@ -131,30 +159,40 @@
           "time_info": "01时57分"
         },
         {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
+          "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059064",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            24,
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "三星Galaxy S26系列发布：AI三引擎融合+隐私屏首发，两款机型涨价100美元",
+          "url": "https://wallstreetcn.com/livenews/3059063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://www.douyin.com/hot/2411215",
-          "source": "抖音",
+          "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
+          "url": "https://www.zhihu.com/question/1916645420085514580",
+          "source": "知乎",
           "ranks": [
-            26,
-            25,
-            24
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 3,
+          "time_info": "[04时35分 ~ 06时33分]"
         },
         {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
@@ -169,16 +207,28 @@
           "time_info": "[01时57分 ~ 03时07分]"
         },
         {
-          "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
-          "url": "https://www.zhihu.com/question/1916645420085514580",
-          "source": "知乎",
+          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3059057",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            17
+            7,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时34分]"
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 06时33分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
@@ -192,15 +242,26 @@
           "time_info": "[03时07分 ~ 05时34分]"
         },
         {
-          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3059057",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达(NVDA.O) CFO：公司预计主权计算业务的增长将与其人工智能基础设施业务保持同步。",
+          "url": "https://flash.jin10.com/detail/20260226061338644800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时33分"
+        },
+        {
+          "title": "英伟达盘后涨幅收窄至不足1.4%，业绩报告发布后，该公司高管们正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3059084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
@@ -208,17 +269,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -234,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "英伟达(NVDA.O) CFO：具身、物理AI应用开始推动财务业绩。",
+          "url": "https://flash.jin10.com/detail/20260226060637765800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "美联储巴尔金：人工智能也将为工人提供从事更高技能工作的机会。",
@@ -264,7 +325,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -302,6 +363,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。 “接近达成协议”。",
+          "url": "https://wallstreetcn.com/livenews/3059072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        },
+        {
           "title": "若AI取代人类工作社会会变成什么样",
           "url": "https://www.toutiao.com/trending/7610770425311661622/",
           "source": "今日头条",
@@ -322,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：客户竞相投资AI计算。 计算需求迅猛增长。 企业对代理的应用飙升。 Grace Blackwell搭配NVLink是推理的王者。",
+          "url": "https://wallstreetcn.com/livenews/3059067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时33分"
         },
         {
           "title": "戴尔发布适用于Cloud RAN与边缘AI的户外服务器，是首款液冷户外服务器",
@@ -371,19 +454,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
-        },
-        {
-          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3059060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -394,19 +466,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
-          "url": "https://wallstreetcn.com/livenews/3059059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
         },
         {
           "title": "战略金属钨一年暴涨220%",
@@ -419,8 +480,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时33分]"
+        },
+        {
+          "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3059060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
+          "url": "https://wallstreetcn.com/livenews/3059059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时33分]"
         },
         {
           "title": "金十图示：2026年02月25日（周三）美股热门股票行情一览（美股收盘）",
@@ -429,7 +514,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -440,7 +525,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -451,7 +536,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -492,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 06时33分]"
         }
       ]
     }
