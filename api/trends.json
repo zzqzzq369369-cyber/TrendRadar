@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:05:35.117229+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-02-25T15:19:36.660728+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 66,
+      "match_count": 75,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时01分 ~ 14时05分]"
+          "appearance_count": 12,
+          "time_info": "[03时01分 ~ 15时19分]"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -80,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时10分 ~ 14时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 15时19分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -158,6 +158,17 @@
           "time_info": "[01时10分 ~ 07时31分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 15时19分]"
+        },
+        {
           "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
           "url": "https://news.ifeng.com/c/8r0R9181ylh",
           "source": "凤凰网",
@@ -169,15 +180,27 @@
           "time_info": "[01时10分 ~ 07时31分]"
         },
         {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
+          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
+          "url": "https://www.zhihu.com/question/2009733369261466626",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 15时19分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时05分]"
+          "time_info": "[10时03分 ~ 15时19分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -193,18 +216,6 @@
           "time_info": "[01时10分 ~ 06时33分]"
         },
         {
-          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
-          "url": "https://www.zhihu.com/question/2009733369261466626",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时05分]"
-        },
-        {
           "title": "宇树发布新款四足机器人",
           "url": "https://www.toutiao.com/trending/7609502487338745892/",
           "source": "今日头条",
@@ -217,17 +228,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 07时31分]"
-        },
-        {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时03分 ~ 14时05分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -252,16 +252,15 @@
           "time_info": "07时31分"
         },
         {
-          "title": "西安一市民除夕夜被AI给骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "阿里发布三款中型千问3.5新模型",
+          "url": "https://wallstreetcn.com/livenews/3058670",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时51分 ~ 07时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
@@ -272,8 +271,58 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时19分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 15时19分]"
+        },
+        {
+          "title": "宇树马年开工首日上新！新一代机器狗As2发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649604",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 15时19分]"
+        },
+        {
+          "title": "西安一市民除夕夜被AI给骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时51分 ~ 07时31分]"
         },
         {
           "title": "美联储巴尔金：生产率提升并非仅源于人工智能。",
@@ -312,19 +361,6 @@
           "time_info": "[03时01分 ~ 03时53分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时05分]"
-        },
-        {
           "title": "美媒：美国防部限Anthropic周五前放弃AI安全限制，否则面临严惩",
           "url": "https://flash.jin10.com/detail/20260225023655984800",
           "source": "金十数据",
@@ -361,16 +397,17 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
-          "title": "宇树马年开工首日上新！新一代机器狗As2发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649604",
-          "source": "澎湃新闻",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            15
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时19分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -419,16 +456,28 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://www.douyin.com/hot/2411215",
+          "source": "抖音",
           "ranks": [
-            10,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 15时19分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：符合条件非沪籍居民可在外环内增购1套住房",
+          "url": "https://www.cls.cn/detail/2294506",
+          "source": "财联社热门",
+          "ranks": [
+            13,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时05分]"
+          "time_info": "[14时05分 ~ 15时19分]"
         },
         {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
@@ -465,6 +514,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时34分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://www.toutiao.com/trending/7609574284113346596/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 15时19分]"
         },
         {
           "title": "美联储巴尔金：不认为人工智能会导致经济出现剧烈变化。",
@@ -527,6 +588,18 @@
           "time_info": "[05时34分 ~ 06时33分]"
         },
         {
+          "title": "AI如果让90%的人都失业会怎样",
+          "url": "https://www.toutiao.com/trending/7610619092361285139/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 15时19分]"
+        },
+        {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
           "url": "https://wallstreetcn.com/livenews/3058280",
           "source": "华尔街见闻-快讯",
@@ -551,15 +624,15 @@
           "time_info": "[12时53分 ~ 14时05分]"
         },
         {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://www.douyin.com/hot/2411215",
-          "source": "抖音",
+          "title": "抖音电商安全与信任中心发布首份年度报告，全年清退违规达人超27万名",
+          "url": "https://wallstreetcn.com/livenews/3058662",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时05分"
+          "time_info": "15时19分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-25）",
@@ -606,17 +679,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://www.toutiao.com/trending/7609574284113346596/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
           "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
           "url": "https://flash.jin10.com/detail/20260225064530677800",
           "source": "金十数据",
@@ -634,7 +696,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -650,37 +712,48 @@
           "time_info": "01时11分"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
           "url": "https://www.cls.cn/detail/2294083",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
         {
-          "title": "AI如果让90%的人都失业会怎样",
-          "url": "https://www.toutiao.com/trending/7610619092361285139/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "上海发布楼市“沪七条”：符合条件非沪籍居民可在外环内增购1套住房",
-          "url": "https://www.cls.cn/detail/2294506",
+          "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
+          "url": "https://www.cls.cn/detail/2294145",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时05分"
+          "time_info": "15时19分"
+        },
+        {
+          "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
+          "url": "https://www.zhihu.com/question/2009980674069778899",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -714,6 +787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -755,9 +839,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "英国军费开支占GDP的比重在2027-2028年将有所下降。根据英国国防部本月发布的预测，两年后“核心”国防开支将占国民生产总值的2.13%左右，低于9月份估计的2.2%。",
+          "url": "https://flash.jin10.com/detail/20260225135237747800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -791,12 +886,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "AI助盲眼镜成出行神器",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -818,11 +924,12 @@
           "ranks": [
             20,
             21,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时10分 ~ 14时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 15时19分]"
         },
         {
           "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
@@ -860,8 +967,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 14时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 15时19分]"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
@@ -958,6 +1065,17 @@
           "time_info": "06时33分"
         },
         {
+          "title": "如何看待 T1 不敌 DK 后 LCK 决赛二手门票暴跌？",
+          "url": "https://www.zhihu.com/question/2009252044981154893",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
@@ -1050,7 +1168,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
@@ -1058,7 +1176,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里云上线Qwen3.5等四大开源模型",
@@ -1071,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 14时05分]"
+        },
+        {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }
