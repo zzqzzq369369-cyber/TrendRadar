@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T07:28:20.086936+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-02-26T09:59:09.097561+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "上海发布楼市“沪七条”",
@@ -17,8 +17,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 09时59分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 09时59分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -32,16 +45,18 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
-          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
-          "url": "https://wallstreetcn.com/articles/3766127",
-          "source": "华尔街见闻",
+          "title": "恶意不息发布后新增内容盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E6%81%B6%E6%84%8F%E4%B8%8D%E6%81%AF%E5%8F%91%E5%B8%83%E5%90%8E%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            5
+            5,
+            18,
+            26,
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "time_info": "[00时02分 ~ 09时59分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -79,19 +94,6 @@
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时28分]"
-        },
-        {
-          "title": "恶意不息发布后新增内容盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E6%81%B6%E6%84%8F%E4%B8%8D%E6%81%AF%E5%8F%91%E5%B8%83%E5%90%8E%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
@@ -137,6 +139,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 09时59分]"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -187,17 +202,28 @@
           "time_info": "[06时33分 ~ 07时28分]"
         },
         {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
+          "title": "如何看待广州、杭州多地发布学位预警？学位紧张该如何缓解？",
+          "url": "https://www.zhihu.com/question/2009562814054942020",
+          "source": "知乎",
           "ranks": [
-            9,
-            27,
-            21
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 09时59分]"
+        },
+        {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时57分 ~ 07时28分]"
+          "time_info": "[07时28分 ~ 09时59分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -210,6 +236,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时33分]"
+        },
+        {
+          "title": "上海发布楼市沪七条",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E6%A5%BC%E5%B8%82%E6%B2%AA%E4%B8%83%E6%9D%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "英伟达(NVDA.O) CFO：公司预计主权计算业务的增长将与其人工智能基础设施业务保持同步。",
@@ -236,6 +273,17 @@
           "time_info": "[06时33分 ~ 07时28分]"
         },
         {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，当前的太空数据中心经济还是“贫瘠的”",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3059000",
           "source": "华尔街见闻-快讯",
@@ -260,16 +308,26 @@
           "time_info": "[05时34分 ~ 06时33分]"
         },
         {
-          "title": "如何看待广州、杭州多地发布学位预警？学位紧张该如何缓解？",
-          "url": "https://www.zhihu.com/question/2009562814054942020",
-          "source": "知乎",
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
           "ranks": [
-            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "AI帮你选对发型",
+          "url": "https://www.douyin.com/hot/2411301",
+          "source": "抖音",
+          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
@@ -314,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
-        },
-        {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
         },
         {
           "title": "美联储巴尔金：人工智能也将为工人提供从事更高技能工作的机会。",
@@ -404,6 +451,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "澳大利亚将于周五重新发布1月CPI报告",
+          "url": "https://flash.jin10.com/detail/20260226093809035800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "瑞银财富管理美洲首席投资官建议，AI热潮中弃科技奔实体",
           "url": "https://wallstreetcn.com/livenews/3058944",
           "source": "华尔街见闻-快讯",
@@ -432,7 +490,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -473,7 +531,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -496,8 +554,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 09时59分]"
+        },
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时59分]"
         },
         {
           "title": "战略金属钨一年暴涨220%",
@@ -515,15 +584,27 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
+          "title": "丰田汽车最新财报净利润暴跌 43%，CFO 近健太接任社长，此次人事变动是出于哪些考量？",
+          "url": "https://www.zhihu.com/question/2009187744631497288",
+          "source": "知乎",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时28分 ~ 09时59分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -583,17 +664,6 @@
           "time_info": "05时34分"
         },
         {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
           "title": "加密货币市场至少涨超6%，以太币目前涨约10%",
           "url": "https://wallstreetcn.com/livenews/3058993",
           "source": "华尔街见闻-快讯",
@@ -611,7 +681,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -629,6 +699,23 @@
       ]
     },
     {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国创新药“出海”势头强劲，年内海外授权总金额突破530亿美元",
+          "url": "https://wallstreetcn.com/livenews/3059152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
       "match_count": 1,
       "titles": [
@@ -638,11 +725,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 09时59分]"
         }
       ]
     }
