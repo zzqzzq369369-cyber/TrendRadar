@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T12:22:33.712534+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-02-26T13:57:44.076908+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "上海发布楼市“沪七条”",
@@ -98,6 +98,18 @@
           "time_info": "[00时02分 ~ 07时28分]"
         },
         {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时57分]"
+        },
+        {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
           "url": "https://wallstreetcn.com/livenews/3058971",
           "source": "华尔街见闻-快讯",
@@ -142,27 +154,28 @@
           "time_info": "01时57分"
         },
         {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时57分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-26）",
           "url": "https://flash.jin10.com/detail/20260226115837157800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时22分]"
         },
         {
           "title": "AI短片 马上好",
@@ -176,6 +189,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 09时59分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时57分]"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -202,6 +227,18 @@
           "time_info": "[06时33分 ~ 07时28分]"
         },
         {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时57分]"
+        },
+        {
           "title": "三星Galaxy S26系列发布：AI三引擎融合+隐私屏首发，两款机型涨价100美元",
           "url": "https://wallstreetcn.com/livenews/3059063",
           "source": "华尔街见闻-快讯",
@@ -212,18 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时33分]"
-        },
-        {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
@@ -274,6 +299,18 @@
           "time_info": "[04时35分 ~ 06时33分]"
         },
         {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时57分]"
+        },
+        {
           "title": "英伟达(NVDA.O) CFO：公司预计主权计算业务的增长将与其人工智能基础设施业务保持同步。",
           "url": "https://flash.jin10.com/detail/20260226061338644800",
           "source": "金十数据",
@@ -307,6 +344,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "AI圈爆火的FARS是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时22分 ~ 13时57分]"
         },
         {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
@@ -355,57 +404,13 @@
           "time_info": "[03时07分 ~ 05时34分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
           "url": "https://flash.jin10.com/detail/20260226115757387800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "AI圈爆火的FARS是什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -559,7 +564,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -586,6 +591,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "【伊朗外长会见阿曼外交大臣 伊美第三轮间接谈判开始】伊朗外交部26日发布声明，称伊朗外交部长阿拉格齐与阿曼外交大臣巴德尔25日晚已在日内瓦会面。声明说，这意味着伊美第三轮间接谈判正式开始。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
           "url": "https://wallstreetcn.com/livenews/3058977",
           "source": "华尔街见闻-快讯",
@@ -595,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
+          "url": "https://wallstreetcn.com/livenews/3059270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美（两房）欢迎人工智能（AI）和一切创新。",
@@ -634,8 +661,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 12时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时57分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -645,8 +672,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时22分]"
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时57分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时28分 ~ 13时57分]"
         },
         {
           "title": "丰田汽车最新财报净利润暴跌 43%，CFO 近健太接任社长，此次人事变动是出于哪些考量？",
@@ -654,11 +693,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 12时22分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 13时57分]"
         },
         {
           "title": "战略金属钨一年暴涨220%",
@@ -674,18 +714,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时28分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时22分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -810,8 +838,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 12时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时57分 ~ 13时57分]"
         }
       ]
     }
