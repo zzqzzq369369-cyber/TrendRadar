@@ -1,793 +1,110 @@
 {
-  "generated_at": "2026-02-28T23:21:52.009137+08:00",
-  "total_titles_processed": 2147,
+  "generated_at": "2026-03-01T00:26:16.760675+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 82,
+      "match_count": 11,
       "titles": [
         {
-          "title": "FIBA 发布声明，为措辞不当向中国男篮及中国球迷致歉，如何看待这一举措？",
-          "url": "https://www.zhihu.com/question/2010786901813135237",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 09时48分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
+          "title": "AI冲击之下，新一轮“次贷危机”来了？",
+          "url": "https://wallstreetcn.com/articles/3766407",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 09时48分]"
-        },
-        {
-          "title": "中国AI跑出马年加速度",
-          "url": "https://www.douyin.com/hot/2414159",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 16时29分]"
-        },
-        {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时24分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
           "url": "https://www.cls.cn/detail/2298138",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时28分 ~ 23时21分]"
-        },
-        {
-          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时22分]"
-        },
-        {
-          "title": "AI冲击之下，新一轮“次贷危机”来了？",
-          "url": "https://wallstreetcn.com/articles/3766407",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 23时21分]"
-        },
-        {
-          "title": "寒武纪发布业绩快报：2025年净利润20.59亿元，扭亏为盈",
-          "url": "https://www.cls.cn/detail/2297516",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 09时48分]"
-        },
-        {
-          "title": "2026考研国家线发布",
-          "url": "https://s.weibo.com/weibo?q=%232026%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF%E5%8F%91%E5%B8%83%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 16时29分]"
-        },
-        {
-          "title": "外媒爆料：美军想用AI攻击中国电网",
-          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时48分 ~ 15时27分]"
-        },
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[05时29分 ~ 22时21分]"
-        },
-        {
-          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 19时19分]"
-        },
-        {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时35分 ~ 15时27分]"
-        },
-        {
-          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
-          "url": "https://www.zhihu.com/question/2011015637259028204",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            12,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时37分 ~ 23时21分]"
-        },
-        {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时48分 ~ 19时19分]"
-        },
-        {
-          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
-          "url": "https://www.zhihu.com/question/2010773992567481420",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            10,
-            9,
-            8,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 19时19分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16,
-            17,
-            28,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时37分 ~ 23时21分]"
-        },
-        {
-          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
-          "url": "https://www.cls.cn/detail/2297724",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 15时27分]"
-        },
-        {
-          "title": "2月“科学”流言榜发布",
-          "url": "https://www.toutiao.com/trending/7611726083305668634/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时55分 ~ 19时19分]"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19,
-            22,
-            21,
-            23,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 09时48分]"
-        },
-        {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 07时24分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2010670686461452529",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 23时21分]"
-        },
-        {
-          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
-          "url": "https://www.cls.cn/detail/2298037",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 20时43分]"
-        },
-        {
-          "title": "湖南蓝山县委书记抖音账号网友留言激增，当地发布公告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667667",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 15时27分]"
-        },
-        {
-          "title": "小米发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时29分]"
-        },
-        {
-          "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
-          "url": "https://flash.jin10.com/detail/20260228001824218800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
-          "url": "https://flash.jin10.com/detail/20260228011403179800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "以色列对伊朗发动先发制人的打击之际，印度驻以色列大使馆发布安全警告。",
-          "url": "https://flash.jin10.com/detail/20260228151700885800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "伊朗外长：就特定核设施发布声明。",
-          "url": "https://flash.jin10.com/detail/20260228171738063800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "英伟达计划推出新芯片以加快AI处理速度",
-          "url": "https://wallstreetcn.com/livenews/3060590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时38分]"
-        },
-        {
-          "title": "AI算力需求驱动光纤行业步入景气周期",
-          "url": "https://wallstreetcn.com/livenews/3060569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 13时33分]"
-        },
-        {
-          "title": "中国AI调用量超越美国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时27分 ~ 07时24分]"
-        },
-        {
-          "title": "AI提供的虚拟微信号加到了真人",
-          "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
-          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
-          "url": "https://flash.jin10.com/detail/20260228110554688800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
-          "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3060467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时27分]"
-        },
-        {
-          "title": "东航发布部分中东航线非自愿退改规定的通知",
-          "url": "https://wallstreetcn.com/livenews/3060881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 23时21分]"
-        },
-        {
-          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
-          "url": "https://www.cls.cn/detail/2298310",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 23时21分]"
-        },
-        {
-          "title": "美国SEC发布外国公司监管新规 要求高管限时披露股票交易",
-          "url": "https://wallstreetcn.com/livenews/3060491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时29分]"
-        },
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 14时38分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
-          "url": "https://flash.jin10.com/detail/20260228110043453800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "国航发布涉及迪拜、阿布扎比、利雅得航线客票特殊处置方案的通知",
-          "url": "https://wallstreetcn.com/livenews/3060880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时21分]"
+          "time_info": "00时26分"
         },
         {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
           "url": "https://www.cls.cn/detail/2298376",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
+          "url": "https://www.cls.cn/detail/2298310",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 23时21分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
-          "url": "https://flash.jin10.com/detail/20260228105851301800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://wallstreetcn.com/livenews/3060587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 14时38分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
-          "url": "https://flash.jin10.com/detail/20260228105836118800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "OpenAI将追加融资100亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3060477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时27分]"
-        },
-        {
-          "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
-          "url": "https://wallstreetcn.com/livenews/3060551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时48分]"
-        },
-        {
-          "title": "五粮液就董事长被留置发布公告",
-          "url": "https://wallstreetcn.com/livenews/3060889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 23时21分]"
-        },
-        {
-          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
-          "url": "https://www.cls.cn/detail/2298126",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时36分]"
-        },
-        {
-          "title": "2025年国民经济和社会发展统计公报发布",
-          "url": "https://wallstreetcn.com/livenews/3060576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
-          "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
-          "url": "https://www.zhihu.com/question/2009928728206149091",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 13时33分]"
-        },
-        {
-          "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228030148266800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时27分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
-          "url": "https://flash.jin10.com/detail/20260228105824885800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://flash.jin10.com/detail/20260228105722729800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时55分]"
-        },
-        {
-          "title": "市场消息：黑石计划成立上市公司，专注于收购人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20260228044640466800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时22分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "伊朗政府新闻发言人办公室发布1号公告",
           "url": "https://www.cls.cn/detail/2298419",
           "source": "财联社热门",
           "ranks": [
-            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
-          "url": "https://wallstreetcn.com/livenews/3060407",
-          "source": "华尔街见闻-快讯",
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            23
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
-          "url": "https://wallstreetcn.com/livenews/3060521",
-          "source": "华尔街见闻-快讯",
+          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
+          "url": "https://www.zhihu.com/question/2011015637259028204",
+          "source": "知乎",
           "ranks": [
-            12,
-            28
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时24分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "微软考虑为Microsoft 365推出人工智能（AI）软件组合。 该公司可能会宣布大改软件组合。 微软可能会对用户收取高达99美元的月费。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3060540",
+          "title": "中国驻伊朗大使馆发布关于目前部分伊朗陆地边境口岸情况通报",
+          "url": "https://wallstreetcn.com/livenews/3060921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            28
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时48分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
@@ -797,502 +114,58 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时36分]"
-        },
-        {
-          "title": "伊最高国家安全委员会发布第1号公告",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%80%E9%AB%98%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%91%E5%B8%83%E7%AC%AC1%E5%8F%B7%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时36分]"
-        },
-        {
-          "title": "印度一公司拟利用英伟达GPU构建20亿美元AI中心并上市",
-          "url": "https://wallstreetcn.com/livenews/3060601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时33分]"
-        },
-        {
-          "title": "科特迪瓦：并没有发布关于可可（产品收购）的相关声明。 我们有（足够的）资金来收购10万吨可可（豆）。",
-          "url": "https://wallstreetcn.com/livenews/3060427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时35分"
+          "time_info": "00时26分"
         },
         {
-          "title": "卡塔尔政府发布手机警报，警告民众远离军事设施，并就地避难。",
-          "url": "https://flash.jin10.com/detail/20260228170931718800",
+          "title": "中国驻伊朗大使馆发布关于目前部分伊朗陆地边境口岸情况通报",
+          "url": "https://flash.jin10.com/detail/20260228232804034800",
           "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "杭州：2026年打造“人工智能+”标杆场景10个以上",
-          "url": "https://wallstreetcn.com/livenews/3060609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "1.3万只基金里“万里挑一”太难，AI选基悄悄来了",
-          "url": "https://www.cls.cn/detail/2297571",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
-          "url": "https://flash.jin10.com/detail/20260228080935525800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
-          "url": "https://flash.jin10.com/detail/20260228132543765800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "美国民主党参议员凯利：（谈Anthropic）国会必须采取行动监管人工智能，保护美国民众。",
-          "url": "https://flash.jin10.com/detail/20260228000101836800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "我国首个国家级人形机器人与具身智能标准体系发布",
-          "url": "https://wallstreetcn.com/livenews/3060644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "海南航空发布涉特拉维夫航线退改票规定",
-          "url": "https://wallstreetcn.com/livenews/3060838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "人工智能与信贷忧虑重创金融股 KBW银行指数跌近5%",
-          "url": "https://flash.jin10.com/detail/20260228005644699800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "京东外卖发布公开信：市占超15%，下单用户超2.4亿，全面发力七鲜小厨",
-          "url": "https://wallstreetcn.com/livenews/3060684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
-          "url": "https://wallstreetcn.com/livenews/3060391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3060443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
-        {
-          "title": "深圳发布2026年重大项目计划清单，总投资3.2万亿元",
-          "url": "https://wallstreetcn.com/livenews/3060763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "强硬回应AI军用分歧：特朗普称Anthropic做错了，要求所有部门停止采用Anthropic的技术",
-          "url": "https://wallstreetcn.com/livenews/3060501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "卡内政部发布“紧急预警信息”，中国驻卡塔尔大使馆再次提醒加强安全防范",
-          "url": "https://wallstreetcn.com/livenews/3060760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "AI机器人能全面替代人类工种吗",
-          "url": "https://www.toutiao.com/trending/7611539933462793779/",
-          "source": "今日头条",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "小米发布新车预告 雷军称明天见",
-          "url": "https://www.toutiao.com/trending/7611139929393938459/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时48分 ~ 23时21分]"
-        },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
           "url": "https://www.cls.cn/detail/2298093",
           "source": "财联社热门",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 23时21分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
-          "url": "https://www.cls.cn/detail/2297908",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2,
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时24分 ~ 18时22分]"
-        },
-        {
-          "title": "巴阿又干架,死伤人数暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351084&amp;topic_name=%E5%B7%B4%E9%98%BF%E5%8F%88%E5%B9%B2%E6%9E%B6%2C%E6%AD%BB%E4%BC%A4%E4%BA%BA%E6%95%B0%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            16,
-            20,
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 15时27分]"
-        },
-        {
-          "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "00时26分"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
           "url": "https://www.zhihu.com/question/2011096140146286806",
           "source": "知乎",
           "ranks": [
-            14,
-            11,
-            8,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 23时21分]"
-        },
-        {
-          "title": "纽约期银日内暴涨8.00%，现报94.60美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260228001553743800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
-          "url": "https://wallstreetcn.com/livenews/3060528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时24分]"
-        },
-        {
-          "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
-          "url": "https://wallstreetcn.com/livenews/3060522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时24分]"
-        },
-        {
-          "title": "比特币价格短线快速走低约1000美元，至65000美元下方。",
-          "url": "https://wallstreetcn.com/livenews/3060614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "数字货币市场最近七天走低，比特币一度涨向7万美元整数位心理关口、但整体累跌约3.5%",
-          "url": "https://wallstreetcn.com/livenews/3060428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（2月27日），美国科技股七巨头（Magnificent 7）指数跌1.83%，报193.36点，本周累计下跌2.18%，2月份累计下跌6.57%，大部分时间低位震荡——交投于195点附近。 “超大”市值科技股指数跌0.82%，报366.62点，2月份累跌6.91%。",
-          "url": "https://wallstreetcn.com/livenews/3060517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美股下跌对普通人有何启示",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%90%AF%E7%A4%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "现货白银日内暴涨6.00%，现报93.58美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260227235313419800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "纽约期银日内暴涨7.00%，现报93.72美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260227234615005800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "瑞银下调美股评级，警告政策和估值等多重风险",
-          "url": "https://wallstreetcn.com/livenews/3060440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
-          "url": "https://wallstreetcn.com/livenews/3060531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 07时24分]"
-        },
-        {
-          "title": "蔡磊夫妇带货直播支撑超8000万科研",
-          "url": "https://www.toutiao.com/trending/7611802139475840562/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 17时26分]"
-        },
-        {
-          "title": "美国总统特朗普：不知为何，我更喜欢通过石油而不是人工智能工厂来赚钱。",
-          "url": "https://flash.jin10.com/detail/20260228060327470800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时48分]"
-        },
-        {
-          "title": "吉利淦家阅：千里浩瀚辅助驾驶将在今年实现出海",
-          "url": "https://wallstreetcn.com/livenews/3060785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里桌面Agent工具CoPaw正式开源",
-          "url": "https://wallstreetcn.com/livenews/3060596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 14时38分]"
+          "time_info": "00时26分"
         }
       ]
     }
