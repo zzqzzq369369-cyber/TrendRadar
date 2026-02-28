@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:25:34.091199+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-03-01T05:20:44.090685+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 16,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
           "url": "https://www.cls.cn/detail/2298138",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
@@ -35,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "小米发布会",
@@ -48,11 +50,12 @@
           "ranks": [
             9,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -62,8 +65,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发布3号公告：对美以发起更猛烈打击",
+          "url": "https://flash.jin10.com/detail/20260301051430589800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "中国驻以色列使馆发布关于在以色列中国公民转移撤离登记的通知",
+          "url": "https://wallstreetcn.com/livenews/3060985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "伊朗政府新闻发言人办公室发布1号公告",
@@ -74,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -89,8 +114,34 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "最新AI军事模拟：95%对局发射核弹",
+          "url": "https://www.toutiao.com/trending/7611738738124656170/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21,
+            23,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "time_info": "[01时20分 ~ 05时20分]"
+        },
+        {
+          "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
+          "url": "https://www.zhihu.com/question/2010680269259179931",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时20分]"
         },
         {
           "title": "中国驻以色列使馆发布关于近期在以中国游客和临时出差人员离境方式的提醒",
@@ -103,19 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时20分]"
-        },
-        {
-          "title": "最新AI军事模拟：95%对局发射核弹",
-          "url": "https://www.toutiao.com/trending/7611738738124656170/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 04时25分]"
         },
         {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
@@ -153,15 +191,48 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
-          "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
-          "url": "https://www.zhihu.com/question/2010680269259179931",
-          "source": "知乎",
+          "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
+          "url": "https://flash.jin10.com/detail/20260301050034835800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
+          "url": "https://flash.jin10.com/detail/20260301045433852800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
+          "url": "https://flash.jin10.com/detail/20260301045230715800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
+          "url": "https://flash.jin10.com/detail/20260301045126214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "如何评价 DeepSeek 发布新论文，提出一个名为「DualPath」的创新推理系统？有哪些亮点？",
@@ -173,6 +244,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
+          "url": "https://flash.jin10.com/detail/20260301044943651800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，部署架构将使我们能够独立验证这些红线不会被突破。",
+          "url": "https://flash.jin10.com/detail/20260301044842219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表态称，不会向国防部提供“无安全约束”或未经安全训练的模型，也不在边缘设备上部署模型。",
+          "url": "https://flash.jin10.com/detail/20260301044547998800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，在与美国国防部的协议中，我们通过一种更为广泛、多层次的方法来保护我们的红线。",
+          "url": "https://flash.jin10.com/detail/20260301044444356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "OpenAI就与美国国防部达成的协议表示，该协议包含的防护措施比以往任何涉及机密AI部署的协议（包括Anthropic的协议）都要严格。",
+          "url": "https://flash.jin10.com/detail/20260301044417806800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "中国驻伊朗大使馆发布关于目前部分伊朗陆地边境口岸情况通报",
@@ -210,8 +336,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -221,8 +347,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -232,8 +358,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "小盘数字货币周六跌超4.3%，2月份累跌14%，Solana已累跌超21%，比特币已累跌超22%",
@@ -242,11 +368,12 @@
           "ranks": [
             2,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 05时20分]"
         }
       ]
     }
