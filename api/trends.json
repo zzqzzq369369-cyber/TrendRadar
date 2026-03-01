@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T10:11:36.324727+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-03-01T12:54:02.679267+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时54分]"
         },
         {
           "title": "我国首个国家级人形机器人与具身智能标准体系发布",
@@ -39,11 +40,12 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时54分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -51,11 +53,42 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时54分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            17,
+            20,
+            19,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时54分]"
+        },
+        {
+          "title": "伊朗政府新闻发言人办公室发布1号公告",
+          "url": "https://www.cls.cn/detail/2298419",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时54分]"
         },
         {
           "title": "小米发布会",
@@ -72,34 +105,27 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            17,
-            20,
-            19,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 10时11分]"
-        },
-        {
-          "title": "伊朗政府新闻发言人办公室发布1号公告",
-          "url": "https://www.cls.cn/detail/2298419",
+          "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
+          "url": "https://www.cls.cn/detail/2298678",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10,
-            11
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 12时54分]"
+        },
+        {
+          "title": "如果百度当年梭哈 AI，现在的市值能达到腾讯、阿里的水平吗？",
+          "url": "https://www.zhihu.com/question/1950611259528549544",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
         },
         {
           "title": "中国驻以色列使馆发布关于在以色列中国公民转移撤离登记的通知",
@@ -128,24 +154,13 @@
           "time_info": "[01时20分 ~ 07时21分]"
         },
         {
-          "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
-          "url": "https://www.cls.cn/detail/2298678",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "如果百度当年梭哈 ai，现在的市值能达到腾讯、阿里的水平吗？",
           "url": "https://www.zhihu.com/question/1950611259528549544",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -234,6 +249,17 @@
           "time_info": "[00时26分 ~ 02时32分]"
         },
         {
+          "title": "美政府罕见封杀本国AI企业Anthropic",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%BD%95%E8%A7%81%E5%B0%81%E6%9D%80%E6%9C%AC%E5%9B%BDAI%E4%BC%81%E4%B8%9AAnthropic",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队发布4号公告：位于科威特的大量美军人员伤亡",
           "url": "https://flash.jin10.com/detail/20260301055358229800",
           "source": "金十数据",
@@ -244,6 +270,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "雷军：小米Vision GT明日发布",
+          "url": "https://wallstreetcn.com/livenews/3061037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 12时54分]"
         },
         {
           "title": "中国驻伊朗大使馆发布关于目前部分伊朗陆地边境口岸情况通报",
@@ -268,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "雷军：小米Vision GT明日发布",
-          "url": "https://wallstreetcn.com/livenews/3061037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
@@ -309,7 +336,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -364,9 +391,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
+          "url": "https://flash.jin10.com/detail/20260301120433529800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         },
         {
           "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
@@ -408,7 +446,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -460,7 +498,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -509,6 +547,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时32分 ~ 05时20分]"
+        },
+        {
+          "title": "伊朗媒体确认哈梅内伊遇害后，比特币、以太坊等数字币涨幅进一步扩大",
+          "url": "https://wallstreetcn.com/livenews/3061049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     }
