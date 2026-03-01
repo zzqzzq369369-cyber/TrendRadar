@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T19:20:19.048285+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-03-01T20:46:01.988013+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时11分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[10时11分 ~ 20时46分]"
         },
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -103,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 19时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 20时46分]"
         },
         {
           "title": "伊朗政府新闻发言人办公室发布1号公告",
@@ -117,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 19时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 20时46分]"
         },
         {
           "title": "小米发布会",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "终末地开发者日志发布",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BC%80%E5%8F%91%E8%80%85%E6%97%A5%E5%BF%97%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "中国驻以色列使馆发布关于在以色列中国公民转移撤离登记的通知",
@@ -176,11 +187,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时46分]"
         },
         {
           "title": "英伟达与全球电信巨头携手，致力于在开放、安全的原生AI平台上构建6G网络",
@@ -297,6 +309,18 @@
           "time_info": "[00时26分 ~ 06时22分]"
         },
         {
+          "title": "60年复合年增长19.7%，巴菲特收官“成绩单”出炉！阿贝尔首封股东信发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32674572",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时46分]"
+        },
+        {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
           "url": "https://www.zhihu.com/question/2011015637259028204",
           "source": "知乎",
@@ -380,15 +404,15 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "60年复合年增长19.7%，巴菲特收官“成绩单”出炉！阿贝尔首封股东信发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32674572",
-          "source": "澎湃新闻",
+          "title": "ChatGPT周活用户超过9亿",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%91%A8%E6%B4%BB%E7%94%A8%E6%88%B7%E8%B6%85%E8%BF%879%E4%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "美媒发布哈梅内伊住所遭袭前后卫星图",
@@ -422,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "华为MWC 2026发布U6GHz全系列产品：峰值容量达100Gbps，支持6G平滑演进",
+          "url": "https://wallstreetcn.com/livenews/3061169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -636,7 +671,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -687,6 +722,18 @@
           "time_info": "[02时32分 ~ 05时20分]"
         },
         {
+          "title": "二手相机价格暴涨有的翻 10 倍，消费电子产品不都越放越便宜么，为何相机却逆势上涨？背后发生了什么？",
+          "url": "https://www.zhihu.com/question/2009592100170196176",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时46分]"
+        },
+        {
           "title": "伊朗媒体确认哈梅内伊遇害后，比特币、以太坊等数字币涨幅进一步扩大",
           "url": "https://wallstreetcn.com/livenews/3061049",
           "source": "华尔街见闻-快讯",
@@ -700,15 +747,15 @@
           "time_info": "[12时54分 ~ 14时44分]"
         },
         {
-          "title": "二手相机价格暴涨有的翻 10 倍，消费电子产品不都越放越便宜么，为何相机却逆势上涨？背后发生了什么？",
-          "url": "https://www.zhihu.com/question/2009592100170196176",
-          "source": "知乎",
+          "title": "集体下跌！沙特阿拉伯股指跌2%，埃及股指跌超5%，比特币回落至6.7万美元下方",
+          "url": "https://wallstreetcn.com/articles/3766457",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "广州深圳出发机票暴跌超80%",
