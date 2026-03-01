@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T20:46:01.988013+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-03-01T21:39:12.991505+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时11分 ~ 20时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时11分 ~ 21时39分]"
         },
         {
           "title": "AI冲击之下，新一轮“次贷危机”来了？",
@@ -103,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 20时46分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 21时39分]"
         },
         {
           "title": "伊朗政府新闻发言人办公室发布1号公告",
@@ -117,8 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 20时46分]"
+          "appearance_count": 23,
+          "time_info": "[00时26分 ~ 21时39分]"
         },
         {
           "title": "小米发布会",
@@ -142,8 +142,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 21时39分]"
+        },
+        {
+          "title": "中国军号发布视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 21时39分]"
         },
         {
           "title": "中国驻以色列使馆发布关于在以色列中国公民转移撤离登记的通知",
@@ -155,6 +168,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "60年复合年增长19.7%，巴菲特收官“成绩单”出炉！阿贝尔首封股东信发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32674572",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 21时39分]"
         },
         {
           "title": "最新AI军事模拟：95%对局发射核弹",
@@ -181,18 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "中国军号发布视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时46分]"
         },
         {
           "title": "英伟达与全球电信巨头携手，致力于在开放、安全的原生AI平台上构建6G网络",
@@ -309,18 +322,6 @@
           "time_info": "[00时26分 ~ 06时22分]"
         },
         {
-          "title": "60年复合年增长19.7%，巴菲特收官“成绩单”出炉！阿贝尔首封股东信发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32674572",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 20时46分]"
-        },
-        {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
           "url": "https://www.zhihu.com/question/2011015637259028204",
           "source": "知乎",
@@ -380,6 +381,18 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
+          "title": "华为MWC 2026发布U6GHz全系列产品：峰值容量达100Gbps，支持6G平滑演进",
+          "url": "https://wallstreetcn.com/livenews/3061169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时39分]"
+        },
+        {
           "title": "全国政协十四届四次会议新闻发布会3月3日举行",
           "url": "https://wallstreetcn.com/livenews/3061077",
           "source": "华尔街见闻-快讯",
@@ -426,6 +439,28 @@
           "time_info": "[15时32分 ~ 15时33分]"
         },
         {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
+          "title": "荣耀发布人形机器人与“机器人手机”，押注AI硬件转型",
+          "url": "https://wallstreetcn.com/livenews/3061196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "市场消息：英伟达(NVDA.O)与全球电信业领袖承诺基于开放且安全的原生人工智能平台打造6G。",
           "url": "https://flash.jin10.com/detail/20260301150043079800",
           "source": "金十数据",
@@ -448,15 +483,26 @@
           "time_info": "05时20分"
         },
         {
-          "title": "华为MWC 2026发布U6GHz全系列产品：峰值容量达100Gbps，支持6G平滑演进",
-          "url": "https://wallstreetcn.com/livenews/3061169",
+          "title": "3月1日，在MWC世界移动通信大会上，荣耀正式发布了折叠旗舰新品荣耀Magic V6。 据介绍，该机机身厚度8.75mm，电池容量7000mAh+，刷新折叠屏轻薄纪录。（界面）",
+          "url": "https://wallstreetcn.com/livenews/3061193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "【荣耀CEO李健：人工智能须兼备智能度与生命感】3月1日，在2026世界移动通信大会上，荣耀CEO李健提出Augmented Human Intelligence（简称AHI）理念，以实现AI从智能度到生命感的双重跃升，让AI既有IQ，又有EQ，并创造性地将AHI理念融入其阿尔法战略落地进程中。（澎湃）",
+          "url": "https://wallstreetcn.com/livenews/3061192",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "21时39分"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -730,8 +776,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 21时39分]"
         },
         {
           "title": "伊朗媒体确认哈梅内伊遇害后，比特币、以太坊等数字币涨幅进一步扩大",
