@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T20:57:29.509519+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2026-03-02T22:02:29.075406+08:00",
+  "total_titles_processed": 1950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时47分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[12时47分 ~ 22时02分]"
         },
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时02分]"
         },
         {
           "title": "比亚迪：将召开颠覆性技术发布会",
@@ -63,6 +63,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时50分 ~ 19时32分]"
+        },
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时02分]"
         },
         {
           "title": "解读OpenAI获千亿美元投资背后",
@@ -107,19 +120,6 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 20时57分]"
-        },
-        {
           "title": "剑星AI作图抄袭,反手拉黑原创",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
           "source": "贴吧",
@@ -130,8 +130,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时43分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[16时43分 ~ 22时02分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -143,8 +143,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时43分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[16时43分 ~ 22时02分]"
         },
         {
           "title": "伊朗发布击落美无人机画面",
@@ -180,6 +180,17 @@
           "time_info": "[17时48分 ~ 20时57分]"
         },
         {
+          "title": "摩根大通：大部分科技/人工智能股票的重新定价已经完成——这限制了进一步下跌的空间。",
+          "url": "https://flash.jin10.com/detail/20260302214620293800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "【阿联酋宣布关闭驻伊朗德黑兰大使馆】当地时间1日，阿联酋外交部发布声明，阿联酋宣布关闭其驻德黑兰大使馆并召回其驻伊朗大使。（央视）",
           "url": "https://wallstreetcn.com/livenews/3061259",
           "source": "华尔街见闻-快讯",
@@ -191,6 +202,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "小鹏汽车发布第二代VLA，何小鹏：完全自动驾驶将在1至3年内到来",
+          "url": "https://wallstreetcn.com/livenews/3061968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "多哈传出连续爆炸声 卡塔尔再次发布全国紧急警报",
           "url": "https://wallstreetcn.com/livenews/3061533",
           "source": "华尔街见闻-快讯",
@@ -200,6 +222,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "MiniMax创始人：AI办公的机会将比编程更大",
+          "url": "https://wallstreetcn.com/livenews/3061967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 22时02分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -214,6 +259,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时23分]"
+        },
+        {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时43分 ~ 22时02分]"
         },
         {
           "title": "美国大使馆发布旅行提示，美国国务院因安全风险批准非紧急外交人员及其家属离开卡塔尔。",
@@ -252,16 +310,17 @@
           "time_info": "[17时49分 ~ 18时43分]"
         },
         {
-          "title": "千问AI眼镜开启预约",
-          "url": "https://www.toutiao.com/trending/7612431152581967913/",
-          "source": "今日头条",
+          "title": "苹果2026春季发布会前瞻",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C2026%E6%98%A5%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            4
+            8,
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 20时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时02分]"
         },
         {
           "title": "上期所发布关于做好市场风险控制工作的通知",
@@ -286,30 +345,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时01分 ~ 14时57分]"
-        },
-        {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 20时57分]"
-        },
-        {
-          "title": "苹果2026春季发布会前瞻",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C2026%E6%98%A5%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时57分]"
         },
         {
           "title": "伊媒发布击落美军死神无人机画面",
@@ -348,6 +383,18 @@
           "time_info": "[00时27分 ~ 03时23分]"
         },
         {
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时02分]"
+        },
+        {
           "title": "美国防部将就针对伊朗行动开发布会",
           "url": "https://www.toutiao.com/trending/7611632431304756777/",
           "source": "今日头条",
@@ -382,6 +429,17 @@
           "time_info": "17时49分"
         },
         {
+          "title": "如何评价荣耀 MWC 发布的机器人手机 Robot Phone，它为手机行业带来了哪些实质性革新？",
+          "url": "https://www.zhihu.com/question/2011572653631223263",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "多哈传出连续爆炸声 卡塔尔再次发布全国紧急警报",
           "url": "https://flash.jin10.com/detail/20260302133501767800",
           "source": "金十数据",
@@ -402,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "美军参谋长联席会议主席Caine：三架F-15战机的损失正在调查中。",
+          "url": "https://wallstreetcn.com/livenews/3061962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "以色列国防军：根据形势评估，国内前线指挥部发布通知，现允许全国各地离开保护区域，但建议仍要靠近保护空间。搜救队伍与其他应急组织协调，在贝尔谢巴及全国其他多个受影响地点展开行动。受影响情况正在审查中。",
@@ -426,24 +495,13 @@
           "time_info": "12时47分"
         },
         {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
           "title": "市场消息：Anthropic正在调查Claude AI故障率较高的现象。",
           "url": "https://flash.jin10.com/detail/20260302202408817800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -454,7 +512,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -509,7 +567,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -520,7 +578,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -679,6 +737,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "英伟达斥资40亿美元强化AI光学供应链 巩固算力基建",
+          "url": "https://flash.jin10.com/detail/20260302213153055800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "嘉实原油LOF发布溢价风险提示",
           "url": "https://wallstreetcn.com/livenews/3061752",
           "source": "华尔街见闻-快讯",
@@ -704,8 +773,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时02分]"
+        },
         {
           "title": "国际油价周一暴涨近8%！中东战火封锁关键海峡 未来油价何去何从？",
           "url": "https://www.cls.cn/detail/2299189",
@@ -721,17 +801,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时01分 ~ 17时49分]"
-        },
-        {
-          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 20时57分]"
         },
         {
           "title": "二手相机价格暴涨有的翻 10 倍，消费电子产品不都越放越便宜么，为何相机却逆势上涨？背后发生了什么？",
@@ -761,8 +830,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时50分 ~ 20时57分]"
+          "appearance_count": 10,
+          "time_info": "[15时50分 ~ 22时02分]"
         },
         {
           "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金逼近5400关口",
@@ -875,6 +944,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        },
+        {
+          "title": "麦格理：交付能力或成油价暴涨导火索",
+          "url": "https://flash.jin10.com/detail/20260302213400480800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
