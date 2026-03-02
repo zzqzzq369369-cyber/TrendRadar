@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T01:44:05.711646+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-03-03T02:46:08.644698+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -30,26 +30,16 @@
           "time_info": "[00时44分 ~ 01时44分]"
         },
         {
-          "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
-          "url": "https://wallstreetcn.com/livenews/3062084",
-          "source": "华尔街见闻-快讯",
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3062081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -57,11 +47,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -71,19 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
-        },
-        {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -93,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "苹果2026春季发布会前瞻",
@@ -105,30 +85,67 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
+        },
+        {
+          "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
+          "url": "https://wallstreetcn.com/livenews/3062084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
         },
         {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
           "url": "https://wallstreetcn.com/livenews/3062080",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
         },
         {
           "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3062077",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
+        },
+        {
+          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
+          "url": "https://www.zhihu.com/question/2011927999839172012",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 02时46分]"
         },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -137,9 +154,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "上海合作组织发布关于伊朗伊斯兰共和国局势的声明",
+          "url": "https://wallstreetcn.com/livenews/3062088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "标普全球能源表示，还将停止在同一“收市定价”交易窗口内发布从霍尔木兹海峡内装船的中东成品油买卖报价。 将不再接受将液化天然气（LNG）运输的装船港指定为卡塔尔出口工厂或阿联酋的Das Island设施。",
@@ -167,7 +195,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -177,8 +205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -187,7 +215,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },
@@ -199,30 +227,43 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
           "url": "https://wallstreetcn.com/livenews/3062073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
+        },
+        {
+          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2300294",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 02时46分]"
         },
         {
           "title": "美股费城银行指数涨幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3062071",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
         }
       ]
     }
