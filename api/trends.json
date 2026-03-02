@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T02:46:08.644698+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-03-03T03:37:36.648514+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "剑星AI作图抄袭,反手拉黑原创",
@@ -73,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "苹果2026春季发布会前瞻",
@@ -82,11 +82,45 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
+          "url": "https://wallstreetcn.com/livenews/3062119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
+          "url": "https://flash.jin10.com/detail/20260303032802983800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能的推动不会是赢家通吃的局面。",
+          "url": "https://flash.jin10.com/detail/20260303032754746800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
@@ -113,6 +147,18 @@
           "time_info": "[01时44分 ~ 02时46分]"
         },
         {
+          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
+          "url": "https://www.zhihu.com/question/2011927999839172012",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时37分]"
+        },
+        {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
           "url": "https://wallstreetcn.com/livenews/3062080",
           "source": "华尔街见闻-快讯",
@@ -137,15 +183,16 @@
           "time_info": "[01时44分 ~ 02时46分]"
         },
         {
-          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
-          "url": "https://www.zhihu.com/question/2011927999839172012",
-          "source": "知乎",
+          "title": "上海合作组织发布关于伊朗伊斯兰共和国局势的声明",
+          "url": "https://wallstreetcn.com/livenews/3062088",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            16,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时45分 ~ 02时46分]"
+          "time_info": "[02时46分 ~ 03时37分]"
         },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
@@ -159,15 +206,26 @@
           "time_info": "01时44分"
         },
         {
-          "title": "上海合作组织发布关于伊朗伊斯兰共和国局势的声明",
-          "url": "https://wallstreetcn.com/livenews/3062088",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：美国民主党酝酿立法回应五角大楼人工智能之争",
+          "url": "https://flash.jin10.com/detail/20260303030140542800",
+          "source": "金十数据",
           "ranks": [
-            16
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时46分"
+          "time_info": "03时37分"
+        },
+        {
+          "title": "据AXIOS网站：美国民主党计划对五角大楼的人工智能斗争采取立法回应。",
+          "url": "https://flash.jin10.com/detail/20260303025633752800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         },
         {
           "title": "标普全球能源表示，还将停止在同一“收市定价”交易窗口内发布从霍尔木兹海峡内装船的中东成品油买卖报价。 将不再接受将液化天然气（LNG）运输的装船港指定为卡塔尔出口工厂或阿联酋的Das Island设施。",
@@ -205,8 +263,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
+        },
+        {
+          "title": "美油轮被炸,石油价格暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351204&amp;topic_name=%E7%BE%8E%E6%B2%B9%E8%BD%AE%E8%A2%AB%E7%82%B8%2C%E7%9F%B3%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -220,15 +289,15 @@
           "time_info": "01时44分"
         },
         {
-          "title": "美油轮被炸,石油价格暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351204&amp;topic_name=%E7%BE%8E%E6%B2%B9%E8%BD%AE%E8%A2%AB%E7%82%B8%2C%E7%9F%B3%E6%B2%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
+          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2300294",
+          "source": "财联社热门",
           "ranks": [
-            20
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 02时46分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时37分]"
         },
         {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
@@ -241,17 +310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时46分]"
-        },
-        {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 02时46分]"
         },
         {
           "title": "美股费城银行指数涨幅扩大至1%。",
