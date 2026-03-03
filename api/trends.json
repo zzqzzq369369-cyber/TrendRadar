@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T05:33:54.085206+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-03-04T06:28:21.937211+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "最高法发布典型案例从严惩治网暴：“开盒”曝光他人信息被告人获刑",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -27,8 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
+        },
+        {
+          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
+          "url": "https://wallstreetcn.com/articles/3766588",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
         },
         {
           "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
@@ -43,18 +55,6 @@
           "time_info": "[00时45分 ~ 04时32分]"
         },
         {
-          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
-          "url": "https://wallstreetcn.com/articles/3766588",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
-        },
-        {
           "title": "全国两会首场发布会如何传递开局之年的坚定信心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32691929",
           "source": "澎湃新闻",
@@ -63,8 +63,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
         },
         {
           "title": "两会首场发布会举行，全国政协会议议程公布",
@@ -84,9 +84,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -98,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时33分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时28分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -150,6 +150,18 @@
           "time_info": "[00时45分 ~ 04时32分]"
         },
         {
+          "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
+          "url": "https://wallstreetcn.com/livenews/3063008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
           "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
           "url": "https://wallstreetcn.com/livenews/3062972",
           "source": "华尔街见闻-快讯",
@@ -186,15 +198,15 @@
           "time_info": "[01时43分 ~ 02时45分]"
         },
         {
-          "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
-          "url": "https://wallstreetcn.com/livenews/3063008",
-          "source": "华尔街见闻-快讯",
+          "title": "澳大利亚2月AIG建筑业表现指数 -8.2，前值由5.2修正为4.6。",
+          "url": "https://flash.jin10.com/detail/20260304060002434800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "06时28分"
         },
         {
           "title": "OpenAI：GPT‑5.2 即时版将在旧版模型板块的模型选择器中向付费用户开放3个月，将于6月3日下线。",
@@ -206,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
+          "url": "https://flash.jin10.com/detail/20260304060002223800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "OpenAI：GPT‑5.3 即时版自今日起向 ChatGPT 的所有用户开放。",
@@ -241,6 +264,28 @@
           "time_info": "02时45分"
         },
         {
+          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3063025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "塔吉特发布战略计划，考虑2026年投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "英国财政大臣里夫斯：对人工智能持乐观态度，但可能会导致一些失业。",
           "url": "https://flash.jin10.com/detail/20260304020535172800",
           "source": "金十数据",
@@ -250,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3063020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "以色列军方向黎巴嫩南部提尔市居民发布撤离命令。",
@@ -285,6 +341,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "据华尔街日报：消息人士称，新闻集团与Meta Platforms(META.O)达成多年期人工智能授权协议，协议将至少持续三年，Meta每年将向新闻集团支付高达5000万美元的费用，以获得内容授权用于训练和内容输出。",
+          "url": "https://flash.jin10.com/detail/20260304053702894800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
           "url": "https://wallstreetcn.com/livenews/3062863",
           "source": "华尔街见闻-快讯",
@@ -299,7 +366,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -309,8 +376,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -320,8 +387,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -332,30 +399,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
         },
         {
-          "title": "CrowdStrike四季度营收13.1亿美元，分析师预期13.0亿美元。 四季度调整后每股收益（EPS）为1.12美元，分析师预期1.10美元。 预计2027财年营收58.7亿-59.3亿美元，分析师预期58.7亿美元。 预计2027财年调整后EPS为4.78-4.90美元，分析师预期4.80美元。 预计一季度营收13.6亿-13.64亿美元，分析师预期13.6亿美元。 预计一季度调整后EPS为1.06-1.07美元，分析师预期1.05美元。 CrowdStrike美股盘后跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3063011",
+          "title": "美国总统特朗普：加密货币行业接近取得真正的成功。",
+          "url": "https://wallstreetcn.com/livenews/3063034",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "06时28分"
         },
         {
-          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3063010",
-          "source": "华尔街见闻-快讯",
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
           "ranks": [
-            5
+            13,
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时39分 ~ 06时28分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -370,17 +439,62 @@
           "time_info": "[04时32分 ~ 05时33分]"
         },
         {
-          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
-          "url": "https://www.cls.cn/detail/2301724",
-          "source": "财联社热门",
+          "title": "CrowdStrike四季度营收13.1亿美元，分析师预期13.0亿美元。 四季度调整后每股收益（EPS）为1.12美元，分析师预期1.10美元。 预计2027财年营收58.7亿-59.3亿美元，分析师预期58.7亿美元。 预计2027财年调整后EPS为4.78-4.90美元，分析师预期4.80美元。 预计一季度营收13.6亿-13.64亿美元，分析师预期13.6亿美元。 预计一季度调整后EPS为1.06-1.07美元，分析师预期1.05美元。 CrowdStrike美股盘后跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3063011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            11
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 05时33分]"
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3063010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
+          "url": "https://wallstreetcn.com/livenews/3063002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时28分]"
+        },
+        {
+          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3063031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
+          "url": "https://wallstreetcn.com/livenews/3063029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "金十图示：2026年03月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -394,24 +508,13 @@
           "time_info": "02时45分"
         },
         {
-          "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
-          "url": "https://wallstreetcn.com/livenews/3063002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
           "title": "美债收益率在亚欧时段走高，美股开盘前后回吐涨幅",
           "url": "https://wallstreetcn.com/livenews/3063001",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -422,7 +525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -433,7 +536,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         },
@@ -455,7 +558,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
         }
@@ -474,8 +577,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时28分]"
         },
         {
           "title": "TikTok美国合资公司：甲骨文数据中心出现的问题正影响TikTok美国用户的部分体验。",
@@ -500,11 +603,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 05时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 06时28分]"
         }
       ]
     }
