@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T16:40:29.020631+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-03-03T17:41:43.909434+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "十四届全国人大四次会议将于3月4日12时举行新闻发布会",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时44分 ~ 10时03分]"
+        },
+        {
+          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
+          "url": "https://www.zhihu.com/question/2011788981294081499",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时41分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时44分 ~ 07时25分]"
-        },
-        {
-          "title": "比亚迪宣布将召开颠覆性技术发布会，可能涉及哪些方面的技术？是否会重塑行业竞争门槛？",
-          "url": "https://www.zhihu.com/question/2011788981294081499",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时40分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -110,8 +111,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时45分 ~ 16时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时45分 ~ 17时41分]"
+        },
+        {
+          "title": "全国政协十四届四次会议发布会",
+          "url": "https://www.douyin.com/hot/2417509",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 17时41分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时41分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -130,15 +155,20 @@
           "time_info": "[04时37分 ~ 13时49分]"
         },
         {
-          "title": "全国政协十四届四次会议发布会",
-          "url": "https://www.douyin.com/hot/2417509",
-          "source": "抖音",
+          "title": "iPhone17e正式发布",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            24,
+            20,
+            26,
+            22,
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 16时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时41分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -152,17 +182,29 @@
           "time_info": "[00时44分 ~ 01时44分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
+          "title": "全国政协十四届四次会议新闻发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7,
-            6
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时41分]"
+        },
+        {
+          "title": "全国两会首场新闻发布会将于今日下午3点开启",
+          "url": "https://www.cls.cn/detail/2300884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 17时41分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -180,21 +222,6 @@
           "time_info": "[02时45分 ~ 07时25分]"
         },
         {
-          "title": "iPhone17e正式发布",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            20,
-            26,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时40分]"
-        },
-        {
           "title": "全国政协十四届四次会议发布会",
           "url": "https://www.toutiao.com/trending/7612420035306602534/",
           "source": "今日头条",
@@ -207,16 +234,15 @@
           "time_info": "[14时52分 ~ 15时42分]"
         },
         {
-          "title": "全国政协十四届四次会议新闻发布会",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%9B%9B%E6%AC%A1%E4%BC%9A%E8%AE%AE%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "72分钟12次提问 详解两会首场发布会",
+          "url": "https://www.toutiao.com/trending/7612943810292715018/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "全国政协十四届四次会议新闻发布会",
@@ -265,16 +291,16 @@
           "time_info": "[12时45分 ~ 14时52分]"
         },
         {
-          "title": "全国两会首场新闻发布会将于今日下午3点开启",
-          "url": "https://www.cls.cn/detail/2300884",
+          "title": "两会首场发布会举行，全国政协会议议程公布",
+          "url": "https://www.cls.cn/detail/2301022",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 16时40分]"
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时41分]"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -413,6 +439,18 @@
           "time_info": "[14时52分 ~ 16时40分]"
         },
         {
+          "title": "伊朗发布反击最初两天美军战损情况",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E5%8F%8D%E5%87%BB%E6%9C%80%E5%88%9D%E4%B8%A4%E5%A4%A9%E7%BE%8E%E5%86%9B%E6%88%98%E6%8D%9F%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时41分]"
+        },
+        {
           "title": "AI生成 男女身高",
           "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -435,6 +473,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时46分]"
+        },
+        {
+          "title": "比亚迪即将发布的重磅技术改变了什么",
+          "url": "https://www.toutiao.com/trending/7612910418641554998/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时41分]"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时41分]"
         },
         {
           "title": "以色列军方向贝鲁特南部郊区居民发布撤离警告。",
@@ -497,18 +558,6 @@
           "time_info": "[07时25分 ~ 10时03分]"
         },
         {
-          "title": "伊朗发布反击最初两天美军战损情况",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E5%8F%8D%E5%87%BB%E6%9C%80%E5%88%9D%E4%B8%A4%E5%A4%A9%E7%BE%8E%E5%86%9B%E6%88%98%E6%8D%9F%E6%83%85%E5%86%B5",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时40分]"
-        },
-        {
           "title": "上海合作组织发布关于伊朗伊斯兰共和国局势的声明",
           "url": "https://wallstreetcn.com/livenews/3062088",
           "source": "华尔街见闻-快讯",
@@ -543,26 +592,26 @@
           "time_info": "15时42分"
         },
         {
-          "title": "两会首场发布会举行，全国政协会议议程公布",
-          "url": "https://www.cls.cn/detail/2301022",
-          "source": "财联社热门",
+          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
+          "url": "https://wallstreetcn.com/articles/3766588",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "17时41分"
         },
         {
-          "title": "比亚迪即将发布的重磅技术改变了什么",
-          "url": "https://www.toutiao.com/trending/7612910418641554998/",
-          "source": "今日头条",
+          "title": "最高法发布典型案例从严惩治网暴：“开盒”曝光他人信息被告人获刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689746",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "17时41分"
         },
         {
           "title": "日本央行行长植田和男：为了使新时代的金融生态系统（特点是通过AI和区块链的融合产生新的金融服务）得以发展，有必要建立一种机制，以确保交易的透明度和真实性，特别是支付的安全性和稳健性。",
@@ -620,17 +669,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "周一（3月2日），存储芯片与硬件供应链指数跌1.99%，报109.53点。 信息科技指数涨0.58%，报273.65点。 人工智能（AI）赢家指数涨0.65%，AI软件先驱指数涨1.19%。",
           "url": "https://wallstreetcn.com/livenews/3062169",
           "source": "华尔街见闻-快讯",
@@ -659,7 +697,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -692,7 +730,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -824,7 +862,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -920,7 +958,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -942,8 +980,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时41分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -980,8 +1018,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 16时40分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 17时41分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -1061,8 +1099,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 17时41分]"
         },
         {
           "title": "韩国股市暴跌触发熔断",
@@ -1070,11 +1108,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 17时41分]"
         },
         {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
@@ -1124,6 +1163,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "美股狂欢到头了吗",
+          "url": "https://www.toutiao.com/trending/7612896770523155974/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "高盛：美股往上走的唯一途径就是先向下走",
           "url": "https://flash.jin10.com/detail/20260303063803425800",
           "source": "金十数据",
@@ -1133,6 +1183,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美股盘前：明星科技股普跌，英伟达跌3%，英特尔、AMD均跌超3%，美光科技跌超4%；美股油气股普涨，Battalion Oil暴涨超50%，美国能源涨超12%，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3062628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "WTI原油日内暴涨6.00%，现报75.34美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260303172255661800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "美股期货持续下行，道琼斯指数期货跌1.55%，标普500指数期货跌1.55%，纳斯达克100指数期货跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3062613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "金十图示：2026年03月02日（周一）美股热门股票行情一览（美股收盘）",
