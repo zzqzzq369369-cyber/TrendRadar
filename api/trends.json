@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T10:01:38.008430+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-03-05T12:20:09.428886+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
+      "match_count": 52,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -13,19 +13,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 10时01分]"
-        },
-        {
-          "title": "苹果春季发布会",
-          "url": "https://www.douyin.com/hot/2419299",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            14
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -42,6 +29,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 10时01分]"
+        },
+        {
+          "title": "苹果春季发布会",
+          "url": "https://www.douyin.com/hot/2419299",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 12时20分]"
         },
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -93,11 +94,12 @@
             15,
             14,
             11,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 10时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 12时20分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -120,11 +122,12 @@
             17,
             14,
             13,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 12时20分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -144,9 +147,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
+          "url": "https://flash.jin10.com/detail/20260305120534883800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -283,6 +297,40 @@
           "time_info": "[00时43分 ~ 05时34分]"
         },
         {
+          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 12时20分]"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
           "url": "https://flash.jin10.com/detail/20260305053239942800",
           "source": "金十数据",
@@ -293,6 +341,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时30分]"
+        },
+        {
+          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2012656426984699325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "马斯克为何频繁为中国AI站台",
+          "url": "https://www.toutiao.com/trending/7613576713213054470/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "百度AIGC舌尖遇顺德",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AIGC%E8%88%8C%E5%B0%96%E9%81%87%E9%A1%BA%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
         },
         {
           "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
@@ -312,7 +404,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -323,7 +415,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -345,7 +437,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -359,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
+          "url": "https://wallstreetcn.com/livenews/3064172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "Meta计划研发自研芯片，来训练自家的AI模型",
@@ -378,9 +481,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "工业和信息化部部长李乐成：要坚持AI为人所控",
+          "url": "https://wallstreetcn.com/livenews/3064167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "十四届全国人大四次会议发布会",
@@ -389,7 +503,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -411,7 +525,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -427,15 +541,15 @@
           "time_info": "07时30分"
         },
         {
-          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
-          "source": "澎湃新闻",
+          "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
+          "url": "https://wallstreetcn.com/livenews/3064161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "12时20分"
         },
         {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
@@ -469,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "截至上月末，OpenAI年化收入已超过250亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3064152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "市场消息：美国参议员就监控政策问题向人工智能公司施压。",
@@ -530,8 +655,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 10时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 12时20分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -541,8 +666,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 10时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 12时20分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -550,11 +675,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 10时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 12时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -695,7 +821,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -723,7 +849,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
