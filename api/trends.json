@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T12:20:09.428886+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-03-05T13:48:19.274030+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -31,20 +31,6 @@
           "time_info": "[00时43分 ~ 10时01分]"
         },
         {
-          "title": "苹果春季发布会",
-          "url": "https://www.douyin.com/hot/2419299",
-          "source": "抖音",
-          "ranks": [
-            4,
-            1,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 12时20分]"
-        },
-        {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
           "url": "https://www.zhihu.com/question/2012192001999726052",
           "source": "知乎",
@@ -58,6 +44,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 10时01分]"
+        },
+        {
+          "title": "苹果春季发布会",
+          "url": "https://www.douyin.com/hot/2419299",
+          "source": "抖音",
+          "ranks": [
+            4,
+            1,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 13时48分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
@@ -95,11 +96,12 @@
             14,
             11,
             9,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 13时48分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -158,7 +160,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -283,6 +285,18 @@
           "time_info": "[03时38分 ~ 04时31分]"
         },
         {
+          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 13时48分]"
+        },
+        {
           "title": "雷军发布2026两会建议",
           "url": "https://www.douyin.com/hot/2418271",
           "source": "抖音",
@@ -297,27 +311,16 @@
           "time_info": "[00时43分 ~ 05时34分]"
         },
         {
-          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时20分]"
-        },
-        {
           "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
           "url": "https://www.zhihu.com/question/2007415716228330401",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时48分]"
         },
         {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
@@ -327,8 +330,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时48分]"
+        },
+        {
+          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2012656426984699325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时48分]"
+        },
+        {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时48分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -343,33 +368,11 @@
           "time_info": "[06时31分 ~ 07时30分]"
         },
         {
-          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
-          "url": "https://www.zhihu.com/question/2012656426984699325",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
           "title": "马斯克为何频繁为中国AI站台",
           "url": "https://www.toutiao.com/trending/7613576713213054470/",
           "source": "今日头条",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -407,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "北约拟在7月峰会上推动军费转向AI与无人机技术投资",
+          "url": "https://flash.jin10.com/detail/20260305133945841800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "据英国金融时报：Anthropic的首席执行官已恢复与美国国防部就一项人工智能协议进行谈判。",
@@ -453,13 +467,24 @@
           "time_info": "00时43分"
         },
         {
+          "title": "英国央行拟推演AI冲击 评估就业与金融风险",
+          "url": "https://flash.jin10.com/detail/20260305133440231800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
           "url": "https://wallstreetcn.com/livenews/3064172",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -492,7 +517,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -506,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "苹果新品发布会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
@@ -530,6 +566,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "高中生现场直击苹果发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E4%B8%AD%E7%94%9F%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
           "url": "https://wallstreetcn.com/livenews/3063886",
           "source": "华尔街见闻-快讯",
@@ -541,13 +588,24 @@
           "time_info": "07时30分"
         },
         {
+          "title": "市场消息：由于担心人工智能技术将导致大量工作岗位流失，并重创大片企业，英国央行正计划对全面人工智能冲击可能带来的经济和金融影响进行演练。",
+          "url": "https://flash.jin10.com/detail/20260305132907855800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
           "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
           "url": "https://wallstreetcn.com/livenews/3064161",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -591,7 +649,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -621,7 +679,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -646,19 +704,6 @@
           "time_info": "[00时43分 ~ 06时31分]"
         },
         {
-          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2302992",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 12时20分]"
-        },
-        {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -666,8 +711,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 13时48分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -679,8 +724,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 13时48分]"
+        },
+        {
+          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2302992",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 13时48分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -835,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "雷军再谈内存价格暴涨，称手机业务面临很大压力",
+          "url": "https://wallstreetcn.com/livenews/3064197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
