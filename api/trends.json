@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T19:34:00.845689+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-03-05T20:58:47.149791+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 74,
+      "match_count": 76,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -84,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时19分 ~ 19时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时19分 ~ 20时58分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -120,8 +120,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时43分 ~ 20时58分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -167,17 +167,6 @@
           "time_info": "[00时43分 ~ 12时20分]"
         },
         {
-          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
-          "url": "https://www.zhihu.com/question/2012656426984699325",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时19分 ~ 19时34分]"
-        },
-        {
           "title": "苹果新品发布会全复盘",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
@@ -187,11 +176,23 @@
             24,
             23,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时48分 ~ 20时58分]"
+        },
+        {
+          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2012656426984699325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时19分 ~ 20时58分]"
         },
         {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
@@ -200,11 +201,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时41分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时41分 ~ 20时58分]"
         },
         {
           "title": "高中生现场直击苹果发布会",
@@ -214,11 +216,12 @@
             16,
             17,
             28,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 20时58分]"
         },
         {
           "title": "代表：AI不是来抢饭碗的",
@@ -276,17 +279,6 @@
           "time_info": "05时34分"
         },
         {
-          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
-          "url": "https://wallstreetcn.com/livenews/3064454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "宋平遗像发布",
           "url": "https://www.toutiao.com/trending/7613353865001307667/",
           "source": "今日头条",
@@ -308,6 +300,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时58分]"
+        },
+        {
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 20时58分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -333,6 +351,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时38分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时58分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -385,6 +414,18 @@
           "time_info": "[16时40分 ~ 17时42分]"
         },
         {
+          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
+          "url": "https://wallstreetcn.com/livenews/3064454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 20时58分]"
+        },
+        {
           "title": "提醒：北京时间03:00，美联储将发布褐皮书。",
           "url": "https://wallstreetcn.com/livenews/3063828",
           "source": "华尔街见闻-快讯",
@@ -397,19 +438,6 @@
           "time_info": "[03时38分 ~ 04时31分]"
         },
         {
-          "title": "比Deepfake更严重的AI出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时34分]"
-        },
-        {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
           "url": "https://www.cls.cn/detail/2303137",
           "source": "财联社热门",
@@ -419,6 +447,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时19分 ~ 14时51分]"
+        },
+        {
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 20时58分]"
         },
         {
           "title": "雷军发布2026两会建议",
@@ -447,40 +488,6 @@
           "time_info": "[12时19分 ~ 14时51分]"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
-        },
-        {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
-        },
-        {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
           "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
           "source": "凤凰网",
@@ -488,8 +495,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时58分]"
+        },
+        {
+          "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652126",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时58分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -513,17 +532,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32652126",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "百度AIGC舌尖遇顺德",
@@ -669,6 +677,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "韩国发布一级能源预警，将严打哄抬价格等行为",
+          "url": "https://wallstreetcn.com/livenews/3064476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "Anthropic首席执行官重返与五角大楼就人工智能进行交易的谈判。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3064039",
           "source": "华尔街见闻-快讯",
@@ -689,6 +708,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "影石Insta360发布Snap手机自拍屏，售价499元起",
+          "url": "https://wallstreetcn.com/livenews/3064475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "十四届全国人大四次会议发布会",
@@ -892,7 +922,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -915,8 +945,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时29分 ~ 19时34分]"
+          "appearance_count": 15,
+          "time_info": "[07时29分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -963,8 +993,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[19时33分 ~ 20时58分]"
         },
         {
           "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，油价再度跳水，韩股暴力反弹近10%，白银跌3%",
@@ -998,6 +1028,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "伯克希尔哈撒韦美股盘前拉升，现涨1.6%，此前公司CEO Abel购入了价值1530万美元的股票。伯克希尔哈撒韦认为其股票的内在价值高于市场价值，称回购时机及总回购规模取决于股价情况。",
+          "url": "https://wallstreetcn.com/livenews/3064487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨将近3.9%，特斯拉涨超3.4%",
@@ -1190,6 +1231,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)美股盘前拉升，现涨1.6%。此前公司宣布于周三启动股票回购。",
+          "url": "https://flash.jin10.com/detail/20260305203647159800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "半导体ETF收涨2%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3063865",
           "source": "华尔街见闻-快讯",
@@ -1229,7 +1281,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
