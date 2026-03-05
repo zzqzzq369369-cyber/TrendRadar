@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T14:51:58.955389+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-03-05T15:42:13.095242+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 58,
+      "match_count": 62,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -133,6 +133,19 @@
           "time_info": "[00时43分 ~ 12时20分]"
         },
         {
+          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 15时42分]"
+        },
+        {
           "title": "代表：AI不是来抢饭碗的",
           "url": "https://www.toutiao.com/trending/7613364759950131236/",
           "source": "今日头条",
@@ -153,6 +166,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 15时42分]"
+        },
+        {
+          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2012656426984699325",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 15时42分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
@@ -209,19 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "100秒速读十四届全国人大四次会议新闻发布会金句",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699788",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 14时51分]"
         },
         {
           "title": "比亚迪将发布第二代刀片电池",
@@ -299,18 +322,6 @@
           "time_info": "[03时38分 ~ 04时31分]"
         },
         {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时51分]"
-        },
-        {
           "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
           "url": "https://www.cls.cn/detail/2303137",
           "source": "财联社热门",
@@ -322,15 +333,17 @@
           "time_info": "[12时19分 ~ 14时51分]"
         },
         {
-          "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
-          "url": "https://www.zhihu.com/question/2012656426984699325",
-          "source": "知乎",
+          "title": "苹果新品发布会全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            21,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时51分]"
+          "time_info": "[13时48分 ~ 15时42分]"
         },
         {
           "title": "雷军发布2026两会建议",
@@ -359,6 +372,17 @@
           "time_info": "[12时19分 ~ 14时51分]"
         },
         {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
           "url": "https://flash.jin10.com/detail/20260305053239942800",
           "source": "金十数据",
@@ -369,18 +393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时30分]"
-        },
-        {
-          "title": "苹果新品发布会全复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 14时51分]"
         },
         {
           "title": "高中生现场直击苹果发布会",
@@ -448,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
+          "url": "https://wallstreetcn.com/livenews/3064319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "据英国金融时报：Anthropic的首席执行官已恢复与美国国防部就一项人工智能协议进行谈判。",
@@ -637,6 +660,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "工信部部长李乐成：“人工智能+制造”是必答题 今年将大力推动",
+          "url": "https://wallstreetcn.com/livenews/3064302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
           "url": "https://flash.jin10.com/detail/20260305000849896800",
           "source": "金十数据",
@@ -654,7 +688,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -668,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "郑商所发布关于动力煤期货2703合约有关事项的公告",
+          "url": "https://flash.jin10.com/detail/20260305151019194800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "市场消息：美国参议员就监控政策问题向人工智能公司施压。",
@@ -709,17 +754,6 @@
           "time_info": "[00时43分 ~ 07时30分]"
         },
         {
-          "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时31分]"
-        },
-        {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -727,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 14时51分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 15时42分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -740,8 +774,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 14时51分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 15时42分]"
+        },
+        {
+          "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时31分]"
         },
         {
           "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
