@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-06T18:34:52.335626+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-03-06T19:28:48.991994+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 19时28分]"
+        },
         {
           "title": "比亚迪发布第二代刀片电池及闪充技术，5 分钟充好，9 分钟充饱，这在业内是什么水平？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2012972722834073577",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时04分 ~ 12时16分]"
-        },
-        {
-          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 18时34分]"
         },
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时44分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[13时44分 ~ 19时28分]"
         },
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -110,11 +110,12 @@
             22,
             19,
             21,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时04分 ~ 16时37分]"
+          "appearance_count": 15,
+          "time_info": "[02时04分 ~ 19时28分]"
         },
         {
           "title": "麦当劳 CEO 发布新品汉堡试吃视频，被网友调侃表情像「吃糠咽菜」，如何看待这次公关营销「翻车」？",
@@ -128,8 +129,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时31分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[06时31分 ~ 19时28分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -230,6 +231,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "AI相关产业规模将超10万亿元",
           "url": "https://www.baidu.com/s?wd=AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -250,6 +262,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 19时28分]"
         },
         {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
@@ -278,6 +304,17 @@
           "time_info": "[06时31分 ~ 07时51分]"
         },
         {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时28分]"
+        },
+        {
           "title": "Together AI正洽谈以75亿美元的估值进行融资。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3064681",
           "source": "华尔街见闻-快讯",
@@ -290,20 +327,6 @@
           "time_info": "[06时31分 ~ 07时51分]"
         },
         {
-          "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32711033",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 18时34分]"
-        },
-        {
           "title": "美国证券交易委员会（SEC）结束对加密货币亿万富翁孙宇晨的诉讼。SEC表示，Rainberry公司将在孙宇晨案中支付1000万美元罚款。",
           "url": "https://wallstreetcn.com/livenews/3064679",
           "source": "华尔街见闻-快讯",
@@ -314,6 +337,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时51分]"
+        },
+        {
+          "title": "小米发布国内第一个手机版“龙虾”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%89%8B%E6%9C%BA%E7%89%88%E2%80%9C%E9%BE%99%E8%99%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
           "title": "忍住AI让我把食欲忍住",
@@ -329,15 +363,16 @@
           "time_info": "[10时01分 ~ 13时44分]"
         },
         {
-          "title": "AI相关产业规模将超10万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时34分]"
+          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "甲骨文因AI数据中心扩张成本激增，计划裁员数千人",
@@ -366,15 +401,28 @@
           "time_info": "[14时47分 ~ 16时37分]"
         },
         {
-          "title": "小米发布国内第一个手机版“龙虾”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%89%8B%E6%9C%BA%E7%89%88%E2%80%9C%E9%BE%99%E8%99%BE%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
+          "url": "https://www.cls.cn/detail/2304614",
+          "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时34分]"
+          "time_info": "[16时37分 ~ 19时28分]"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
@@ -402,16 +450,15 @@
           "time_info": "[16时37分 ~ 18时34分]"
         },
         {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
+          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
@@ -424,30 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时34分]"
-        },
-        {
-          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
-          "url": "https://www.cls.cn/detail/2304614",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 18时34分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
         },
         {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
@@ -497,15 +520,15 @@
           "time_info": "05时34分"
         },
         {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
+          "title": "比亚迪发布第二代刀片电池及闪充",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A0%E5%8F%8A%E9%97%AA%E5%85%85",
+          "source": "百度热搜",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "19时28分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -583,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "市场消息：美国起草规则，要求全球范围内AI芯片出口需持有许可证。",
@@ -797,8 +831,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时51分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时51分 ~ 19时28分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -917,11 +951,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
           "title": "春假清明连休机票暴涨 家长：很无奈",
@@ -1021,7 +1056,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
@@ -1038,22 +1073,24 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 19时28分]"
         },
         {
           "title": "开源证券：看好券商板块春季攻势",
           "url": "https://www.toutiao.com/trending/7613933776074276914/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时28分]"
         }
       ]
     },
