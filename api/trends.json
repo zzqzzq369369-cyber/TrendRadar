@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:20:23.954223+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-03-07T20:44:34.429477+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "证监会发布《关于短线交易监管的若干规定》",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 19时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 20时44分]"
         },
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
@@ -71,6 +71,20 @@
           "time_info": "[09时53分 ~ 19时20分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 20时44分]"
+        },
+        {
           "title": "真实锐评TES打野Naiyou被调查",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
           "source": "bilibili 热搜",
@@ -108,21 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 19时20分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时01分 ~ 19时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 20时44分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -208,11 +209,12 @@
           "ranks": [
             24,
             28,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 14时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 20时44分]"
         },
         {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
@@ -263,17 +265,6 @@
           "time_info": "09时53分"
         },
         {
-          "title": "TES教练 Naiyou说季后赛输的都是假赛",
-          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "苹果新品发布会全复盘",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
@@ -313,6 +304,32 @@
           "time_info": "[02时44分 ~ 04时31分]"
         },
         {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时44分]"
+        },
+        {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 20时44分]"
+        },
+        {
           "title": "广东发布开春最强“求贤令”",
           "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E5%BC%80%E6%98%A5%E6%9C%80%E5%BC%BA%E2%80%9C%E6%B1%82%E8%B4%A4%E4%BB%A4%E2%80%9D",
           "source": "百度热搜",
@@ -348,19 +365,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 13时06分]"
-        },
-        {
-          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
-          "url": "https://www.zhihu.com/question/2004583095244911914",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时23分]"
         },
         {
           "title": "如何看待苹果发布的 Macbook Neo，将会对 win 阵营轻薄本产生什么影响？",
@@ -411,6 +415,17 @@
           "time_info": "[09时53分 ~ 12时01分]"
         },
         {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时44分]"
+        },
+        {
           "title": "俄研究机构训练人工智能识别早期乳腺癌",
           "url": "https://wallstreetcn.com/livenews/3065585",
           "source": "华尔街见闻-快讯",
@@ -421,6 +436,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 13时06分]"
+        },
+        {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时44分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时44分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
@@ -467,17 +516,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "英媒：与Anthropic“对峙”之际，美国起草严格新民用AI指导方针",
           "url": "https://flash.jin10.com/detail/20260307085433321800",
           "source": "金十数据",
@@ -520,28 +558,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        },
-        {
-          "title": "在AI的加速时代，我们到底在害怕错过什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
-          "title": "用AI动画片求婚谁不心动啊",
-          "url": "https://www.douyin.com/hot/2422221",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "国产AI短剧《霍去病》火到海外",
@@ -597,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "周鸿祎：中国AI智能体正在快速落地",
+          "url": "https://www.toutiao.com/trending/7614453399253159465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "甲骨文与OpenAI或放弃扩建得州大型AI数据中心",
@@ -680,11 +707,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[07时27分 ~ 20时44分]"
         },
         {
           "title": "黄金回收业务量大降，水贝金银批发量暴跌",
