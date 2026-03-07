@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T15:28:56.927351+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-03-07T16:31:40.521636+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "证监会发布《关于短线交易监管的若干规定》",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 16时31分]"
         },
         {
           "title": "智能体新时代来了？GPT-5.4发布，会直接使用电脑，但被指出仍存三大问题",
@@ -81,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 16时31分]"
         },
         {
           "title": "小米新发布移动端 Agent 产品「Xiaomi miclaw」，开启小范围封测，对此你怎么看？",
@@ -164,6 +164,18 @@
           "time_info": "[00时40分 ~ 07时27分]"
         },
         {
+          "title": "养龙虾，今年最大AI风暴",
+          "url": "https://wallstreetcn.com/articles/3766910",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时31分]"
+        },
+        {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
           "url": "https://www.zhihu.com/question/2013292943084058316",
           "source": "知乎",
@@ -173,18 +185,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 05时29分]"
-        },
-        {
-          "title": "养龙虾，今年最大AI风暴",
-          "url": "https://wallstreetcn.com/articles/3766910",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时28分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -200,6 +200,18 @@
           "time_info": "[00时40分 ~ 14时40分]"
         },
         {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 16时31分]"
+        },
+        {
           "title": "周五（3月6日）纽约尾盘，美国10年期基准国债收益率涨0.19个基点，报4.1383%，北京时间21:30发布美国非农就业报告时跳水至4.1035%刷新日低，随后反弹、在22:38（美股盘初）刷新日高至4.1848%，本周累计上涨20.08个基点，整体持续走高。 两年期美债收益率跌1.59个基点，报3.5605%，本周累涨18.56个基点，整体交投于3.3586%-3.6289%区间。",
           "url": "https://wallstreetcn.com/livenews/3065494",
           "source": "华尔街见闻-快讯",
@@ -211,16 +223,19 @@
           "time_info": "06时28分"
         },
         {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
+          "title": "苹果新品短的发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E7%9F%AD%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            7
+            12,
+            19,
+            23,
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 16时31分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -243,20 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "苹果新品短的发布会",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E7%9F%AD%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            19,
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 15时28分]"
         },
         {
           "title": "苹果新品发布会全复盘",
@@ -322,6 +323,18 @@
           "time_info": "[12时01分 ~ 13时06分]"
         },
         {
+          "title": "如何看待苹果发布的 Macbook Neo，将会对 win 阵营轻薄本产生什么影响？",
+          "url": "https://www.zhihu.com/question/2012667003220017786",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时31分]"
+        },
+        {
           "title": "TES上报Naiyou不正当行为",
           "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -346,18 +359,6 @@
           "time_info": "[09时53分 ~ 12时01分]"
         },
         {
-          "title": "如何看待苹果发布的 Macbook Neo，将会对 win 阵营轻薄本产生什么影响？",
-          "url": "https://www.zhihu.com/question/2012667003220017786",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时28分]"
-        },
-        {
           "title": "俄研究机构训练人工智能识别早期乳腺癌",
           "url": "https://wallstreetcn.com/livenews/3065585",
           "source": "华尔街见闻-快讯",
@@ -368,6 +369,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时01分 ~ 13时06分]"
+        },
+        {
+          "title": "比亚迪“颠覆性”发布会有何亮点",
+          "url": "https://www.toutiao.com/trending/7614056627703909897/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时31分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
@@ -436,6 +449,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
+          "url": "https://www.zhihu.com/question/2004583095244911914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "美国起草了新的政府关于人工智能合同的指导方针，美国希望人工智能公司允许“任何合法”的使用方式来应用人工智能模型。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3065520",
           "source": "华尔街见闻-快讯",
@@ -445,17 +469,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
-        },
-        {
-          "title": "比亚迪“颠覆性”发布会有何亮点",
-          "url": "https://www.toutiao.com/trending/7614056627703909897/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         },
         {
           "title": "受融资分歧及OpenAI需求变更影响，甲骨文与OpenAI已取消扩建德州旗舰AI数据中心的计划。（彭博社）",
@@ -508,7 +521,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -552,7 +565,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -597,8 +610,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 16时31分]"
         },
         {
           "title": "黄金回收业务量大降，水贝金银批发量暴跌",
@@ -607,7 +620,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
