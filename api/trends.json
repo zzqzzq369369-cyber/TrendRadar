@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T17:29:12.966243+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-03-08T18:25:16.207488+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "证监会发布《关于短线交易监管的若干规定》",
@@ -59,8 +59,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[10时01分 ~ 18时25分]"
         },
         {
           "title": "假如AI取代了UP主",
@@ -72,6 +72,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时01分 ~ 13时42分]"
+        },
+        {
+          "title": "AI养“龙虾”警惕安全风险",
+          "url": "https://www.cls.cn/detail/2306306",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "在AI的加速时代，我们到底在害怕错过什么？",
@@ -129,16 +141,31 @@
           "time_info": "[12时42分 ~ 16时31分]"
         },
         {
-          "title": "AI养“龙虾”警惕安全风险",
-          "url": "https://www.cls.cn/detail/2306306",
-          "source": "财联社热门",
+          "title": "纪录片《超大城市的一平米》发布，揭秘上海民生工程背后的系统治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726136",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            4
+            20,
+            19,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 18时25分]"
+        },
+        {
+          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
+          "url": "https://www.zhihu.com/question/2013564166326215304",
+          "source": "知乎",
+          "ranks": [
+            5,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 18时25分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -192,16 +219,16 @@
           "time_info": "[10时01分 ~ 14时42分]"
         },
         {
-          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
-          "url": "https://www.zhihu.com/question/2013564166326215304",
-          "source": "知乎",
+          "title": "工信部发布高危风险预警",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            20
+            30,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时01分 ~ 17时29分]"
+          "time_info": "[17时28分 ~ 18时25分]"
         },
         {
           "title": "用AI动画片求婚谁不心动啊",
@@ -219,19 +246,6 @@
           "time_info": "[01时21分 ~ 10时02分]"
         },
         {
-          "title": "纪录片《超大城市的一平米》发布，揭秘上海民生工程背后的系统治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726136",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时41分 ~ 17时29分]"
-        },
-        {
           "title": "白宫叫停涉伊朗冲突威胁的联邦安全警报发布",
           "url": "https://wallstreetcn.com/livenews/3065787",
           "source": "华尔街见闻-快讯",
@@ -241,6 +255,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "AI “养龙虾” 走红，官方提示：警惕安全风险",
+          "url": "https://wallstreetcn.com/livenews/3065841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时25分]"
         },
         {
           "title": "AI龙虾爆火有人几天赚了26万",
@@ -281,19 +309,6 @@
           "time_info": "[10时01分 ~ 13时42分]"
         },
         {
-          "title": "AI “养龙虾” 走红，官方提示：警惕安全风险",
-          "url": "https://wallstreetcn.com/livenews/3065841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时29分]"
-        },
-        {
           "title": "OpenAI机器人团队主管辞职，因公司与五角大楼的AI交易",
           "url": "https://wallstreetcn.com/livenews/3065778",
           "source": "华尔街见闻-快讯",
@@ -304,6 +319,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 10时02分]"
+        },
+        {
+          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
+          "url": "https://wallstreetcn.com/livenews/3065837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时25分]"
         },
         {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
@@ -327,19 +356,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 03时21分]"
-        },
-        {
-          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
-          "url": "https://wallstreetcn.com/livenews/3065837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时29分]"
         },
         {
           "title": "AI龙虾到底能干什么",
@@ -378,6 +394,17 @@
           "time_info": "[12时43分 ~ 14时42分]"
         },
         {
+          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
+          "url": "https://www.cls.cn/detail/2306367",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "以色列军方向黎巴嫩南部四个村庄发布撤离警告。",
           "url": "https://flash.jin10.com/detail/20260308142425094800",
           "source": "金十数据",
@@ -399,6 +426,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 14时42分]"
+        },
+        {
+          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "AI龙虾爆火工信部发布高危风险预警",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "解读刷爆外网的AI危机预言",
@@ -435,15 +484,15 @@
           "time_info": "[02时32分 ~ 03时21分]"
         },
         {
-          "title": "工信部发布高危风险预警",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6",
-          "source": "百度热搜",
+          "title": "以色列军方针对黎巴嫩南部利塔尼河以南的居民发布撤离警告。",
+          "url": "https://flash.jin10.com/detail/20260308173654947800",
+          "source": "金十数据",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "白宫叫停涉伊朗冲突威胁的联邦安全警报发布",
@@ -519,6 +568,19 @@
           "time_info": "[00时27分 ~ 15时31分]"
         },
         {
+          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3065839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时25分]"
+        },
+        {
           "title": "沙特阿美股价早盘上涨3.3%。",
           "url": "https://flash.jin10.com/detail/20260308150416829800",
           "source": "金十数据",
@@ -530,18 +592,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时31分 ~ 17时29分]"
-        },
-        {
-          "title": "沙特阿美股票在沙特股市开盘时一度涨至4.3%，创下自2023年4月以来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3065839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
         },
         {
           "title": "沙特阿美股价涨幅扩大至4.3%，创2023年4月以来最大涨幅。",
