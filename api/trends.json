@@ -1,283 +1,36 @@
 {
-  "generated_at": "2026-03-10T06:28:43.367196+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-03-10T07:28:37.878796+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "油价暴涨,俄罗斯躺赢",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351569&amp;topic_name=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%2C%E4%BF%84%E7%BD%97%E6%96%AF%E8%BA%BA%E8%B5%A2",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时28分]"
-        },
-        {
-          "title": "亚股暴跌之际中国却相对“抗跌”？分析师：多年能源规划带来底气",
-          "url": "https://www.cls.cn/detail/2307456",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时28分]"
-        },
-        {
-          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
-          "url": "https://www.cls.cn/detail/2307187",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
-        },
-        {
-          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260310032807160800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时40分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260310040602792800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260310040546091800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "数字货币市场走高，比特币目前涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3066651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时54分]"
-        },
-        {
-          "title": "美国总统特朗普：美国通胀“暴跌”。",
-          "url": "https://wallstreetcn.com/livenews/3066746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时28分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3066727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
-          "url": "https://wallstreetcn.com/livenews/3066726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3066724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "半导体ETF收涨超3.6%，领跑美股行业ETF，标普能源板块收跌超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3066722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "惠与第一财季净营收93亿美元，分析师预期93.7亿美元。 第一财季调整后每股收益（EPS）为0.65美元，分析师预期0.58美元。 预计第二财季净营收96亿-100亿美元，分析师预期95.7亿美元。 预计第二财季调整后EPS为0.51-0.55美元，分析师预期0.53美元。 惠与（HPE）美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3066721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260310040330474800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "油价暴跌日内振幅超40% 特朗普称战争基本结束",
-          "url": "https://flash.jin10.com/detail/20260310035048967800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "WTI原油日内暴跌8.00%，现报84.09美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260310033620845800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3066709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260310003140561800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时28分]"
+        },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
           "url": "https://www.cls.cn/detail/2307537",
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时28分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时28分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -300,11 +53,12 @@
             2,
             3,
             10,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时28分]"
         },
         {
           "title": "小片片解读AI神作牌子",
@@ -318,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时28分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -422,6 +176,17 @@
           "time_info": "03时40分"
         },
         {
+          "title": "AH股低开高走，“龙虾”概念股爆发，油气股涨幅收窄，恒科指逼近翻红，大模型股MINIMAX暴涨超23%",
+          "url": "https://wallstreetcn.com/articles/3767001",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
           "url": "https://wallstreetcn.com/livenews/3066691",
           "source": "华尔街见闻-快讯",
@@ -455,6 +220,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
+          "url": "https://flash.jin10.com/detail/20260310064625524800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "OpenAI：同意收购AI安全初创公司PromptFoo。",
           "url": "https://flash.jin10.com/detail/20260310010121184800",
           "source": "金十数据",
@@ -464,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普结束新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260310062812600800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "英特尔(INTC.O)发布具备实时性能的第二代酷睿处理器，并扩展其边缘人工智能产品组合。",
@@ -483,9 +270,270 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "油价暴涨,俄罗斯躺赢",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351569&amp;topic_name=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%2C%E4%BF%84%E7%BD%97%E6%96%AF%E8%BA%BA%E8%B5%A2",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时28分]"
+        },
+        {
+          "title": "亚股暴跌之际中国却相对“抗跌”？分析师：多年能源规划带来底气",
+          "url": "https://www.cls.cn/detail/2307456",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时28分]"
+        },
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 05时32分]"
+        },
+        {
+          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260310032807160800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时40分"
+        },
+        {
+          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260310040602792800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260310040546091800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时28分]"
+        },
+        {
+          "title": "数字货币市场走高，比特币目前涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3066651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：美国通胀“暴跌”。",
+          "url": "https://wallstreetcn.com/livenews/3066746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时28分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3066727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
+          "url": "https://wallstreetcn.com/livenews/3066726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收涨1.12%，报418.01点，跳空低开之后，在美股盘初刷新日低至390.39点，随后逐步收复失地。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.31%，报2919.20点，美股开盘之前维持微幅下跌状态——持稳于2885点附近，随后跳水走低、快速刷新日低至2768.61点。 在美股时段交易的原材料指数收涨1.05%，金属与矿业指数收涨1.45%。",
+          "url": "https://wallstreetcn.com/livenews/3066724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "半导体ETF收涨超3.6%，领跑美股行业ETF，标普能源板块收跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3066722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "惠与第一财季净营收93亿美元，分析师预期93.7亿美元。 第一财季调整后每股收益（EPS）为0.65美元，分析师预期0.58美元。 预计第二财季净营收96亿-100亿美元，分析师预期95.7亿美元。 预计第二财季调整后EPS为0.51-0.55美元，分析师预期0.53美元。 惠与（HPE）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3066721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "50克金手镯暴涨5万",
+          "url": "https://www.toutiao.com/trending/7615102349970833462/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260310040330474800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "油价暴跌日内振幅超40% 特朗普称战争基本结束",
+          "url": "https://flash.jin10.com/detail/20260310035048967800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "WTI原油日内暴跌8.00%，现报84.09美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260310033620845800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3066709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260310003140561800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     },
@@ -512,11 +560,12 @@
             30,
             27,
             23,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时57分 ~ 07时28分]"
         },
         {
           "title": "全国人大常委会工作报告显示，今年将制定反跨境腐败法，将带来哪些影响？",
