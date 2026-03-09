@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T05:32:29.698563+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-03-10T06:28:43.367196+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "油价暴涨,俄罗斯躺赢",
@@ -15,8 +15,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时28分]"
+        },
+        {
+          "title": "亚股暴跌之际中国却相对“抗跌”？分析师：多年能源规划带来底气",
+          "url": "https://www.cls.cn/detail/2307456",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时28分]"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -32,19 +45,6 @@
           "time_info": "[01时01分 ~ 05时32分]"
         },
         {
-          "title": "亚股暴跌之际中国却相对“抗跌”？分析师：多年能源规划带来底气",
-          "url": "https://www.cls.cn/detail/2307456",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
-        },
-        {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
@@ -78,17 +89,6 @@
           "time_info": "04时34分"
         },
         {
-          "title": "美国总统特朗普：美国通胀“暴跌”。",
-          "url": "https://wallstreetcn.com/livenews/3066746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260310040546091800",
           "source": "金十数据",
@@ -111,6 +111,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时54分]"
+        },
+        {
+          "title": "美国总统特朗普：美国通胀“暴跌”。",
+          "url": "https://wallstreetcn.com/livenews/3066746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -173,6 +185,17 @@
           "time_info": "[04时34分 ~ 05时32分]"
         },
         {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "美股收盘：三大股指集体收涨 芯片股走强",
           "url": "https://flash.jin10.com/detail/20260310040330474800",
           "source": "金十数据",
@@ -231,21 +254,8 @@
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "yilai加入BLG无畏契约",
-          "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
-        },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
           "url": "https://www.cls.cn/detail/2307537",
@@ -255,8 +265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时28分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -264,6 +274,19 @@
           "source": "华尔街见闻",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时28分]"
+        },
+        {
+          "title": "yilai加入BLG无畏契约",
+          "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -280,8 +303,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时28分]"
         },
         {
           "title": "小片片解读AI神作牌子",
@@ -291,11 +314,12 @@
             20,
             27,
             16,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时28分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -306,11 +330,12 @@
             15,
             10,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时28分]"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -374,6 +399,18 @@
           "time_info": "[02时54分 ~ 03时40分]"
         },
         {
+          "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3066732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时28分]"
+        },
+        {
           "title": "江苏一地发布12条OpenClaw政策",
           "url": "https://www.toutiao.com/trending/7614363948100141065/",
           "source": "今日头条",
@@ -407,17 +444,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
-          "url": "https://wallstreetcn.com/livenews/3066732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
           "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
           "url": "https://flash.jin10.com/detail/20260310014849815800",
           "source": "金十数据",
@@ -449,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "中国驻巴塞罗那总领馆发布旅行提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E6%80%BB%E9%A2%86%E9%A6%86%E5%8F%91%E5%B8%83%E6%97%85%E8%A1%8C%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     },
@@ -464,8 +501,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 06时28分]"
         },
         {
           "title": "第一批靠“养龙虾”赚钱的人出现了",
@@ -478,8 +515,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时57分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 06时28分]"
         },
         {
           "title": "全国人大常委会工作报告显示，今年将制定反跨境腐败法，将带来哪些影响？",
