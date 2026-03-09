@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-10T01:58:16.113360+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-03-10T02:54:55.015208+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "yilai加入BLG无畏契约",
           "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -49,19 +50,46 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
-          "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
-          "url": "https://wallstreetcn.com/livenews/3066663",
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
+        },
+        {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
+        },
+        {
+          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
+          "url": "https://wallstreetcn.com/livenews/3066654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            12,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们的首要任务始终是人民的生计。经济复苏方案已发布，以确保食品、药品和必需品的供应，并延长银行承诺的到期时间。将支持生产者，并简化基本商品的进口。",
@@ -76,40 +104,16 @@
           "time_info": "[01时01分 ~ 01时58分]"
         },
         {
-          "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
-          "url": "https://wallstreetcn.com/livenews/3066654",
+          "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3066663",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            12
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时58分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
-        },
-        {
-          "title": "小片片解读AI神作牌子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "time_info": "[01时58分 ~ 02时54分]"
         },
         {
           "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
@@ -124,6 +128,17 @@
           "time_info": "[01时01分 ~ 01时58分]"
         },
         {
+          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3066669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
           "title": "美国总统特朗普：将于美国东部时间下午5点30分左右举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260310004418380800",
           "source": "金十数据",
@@ -135,13 +150,24 @@
           "time_info": "01时01分"
         },
         {
+          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260310014849815800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
           "title": "OpenAI：同意收购AI安全初创公司PromptFoo。",
           "url": "https://flash.jin10.com/detail/20260310010121184800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
         },
@@ -170,8 +196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -185,27 +211,16 @@
           "time_info": "01时01分"
         },
         {
-          "title": "数字货币市场走高，比特币目前涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3066651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时58分]"
-        },
-        {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
           "url": "https://www.cls.cn/detail/2307187",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "亚股暴跌之际中国却相对“抗跌”？分析师：多年能源规划带来底气",
@@ -216,8 +231,21 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
+        },
+        {
+          "title": "数字货币市场走高，比特币目前涨2.7%",
+          "url": "https://wallstreetcn.com/livenews/3066651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -244,19 +272,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 01时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 02时54分]"
         },
         {
           "title": "第一批靠“养龙虾”赚钱的人出现了",
           "url": "https://www.toutiao.com/trending/7615056400103771674/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 02时54分]"
         },
         {
           "title": "全国人大常委会工作报告显示，今年将制定反跨境腐败法，将带来哪些影响？",
