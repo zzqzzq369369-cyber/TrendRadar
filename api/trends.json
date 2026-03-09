@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T10:03:12.810252+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-03-09T12:51:07.896715+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时51分]"
         },
         {
           "title": "AI养“龙虾”警惕安全风险",
@@ -39,19 +39,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时51分]"
         },
         {
           "title": "深圳龙岗拟首发“AI龙虾十条”",
           "url": "https://wallstreetcn.com/articles/3766977",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时51分]"
         },
         {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
@@ -86,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时51分]"
         },
         {
           "title": "纪录片《超大城市的一平米》发布，揭秘上海民生工程背后的系统治理",
@@ -126,8 +127,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 12时51分]"
         },
         {
           "title": "印度想用“免税”发展数据中心，欲打造“全球云计算和人工智能计算枢纽”",
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "国际货币基金组织总裁格奥尔基耶娃：中东新冲突正再次考验全球经济韧性。 进口油气设施已遭受损毁并出现停摆。 能源安全已飙升至全球关注的首要问题。 冲突若长期化，显而易见将冲击市场情绪、经济增长及通胀。 人工智能可以提高生产力，但也会减少就业。",
+          "url": "https://wallstreetcn.com/livenews/3066186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "市场消息：根据德国公共广播联盟发布的初步预测数据，绿党在巴登-符腾堡州州议会选举中处于领先地位，超过了德国总理默茨所属的保守派阵营。",
@@ -189,6 +201,63 @@
           "time_info": "[00时28分 ~ 03时23分]"
         },
         {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 12时51分]"
+        },
+        {
+          "title": "苹果新品发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
+        {
           "title": "AI“龙虾”爆火 湾区上门一次收4万",
           "url": "https://www.toutiao.com/trending/7615047606216953407/",
           "source": "今日头条",
@@ -211,32 +280,54 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "泰国拟发布紧急法令应对潜在能源危机",
+          "url": "https://flash.jin10.com/detail/20260309120749718800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "今年将加强人工智能等领域立法研究",
           "url": "https://wallstreetcn.com/livenews/3066077",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
         {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-09）",
+          "url": "https://flash.jin10.com/detail/20260309120307282800",
+          "source": "金十数据",
           "ranks": [
-            23
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "12时51分"
+        },
+        {
+          "title": "巴林因安全担忧发布警报。",
+          "url": "https://flash.jin10.com/detail/20260309114355479800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -256,11 +347,12 @@
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 12时51分]"
         },
         {
           "title": "特朗普回应油价暴涨",
@@ -280,7 +372,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -352,13 +444,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普回应国际油价暴涨：这是“小小的代价”",
+          "url": "https://wallstreetcn.com/livenews/3066163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "第一批靠“养龙虾”赚钱的人出现了",
+          "url": "https://www.toutiao.com/trending/7615056400103771674/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
         {
           "title": "书记省长两会“带货” 谁能成销冠",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A6%E8%AE%B0%E7%9C%81%E9%95%BF%E4%B8%A4%E4%BC%9A%E2%80%9C%E5%B8%A6%E8%B4%A7%E2%80%9D+%E8%B0%81%E8%83%BD%E6%88%90%E9%94%80%E5%86%A0",
@@ -377,7 +491,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         }
