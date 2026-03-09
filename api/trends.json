@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T15:05:56.150340+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-03-09T16:43:44.859995+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -50,11 +50,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时43分]"
         },
         {
           "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
@@ -134,6 +135,19 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 16时43分]"
+        },
+        {
           "title": "小哥AI换脸Kpop歌手一夜爆红",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%93%A5AI%E6%8D%A2%E8%84%B8Kpop%E6%AD%8C%E6%89%8B%E4%B8%80%E5%A4%9C%E7%88%86%E7%BA%A2&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -143,6 +157,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 15时05分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            25,
+            26,
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 16时43分]"
         },
         {
           "title": "印度想用“免税”发展数据中心，欲打造“全球云计算和人工智能计算枢纽”",
@@ -167,18 +196,29 @@
           "time_info": "12时51分"
         },
         {
-          "title": "TES主教练谈naiyou事件",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
+          "url": "https://www.cls.cn/detail/2306605",
+          "source": "财联社热门",
           "ranks": [
-            23,
-            25,
-            26,
-            28
+            13,
+            11,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时23分 ~ 15时05分]"
+          "time_info": "[12时50分 ~ 16时43分]"
+        },
+        {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 16时43分]"
         },
         {
           "title": "市场消息：根据德国公共广播联盟发布的初步预测数据，绿党在巴登-符腾堡州州议会选举中处于领先地位，超过了德国总理默茨所属的保守派阵营。",
@@ -194,6 +234,19 @@
           "time_info": "[01时23分 ~ 03时23分]"
         },
         {
+          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时43分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
           "url": "https://flash.jin10.com/detail/20260309033901550800",
           "source": "金十数据",
@@ -204,18 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时23分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 15时05分]"
         },
         {
           "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
@@ -230,30 +271,6 @@
           "time_info": "[01时23分 ~ 02时33分]"
         },
         {
-          "title": "地方政策尝鲜“龙虾” AI加速进入Agent时代 但安全隐患仍需防范",
-          "url": "https://www.cls.cn/detail/2306605",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 15时05分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 15时05分]"
-        },
-        {
           "title": "AI “养龙虾”火了！上市公司扎堆回应",
           "url": "https://wallstreetcn.com/livenews/3065866",
           "source": "华尔街见闻-快讯",
@@ -263,18 +280,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 03时23分]"
-        },
-        {
-          "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32727710",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时05分]"
         },
         {
           "title": "苹果新品发布会",
@@ -328,7 +333,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -375,12 +380,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "MiniMax 发布龙虾新技能 股价盘中大涨20%领跑AI板块",
+          "url": "https://wallstreetcn.com/livenews/3066332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -510,6 +526,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "特朗普回应国际油价暴涨：这是“小小的代价”",
           "url": "https://wallstreetcn.com/livenews/3066163",
           "source": "华尔街见闻-快讯",
@@ -534,8 +561,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 15时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 16时43分]"
         },
         {
           "title": "书记省长两会“带货” 谁能成销冠",
