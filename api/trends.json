@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T06:48:07.812319+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-03-11T07:28:12.846213+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "国家互联网应急中心发布OpenClaw安全应用风险提示",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "高校出手,AI龙虾被禁",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -48,8 +48,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "代表委员热聊新质生产力：大模型读到这些高频词",
@@ -60,8 +60,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -72,8 +72,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时33分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[04时33分 ~ 07时28分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时28分]"
+        },
+        {
+          "title": "豆包限制AI成毅",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时28分 ~ 07时28分]"
         },
         {
           "title": "加拿大皇家银行首席执行官麦凯：人工智能正在对银行业产生深远的影响。加拿大在液化天然气和矿产方面拥有巨大的机遇。",
@@ -107,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
+          "url": "https://wallstreetcn.com/livenews/3067605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -145,28 +182,16 @@
           "time_info": "[02时47分 ~ 03时38分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
-        },
-        {
-          "title": "豆包限制AI成毅",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=16&Refer=top",
+          "title": "AI短剧侵权肖战最高可判10年",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            16,
-            13
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时28分 ~ 06时48分]"
+          "time_info": "[06时47分 ~ 07时28分]"
         },
         {
           "title": "包括OpenAI的ChatGPT、谷歌公司Gemini、微软Copilot在内，多家公司的机器人聊天工具获准在美国参议院使用。（纽约时报）",
@@ -181,15 +206,16 @@
           "time_info": "[05时29分 ~ 06时48分]"
         },
         {
-          "title": "AI短剧侵权肖战最高可判10年",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067582",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
+          "time_info": "[06时48分 ~ 07时28分]"
         },
         {
           "title": "谷歌公司发布Gemini Embedding 2。",
@@ -234,17 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
-        },
-        {
-          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3067582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -294,7 +309,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -316,8 +331,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时28分]"
+        },
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -354,6 +380,17 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
           "title": "甲骨文美股盘后涨幅扩大至9%。",
           "url": "https://wallstreetcn.com/livenews/3067572",
           "source": "华尔街见闻-快讯",
@@ -376,6 +413,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时29分]"
+        },
+        {
+          "title": "历史惊人的相似！油价暴涨后，“1970s滞胀噩梦”要重演？",
+          "url": "https://wallstreetcn.com/articles/3767099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "甲骨文美股盘后涨幅扩大至10%，该公司正在举行分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3067585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时28分]"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -455,17 +515,6 @@
           "time_info": "04时33分"
         },
         {
-          "title": "甲骨文美股盘后涨幅扩大至10%，该公司正在举行分析师电话会议。",
-          "url": "https://wallstreetcn.com/livenews/3067585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
           "title": "存储暴涨倒逼国产手机调价",
           "url": "https://www.toutiao.com/trending/7614698682335903750/",
           "source": "今日头条",
@@ -498,11 +547,12 @@
           "url": "https://wallstreetcn.com/articles/3767089",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 07时28分]"
         },
         {
           "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
