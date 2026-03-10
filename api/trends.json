@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T03:38:23.987315+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-03-11T04:33:39.292128+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "国家互联网应急中心发布OpenClaw安全应用风险提示",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
         },
         {
           "title": "高校出手,AI龙虾被禁",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
         },
         {
           "title": "加拿大皇家银行首席执行官麦凯：人工智能正在对银行业产生深远的影响。加拿大在液化天然气和矿产方面拥有巨大的机遇。",
@@ -52,15 +52,60 @@
           "time_info": "01时02分"
         },
         {
-          "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
-          "url": "https://wallstreetcn.com/livenews/3067532",
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3067559",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "04时33分"
+        },
+        {
+          "title": "两会现场 我问了AI这样一个问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
+        },
+        {
+          "title": "代表委员热聊新质生产力：大模型读到这些高频词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
+        },
+        {
+          "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3067532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 04时33分]"
         },
         {
           "title": "【美官员称“海军护航油轮通过霍尔木兹海峡”后删帖，伊朗回应：纯属谎言】美国能源部长克里斯·赖特当地时间10日在社交媒体发布帖文表示，美国海军已成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流向全球市场。但该帖文随后不久被删除。一名消息人士表示，美国海军尚未在霍尔木兹海峡为油轮提供护航。过去一周，美国政府内部一直在讨论海军护航行动的启动时机和条件。伊朗伊斯兰革命卫队海军司令回应美国能源部长这一声明称，“所谓美国军方护送油轮通过霍尔木兹海峡的说法纯属谎言。美国及其盟友的任何行动都将在伊朗导弹和无人机的射程范围内被阻止。” (央视新闻)",
@@ -75,45 +120,12 @@
           "time_info": "[02时47分 ~ 03时38分]"
         },
         {
-          "title": "两会现场 我问了AI这样一个问题",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
-        },
-        {
           "title": "工信部提醒AI养虾安全风险",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
           "source": "bilibili 热搜",
           "ranks": [
             28,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
-        },
-        {
-          "title": "代表委员热聊新质生产力：大模型读到这些高频词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -131,6 +143,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "建议不允许青少年用AI做作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
           "title": "消息人士：美国海军尚未护送油轮通过霍尔木兹海峡。此前美国能源部长曾发布消息称，美国海军力量已护送一艘油轮通过了这条水道，随后又删除了该消息。",
           "url": "https://flash.jin10.com/detail/20260311015607537800",
           "source": "金十数据",
@@ -142,6 +165,17 @@
           "time_info": "02时47分"
         },
         {
+          "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
+          "url": "https://flash.jin10.com/detail/20260311035704540800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3067492",
           "source": "华尔街见闻-快讯",
@@ -151,6 +185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "亚马逊赢得美国法庭禁令，封杀Perplexity AI购物机器人",
+          "url": "https://wallstreetcn.com/livenews/3067538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美国中央司令部发布视频，声称正在削弱伊朗在海上投射的力量和骚扰国际航运的能力。",
+          "url": "https://flash.jin10.com/detail/20260311035000484800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -167,18 +223,41 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
+        },
+        {
+          "title": "航空业ETF、能源业ETF收跌约1.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3067560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘后涨近5%。",
+          "url": "https://flash.jin10.com/detail/20260311040618267800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "油价暴涨,俄罗斯躺赢",
@@ -188,8 +267,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
         },
         {
           "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -203,6 +282,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
+          "url": "https://wallstreetcn.com/livenews/3067555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260311040539654800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
           "title": "金十图示：2026年03月10日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260311003024125800",
           "source": "金十数据",
@@ -212,6 +313,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "金十图示：2026年03月10日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260311040537309800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
+          "url": "https://flash.jin10.com/detail/20260311040210694800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "存储暴涨倒逼国产手机调价",
+          "url": "https://www.toutiao.com/trending/7614698682335903750/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -228,7 +362,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -238,8 +372,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时33分]"
+        },
+        {
+          "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3067553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
         }
       ]
     }
