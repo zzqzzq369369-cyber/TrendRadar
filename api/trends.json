@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:59:18.547889+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2026-03-10T22:04:41.774871+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -33,21 +33,6 @@
           "time_info": "[01时01分 ~ 09时55分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时55分 ~ 20时59分]"
-        },
-        {
           "title": "yilai加入BLG无畏契约",
           "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
@@ -59,6 +44,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 05时32分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            9,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时55分 ~ 22时04分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -123,11 +124,24 @@
           "url": "https://www.cls.cn/detail/2308764",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时04分]"
+        },
+        {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时38分 ~ 22时04分]"
         },
         {
           "title": "【蔚来2026年一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%】蔚来发布2025年四季度及全年财报。四季度实现经营利润12.5亿元，实现公司季度首次盈利。四季度现金储备459亿元，环比大幅增长近百亿。2026年一季度交付指引80,000台-83,000台，同比增长90.1%-97.2%。营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
@@ -139,18 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
-        },
-        {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 20时59分]"
         },
         {
           "title": "以色列军方针对利塔尼河以南地区的居民发布撤离警告，暗示即将发动袭击。",
@@ -181,9 +183,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "工业富联董事长郑弘孟：AI算力基础设施将成为未来多年最具确定性的核心发展领域之一",
+          "url": "https://wallstreetcn.com/livenews/3067361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "荣耀正式发布折叠旗舰Magic V6，售价8999元起",
@@ -192,7 +205,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -282,6 +295,18 @@
           "time_info": "[07时28分 ~ 15时41分]"
         },
         {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时04分]"
+        },
+        {
           "title": "沙特阿美：我们持续运用包括人工智能在内的先进技术，提升全业务运营效率并挖掘价值。 我们相信对业务的持续投资将为公司未来发展奠定坚实基础。 天然气扩建项目按计划推进，以满足国内日益增长的需求。 项目推进势头强劲，彰显未来运营现金流增长潜力。",
           "url": "https://wallstreetcn.com/livenews/3067033",
           "source": "华尔街见闻-快讯",
@@ -352,17 +377,6 @@
           "time_info": "[18时38分 ~ 18时39分]"
         },
         {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
-        },
-        {
           "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
           "url": "https://wallstreetcn.com/livenews/3066732",
           "source": "华尔街见闻-快讯",
@@ -386,6 +400,17 @@
           "time_info": "03时40分"
         },
         {
+          "title": "Meta收购AI社交网络平台Moltbook。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "我国发布「十五五」规划纲要草案，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2012872737916461690",
           "source": "知乎",
@@ -406,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "两会现场 我问了AI这样一个问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "靳东呼吁针对AI换脸立法",
@@ -535,7 +571,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -560,6 +596,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "伊朗的战火，可能烧掉美国的AI梦？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260310213156918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "代表委员热聊新质生产力：大模型读到这些高频词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
@@ -634,9 +692,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "英伟达宣布对AI企业Thinking Machines Lab进行新一轮投资，并将向该初创公司提供芯片，用于训练和运行其AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3067332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "金十提示：美国总统特朗普结束新闻发布会。",
@@ -683,6 +752,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "李斌：今年将发布三款全新车型，五款大型、中大型SUV为全年销量增长打下坚实基础",
+          "url": "https://wallstreetcn.com/livenews/3067329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "日本选定61项重点技术作为优先投资目标，包括人工智能、量子计算和无人机",
           "url": "https://flash.jin10.com/detail/20260310181025266800",
           "source": "金十数据",
@@ -700,7 +780,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -730,7 +810,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -759,11 +839,12 @@
             16,
             17,
             19,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[01时01分 ~ 20时59分]"
+          "appearance_count": 28,
+          "time_info": "[01时01分 ~ 22时04分]"
         },
         {
           "title": "亚股暴跌之际中国却相对“抗跌”？分析师：多年能源规划带来底气",
@@ -857,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
@@ -999,6 +1091,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "金十图示：2026年03月10日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260310214202868800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3067251",
           "source": "华尔街见闻-快讯",
@@ -1016,9 +1119,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
+        },
+        {
+          "title": "美股三大指数开盘涨跌不一，纳指涨0.1%，道指跌0.05%，标普500指数跌0.05%。蔚来涨超6%，公司Q4实现经营利润12.5亿元，交付量大增71.7%。存储概念股普涨，西部数据涨超4%，闪迪、美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3067349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "油价暴跌日内振幅超40% 特朗普称战争基本结束",
@@ -1043,6 +1157,17 @@
           "time_info": "19时33分"
         },
         {
+          "title": "BioNTech(BNTX.O)美股盘中暴跌19%，创4月25日以来最大跌幅。",
+          "url": "https://flash.jin10.com/detail/20260310213243409800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "WTI原油日内暴跌8.00%，现报84.09美元/桶。",
           "url": "https://flash.jin10.com/detail/20260310033620845800",
           "source": "金十数据",
@@ -1052,6 +1177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美股开盘，道指跌0.13%，标普500指数跌0.03%，纳指涨0.1%。蔚来汽车(NIO.N)涨约6%，一季度营收指引同比增长103.4%至109.2%。BioNTech(BNTX.O)大跌约19%，公司2026年营收指引不及预期。",
+          "url": "https://flash.jin10.com/detail/20260310213028106800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",
@@ -1096,6 +1232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "腾讯控股ADR美股盘前走高，现涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20260310211708526800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         }
       ]
     },
@@ -1136,7 +1283,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -1202,8 +1349,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时04分]"
         },
         {
           "title": "博睿数据：OpenClaw是开源AI智能体执行框架，公司目前对此类技术尚无监控方案和产品，未形成商业化应用，也未形成收入，对公司目前业务不构成影响。",
