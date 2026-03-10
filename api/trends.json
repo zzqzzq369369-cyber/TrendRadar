@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-03-10T18:39:00.554655+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2026-03-10T19:33:03.643004+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
-        {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 18时39分]"
-        },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
           "url": "https://wallstreetcn.com/articles/3766992",
@@ -31,6 +18,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 07时28分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时55分 ~ 19时33分]"
         },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
@@ -123,7 +124,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -211,6 +212,18 @@
           "time_info": "[17时43分 ~ 18时39分]"
         },
         {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 19时33分]"
+        },
+        {
           "title": "AI龙虾为何那么“生猛”",
           "url": "https://www.douyin.com/hot/2425335",
           "source": "抖音",
@@ -259,15 +272,16 @@
           "time_info": "[01时01分 ~ 01时58分]"
         },
         {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
+          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
+          "url": "https://wallstreetcn.com/livenews/3067229",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "time_info": "[18时39分 ~ 19时33分]"
         },
         {
           "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
@@ -360,17 +374,6 @@
           "time_info": "09时55分"
         },
         {
-          "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
-          "url": "https://wallstreetcn.com/livenews/3067229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
           "title": "沙特阿美：正在利用人工智能提升各项运营效率。我们相信，持续投资于我们的业务，将使我们在未来处于有利地位。",
           "url": "https://flash.jin10.com/detail/20260310131741446800",
           "source": "金十数据",
@@ -413,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "金融机构整体对OpenClaw等AI代理工具仍保持谨慎态度",
+          "url": "https://wallstreetcn.com/livenews/3067246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
@@ -479,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
+          "url": "https://flash.jin10.com/detail/20260310190550014800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "报道：Groq拟将AI芯片产量由9000片提高至15000片",
@@ -569,13 +594,24 @@
           "time_info": "16时41分"
         },
         {
+          "title": "花旗集团将2026-2030年全球人工智能资本支出预测从之前的8万亿美元上调至8.9万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310190038911800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "日本选定61项重点技术作为优先投资目标，包括人工智能、量子计算和无人机",
           "url": "https://flash.jin10.com/detail/20260310181025266800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -605,7 +641,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -632,11 +668,12 @@
             12,
             15,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时01分 ~ 18时39分]"
+          "appearance_count": 25,
+          "time_info": "[01时01分 ~ 19时33分]"
         },
         {
           "title": "亚股暴跌之际中国却相对“抗跌”？分析师：多年能源规划带来底气",
@@ -768,6 +805,17 @@
           "time_info": "[04时34分 ~ 05时32分]"
         },
         {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
+        },
+        {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
           "url": "https://wallstreetcn.com/livenews/3066726",
           "source": "华尔街见闻-快讯",
@@ -860,6 +908,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "柯尔百货第四季度销售净额49.7亿美元，同比下降3.9%，市场预估50.5亿美元。 第四季度毛利率33.1％，上年同期32.9％。 第四季度每股收益1.07美元，上年同期0.43美元，市场预估0.91美元。 第四季度经营利润2.12亿美元，同比增长68%。 柯尔百货美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3067251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "油价暴跌日内振幅超40% 特朗普称战争基本结束",
           "url": "https://flash.jin10.com/detail/20260310035048967800",
           "source": "金十数据",
@@ -869,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "蔚来美股盘前涨超6%，公司一季度营收指引244.8亿元-251.8亿元，同比增长103.4%至109.2%。",
+          "url": "https://wallstreetcn.com/livenews/3067241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "WTI原油日内暴跌8.00%，现报84.09美元/桶。",
@@ -929,7 +999,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "我国将制定反跨境腐败法等",
@@ -958,6 +1028,17 @@
           "time_info": "[01时57分 ~ 07时28分]"
         },
         {
+          "title": "最高检：严惩跨境电诈 批捕缅北集中遣返涉诈人员4.8万人",
+          "url": "https://wallstreetcn.com/livenews/3067249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "全国人大常委会工作报告显示，今年将制定反跨境腐败法，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2014274934000613195",
           "source": "知乎",
@@ -972,7 +1053,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达也要“烹龙虾”？将推智能体开源平台NemoClaw 预计下周亮相",
@@ -999,6 +1080,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时34分]"
+        },
+        {
+          "title": "博睿数据：OpenClaw是开源AI智能体执行框架，公司目前对此类技术尚无监控方案和产品，未形成商业化应用，也未形成收入，对公司目前业务不构成影响。",
+          "url": "https://wallstreetcn.com/livenews/3067244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "腾讯混元开源首个面向世界模型的强化学习后训练框架",
