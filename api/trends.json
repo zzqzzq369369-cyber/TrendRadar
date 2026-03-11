@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T17:42:25.189210+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-03-11T18:38:53.087889+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "国家互联网应急中心发布OpenClaw安全应用风险提示",
@@ -28,11 +28,12 @@
             12,
             13,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时02分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[01时02分 ~ 18时38分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -67,11 +68,12 @@
             14,
             20,
             21,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时02分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[01时02分 ~ 18时38分]"
         },
         {
           "title": "代表委员热聊新质生产力：大模型读到这些高频词",
@@ -84,6 +86,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 07时28分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            12,
+            23,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 18时38分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -123,21 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 12时11分]"
-        },
-        {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            12,
-            23,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时10分 ~ 17时42分]"
         },
         {
           "title": "代表建议破除AI教育产品算法偏见",
@@ -252,8 +255,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 17时42分]"
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 18时38分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时38分]"
+        },
+        {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时38分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -304,18 +331,6 @@
           "time_info": "[12时11分 ~ 13时48分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时42分]"
-        },
-        {
           "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
           "url": "https://wallstreetcn.com/articles/3767169",
           "source": "华尔街见闻",
@@ -323,8 +338,21 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时38分]"
+        },
+        {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时42分]"
+          "time_info": "[16时40分 ~ 18时38分]"
         },
         {
           "title": "福布斯发布年度全球亿万富豪榜",
@@ -360,29 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时28分]"
-        },
-        {
-          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
-          "url": "https://www.toutiao.com/trending/7615866634636365339/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时42分]"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-11）",
@@ -561,6 +566,17 @@
           "time_info": "13时48分"
         },
         {
+          "title": "据Business Insider：特斯拉加码类AI智能体项目，XAI的Macrohard项目陷入停滞。",
+          "url": "https://flash.jin10.com/detail/20260311180922364800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "福布斯发布年度全球亿万富豪榜",
           "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%B8%83%E6%96%AF%E5%8F%91%E5%B8%83%E5%B9%B4%E5%BA%A6%E5%85%A8%E7%90%83%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%A6%9C",
           "source": "百度热搜",
@@ -607,8 +623,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 17时42分]"
+          "appearance_count": 12,
+          "time_info": "[07时27分 ~ 18时38分]"
         },
         {
           "title": "存储芯片成本暴涨 80%，OPPO 官宣涨价，雷军称尽量降低消费者接受难度，这将如何重塑手机市场竞争格局？",
@@ -618,11 +634,12 @@
             7,
             1,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时54分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时54分 ~ 18时38分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
