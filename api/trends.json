@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T22:05:59.658126+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2026-03-12T23:59:13.880264+08:00",
+  "total_titles_processed": 2059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -55,6 +55,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时51分 ~ 22时05分]"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            10,
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时46分 ~ 23时59分]"
         },
         {
           "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
@@ -128,23 +144,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时51分 ~ 22时05分]"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时46分 ~ 22时05分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 23时59分]"
         },
         {
           "title": "黑龙江体育局发布公示，王濛申报破格晋升国家级教练，意味着什么？若其出任主帅，能带领国家队走出低谷吗？",
@@ -225,6 +226,21 @@
           "time_info": "[12时21分 ~ 17时42分]"
         },
         {
+          "title": "微信3大新功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A13%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14,
+            17,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时42分 ~ 23时59分]"
+        },
+        {
           "title": "美以伊战争｜伊朗新最高领袖将发布首条信息",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -264,23 +280,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
         {
-          "title": "微信3大新功能",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A13%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            14,
-            17,
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时42分 ~ 22时05分]"
+          "time_info": "[19时31分 ~ 23时59分]"
+        },
+        {
+          "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
+          "url": "https://flash.jin10.com/detail/20260312235230253800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "中化化肥发布通知：要求客户不得参与化肥市场炒作",
@@ -292,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3069051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "以色列国防军：对黎巴嫩南部居民发布紧急警告，必须立即撤离。",
@@ -353,11 +388,12 @@
           "url": "https://www.zhihu.com/question/2015138293377935117",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时59分]"
         },
         {
           "title": "摩根士丹利：阿里巴巴取代腾讯为首选标的，完整AI技术栈构成结构性优势",
@@ -418,17 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时42分 ~ 18时38分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时05分]"
         },
         {
           "title": "美金融巨头为AI基建花上亿培训水电工",
@@ -512,6 +537,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时26分]"
+        },
+        {
+          "title": "周杰伦官宣3月24日发布新专辑",
+          "url": "https://www.douyin.com/hot/2428320",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
         },
         {
           "title": "AI演员都出片场花絮了",
@@ -800,6 +836,17 @@
           "time_info": "17时42分"
         },
         {
+          "title": "戴尔科技CEO Michael Dell：（回应Anthropic与五角大楼的纠纷）企业无法影响（美国）政府如何使用（AI）工具。 企业（向美国政府）提出工具使用方式要求这种做法不可行。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3069024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
           "url": "https://wallstreetcn.com/livenews/3068208",
           "source": "华尔街见闻-快讯",
@@ -869,7 +916,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -880,8 +927,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时25分 ~ 22时05分]"
+          "appearance_count": 16,
+          "time_info": "[07时25分 ~ 23时59分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -962,6 +1009,28 @@
           "time_info": "[00时51分 ~ 07时25分]"
         },
         {
+          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时59分]"
+        },
+        {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：希望在下周选民身份立法的党派博弈结束后，推动参议院审议能源许可和加密货币法案。 参议员们正在制定一项市场结构法案，希望该法案能“很快”提交委员会通过。 参议院还可能着手改革能源和基础设施项目的许可规则。 计划下周将选民身份立法提交表决，但目前该法案尚无途径达到60票的通过门槛，也无法规避现有的议事规则。",
+          "url": "https://wallstreetcn.com/livenews/3069054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 理想汽车美股盘前下跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3068756",
           "source": "华尔街见闻-快讯",
@@ -971,17 +1040,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
-        },
-        {
-          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
         },
         {
           "title": "低硫燃料油（LU）主力合约日内暴涨18.00%，现报5811.00元/吨。",
@@ -1072,7 +1130,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1105,7 +1163,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1127,7 +1185,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1138,7 +1196,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1204,7 +1262,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
