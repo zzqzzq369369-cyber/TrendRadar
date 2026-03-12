@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T20:58:27.179848+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2026-03-12T22:05:59.658126+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -49,11 +49,12 @@
           "ranks": [
             1,
             2,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 20时58分]"
+          "appearance_count": 10,
+          "time_info": "[13时51分 ~ 22时05分]"
         },
         {
           "title": "代表建议避免青少年过早使用 AI ，不允许青少年使用 AI 做作业，如何看待此建议？日常生活中应如何实现？",
@@ -66,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时55分 ~ 20时58分]"
+          "appearance_count": 9,
+          "time_info": "[14时55分 ~ 22时05分]"
         },
         {
           "title": "多家券商发布嘉美包装风险警示，午盘收跌近2%",
@@ -127,8 +128,23 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时51分 ~ 20时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 22时05分]"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            10,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时46分 ~ 22时05分]"
         },
         {
           "title": "黑龙江体育局发布公示，王濛申报破格晋升国家级教练，意味着什么？若其出任主帅，能带领国家队走出低谷吗？",
@@ -209,27 +225,13 @@
           "time_info": "[12时21分 ~ 17时42分]"
         },
         {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时46分 ~ 20时58分]"
-        },
-        {
           "title": "美以伊战争｜伊朗新最高领袖将发布首条信息",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -251,9 +253,34 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（3月11日，美国CPI通胀数据发布日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3068986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "微信3大新功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A13%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时05分]"
         },
         {
           "title": "中化化肥发布通知：要求客户不得参与化肥市场炒作",
@@ -273,7 +300,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -322,18 +349,15 @@
           "time_info": "15时46分"
         },
         {
-          "title": "微信3大新功能",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A13%E5%A4%A7%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "近期多部门发布提示「养龙虾」安全提示，新技术与风险该如何平衡？",
+          "url": "https://www.zhihu.com/question/2015138293377935117",
+          "source": "知乎",
           "ranks": [
-            11,
-            14,
-            17,
-            19
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 20时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "摩根士丹利：阿里巴巴取代腾讯为首选标的，完整AI技术栈构成结构性优势",
@@ -396,6 +420,17 @@
           "time_info": "[17时42分 ~ 18时38分]"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时05分]"
+        },
+        {
           "title": "美金融巨头为AI基建花上亿培训水电工",
           "url": "https://www.toutiao.com/trending/7616268055123722303/",
           "source": "今日头条",
@@ -406,17 +441,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时38分 ~ 19时32分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时58分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -639,7 +663,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -845,7 +869,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -856,8 +880,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时25分 ~ 20时58分]"
+          "appearance_count": 14,
+          "time_info": "[07时25分 ~ 22时05分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -949,6 +973,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "低硫燃料油（LU）主力合约日内暴涨18.00%，现报5811.00元/吨。",
           "url": "https://flash.jin10.com/detail/20260312094408893800",
           "source": "金十数据",
@@ -966,7 +1001,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1031,6 +1066,17 @@
           "time_info": "[05时33分 ~ 06时26分]"
         },
         {
+          "title": "美股低开低走 三大股指悉数跌超1%",
+          "url": "https://flash.jin10.com/detail/20260312214704058800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "财报公布后，理想汽车(LI.O)美股盘前下跌近3%。",
           "url": "https://flash.jin10.com/detail/20260312163212112800",
           "source": "金十数据",
@@ -1053,6 +1099,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "美股三大股指均跌超1%，道指现跌1.3%，标普500指数跌1.1%，纳指跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3068976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260312040645432800",
           "source": "金十数据",
@@ -1062,6 +1119,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260312214154348800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "美股三大股指低开，道指跌0.99%，标普500指数跌0.79%，纳指跌0.89%。理想汽车跌3%，公司Q4营收同比下滑35%；科技股普跌，英伟达、AMD跌超1%，美光科技跌超2%；摩根士丹利下跌4.9%，创2月27日以来最大跌幅，消息称摩根士丹利限制私人信用基金的赎回；标普1500化肥指数上涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3068966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 石油股走强",
@@ -1117,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "美股三大股指大幅低开",
+          "url": "https://flash.jin10.com/detail/20260312213028803800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "格罗方德半导体（格芯）将回购大约3亿美元股票。 股东Mubadala将出售2000万股持股。 格芯（GFS）美股盘后跌超5.46%。",
@@ -1177,7 +1267,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
