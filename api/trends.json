@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T19:31:56.177996+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-03-13T20:57:10.874038+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "大模型的 token 究竟是什么？",
@@ -34,8 +34,22 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 20时57分]"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 20时57分]"
         },
         {
           "title": "伊朗最高领袖发布个人照片",
@@ -51,8 +65,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 20时57分]"
         },
         {
           "title": "周杰伦官宣3月24日发布新专辑",
@@ -134,20 +148,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时03分 ~ 09时59分]"
-        },
-        {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时45分 ~ 19时31分]"
         },
         {
           "title": "近期多部门发布提示「养龙虾」安全提示，新技术与风险该如何平衡？",
@@ -391,13 +391,35 @@
           "time_info": "[05时32分 ~ 06时25分]"
         },
         {
+          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
           "title": "洛克王国世界前瞻发布会",
           "url": "https://search.bilibili.com/all?keyword=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E5%89%8D%E7%9E%BB%E5%8F%91%E5%B8%83%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -419,7 +441,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -507,7 +529,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -633,6 +655,17 @@
           "time_info": "16时39分"
         },
         {
+          "title": "交通运输部：深入实施“人工智能+交通运输”行动",
+          "url": "https://wallstreetcn.com/livenews/3069764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
           "url": "https://flash.jin10.com/detail/20260313020547080800",
           "source": "金十数据",
@@ -670,8 +703,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[12时18分 ~ 20时57分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -804,6 +837,19 @@
           "time_info": "[01时04分 ~ 02时53分]"
         },
         {
+          "title": "利润暴跌93% 保时捷跌落神坛",
+          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C93%25+%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 20时57分]"
+        },
+        {
           "title": "美股小盘股指期货周四跌超1.9%",
           "url": "https://wallstreetcn.com/livenews/3069164",
           "source": "华尔街见闻-快讯",
@@ -851,18 +897,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时25分]"
-        },
-        {
-          "title": "利润暴跌93% 保时捷跌落神坛",
-          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C93%25+%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时31分]"
         },
         {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -926,6 +960,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "汽艇失联5天，4人生死未卜，海警：他们是从野码头出海的",
+          "url": "https://news.ifeng.com/c/8rSq4GJWQkO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 20时57分]"
+        },
+        {
           "title": "F1凭啥赚钱",
           "url": "https://search.bilibili.com/all?keyword=F1%E5%87%AD%E5%95%A5%E8%B5%9A%E9%92%B1",
           "source": "bilibili 热搜",
@@ -935,17 +980,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "汽艇失联5天，4人生死未卜，海警：他们是从野码头出海的",
-          "url": "https://news.ifeng.com/c/8rSq4GJWQkO",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "中国首个辅助驾驶系统出海，吉利千里浩瀚G-ASD正式获欧盟认证",
