@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T05:33:00.661490+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-14T06:27:49.538218+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "DeepSeek V4 为什么还不发布？",
@@ -29,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -40,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "张颂文硬气回应AI冲击影视行业",
@@ -50,11 +51,12 @@
           "ranks": [
             15,
             11,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 06时27分]"
         },
         {
           "title": "伊朗最高领袖发布个人照片",
@@ -67,8 +69,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 06时27分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -82,8 +84,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -112,6 +114,17 @@
           "time_info": "[01时34分 ~ 03时32分]"
         },
         {
+          "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
+          "url": "https://flash.jin10.com/detail/20260314041906690800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时27分]"
+        },
+        {
           "title": "Mosaic股价跌幅扩大至5.9%。",
           "url": "https://wallstreetcn.com/livenews/3069973",
           "source": "华尔街见闻-快讯",
@@ -136,6 +149,18 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
+          "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3070007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时27分]"
+        },
+        {
           "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
           "url": "https://flash.jin10.com/detail/20260314015342167800",
           "source": "金十数据",
@@ -145,28 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
-        },
-        {
-          "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
-          "url": "https://flash.jin10.com/detail/20260314041906690800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3070007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
@@ -204,8 +207,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
           "title": "利润暴跌93% 保时捷跌落神坛",
@@ -218,19 +221,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时27分]"
         },
         {
-          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3070022",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260314040823519800",
+          "source": "金十数据",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -245,16 +249,16 @@
           "time_info": "[00时40分 ~ 01时34分]"
         },
         {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040823519800",
-          "source": "金十数据",
+          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3070022",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时33分]"
+          "time_info": "[05时33分 ~ 06时27分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -265,8 +269,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时33分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 06时27分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
@@ -277,8 +281,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时27分]"
+        },
+        {
+          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
+          "url": "https://flash.jin10.com/detail/20260314040028174800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时27分]"
         },
         {
           "title": "数字货币市场周五走高，比特币涨穿7.2万美元，本周以太币涨超7.7%",
@@ -293,16 +309,16 @@
           "time_info": "[01时34分 ~ 02时41分]"
         },
         {
-          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
-          "url": "https://flash.jin10.com/detail/20260314040028174800",
-          "source": "金十数据",
+          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
+          "url": "https://wallstreetcn.com/livenews/3070015",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            30
+            12,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时33分]"
+          "time_info": "[05时33分 ~ 06时27分]"
         },
         {
           "title": "美股三大指数集体高开 百度涨超2%",
@@ -314,17 +330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时34分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
-          "url": "https://wallstreetcn.com/livenews/3070015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         },
         {
           "title": "美股延续跌势，纳斯达克指数下跌1.00%。",
