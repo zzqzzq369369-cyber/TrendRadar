@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T20:57:10.874038+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-03-13T22:02:33.932426+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "大模型的 token 究竟是什么？",
@@ -21,23 +21,6 @@
           "time_info": "[09时59分 ~ 17时38分]"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15,
-            18,
-            16,
-            17,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 20时57分]"
-        },
-        {
           "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
           "url": "https://www.zhihu.com/question/2012836051480178728",
           "source": "知乎",
@@ -48,8 +31,26 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 20时57分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 22时02分]"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            18,
+            16,
+            17,
+            14,
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 22时02分]"
         },
         {
           "title": "伊朗最高领袖发布个人照片",
@@ -259,6 +260,17 @@
           "time_info": "[01时03分 ~ 03时43分]"
         },
         {
+          "title": "十五五规划纲要全文发布",
+          "url": "https://www.douyin.com/hot/2429887",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "微信新功能被称为“社恐福音”",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E8%A2%AB%E7%A7%B0%E4%B8%BA%E2%80%9C%E7%A4%BE%E6%81%90%E7%A6%8F%E9%9F%B3%E2%80%9D",
           "source": "百度热搜",
@@ -269,6 +281,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时59分 ~ 13时49分]"
+        },
+        {
+          "title": "AI带路寻美食,吧友吃到自闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时02分]"
         },
         {
           "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
@@ -343,6 +367,18 @@
           "time_info": "[18时36分 ~ 19时31分]"
         },
         {
+          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时02分]"
+        },
+        {
           "title": "不想看AI演戏",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -389,28 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时25分]"
-        },
-        {
-          "title": "人工智能产业发展联盟：持续跟踪OpenClaw及同类AI智能体的安全风险动态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32755562",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
-        },
-        {
-          "title": "AI带路寻美食,吧友吃到自闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "洛克王国世界前瞻发布会",
@@ -501,6 +515,17 @@
           "time_info": "15时45分"
         },
         {
+          "title": "浑水创始人转空：若AI持续替代白领，美股401K体系或将崩盘",
+          "url": "https://wallstreetcn.com/articles/3767368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
           "url": "https://flash.jin10.com/detail/20260313034321354800",
           "source": "金十数据",
@@ -512,6 +537,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "懂车帝多模态大模型算法通过备案",
+          "url": "https://wallstreetcn.com/livenews/3069843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "日本产业省官员：将在美国发布30天制裁豁免后，考虑是否采购俄罗斯原油。",
           "url": "https://flash.jin10.com/detail/20260313141740702800",
           "source": "金十数据",
@@ -521,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。明星科技股多数走高，美光科技涨超3%，英特尔涨2.7%，台积电涨超2%。纳斯达克上市次日，PayPay涨超16%。Adobe跌超7%，公司上季营收超预期创纪录，但指引平平。META下跌3.2%，创3月6日以来最大盘中跌幅，报道称Meta在出现性能担忧后推迟了新AI模型的推出。",
+          "url": "https://wallstreetcn.com/livenews/3069840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "研究：2026年FIFA世界杯有望成AI规模化应用超级场景",
@@ -554,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "多部门联合发布风险提示：警惕诱导付费和高融资成本陷阱",
+          "url": "https://wallstreetcn.com/livenews/3069832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "周云杰2026首场大型发布会直播",
@@ -661,7 +719,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -691,7 +749,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -703,8 +761,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 22时02分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -776,6 +834,20 @@
           "time_info": "09时59分"
         },
         {
+          "title": "利润暴跌93% 保时捷跌落神坛",
+          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C93%25+%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            14,
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时02分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
           "url": "https://wallstreetcn.com/livenews/3069153",
           "source": "华尔街见闻-快讯",
@@ -837,19 +909,6 @@
           "time_info": "[01时04分 ~ 02时53分]"
         },
         {
-          "title": "利润暴跌93% 保时捷跌落神坛",
-          "url": "https://www.baidu.com/s?wd=%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C93%25+%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 20时57分]"
-        },
-        {
           "title": "美股小盘股指期货周四跌超1.9%",
           "url": "https://wallstreetcn.com/livenews/3069164",
           "source": "华尔街见闻-快讯",
@@ -899,6 +958,17 @@
           "time_info": "[05时32分 ~ 06时25分]"
         },
         {
+          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260313214149488800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260313003325589800",
           "source": "金十数据",
@@ -910,6 +980,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "Adobe(ADBE.O)股价盘初一度暴跌8.4%，创一年来最大盘中跌幅。",
+          "url": "https://flash.jin10.com/detail/20260313213353883800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260313003104000800",
           "source": "金十数据",
@@ -919,6 +1000,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "摩根大通：美股散户风险偏好出现降温",
+          "url": "https://flash.jin10.com/detail/20260313213113167800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "美股开盘，三大股指高开，道指涨0.47%，标普500指数涨0.5%，纳指涨0.49%。Adobe(ADBE.O)大跌7%， CEO掌舵18年后宣布辞职。",
+          "url": "https://flash.jin10.com/detail/20260313213027984800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：希望在下周选民身份立法的党派博弈结束后，推动参议院审议能源许可和加密货币法案。 参议员们正在制定一项市场结构法案，希望该法案能“很快”提交委员会通过。 参议院还可能着手改革能源和基础设施项目的许可规则。 计划下周将选民身份立法提交表决，但目前该法案尚无途径达到60票的通过门槛，也无法规避现有的议事规则。",
@@ -967,8 +1070,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时31分 ~ 22时02分]"
         },
         {
           "title": "F1凭啥赚钱",
