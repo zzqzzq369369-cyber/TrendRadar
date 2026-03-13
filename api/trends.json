@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T14:53:40.666205+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-03-13T15:45:27.070626+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "周杰伦官宣3月24日发布新专辑",
@@ -16,11 +16,24 @@
             25,
             20,
             23,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 14时53分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 15时45分]"
+        },
+        {
+          "title": "大模型的 token 究竟是什么？",
+          "url": "https://www.zhihu.com/question/1662306083",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 15时45分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -50,18 +63,6 @@
           "time_info": "[01时03分 ~ 09时59分]"
         },
         {
-          "title": "大模型的 token 究竟是什么？",
-          "url": "https://www.zhihu.com/question/1662306083",
-          "source": "知乎",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 14时53分]"
-        },
-        {
           "title": "近期多部门发布提示「养龙虾」安全提示，新技术与风险该如何平衡？",
           "url": "https://www.zhihu.com/question/2015138293377935117",
           "source": "知乎",
@@ -85,8 +86,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 15时45分]"
+        },
+        {
+          "title": "未来乡村会比AI生成的还漂亮",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 15时45分]"
         },
         {
           "title": "微信新功能被称为社恐福音",
@@ -119,9 +131,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "naiyou单曲无关风月",
+          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 15时45分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-13）",
@@ -135,24 +161,13 @@
           "time_info": "12时18分"
         },
         {
-          "title": "未来乡村会比AI生成的还漂亮",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A5%E4%B9%A1%E6%9D%91%E4%BC%9A%E6%AF%94AI%E7%94%9F%E6%88%90%E7%9A%84%E8%BF%98%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
           "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
           "url": "https://flash.jin10.com/detail/20260313143214386800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -170,19 +185,6 @@
           "time_info": "[01时03分 ~ 03时43分]"
         },
         {
-          "title": "naiyou单曲无关风月",
-          "url": "https://search.bilibili.com/all?keyword=naiyou%E5%8D%95%E6%9B%B2%E6%97%A0%E5%85%B3%E9%A3%8E%E6%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 14时53分]"
-        },
-        {
           "title": "微信新功能被称为“社恐福音”",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E8%A2%AB%E7%A7%B0%E4%B8%BA%E2%80%9C%E7%A4%BE%E6%81%90%E7%A6%8F%E9%9F%B3%E2%80%9D",
           "source": "百度热搜",
@@ -193,6 +195,33 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时59分 ~ 13时49分]"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 15时45分]"
+        },
+        {
+          "title": "伊朗最高领袖发布个人照片",
+          "url": "https://www.toutiao.com/trending/7615941078433464374/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 15时45分]"
         },
         {
           "title": "xAI正在招聘Cursor公司的两位高级主管Andrew Milich和Jason Ginsberg。",
@@ -231,18 +260,6 @@
           "time_info": "[12时18分 ~ 13时49分]"
         },
         {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时53分]"
-        },
-        {
           "title": "Coherent增强面向AI网络的多轨传输平台",
           "url": "https://wallstreetcn.com/livenews/3069181",
           "source": "华尔街见闻-快讯",
@@ -267,30 +284,29 @@
           "time_info": "[06时25分 ~ 07时28分]"
         },
         {
-          "title": "伊朗最高领袖发布个人照片",
-          "url": "https://www.toutiao.com/trending/7615941078433464374/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 14时53分]"
-        },
-        {
           "title": "重庆发布春秋假安排：每学年两次每次2-3天，严禁返校即考试",
           "url": "https://m.thepaper.cn/newsDetail_forward_32754787",
           "source": "澎湃新闻",
           "ranks": [
             14,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时45分]"
+        },
+        {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 15时45分]"
         },
         {
           "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
@@ -384,6 +400,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "网易智企针对ClawHub发布安全防护方案",
+          "url": "https://wallstreetcn.com/livenews/3069493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "马斯克表示欢迎Jason Ginsberg、Andrew Milich加入xAI。",
           "url": "https://flash.jin10.com/detail/20260313034321354800",
           "source": "金十数据",
@@ -395,26 +422,37 @@
           "time_info": "04时34分"
         },
         {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
           "title": "日本产业省官员：将在美国发布30天制裁豁免后，考虑是否采购俄罗斯原油。",
           "url": "https://flash.jin10.com/detail/20260313141740702800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "不想看AI演戏",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%B3%E7%9C%8BAI%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
+          "title": "新华社：OpenClaw走红凸显AI智能体潜力与风险",
+          "url": "https://wallstreetcn.com/livenews/3069485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发布个人照片",
@@ -470,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "以色列总理内塔尼亚胡举行与伊朗开战以来的首次新闻发布会。",
@@ -554,8 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[06时25分 ~ 15时45分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -565,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时45分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -768,7 +817,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         }
