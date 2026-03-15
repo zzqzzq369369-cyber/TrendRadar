@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-03-15T10:13:49.595217+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-03-15T13:05:17.754740+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
           "ranks": [
             2,
             3,
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时05分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
           "ranks": [
             2,
             3,
@@ -65,11 +65,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时05分]"
         },
         {
           "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
@@ -108,6 +109,28 @@
           "time_info": "[00时32分 ~ 07时28分]"
         },
         {
+          "title": "xAI核心团队基本跑光",
+          "url": "https://www.toutiao.com/trending/7617270651551747634/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "吉林一号太空实拍海上动态船只视频发布，甚至能看清甲板细节，这意味着什么？有哪些技术飞跃值得关注？",
+          "url": "https://www.zhihu.com/question/2015403166217234028",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
           "url": "https://flash.jin10.com/detail/20260315000241891800",
           "source": "金十数据",
@@ -132,12 +155,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 10时13分]"
+        },
+        {
+          "title": "央视「3·15」晚会主题发布，将关注食品安全、公共安全、金融安全、广告市场等领域，哪些看点值得关注？",
+          "url": "https://www.zhihu.com/question/2016099547433161361",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
+          "url": "https://wallstreetcn.com/articles/3767525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -156,11 +212,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时05分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -181,9 +238,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
+          "url": "https://flash.jin10.com/detail/20260315102410675800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
@@ -196,11 +264,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A4%B4%E9%83%A8%E4%B8%BB%E6%92%AD%E5%B8%A6%E8%B4%A7%E2%80%9C%E4%BF%9D%E7%9C%9F%E2%80%9D%E8%8C%85%E5%8F%B0%E9%89%B4%E5%AE%9A%E4%B8%BA%E5%81%87",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 13时05分]"
         },
         {
           "title": "鹿哈带货牛肚操作人员抽烟",
@@ -209,7 +278,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
