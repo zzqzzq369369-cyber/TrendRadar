@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T17:34:12.227468+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-03-15T18:29:18.352411+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 17时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时05分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[13时05分 ~ 18时29分]"
         },
         {
           "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
@@ -80,11 +80,12 @@
             12,
             18,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 17时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
@@ -147,6 +148,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "铝制造商Aluminium Bahrain将总体产能关停19%",
+          "url": "https://wallstreetcn.com/livenews/3070262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "马斯克xAI联创团队几乎全跑了",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
           "source": "百度热搜",
@@ -160,6 +172,21 @@
           "time_info": "[13时05分 ~ 16时36分]"
         },
         {
+          "title": "中国互联网金融协会发布《关于OpenClaw在互联网金融行业应用安全的风险提示》",
+          "url": "https://wallstreetcn.com/livenews/3070226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            12,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 18时29分]"
+        },
+        {
           "title": "吉林一号太空实拍海上动态船只视频发布，甚至能看清甲板细节，这意味着什么？有哪些技术飞跃值得关注？",
           "url": "https://www.zhihu.com/question/2015403166217234028",
           "source": "知乎",
@@ -171,18 +198,15 @@
           "time_info": "13时05分"
         },
         {
-          "title": "中国互联网金融协会发布《关于OpenClaw在互联网金融行业应用安全的风险提示》",
-          "url": "https://wallstreetcn.com/livenews/3070226",
-          "source": "华尔街见闻-快讯",
+          "title": "三亚发布购房风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E5%8F%91%E5%B8%83%E8%B4%AD%E6%88%BF%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            8,
-            12,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 17时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
@@ -254,6 +278,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 14时56分]"
+        },
+        {
+          "title": "夯爆了,追觅自研cpu发布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351828&amp;topic_name=%E5%A4%AF%E7%88%86%E4%BA%86%2C%E8%BF%BD%E8%A7%85%E8%87%AA%E7%A0%94cpu%E5%8F%91%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "中美大模型谁找工作更厉害",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%81%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%9B%B4%E5%8E%89%E5%AE%B3%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -282,8 +339,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 17时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -323,7 +380,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "头部主播带货“保真”茅台鉴定为假",
@@ -343,11 +400,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32752998",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "鹿哈带货牛肚操作人员抽烟",
@@ -359,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "315维权 丨“改善做事拖拉”“个头猛增一把”，哈药“小蓝瓶”主播带货话术疑似擦边",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752989",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     }
