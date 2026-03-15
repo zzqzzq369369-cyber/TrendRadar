@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T19:25:50.010736+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-03-15T20:52:18.743580+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -39,11 +39,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时05分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[13时05分 ~ 20时52分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -81,11 +82,12 @@
             18,
             19,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 19时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 20时52分]"
         },
         {
           "title": "中办、国办发布关于推进社会工作专业人员队伍建设的意见",
@@ -209,6 +211,19 @@
           "time_info": "[14时55分 ~ 16时36分]"
         },
         {
+          "title": "三亚发布购房风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E5%8F%91%E5%B8%83%E8%B4%AD%E6%88%BF%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时52分]"
+        },
+        {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
           "url": "https://flash.jin10.com/detail/20260315000241891800",
           "source": "金十数据",
@@ -223,18 +238,6 @@
           "time_info": "[00时32分 ~ 03时26分]"
         },
         {
-          "title": "三亚发布购房风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%BA%9A%E5%8F%91%E5%B8%83%E8%B4%AD%E6%88%BF%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
-        },
-        {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
@@ -245,6 +248,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时27分 ~ 10时13分]"
+        },
+        {
+          "title": "夯爆了,追觅自研cpu发布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351828&amp;topic_name=%E5%A4%AF%E7%88%86%E4%BA%86%2C%E8%BF%BD%E8%A7%85%E8%87%AA%E7%A0%94cpu%E5%8F%91%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时52分]"
+        },
+        {
+          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
+          "url": "https://wallstreetcn.com/articles/3767539",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时52分]"
         },
         {
           "title": "美军发布“林肯”号航母最新视频",
@@ -259,27 +286,16 @@
           "time_info": "[15时44分 ~ 16时36分]"
         },
         {
-          "title": "夯爆了,追觅自研cpu发布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351828&amp;topic_name=%E5%A4%AF%E7%88%86%E4%BA%86%2C%E8%BF%BD%E8%A7%85%E8%87%AA%E7%A0%94cpu%E5%8F%91%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
-        },
-        {
-          "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
-          "url": "https://wallstreetcn.com/articles/3767539",
-          "source": "华尔街见闻",
+          "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
+          "url": "https://www.zhihu.com/question/2016435583233255060",
+          "source": "知乎",
           "ranks": [
             10,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
+          "time_info": "[19时25分 ~ 20时52分]"
         },
         {
           "title": "最新汽车召回通知发布 波及超16万辆",
@@ -304,6 +320,17 @@
           "time_info": "[14时55分 ~ 14时56分]"
         },
         {
+          "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
+          "url": "https://wallstreetcn.com/articles/3767535",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "中美大模型谁找工作更厉害",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%81%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%9B%B4%E5%8E%89%E5%AE%B3%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -315,15 +342,15 @@
           "time_info": "18时29分"
         },
         {
-          "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
-          "url": "https://www.zhihu.com/question/2016435583233255060",
-          "source": "知乎",
+          "title": "六指内塔尼亚胡是AI替身？真相来了",
+          "url": "https://www.toutiao.com/trending/7617060842857267209/",
+          "source": "今日头条",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "20时52分"
         },
         {
           "title": "美国法官：马斯克使用氯胺酮的情况不得在OpenAI欺诈案审理中被探究",
@@ -332,7 +359,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -379,6 +406,18 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
+          "url": "https://wallstreetcn.com/articles/3767545",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时52分]"
+        },
+        {
           "title": "美股“异相”：ETF成交量飙升",
           "url": "https://wallstreetcn.com/articles/3767510",
           "source": "华尔街见闻",
@@ -388,17 +427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
@@ -424,11 +452,12 @@
           "ranks": [
             14,
             8,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 20时52分]"
         },
         {
           "title": "头部主播带货“保真”茅台鉴定为假",
@@ -449,11 +478,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时52分]"
         },
         {
           "title": "鹿哈带货牛肚操作人员抽烟",
