@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T04:38:35.719944+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-03-17T05:39:42.157792+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 31,
+      "match_count": 46,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -16,8 +16,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时39分]"
+        },
+        {
+          "title": "加拿大、挪威、瑞典、丹麦、芬兰、冰岛，发布联合声明",
+          "url": "https://www.cls.cn/detail/2314281",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时39分]"
+        },
+        {
+          "title": "锐评B站AI大赛热门作品",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -31,64 +56,6 @@
           "time_info": "03时17分"
         },
         {
-          "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
-          "url": "https://flash.jin10.com/detail/20260317030232029800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "英伟达首席执行官发布基于OpenCLAW AI代理的企业级安全工具NeMoCLAW。",
-          "url": "https://flash.jin10.com/detail/20260317041556173800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "英伟达开启“太空计算”，将AI推向轨道",
-          "url": "https://wallstreetcn.com/livenews/3071144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "加拿大、挪威、瑞典、丹麦、芬兰、冰岛，发布联合声明",
-          "url": "https://www.cls.cn/detail/2314281",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时38分]"
-        },
-        {
-          "title": "锐评B站AI大赛热门作品",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            8,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时38分]"
-        },
-        {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
@@ -97,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -110,8 +77,63 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时39分]"
+        },
+        {
+          "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
+          "url": "https://flash.jin10.com/detail/20260317030232029800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "Nscale宣布，与英伟达、微软、卡特彼勒构建合作关系。 将提供1.35 GW的AI算力。 2028年上半年将获得2 GW电力供应。",
+          "url": "https://wallstreetcn.com/livenews/3071183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "英伟达首席执行官发布基于OpenCLAW AI代理的企业级安全工具NeMoCLAW。",
+          "url": "https://flash.jin10.com/detail/20260317041556173800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "英伟达开启“太空计算”，将AI推向轨道",
+          "url": "https://wallstreetcn.com/livenews/3071144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
+          "url": "https://www.cls.cn/detail/2314450",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -119,11 +141,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时38分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时39分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -132,11 +155,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时38分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时39分]"
         },
         {
           "title": "马斯克的xAI聘请信贷专家和银行家来提升Grok的金融策略能力",
@@ -151,15 +175,48 @@
           "time_info": "[03时17分 ~ 04时38分]"
         },
         {
+          "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
+          "url": "https://wallstreetcn.com/livenews/3071180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
+          "url": "https://wallstreetcn.com/livenews/3071179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "美国证券交易委员会（SEC）提议，取消发布季度业绩报告。 预计SEC的（最新/潜在）政策将让季度性业绩报告成为企业的可选项。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3071135",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "联想携手联想加速生产级企业AI落地——从AI推理到吉瓦级AI工厂",
+          "url": "https://wallstreetcn.com/livenews/3071178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "马斯克旗下xAI：Grok的文本生成Speech API上线。",
@@ -179,7 +236,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -228,6 +285,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "STMicoroElectronics与英伟达围绕物理AI构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3071171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "美国参议院民主党成员Warren就质询xAI和五角大楼披露声明：就马斯克旗下初创公司xAI大模型Grok获取机密信息的权限质询国防部。",
           "url": "https://wallstreetcn.com/livenews/3071020",
           "source": "华尔街见闻-快讯",
@@ -237,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "Salesforce与英伟达就AI智能体（AI Agents）合作。",
+          "url": "https://wallstreetcn.com/livenews/3071170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
@@ -261,6 +340,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "惠与（HPE）同英伟达发布AI Factory和Supercomputing Advancements。",
+          "url": "https://wallstreetcn.com/livenews/3071168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3071062",
           "source": "华尔街见闻-快讯",
@@ -278,7 +368,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -294,13 +384,35 @@
           "time_info": "03时17分"
         },
         {
+          "title": "IBM宣布，与英伟达扩大在企业AI方面的合作。",
+          "url": "https://wallstreetcn.com/livenews/3071161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
+          "url": "https://flash.jin10.com/detail/20260317044000425800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "苹果发布AirPods Max 2",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83AirPods%20Max%202",
           "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -316,15 +428,59 @@
           "time_info": "03时17分"
         },
         {
+          "title": "英伟达(NVDA.O)开始将Dynamo投入生产部署，该系统是一款被广泛采用、面向AI工厂的推理操作系统。",
+          "url": "https://flash.jin10.com/detail/20260317043743475800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "Nebius就机器人和物理AI与英伟达构建合作伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3071159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "AI对游戏版权有何影响",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "三星揭晓HBM4E，展示全方位AI解决方案、英伟达合作伙伴关系及愿景",
+          "url": "https://wallstreetcn.com/livenews/3071158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "戴尔(DELL.N)推出搭载英伟达GB300的桌面系统，用于运行自主式AI代理，并集成NVIDIA NeMoCLAW和NVIDIA OpenShell。",
+          "url": "https://flash.jin10.com/detail/20260317043630290800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
@@ -344,9 +500,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "亚马逊、英伟达围绕车用高级AI助理合作。",
+          "url": "https://wallstreetcn.com/livenews/3071154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         },
         {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
@@ -363,7 +530,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -373,8 +540,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -416,7 +583,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -427,7 +594,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -438,7 +605,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         },
@@ -452,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "航空业ETF收涨2.2%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
         }
       ]
     },
@@ -470,8 +648,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时39分]"
         }
       ]
     },
@@ -486,7 +664,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
         }
