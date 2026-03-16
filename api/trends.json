@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T13:15:05.317744+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-03-16T15:16:29.433858+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时16分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -41,8 +41,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时16分]"
         },
         {
           "title": "给AI投毒已成产业链",
@@ -68,11 +68,12 @@
           "ranks": [
             13,
             11,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时15分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时16分]"
         },
         {
           "title": "夯爆了,追觅自研cpu发布",
@@ -81,11 +82,12 @@
           "ranks": [
             12,
             14,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时16分]"
         },
         {
           "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
@@ -140,6 +142,22 @@
           "time_info": "[00时31分 ~ 10时15分]"
         },
         {
+          "title": "实测AI推荐如何被操控",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            16,
+            25,
+            30,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 15时16分]"
+        },
+        {
           "title": "给AI投毒",
           "url": "https://s.weibo.com/weibo?q=%E7%BB%99AI%E6%8A%95%E6%AF%92&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -170,19 +188,15 @@
           "time_info": "[02时38分 ~ 07时29分]"
         },
         {
-          "title": "实测AI推荐如何被操控",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BAI%E6%8E%A8%E8%8D%90%E5%A6%82%E4%BD%95%E8%A2%AB%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
+          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
+          "url": "https://www.cls.cn/detail/2313556",
+          "source": "财联社热门",
           "ranks": [
-            22,
-            16,
-            25,
-            30,
-            29
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时16分]"
         },
         {
           "title": "以总理发布视频自证仍“在世”，称将继续对伊朗行动",
@@ -199,15 +213,17 @@
           "time_info": "[00时32分 ~ 05时28分]"
         },
         {
-          "title": "如何看待印度AI峰会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%B0%E5%BA%A6AI%E5%B3%B0%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
+          "url": "https://www.zhihu.com/question/2016626718161465398",
+          "source": "知乎",
           "ranks": [
-            4
+            5,
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 15时16分]"
         },
         {
           "title": "花几百万给 AI「投毒」霸榜，算不算不正当竞争？告 GEO 服务商，还是告 AI 平台？证据怎么留？",
@@ -215,29 +231,6 @@
           "source": "知乎",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "「315 曝光 AI 投毒产业链」，通过 GEO 能在大模型里让特定产品榜上有名，这种行为的套路危害会有多大？",
-          "url": "https://www.zhihu.com/question/2016626718161465398",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时14分 ~ 13时15分]"
-        },
-        {
-          "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
-          "url": "https://www.cls.cn/detail/2313556",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -275,7 +268,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -302,6 +295,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时14分 ~ 13时15分]"
+        },
+        {
+          "title": "如何看待印度AI峰会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%B0%E5%BA%A6AI%E5%B3%B0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时16分]"
         },
         {
           "title": "315晚会曝光AI大模型被投毒",
@@ -341,6 +346,17 @@
           "time_info": "[10时14分 ~ 13时15分]"
         },
         {
+          "title": "博主发布“甘肃参战”谣言被约谈",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E2%80%9C%E7%94%98%E8%82%83%E5%8F%82%E6%88%98%E2%80%9D%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时16分]"
+        },
+        {
           "title": "李迅雷解读“十五五”规划：AI真正成长为国民经济增长支柱性产业",
           "url": "https://www.cls.cn/detail/2313247",
           "source": "财联社热门",
@@ -372,17 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "博主发布“甘肃参战”谣言被约谈",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E2%80%9C%E7%94%98%E8%82%83%E5%8F%82%E6%88%98%E2%80%9D%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "伊朗发布战报",
@@ -419,13 +424,24 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
+          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
+          "url": "https://www.cls.cn/detail/2313854",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-16）",
           "url": "https://flash.jin10.com/detail/20260316120957186800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -436,7 +452,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         },
@@ -447,9 +463,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "坠江身亡研究生离世前疑似发布遗言",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E7%96%91%E4%BC%BC%E5%8F%91%E5%B8%83%E9%81%97%E8%A8%80%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "鸿海科技：预计2026年AI机柜出货倍数成长。",
+          "url": "https://flash.jin10.com/detail/20260316143028897800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "知乎发布行业首个品牌AI竞争力指数",
+          "url": "https://wallstreetcn.com/livenews/3070656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "鸿海科技：预计一季度AI服务器营收将环比增长。",
+          "url": "https://flash.jin10.com/detail/20260316142942831800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
@@ -480,15 +540,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "鸿海：预计2026年营收将同比强劲增长。 预计第一季度智能消费电子、云端及网络产品营收将同比显著增长；计算产品营收将同比略有下降；组件及其他产品营收将同比显著增长。 预计一季度AI服务器营收将环比增长。",
+          "url": "https://wallstreetcn.com/livenews/3070639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -496,11 +567,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 15时16分]"
         },
         {
           "title": "数字货币市场走高，比特币涨幅收窄至1%",
@@ -531,6 +603,41 @@
           "time_info": "[02时38分 ~ 07时29分]"
         },
         {
+          "title": "卧底老K收入暴涨315总导演1天1电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A7%E5%BA%95%E8%80%81K%E6%94%B6%E5%85%A5%E6%9A%B4%E6%B6%A8315%E6%80%BB%E5%AF%BC%E6%BC%941%E5%A4%A91%E7%94%B5%E8%AF%9D%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时16分]"
+        },
+        {
+          "title": "美伊战火烧到股市？小摩：油价再不“降温”，标普500或暴跌15%！",
+          "url": "https://www.cls.cn/detail/2313638",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时16分]"
+        },
+        {
           "title": "国际油价涨超3%，美股期货小幅下跌",
           "url": "https://wallstreetcn.com/livenews/3070410",
           "source": "华尔街见闻-快讯",
@@ -541,28 +648,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时29分]"
-        },
-        {
-          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
-          "title": "美伊战火烧到股市？小摩：油价再不“降温”，标普500或暴跌15%！",
-          "url": "https://www.cls.cn/detail/2313638",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "美股三大股指期货周一基本平开。",
@@ -593,17 +678,6 @@
           "time_info": "[00时31分 ~ 13时15分]"
         },
         {
-          "title": "与辉同行回应曾带货315点名鸡爪",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%9B%BE%E5%B8%A6%E8%B4%A7315%E7%82%B9%E5%90%8D%E9%B8%A1%E7%88%AA",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 13时15分]"
-        },
-        {
           "title": "与辉同行回应带货漂白鸡爪",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%B8%A6%E8%B4%A7%E6%BC%82%E7%99%BD%E9%B8%A1%E7%88%AA%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -613,6 +687,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "与辉同行回应曾带货315点名鸡爪",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%9E%E5%BA%94%E6%9B%BE%E5%B8%A6%E8%B4%A7315%E7%82%B9%E5%90%8D%E9%B8%A1%E7%88%AA",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时16分]"
         },
         {
           "title": "7亿近视人群背后藏着赚钱很稳的行业",
