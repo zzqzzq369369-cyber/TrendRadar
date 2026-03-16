@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:56:25.406357+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-03-16T18:06:50.797137+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 16时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 18时06分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -39,11 +39,12 @@
           "ranks": [
             3,
             25,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 16时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 18时06分]"
         },
         {
           "title": "给AI投毒已成产业链",
@@ -86,11 +87,12 @@
             14,
             25,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 16时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 18时06分]"
         },
         {
           "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
@@ -266,6 +268,17 @@
           "time_info": "[00时31分 ~ 03时28分]"
         },
         {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
           "url": "https://wallstreetcn.com/livenews/3070595",
           "source": "华尔街见闻-快讯",
@@ -283,7 +296,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -298,6 +311,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时38分 ~ 07时29分]"
+        },
+        {
+          "title": "Nebius美股盘前大涨10%，报道称，Meta将在未来五年就与Nebius的人工智能交易支出高达270亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3070811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "雷军：新一代SU7于19日晚7点发布",
@@ -322,6 +346,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时14分 ~ 15时16分]"
+        },
+        {
+          "title": "博主发布“甘肃参战”谣言被约谈",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E2%80%9C%E7%94%98%E8%82%83%E5%8F%82%E6%88%98%E2%80%9D%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BA%A6%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 18时06分]"
         },
         {
           "title": "315晚会曝光AI大模型被投毒",
@@ -349,17 +384,6 @@
           "time_info": "[00时32分 ~ 02时38分]"
         },
         {
-          "title": "博主发布“甘肃参战”谣言被约谈",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E2%80%9C%E7%94%98%E8%82%83%E5%8F%82%E6%88%98%E2%80%9D%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BA%A6%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时56分]"
-        },
-        {
           "title": "以总理发布视频自证仍“在世”",
           "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E6%80%BB%E7%90%86%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%E8%87%AA%E8%AF%81%E4%BB%8D%E2%80%9C%E5%9C%A8%E4%B8%96%E2%80%9D",
           "source": "百度热搜",
@@ -377,11 +401,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 18时06分]"
+        },
+        {
+          "title": "加拿大挪威等六国发布联合声明",
+          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8C%AA%E5%A8%81%E7%AD%89%E5%85%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时56分]"
+          "time_info": "[16时56分 ~ 18时06分]"
         },
         {
           "title": "李迅雷解读“十五五”规划：AI真正成长为国民经济增长支柱性产业",
@@ -457,7 +494,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -468,7 +505,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         },
@@ -561,6 +598,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "金珉锡十二星座庇护所堪比AI",
+          "url": "https://www.douyin.com/hot/2432672",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "小米CEO雷军：新一代SU7 3月19日晚7点正式发布。",
           "url": "https://wallstreetcn.com/livenews/3070484",
           "source": "华尔街见闻-快讯",
@@ -572,6 +620,28 @@
           "time_info": "10时15分"
         },
         {
+          "title": "据网信上海消息，截至3月16日，上海市新增1款已完成备案的生成式人工智能服务，累计已完成150款生成式人工智能服务备案。",
+          "url": "https://wallstreetcn.com/livenews/3070772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "中国信通院发布《新一代智能终端蓝皮书》",
+          "url": "https://flash.jin10.com/detail/20260316175042298800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "港股智谱早盘一度涨16%，目前涨幅收窄至8%。 此前据报道，智谱龙虾基座模型GLM-5-Turbo发布，API价格上涨20%并推出“龙虾套餐”。",
           "url": "https://wallstreetcn.com/livenews/3070553",
           "source": "华尔街见闻-快讯",
@@ -581,17 +651,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
-        },
-        {
-          "title": "加拿大挪威等六国发布联合声明",
-          "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8C%AA%E5%A8%81%E7%AD%89%E5%85%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
         },
         {
           "title": "鸿海：预计2026年营收将同比强劲增长。 预计第一季度智能消费电子、云端及网络产品营收将同比显著增长；计算产品营收将同比略有下降；组件及其他产品营收将同比显著增长。 预计一季度AI服务器营收将环比增长。",
@@ -608,7 +667,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -657,11 +716,12 @@
           "source": "微博",
           "ranks": [
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 18时06分]"
         },
         {
           "title": "美伊战火烧到股市？小摩：油价再不“降温”，标普500或暴跌15%！",
@@ -701,7 +761,29 @@
           "time_info": "[06时28分 ~ 07时29分]"
         },
         {
+          "title": "卧底老K收入暴涨 315总导演1天1电话",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A7%E5%BA%95%E8%80%81K%E6%94%B6%E5%85%A5%E6%9A%B4%E6%B6%A8+315%E6%80%BB%E5%AF%BC%E6%BC%941%E5%A4%A91%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 18时06分]"
+        },
+        {
           "title": "阿联酋的主要港口再遭袭击，WTI原油日内涨幅扩大至2.2%，美光盘前涨3.8%，比特币月内涨逾12%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
@@ -709,18 +791,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时56分"
-        },
-        {
-          "title": "卧底老K收入暴涨 315总导演1天1电话",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A7%E5%BA%95%E8%80%81K%E6%94%B6%E5%85%A5%E6%9A%B4%E6%B6%A8+315%E6%80%BB%E5%AF%BC%E6%BC%941%E5%A4%A91%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时56分"
+          "time_info": "18时06分"
         },
         {
           "title": "美股三大股指期货周一基本平开。",
@@ -740,7 +811,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         }
@@ -748,7 +819,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "315直播丨跨境儿童追高产品乱象：一场收割家长焦虑的“洋把戏”",
@@ -771,6 +842,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "严查！事关直播带货和网售食品，市场监管总局部署开展网络食品安全合规提质系列行动",
+          "url": "https://wallstreetcn.com/livenews/3070819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "与辉同行回应曾带货315点名鸡爪",
@@ -825,7 +907,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
         }
