@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:55:56.190312+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-03-17T18:51:49.045055+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 95,
+      "match_count": 99,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -69,11 +69,12 @@
             2,
             1,
             5,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 18时51分]"
         },
         {
           "title": "加拿大、挪威、瑞典、丹麦、芬兰、冰岛，发布联合声明",
@@ -100,6 +101,20 @@
           "time_info": "[00时12分 ~ 07时32分]"
         },
         {
+          "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
+          "url": "https://www.zhihu.com/question/2016993095078684011",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 18时51分]"
+        },
+        {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
           "url": "https://www.zhihu.com/question/2015734176020656294",
           "source": "知乎",
@@ -114,19 +129,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 07时32分]"
-        },
-        {
-          "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
-          "url": "https://www.zhihu.com/question/2016993095078684011",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 17时55分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -148,11 +150,26 @@
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时51分]"
+        },
+        {
+          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
+          "url": "https://www.cls.cn/detail/2315029",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 18时51分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -166,6 +183,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "伊朗媒体发布拉里贾尼手写悼词",
+          "url": "https://news.ifeng.com/c/8rZTHHkcxRT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "国家安全部发布“龙虾”（OpenClaw）安全养殖手册。",
           "url": "https://wallstreetcn.com/livenews/3071224",
           "source": "华尔街见闻-快讯",
@@ -175,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
-          "url": "https://wallstreetcn.com/livenews/3071571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -246,17 +263,16 @@
           "time_info": "[10时02分 ~ 16时54分]"
         },
         {
-          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
-          "url": "https://www.cls.cn/detail/2315029",
-          "source": "财联社热门",
+          "title": "“苏超”十三太保新队徽发布",
+          "url": "https://www.douyin.com/hot/2433829",
+          "source": "抖音",
           "ranks": [
-            10,
-            11,
-            8
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 17时55分]"
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 18时51分]"
         },
         {
           "title": "AI拉动需求劲增，存储芯片全年涨价“无悬念”",
@@ -269,6 +285,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时32分]"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 18时51分]"
         },
         {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
@@ -464,17 +492,6 @@
           "time_info": "12时51分"
         },
         {
-          "title": "“苏超”十三太保新队徽发布",
-          "url": "https://www.douyin.com/hot/2433829",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "伊拉克民兵武装发布对美驻伊拉克使馆无人机袭击视频",
           "url": "https://flash.jin10.com/detail/20260317122539887800",
           "source": "金十数据",
@@ -657,7 +674,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -671,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "微盟公布2025财报：总营收15.9亿，AI收入首次过亿",
+          "url": "https://wallstreetcn.com/livenews/3071596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国总统特朗普结束新闻发布会。",
@@ -772,6 +800,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "Lex锐评千万播放AI作品",
+          "url": "https://search.bilibili.com/all?keyword=Lex%E9%94%90%E8%AF%84%E5%8D%83%E4%B8%87%E6%92%AD%E6%94%BEAI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3071062",
           "source": "华尔街见闻-快讯",
@@ -789,7 +828,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1031,7 +1070,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1053,7 +1092,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1100,12 +1139,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "德意志银行首席执行官：我们能清楚地看到哪些企业将在人工智能领域胜出，以及在哪些方面应更加谨慎。",
+          "url": "https://flash.jin10.com/detail/20260317181603672800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -1127,8 +1177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 17时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 18时51分]"
         },
         {
           "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
@@ -1163,8 +1213,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 18时51分]"
         },
         {
           "title": "小摩：油价再不降温标普500或暴跌15%",
@@ -1198,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "进口头孢西力欣价格暴涨52倍",
+          "url": "https://www.toutiao.com/trending/7617716556621024811/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "几内亚考虑收紧铝土矿供应规则，来遏制价格暴跌",
@@ -1322,11 +1383,12 @@
           "ranks": [
             19,
             15,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 17时55分]"
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 18时51分]"
         },
         {
           "title": "首个国家级具身智能开源数据集社区成立",
