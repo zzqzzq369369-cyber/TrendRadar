@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T10:02:27.501487+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-03-17T12:51:40.552791+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 66,
+      "match_count": 77,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时12分 ~ 07时32分]"
+        },
+        {
+          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
+          "url": "https://www.cls.cn/detail/2314450",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时39分 ~ 12时51分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 10时02分]"
-        },
-        {
-          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
-          "url": "https://www.cls.cn/detail/2314450",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时39分 ~ 10时02分]"
         },
         {
           "title": "加拿大、挪威、瑞典、丹麦、芬兰、冰岛，发布联合声明",
@@ -125,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "国家安全部发布“龙虾”（OpenClaw）安全养殖手册。",
@@ -242,6 +253,18 @@
           "time_info": "[04时38分 ~ 07时32分]"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时51分]"
+        },
+        {
           "title": "马斯克的xAI聘请信贷专家和银行家来提升Grok的金融策略能力",
           "url": "https://wallstreetcn.com/livenews/3071111",
           "source": "华尔街见闻-快讯",
@@ -264,6 +287,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时32分]"
+        },
+        {
+          "title": "国家安全部发布“龙虾”安全养殖手册",
+          "url": "https://www.cls.cn/detail/2314892",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时51分]"
         },
         {
           "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
@@ -314,17 +349,6 @@
           "time_info": "[05时39分 ~ 06时32分]"
         },
         {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
           "url": "https://flash.jin10.com/detail/20260317060618810800",
           "source": "金十数据",
@@ -336,15 +360,26 @@
           "time_info": "06时32分"
         },
         {
-          "title": "国家安全部发布“龙虾”安全养殖手册",
-          "url": "https://www.cls.cn/detail/2314892",
-          "source": "财联社热门",
+          "title": "阿里给员工发Token，鼓励使用AI工具工作",
+          "url": "https://flash.jin10.com/detail/20260317122725266800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "伊拉克民兵武装发布对美驻伊拉克使馆无人机袭击视频",
+          "url": "https://flash.jin10.com/detail/20260317122539887800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "12时51分"
         },
         {
           "title": "月内公募机构调研超1200次，AI相关个股成焦点",
@@ -402,15 +437,37 @@
           "time_info": "07时32分"
         },
         {
+          "title": "伊拉克民兵武装发布对美驻伊拉克使馆无人机袭击视频",
+          "url": "https://wallstreetcn.com/livenews/3071381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "英伟达发布DLSS 5，黄仁勋高呼图形学的GPT时刻来了",
           "url": "https://wallstreetcn.com/articles/3767654",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
+          "url": "https://www.cls.cn/detail/2315029",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "英伟达(NVDA.O)：推出空间计算，将人工智能引入轨道数据中心。行业领导者Aetherflux、Axiom Space、Kepler Communications、Planet、Sophia Space、Starcloud正使用英伟达加速计算平台，为下一代太空任务提供算力支持。",
@@ -435,6 +492,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "澳洲联储主席布洛克将于十分钟后召开货币政策新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260317122000000800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "英伟达发布NVIDIA DLSS 5，黄仁勋将其比作图形学领域的GPT时刻",
           "url": "https://wallstreetcn.com/livenews/3071104",
           "source": "华尔街见闻-快讯",
@@ -446,6 +514,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
+          "url": "https://www.zhihu.com/question/2016993095078684011",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
           "url": "https://flash.jin10.com/detail/20260317024740106800",
           "source": "金十数据",
@@ -455,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "美国总统特朗普结束新闻发布会。",
@@ -677,6 +767,28 @@
           "time_info": "05时39分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850485&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CA_npreZkiWZtt1j4Xbc5.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317120118876800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "阿联酋发布安全警报 称正应对伊朗导弹与无人机",
+          "url": "https://flash.jin10.com/detail/20260317120116230800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
           "url": "https://wallstreetcn.com/livenews/3071006",
           "source": "华尔街见闻-快讯",
@@ -727,9 +839,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "AI 替代岗位",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%9B%BF%E4%BB%A3%E5%B2%97%E4%BD%8D&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "山东发布海上大风黄色预警",
@@ -738,7 +861,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -749,7 +872,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -768,7 +891,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -799,9 +922,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 12时51分]"
         },
         {
           "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
@@ -812,8 +935,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时51分]"
         },
         {
           "title": "小摩：油价再不降温标普500或暴跌15%",
@@ -825,6 +948,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
+          "url": "https://www.cls.cn/detail/2314987",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -866,7 +1000,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -932,7 +1066,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
