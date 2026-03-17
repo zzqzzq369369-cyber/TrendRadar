@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T07:32:08.923241+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-03-17T10:02:27.501487+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -18,6 +18,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时12分 ~ 07时32分]"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            23,
+            25,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 10时02分]"
+        },
+        {
+          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
+          "url": "https://www.cls.cn/detail/2314450",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 10时02分]"
         },
         {
           "title": "加拿大、挪威、瑞典、丹麦、芬兰、冰岛，发布联合声明",
@@ -56,31 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时12分 ~ 07时32分]"
-        },
-        {
-          "title": "315曝光AI大模型遭投毒操控",
-          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            23,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时32分]"
-        },
-        {
-          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
-          "url": "https://www.cls.cn/detail/2314450",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时39分 ~ 07时32分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -131,7 +133,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -175,7 +177,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -214,6 +216,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时32分]"
+        },
+        {
+          "title": "六国发布联合声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时02分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -276,17 +290,6 @@
           "time_info": "[05时39分 ~ 06时32分]"
         },
         {
-          "title": "六国发布联合声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
-        },
-        {
           "title": "STMicoroElectronics与英伟达围绕物理AI构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3071171",
           "source": "华尔街见闻-快讯",
@@ -311,6 +314,17 @@
           "time_info": "[05时39分 ~ 06时32分]"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
           "url": "https://flash.jin10.com/detail/20260317060618810800",
           "source": "金十数据",
@@ -322,13 +336,24 @@
           "time_info": "06时32分"
         },
         {
+          "title": "国家安全部发布“龙虾”安全养殖手册",
+          "url": "https://www.cls.cn/detail/2314892",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "月内公募机构调研超1200次，AI相关个股成焦点",
           "url": "https://wallstreetcn.com/livenews/3071219",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -350,7 +375,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -372,9 +397,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "英伟达发布DLSS 5，黄仁勋高呼图形学的GPT时刻来了",
+          "url": "https://wallstreetcn.com/articles/3767654",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "英伟达(NVDA.O)：推出空间计算，将人工智能引入轨道数据中心。行业领导者Aetherflux、Axiom Space、Kepler Communications、Planet、Sophia Space、Starcloud正使用英伟达加速计算平台，为下一代太空任务提供算力支持。",
@@ -394,7 +430,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -449,7 +485,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -515,7 +551,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -625,7 +661,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -685,6 +721,39 @@
           "time_info": "06时32分"
         },
         {
+          "title": "百度计划在智能音箱中接入OpenClaw AI智能体。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3071272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "山东发布海上大风黄色预警",
+          "url": "https://www.toutiao.com/trending/7617038751039979526/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "国安部发布“龙虾”安全养殖手册",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%89%E9%83%A8%E5%8F%91%E5%B8%83%E2%80%9C%E9%BE%99%E8%99%BE%E2%80%9D%E5%AE%89%E5%85%A8%E5%85%BB%E6%AE%96%E6%89%8B%E5%86%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
           "url": "https://wallstreetcn.com/livenews/3071045",
           "source": "华尔街见闻-快讯",
@@ -699,7 +768,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -724,15 +793,27 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
           "url": "https://www.cls.cn/detail/2314857",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时02分]"
         },
         {
           "title": "小摩：油价再不降温标普500或暴跌15%",
@@ -777,6 +858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "BIS提醒各国央行：别被中东战火吓到 能源暴涨或属短期冲击",
+          "url": "https://www.cls.cn/detail/2314783",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股收盘）",
@@ -832,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3071267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
