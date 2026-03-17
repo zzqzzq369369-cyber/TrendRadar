@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T13:59:35.200798+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-03-17T15:14:20.771506+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 77,
+      "match_count": 82,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -28,8 +28,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时39分 ~ 13时59分]"
+          "appearance_count": 8,
+          "time_info": "[05时39分 ~ 15时14分]"
+        },
+        {
+          "title": "锐评B站AI大赛热门作品",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            8,
+            9,
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 15时14分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -65,20 +80,6 @@
             10,
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 07时32分]"
-        },
-        {
-          "title": "锐评B站AI大赛热门作品",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            8,
-            9,
-            18
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -124,8 +125,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时14分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -137,6 +138,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
+          "url": "https://www.zhihu.com/question/2016993095078684011",
+          "source": "知乎",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时14分]"
         },
         {
           "title": "国家安全部发布“龙虾”（OpenClaw）安全养殖手册。",
@@ -206,6 +220,20 @@
           "time_info": "[06时32分 ~ 07时32分]"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时14分]"
+        },
+        {
           "title": "美国商务部宣布美国人工智能出口新计划阶段。",
           "url": "https://flash.jin10.com/detail/20260317061250225800",
           "source": "金十数据",
@@ -230,42 +258,18 @@
           "time_info": "[05时39分 ~ 06时32分]"
         },
         {
-          "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
-          "url": "https://www.zhihu.com/question/2016993095078684011",
-          "source": "知乎",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时59分]"
-        },
-        {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时59分]"
-        },
-        {
           "title": "国家安全部发布“龙虾”安全养殖手册",
           "url": "https://www.cls.cn/detail/2314892",
           "source": "财联社热门",
           "ranks": [
             7,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时14分]"
         },
         {
           "title": "六国发布联合声明",
@@ -278,6 +282,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时31分 ~ 10时02分]"
+        },
+        {
+          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
+          "url": "https://www.cls.cn/detail/2315029",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时14分]"
+        },
+        {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时14分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -352,29 +381,6 @@
           "time_info": "[12时51分 ~ 13时59分]"
         },
         {
-          "title": "LPU出货高增长预定？英伟达发布Vera Rubin平台 每机柜配备256个",
-          "url": "https://www.cls.cn/detail/2315029",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时59分]"
-        },
-        {
-          "title": "AI 裁员",
-          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时59分]"
-        },
-        {
           "title": "STMicoroElectronics与英伟达围绕物理AI构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3071171",
           "source": "华尔街见闻-快讯",
@@ -441,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "云从科技在国家网安基地部署AI智能体训练场",
+          "url": "https://flash.jin10.com/detail/20260317145357455800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "美国证券交易委员会（SEC）提议，取消发布季度业绩报告。 预计SEC的（最新/潜在）政策将让季度性业绩报告成为企业的可选项。（华尔街日报）",
@@ -542,6 +559,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "在全社会推进儿童友好建设 两部门发布重磅意见",
+          "url": "https://wallstreetcn.com/livenews/3071445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
           "url": "https://flash.jin10.com/detail/20260317024740106800",
           "source": "金十数据",
@@ -597,6 +625,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "NX8告别老三样拥抱AI新五件",
+          "url": "https://s.weibo.com/weibo?q=%23NX8%E5%91%8A%E5%88%AB%E8%80%81%E4%B8%89%E6%A0%B7%E6%8B%A5%E6%8A%B1AI%E6%96%B0%E4%BA%94%E4%BB%B6%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
           "url": "https://flash.jin10.com/detail/20260317024402763800",
           "source": "金十数据",
@@ -641,6 +680,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "英伟达 DLSS 5 被黄仁勋称为「图形领域的 GPT 时刻」，为什么这么说？它有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2017182026260766780",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "据Punchbowl记者：一名知情人士透露，美国商务部长卢特尼克今晚将在圣何塞出席一场英伟达GTC大会期间的私人活动。卢特尼克将与黄仁勋一同就人工智能发表讲话，参与者包括英伟达的合作伙伴公司。",
           "url": "https://flash.jin10.com/detail/20260317064734963800",
           "source": "金十数据",
@@ -672,6 +722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "从夯到拉点评AI作品",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "IBM宣布，与英伟达扩大在企业AI方面的合作。",
@@ -897,7 +958,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -918,8 +979,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时14分]"
         },
         {
           "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
@@ -930,8 +991,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时14分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -950,11 +1011,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 15时14分]"
         },
         {
           "title": "小摩：油价再不降温标普500或暴跌15%",
@@ -1056,6 +1118,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "国际原油快速拉升，WTI原油期货涨幅扩大至5%，突破97美元/桶关口，报97.113美元/桶。 美股股指期货短线跳水，纳指期货日内跌0.59%，标普500指数期货跌0.57%。 现货黄金持续下挫，日内涨幅收窄至0.1%，报5012美元/盎司；现货白银日内一度转跌，现涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3071417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
           "title": "航空业ETF收涨2.2%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3071150",
           "source": "华尔街见闻-快讯",
@@ -1095,24 +1168,25 @@
           "time_info": "04时38分"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时14分]"
+        },
+        {
           "title": "首个国家级具身智能开源数据集社区成立",
           "url": "https://wallstreetcn.com/livenews/3071399",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1155,7 +1229,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -1166,7 +1240,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
