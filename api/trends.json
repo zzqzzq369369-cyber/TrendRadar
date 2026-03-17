@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T03:08:36.412619+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-18T04:38:46.949859+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "重磅意见发布 全面开展儿童友好建设",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "伊朗媒体发布拉里贾尼手写悼词",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -37,8 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3071896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -57,11 +68,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时38分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -69,11 +81,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -83,8 +96,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -96,8 +109,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "欧莱雅与英伟达扩大AI合作伙伴关系。",
@@ -142,7 +155,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -158,13 +171,24 @@
           "time_info": "00时05分"
         },
         {
+          "title": "Meta Platforms(META.O)：自6月15日起，用户将无法再通过Meta Quest头显创建、发布或更新虚拟现实世界，也无法访问Meta Horizo​​n Worlds。",
+          "url": "https://flash.jin10.com/detail/20260318041340481800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -213,6 +237,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
+          "url": "https://wallstreetcn.com/livenews/3071875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "微软整合个人与工作Copilot团队，全力推进AI布局",
           "url": "https://wallstreetcn.com/livenews/3071773",
           "source": "华尔街见闻-快讯",
@@ -222,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3071871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
@@ -282,7 +328,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -292,8 +338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -303,8 +349,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "油价再度暴涨对各国经济有何影响",
@@ -316,8 +362,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "进口头孢西力欣价格暴涨52倍",
@@ -325,11 +371,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -339,8 +386,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
@@ -355,6 +402,17 @@
           "time_info": "[01时58分 ~ 03时08分]"
         },
         {
+          "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3071892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "美光科技股价上涨3.34%，报456.57美元/股，创盘中历史新高，（盘中）市值报5139亿美元。 美光科技成为本轮美股科技股调整以来，首个创下历史新高的主要科技股票。",
           "url": "https://wallstreetcn.com/livenews/3071778",
           "source": "华尔街见闻-快讯",
@@ -364,6 +422,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260318040650412800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260318040647205800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 腾讯音乐大跌24%",
+          "url": "https://flash.jin10.com/detail/20260318040110624800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     },
@@ -381,8 +472,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时38分]"
         }
       ]
     },
