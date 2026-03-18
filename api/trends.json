@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:49:44.834053+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-03-18T17:55:02.682589+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 84,
+      "match_count": 93,
       "titles": [
         {
           "title": "重磅意见发布 全面开展儿童友好建设",
@@ -38,11 +38,26 @@
             6,
             9,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 16时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时05分 ~ 17时55分]"
+        },
+        {
+          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
+          "url": "https://www.cls.cn/detail/2316213",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 17时55分]"
         },
         {
           "title": "男二以下 AI演员",
@@ -89,6 +104,34 @@
           "time_info": "[01时58分 ~ 10时06分]"
         },
         {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 17时55分]"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 17时55分]"
+        },
+        {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
           "url": "https://www.zhihu.com/question/2016981407864414269",
           "source": "知乎",
@@ -115,44 +158,39 @@
           "time_info": "[00时05分 ~ 07时32分]"
         },
         {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 16时49分]"
-        },
-        {
-          "title": "官方辟谣“AI安全治理3年计划”",
-          "url": "https://www.douyin.com/hot/2434741",
-          "source": "抖音",
+          "title": "王兴兴谈具身智能的GPT时刻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
+          "source": "bilibili 热搜",
           "ranks": [
             7,
-            5,
-            6,
-            8
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 16时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 17时55分]"
         },
         {
-          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
-          "url": "https://www.cls.cn/detail/2316213",
-          "source": "财联社热门",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
           "ranks": [
-            9,
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 16时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 17时55分]"
+        },
+        {
+          "title": "腾讯发布2025年财报",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%832025%E5%B9%B4%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "百度智能云：AI算力产品涨价约5%-30%，存储涨价约30%",
@@ -205,22 +243,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
         {
-          "title": "王兴兴谈具身智能的GPT时刻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
-          "source": "bilibili 热搜",
+          "title": "腾讯首席财务官：腾讯计划减少股票回购，将资金用于AI投资。",
+          "url": "https://wallstreetcn.com/livenews/3072308",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            10,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时55分 ~ 16时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "杭州多地发布购房补贴活动，购买一套房补贴 10 万元消费券，对当地楼市有哪些影响？会有更多地方跟进吗？",
@@ -247,6 +283,18 @@
           "time_info": "07时32分"
         },
         {
+          "title": "微信新功能获赞：分寸感一下就上来了",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E8%8E%B7%E8%B5%9E%EF%BC%9A%E5%88%86%E5%AF%B8%E6%84%9F%E4%B8%80%E4%B8%8B%E5%B0%B1%E4%B8%8A%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 17时55分]"
+        },
+        {
           "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
           "url": "https://www.zhihu.com/question/2016095792616744489",
           "source": "知乎",
@@ -271,15 +319,18 @@
           "time_info": "[12时55分 ~ 14时03分]"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
+          "title": "网传“男二以下用AI演员” 于正发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
-            9
+            7,
+            9,
+            26,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时55分 ~ 16时49分]"
+          "time_info": "[14时03分 ~ 17时55分]"
         },
         {
           "title": "七部门发AI安全治理3年计划系谣言",
@@ -291,6 +342,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时55分 ~ 16时49分]"
+        },
+        {
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时55分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -329,6 +392,19 @@
           "time_info": "[12时56分 ~ 14时03分]"
         },
         {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时52分 ~ 17时55分]"
+        },
+        {
           "title": "必和必拓集团任命Brandon Craig为首席执行官，自7月1日起接替Mike Henry。",
           "url": "https://flash.jin10.com/detail/20260318052306073800",
           "source": "金十数据",
@@ -353,19 +429,6 @@
           "time_info": "[15时52分 ~ 16时49分]"
         },
         {
-          "title": "网传“男二以下用AI演员” 于正发声",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时49分]"
-        },
-        {
           "title": "为何游戏大厂都在聊AI",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%82%E9%83%BD%E5%9C%A8%E8%81%8AAI",
           "source": "bilibili 热搜",
@@ -377,16 +440,15 @@
           "time_info": "[12时55分 ~ 14时03分]"
         },
         {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
           "ranks": [
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时49分]"
+          "time_info": "[17时54分 ~ 17时55分]"
         },
         {
           "title": "阿里云AI算力和存储产品最高涨价34%",
@@ -399,18 +461,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时56分 ~ 14时03分]"
-        },
-        {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 16时49分]"
         },
         {
           "title": "欧莱雅与英伟达扩大AI合作伙伴关系。",
@@ -473,6 +523,17 @@
           "time_info": "[05时37分 ~ 06时32分]"
         },
         {
+          "title": "耀客签约AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%80%E5%AE%A2%E7%AD%BE%E7%BA%A6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 17时55分]"
+        },
+        {
           "title": "吉利发布舱驾融合关键成果",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E5%88%A9%E5%8F%91%E5%B8%83%E8%88%B1%E9%A9%BE%E8%9E%8D%E5%90%88%E5%85%B3%E9%94%AE%E6%88%90%E6%9E%9C%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -523,7 +584,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -534,9 +595,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)首席财务官：腾讯计划减少股票回购，将资金用于AI投资。",
+          "url": "https://flash.jin10.com/detail/20260318173058178800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "Meta Platforms(META.O)：自6月15日起，用户将无法再通过Meta Quest头显创建、发布或更新虚拟现实世界，也无法访问Meta Horizo​​n Worlds。",
@@ -561,6 +633,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "富士康与SAP签署战略合作 加速AI驱动型制造与供应链转型",
+          "url": "https://flash.jin10.com/detail/20260318173048985800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "微信灰度测试“折叠发图”新功能",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95%E2%80%9C%E6%8A%98%E5%8F%A0%E5%8F%91%E5%9B%BE%E2%80%9D%E6%96%B0%E5%8A%9F%E8%83%BD",
           "source": "百度热搜",
@@ -578,7 +661,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -647,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
+          "url": "https://wallstreetcn.com/livenews/3072288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
@@ -781,6 +875,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "腾讯：AI能力提升推动了游戏的用户参与度",
+          "url": "https://wallstreetcn.com/livenews/3072278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
           "url": "https://flash.jin10.com/detail/20260318010850842800",
           "source": "金十数据",
@@ -809,7 +914,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -847,6 +952,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "中证指数有限公司将于2026年3月20日正式发布中证新兴产业60指数",
+          "url": "https://flash.jin10.com/detail/20260318171626121800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
           "url": "https://wallstreetcn.com/livenews/3071813",
           "source": "华尔街见闻-快讯",
@@ -856,17 +972,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
-        },
-        {
-          "title": "微信新功能获赞：分寸感一下就上来了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%E8%8E%B7%E8%B5%9E%EF%BC%9A%E5%88%86%E5%AF%B8%E6%84%9F%E4%B8%80%E4%B8%8B%E5%B0%B1%E4%B8%8A%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-18）",
@@ -897,7 +1002,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -952,7 +1057,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -982,7 +1087,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1057,6 +1162,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 04时38分]"
+        },
+        {
+          "title": "微博美股盘前下跌3%，公司第四季度调整后每股收益不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3072307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -1173,7 +1289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1184,7 +1300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         }
