@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T06:32:37.104181+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-03-19T07:31:28.400886+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -15,11 +15,12 @@
             1,
             2,
             3,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -30,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -44,8 +45,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -57,20 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
-        },
-        {
-          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
-          "url": "https://wallstreetcn.com/articles/3767836",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "王兴兴谈具身智能的GPT时刻",
@@ -83,8 +85,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -94,8 +96,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -105,8 +107,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -116,11 +118,12 @@
             16,
             15,
             12,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -134,8 +137,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "市场押注鲍威尔发布会将以“下午好”开场 通胀将成高频词",
@@ -147,6 +150,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 07时31分]"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -193,18 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时48分 ~ 04时59分]"
-        },
-        {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 06时32分]"
         },
         {
           "title": "奇瑞发布犀牛电池、迅龙秒充",
@@ -288,6 +303,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
+          "url": "https://flash.jin10.com/detail/20260319065232382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "美联储主席鲍威尔：需谨慎看待通用人工智能将带来通胀回落的观点。",
           "url": "https://flash.jin10.com/detail/20260319031732081800",
           "source": "金十数据",
@@ -308,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
+          "url": "https://wallstreetcn.com/livenews/3072722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美联储主席鲍威尔：更高的生产率是一件好事，生成式人工智能应该为此做出贡献。",
@@ -382,7 +419,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
@@ -390,7 +427,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -412,9 +449,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "美光科技美股盘后跌幅扩大至3.4%。",
@@ -441,6 +489,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时59分 ~ 06时32分]"
+        },
+        {
+          "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3072726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260319063817922800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "布伦特原油日内暴涨6.00%，现报106.87美元/桶。",
@@ -531,7 +601,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
