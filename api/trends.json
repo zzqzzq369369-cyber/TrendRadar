@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T16:41:29.445745+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-03-19T17:42:51.726973+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 74,
+      "match_count": 79,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 07时31分]"
+        },
+        {
+          "title": "如何评价小米 3 月 19 日发布的 Xiaomi MiMo-V2-Pro / Omni/TTS?",
+          "url": "https://www.zhihu.com/question/2017762947045295328",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 17时42分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -45,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 16时41分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 17时42分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -56,22 +67,12 @@
             7,
             6,
             5,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 16时41分]"
-        },
-        {
-          "title": "如何评价小米 3 月 19 日发布的 Xiaomi MiMo-V2-Pro / Omni/TTS?",
-          "url": "https://www.zhihu.com/question/2017762947045295328",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 16时41分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 17时42分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -101,11 +102,12 @@
             14,
             26,
             20,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 16时41分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 17时42分]"
         },
         {
           "title": "王兴兴谈具身智能的GPT时刻",
@@ -115,11 +117,12 @@
             15,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 16时41分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 17时42分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -170,11 +173,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时53分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[12时53分 ~ 17时42分]"
         },
         {
           "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
@@ -184,11 +188,12 @@
             15,
             12,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 16时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 17时42分]"
         },
         {
           "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
@@ -201,8 +206,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 16时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 17时42分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -232,6 +237,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时06分 ~ 15时04分]"
+        },
+        {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
+        },
+        {
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
         },
         {
           "title": "市场押注鲍威尔发布会将以“下午好”开场 通胀将成高频词",
@@ -268,6 +296,17 @@
           "time_info": "[12时53分 ~ 16时41分]"
         },
         {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
           "url": "https://wallstreetcn.com/livenews/3072731",
           "source": "华尔街见闻-快讯",
@@ -290,15 +329,15 @@
           "time_info": "13时58分"
         },
         {
-          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
-          "url": "https://www.cls.cn/detail/2317944",
-          "source": "财联社热门",
+          "title": "智己发布智能体IM Ultra Agent",
+          "url": "https://wallstreetcn.com/livenews/3073155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时41分"
+          "time_info": "17时42分"
         },
         {
           "title": "据Air Current：美国联邦航空管理局于3月17日批准波音公司将其推迟已久的777-9机型继续推进至适航认证测试的第四阶段。",
@@ -321,17 +360,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
-          "url": "https://www.zhihu.com/question/2017531069054869898",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
         },
         {
           "title": "提醒：美联储主席鲍威尔新闻发布会结束，FOMC将于4月28-29日举行下一轮货币政策会议。",
@@ -358,6 +386,19 @@
           "time_info": "[03时48分 ~ 04时59分]"
         },
         {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            12,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 17时42分]"
+        },
+        {
           "title": "奇瑞发布犀牛电池、迅龙秒充",
           "url": "https://www.toutiao.com/trending/7618350579273957418/",
           "source": "今日头条",
@@ -368,18 +409,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 06时32分]"
-        },
-        {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 16时41分]"
         },
         {
           "title": "《关于在全社会推进儿童友好建设的意见》发布，将带来哪些变化？",
@@ -451,6 +480,17 @@
           "time_info": "[10时06分 ~ 10时07分]"
         },
         {
+          "title": "小米连发3款大模型",
+          "url": "https://www.douyin.com/hot/2436060",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
+        },
+        {
           "title": "美联储降息概率继续走低，利率期货定价今年降息幅度减少至13个基点，此前鲍威尔新闻发布会结束时定价为17个基点。",
           "url": "https://flash.jin10.com/detail/20260319043017655800",
           "source": "金十数据",
@@ -473,6 +513,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 05时35分]"
+        },
+        {
+          "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
+          "url": "https://wallstreetcn.com/livenews/3073119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
+        },
+        {
+          "title": "AI观众 AI粉丝 AI打分",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
+        },
+        {
+          "title": "【商务部回应英伟达对华芯片销售情况】在3月19日商务部举行的例行发布会上，有美媒记者提问，“相关报道称中国政府已经批准了部分公司采购英伟达的H200芯片，请问是否有更多细节可以透露以及有何评论？”商务部新闻发言人何咏前回应称：“我不了解你提到的情况。”（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3073114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时42分]"
         },
         {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全部外包员工」，具体怎么回事？",
@@ -530,15 +618,15 @@
           "time_info": "03时48分"
         },
         {
-          "title": "小米连发3款大模型",
-          "url": "https://www.douyin.com/hot/2436060",
-          "source": "抖音",
+          "title": "科斯莫能源控股公司：鉴于近期中东局势，决定推迟原定于3月24日发布的下一届中期合并经营计划的公告。",
+          "url": "https://flash.jin10.com/detail/20260319171635693800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时41分"
+          "time_info": "17时42分"
         },
         {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
@@ -550,17 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
-          "url": "https://wallstreetcn.com/livenews/3073119",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
         },
         {
           "title": "美联储主席鲍威尔：需谨慎看待通用人工智能将带来通胀回落的观点。",
@@ -607,15 +684,15 @@
           "time_info": "13时58分"
         },
         {
-          "title": "AI观众 AI粉丝 AI打分",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "指引更明确 市场监管总局发布2026版汽车召回用户指南",
+          "url": "https://wallstreetcn.com/livenews/3073143",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时41分"
+          "time_info": "17时42分"
         },
         {
           "title": "美联储主席鲍威尔：更高的生产率是一件好事，生成式人工智能应该为此做出贡献。",
@@ -673,17 +750,6 @@
           "time_info": "12时54分"
         },
         {
-          "title": "【商务部回应英伟达对华芯片销售情况】在3月19日商务部举行的例行发布会上，有美媒记者提问，“相关报道称中国政府已经批准了部分公司采购英伟达的H200芯片，请问是否有更多细节可以透露以及有何评论？”商务部新闻发言人何咏前回应称：“我不了解你提到的情况。”（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3073114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
           "title": "美联储主席鲍威尔：尚未开始看到人工智能带来的生产率效应。",
           "url": "https://flash.jin10.com/detail/20260319031658732800",
           "source": "金十数据",
@@ -695,6 +761,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "工信部NVDB发布关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示",
+          "url": "https://wallstreetcn.com/livenews/3073140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "上海发布实施方案：优化老年人就业支持",
           "url": "https://wallstreetcn.com/livenews/3072895",
           "source": "华尔街见闻-快讯",
@@ -704,17 +781,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
         },
         {
           "title": "美联储主席鲍威尔：迄今为止，生产率的提高并非源于生成式人工智能，可能是因为疫情期间的调整。",
@@ -811,7 +877,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -833,7 +899,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -844,7 +910,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -885,7 +951,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
@@ -934,6 +1000,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "阿里巴巴第三财季营收2,848.4亿元人民币，预估2,897.9亿元人民 第三财季调整后每ADS收益 7.09元人民币。 阿里巴巴美股盘前下跌3.7%，第三季度营收未达预期。",
+          "url": "https://wallstreetcn.com/livenews/3073158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
@@ -993,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美光科技(MU.O)美股盘后跌超5%。",
@@ -1064,7 +1152,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "汪苏泷西雅图演唱会座无虚席，这对华语音乐「出海」有何意义？",
@@ -1091,6 +1179,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "如何看待主播「芜湖大司马」直播带货宣称全网最低价，遭弹幕打脸后，厂商瞬间将该商品全网提价的操作？",
+          "url": "https://www.zhihu.com/question/2017550373682950542",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     },
@@ -1105,7 +1204,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
