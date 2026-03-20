@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-03-20T07:29:58.066788+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-20T10:02:02.391615+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 39,
+      "match_count": 52,
       "titles": [
-        {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
-        },
         {
           "title": "新一代小米 SU7 发布，全系搭载 V6s Plus 超级电机，最高续航达 902km，还有哪些看点？",
           "url": "https://www.zhihu.com/question/2018016098444863053",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "让大模型学会选择性记忆",
@@ -38,11 +40,12 @@
             5,
             9,
             14,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时53分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时53分 ~ 10时02分]"
         },
         {
           "title": "美以伊战争丨伊朗发布击中美军F-35隐形战机视频",
@@ -54,6 +57,24 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时57分 ~ 05时35分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21,
+            17,
+            16,
+            14,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "津巴布韦政府近期宣布暂停原矿和锂精矿出口，并出台保留行业新规，中国驻津巴布韦使馆发布提醒",
@@ -84,23 +105,6 @@
           "time_info": "[00时57分 ~ 07时29分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            19,
-            21,
-            17,
-            16,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
-        },
-        {
           "title": "AI龙虾大战我的世界",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
@@ -109,8 +113,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "王兴兴谈具身智能的GPT时刻",
@@ -119,11 +123,12 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "小米发布会把半个车圈请来了",
@@ -134,11 +139,12 @@
             15,
             13,
             19,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "腾讯发布 2025 第四季度财报，净利润同比增长 17%，有哪些亮点值得关注？",
@@ -152,6 +158,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 06时28分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
+          "url": "https://www.zhihu.com/question/2017676791603553270",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -215,6 +243,18 @@
           "time_info": "[00时57分 ~ 01时54分]"
         },
         {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时02分]"
+        },
+        {
           "title": "小米笔记本Pro14发布 售价8499元起",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%ACPro14%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B78499%E5%85%83%E8%B5%B7",
           "source": "百度热搜",
@@ -239,6 +279,18 @@
           "time_info": "[04时36分 ~ 05时35分]"
         },
         {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 10时02分]"
+        },
+        {
           "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
           "url": "https://flash.jin10.com/detail/20260320052330041800",
           "source": "金十数据",
@@ -249,6 +301,105 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时28分]"
+        },
+        {
+          "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
+          "url": "https://www.cls.cn/detail/2318679",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
+          "url": "https://www.zhihu.com/question/2018050979702989965",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
+          "url": "https://www.zhihu.com/question/2017606912024207686",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "人民日报：请给AI起个中文名字",
+          "url": "https://www.toutiao.com/trending/7618806460609200137/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "AI龙抬头赐我新发型",
+          "url": "https://www.douyin.com/hot/2436323",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "小米上线三款自研大模型",
+          "url": "https://www.toutiao.com/trending/7618780734119202330/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "去世演员通过AI重返银幕",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E4%B8%96%E6%BC%94%E5%91%98%E9%80%9A%E8%BF%87AI%E9%87%8D%E8%BF%94%E9%93%B6%E5%B9%95%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "美国贸易代表办公室：美国、日本发布关键矿物合作行动计划。美日将把首轮最低价格磋商重点聚焦于部分关键矿物；将就可支持多边协议各方构建韧性关键矿物市场的贸易措施进行磋商；将共同确定在美国、日本及其他国家开展的特定具有战略意义的关键矿产的开采、加工和制造项目。",
@@ -284,17 +435,6 @@
           "time_info": "05时35分"
         },
         {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "美国财政部：今天颁发的许可证取代了先前发布的许可证。",
           "url": "https://flash.jin10.com/detail/20260320031247840800",
           "source": "金十数据",
@@ -323,9 +463,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "人工智能初创公司Yotta计划筹集5亿至6亿美元资金，将于数周内向监管机构提交正式上市文件。",
+          "url": "https://flash.jin10.com/detail/20260320094441532800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
@@ -334,7 +485,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -356,9 +507,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "人工智能初创公司Yotta在计划进行IPO之前，拟寻求获得40亿美元的估值。",
+          "url": "https://flash.jin10.com/detail/20260320094303182800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
@@ -367,7 +529,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -392,17 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "美国发布与俄油有关制裁的许可",
@@ -455,7 +606,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -474,7 +625,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "黄金跌破 4600 美元，白银跌破 70 美元，比特币跌破 70000 美元，如何看待当下行情？",
@@ -496,11 +647,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -512,8 +664,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "现货黄金白银暴跌",
@@ -524,11 +676,12 @@
             15,
             13,
             17,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         },
         {
           "title": "金价暴跌抄底7天越买越套",
@@ -539,11 +692,24 @@
             17,
             13,
             12,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
+        },
+        {
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 10时02分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -552,20 +718,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
         {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "10时02分"
         },
         {
           "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
@@ -592,6 +758,17 @@
           "time_info": "[03时49分 ~ 04时37分]"
         },
         {
+          "title": "伊朗称美军F35被击中后或坠毁 国际贵金属价格暴跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2318918",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
           "url": "https://wallstreetcn.com/livenews/3073567",
           "source": "华尔街见闻-快讯",
@@ -602,6 +779,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时28分]"
+        },
+        {
+          "title": "金价暴跌真凶",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%9C%9F%E5%87%B6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "欧美股市集体下挫",
+          "url": "https://www.toutiao.com/trending/7618875629325484073/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌5.83%，报341.31点，逼近2025年12月18日收盘位338.36点，较2月27日所创收盘历史最高位累计回撤27.44%。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌6.63%，报2395.68点，逼近12月16日收盘位2378.54点，较3月2日所创收盘历史最高位累计回撤27.57%。 在美股时段交易的原材料指数收跌2.67%，金属与矿业指数收跌0.86%。",
@@ -654,7 +853,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -709,7 +908,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         }
@@ -726,11 +925,12 @@
           "ranks": [
             8,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 10时02分]"
         }
       ]
     },
