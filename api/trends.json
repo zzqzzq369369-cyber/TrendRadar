@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T09:55:37.014882+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-21T12:06:14.264377+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "黄金白银为何暴跌？",
@@ -54,11 +54,12 @@
             8,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 09时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时06分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -82,11 +83,12 @@
           "ranks": [
             9,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 09时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时06分]"
         },
         {
           "title": "实探金价暴跌后的北京菜百商场",
@@ -102,6 +104,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时35分 ~ 07时28分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时06分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时28分 ~ 12时06分]"
+        },
+        {
+          "title": "鸣潮流水暴跌,西小妹拉完了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352142&amp;topic_name=%E9%B8%A3%E6%BD%AE%E6%B5%81%E6%B0%B4%E6%9A%B4%E8%B7%8C%2C%E8%A5%BF%E5%B0%8F%E5%A6%B9%E6%8B%89%E5%AE%8C%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -127,17 +164,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
           "title": "现货白银日内暴跌7.00%，现报67.73美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260321032424390800",
           "source": "金十数据",
@@ -158,18 +184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时55分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
@@ -206,6 +220,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时28分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
@@ -256,6 +281,17 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "金饰价一夜暴跌32元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C32%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        },
+        {
           "title": "美股持续下挫，基准指数跌至盘中低点，标普500指数最新下跌1.39%。消息面上，美国正为可能向伊朗派遣地面部队做准备。",
           "url": "https://flash.jin10.com/detail/20260321022539496800",
           "source": "金十数据",
@@ -284,7 +320,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -314,20 +350,8 @@
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 09时55分]"
-        },
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
           "url": "https://www.cls.cn/detail/2319626",
@@ -339,6 +363,36 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 07时28分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时06分]"
+        },
+        {
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            16,
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时35分 ~ 12时06分]"
         },
         {
           "title": "新一代小米 SU7 发布，售价 21.99-30.39 万，怎样看待这一定价？预计销量会如何？",
@@ -369,8 +423,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 09时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时06分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -378,11 +432,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 09时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 12时06分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -415,20 +470,15 @@
           "time_info": "[00时42分 ~ 09时55分]"
         },
         {
-          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
-          "url": "https://www.zhihu.com/question/2016876183153768141",
-          "source": "知乎",
+          "title": "美以伊战争丨伊朗官媒发布多张最高领袖照片",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            20,
-            16,
-            8,
-            7,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时35分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时06分]"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -446,26 +496,15 @@
           "time_info": "[02时48分 ~ 07时28分]"
         },
         {
-          "title": "美以伊战争丨伊朗官媒发布多张最高领袖照片",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "华为将发布首款风冷散热手机",
+          "url": "https://wallstreetcn.com/livenews/3074408",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "风云四号C星首套观测图像发布，综合能力达到世界先进水平",
-          "url": "https://wallstreetcn.com/livenews/3074396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "12时06分"
         },
         {
           "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
@@ -489,6 +528,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时37分 ~ 05时31分]"
+        },
+        {
+          "title": "风云四号C星首套观测图像发布，综合能力达到世界先进水平",
+          "url": "https://wallstreetcn.com/livenews/3074396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 12时06分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -531,6 +582,39 @@
           "time_info": "[05时31分 ~ 07时28分]"
         },
         {
+          "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
+          "url": "https://www.zhihu.com/question/2017644548151616976",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        },
+        {
+          "title": "AI演员林汐颜秦凌岳为何引众怒",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 12时06分]"
+        },
+        {
+          "title": "Palantir人工智能系统获美国防部关键项目地位",
+          "url": "https://flash.jin10.com/detail/20260321113458071800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
           "url": "https://flash.jin10.com/detail/20260321032020972800",
           "source": "金十数据",
@@ -548,7 +632,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -559,7 +643,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
