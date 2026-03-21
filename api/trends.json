@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T15:33:12.720002+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-03-21T16:33:02.471553+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -28,11 +28,12 @@
             4,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时33分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -92,11 +93,12 @@
             9,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时33分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -127,6 +129,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 09时55分]"
+        },
+        {
+          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
+          "url": "https://www.cls.cn/detail/2320263",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 16时33分]"
         },
         {
           "title": "美以伊战争丨伊朗官媒发布多张最高领袖照片",
@@ -162,11 +178,39 @@
             1,
             4,
             5,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 16时33分]"
+        },
+        {
+          "title": "风云四号C星首套观测图像发布，综合能力达到世界先进水平",
+          "url": "https://wallstreetcn.com/livenews/3074396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            15,
+            16,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时33分]"
+        },
+        {
+          "title": "风云四号C星首套观测图像发布",
+          "url": "https://www.douyin.com/hot/2438267",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
@@ -182,34 +226,6 @@
           "time_info": "[12时05分 ~ 15时33分]"
         },
         {
-          "title": "风云四号C星首套观测图像发布，综合能力达到世界先进水平",
-          "url": "https://wallstreetcn.com/livenews/3074396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            15,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 15时33分]"
-        },
-        {
-          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
-          "url": "https://www.cls.cn/detail/2320263",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 15时33分]"
-        },
-        {
           "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
           "url": "https://flash.jin10.com/detail/20260321032318787800",
           "source": "金十数据",
@@ -219,6 +235,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
+          "url": "https://www.zhihu.com/question/2017816580403246847",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 16时33分]"
         },
         {
           "title": "抵制没用 AI演员已经杀进影视圈",
@@ -311,15 +350,40 @@
           "time_info": "[13时40分 ~ 15时33分]"
         },
         {
-          "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
-          "url": "https://www.zhihu.com/question/2017816580403246847",
-          "source": "知乎",
+          "title": "VIP·9折解锁两大新功能！",
+          "url": "https://flash.jin10.com/detail/20260321150228487800",
+          "source": "金十数据",
           "ranks": [
-            12
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时33分]"
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时33分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://wallstreetcn.com/livenews/3074413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时33分]"
+        },
+        {
+          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
+          "url": "https://flash.jin10.com/detail/20260321144016687800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时33分]"
         },
         {
           "title": "AI演员林汐颜秦凌岳为何引众怒",
@@ -333,17 +397,6 @@
           "time_info": "[12时05分 ~ 12时06分]"
         },
         {
-          "title": "VIP·9折解锁两大新功能！",
-          "url": "https://flash.jin10.com/detail/20260321150228487800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
           "title": "我用AI盲猜周杰伦新歌",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E7%9B%B2%E7%8C%9C%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
           "source": "bilibili 热搜",
@@ -353,28 +406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
-        },
-        {
-          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-          "url": "https://wallstreetcn.com/livenews/3074413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
-          "url": "https://flash.jin10.com/detail/20260321144016687800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
@@ -424,7 +455,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "黄金白银为何暴跌？",
@@ -438,6 +469,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 07时28分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 16时33分]"
         },
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -465,6 +507,20 @@
           "time_info": "[00时42分 ~ 06时28分]"
         },
         {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时28分 ~ 16时33分]"
+        },
+        {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
           "url": "https://wallstreetcn.com/articles/3768006",
           "source": "华尔街见闻",
@@ -477,19 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 15时33分]"
-        },
-        {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 15时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 16时33分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -507,17 +552,33 @@
           "time_info": "[00时42分 ~ 06时28分]"
         },
         {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
+          "title": "鸣潮流水暴跌,西小妹拉完了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352142&amp;topic_name=%E9%B8%A3%E6%BD%AE%E6%B5%81%E6%B0%B4%E6%9A%B4%E8%B7%8C%2C%E8%A5%BF%E5%B0%8F%E5%A6%B9%E6%8B%89%E5%AE%8C%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时05分 ~ 16时33分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             6,
+            4,
             3,
             2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时28分 ~ 15时33分]"
+          "time_info": "[12时05分 ~ 16时33分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -547,34 +608,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时35分 ~ 07时28分]"
-        },
-        {
-          "title": "鸣潮流水暴跌,西小妹拉完了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352142&amp;topic_name=%E9%B8%A3%E6%BD%AE%E6%B5%81%E6%B0%B4%E6%9A%B4%E8%B7%8C%2C%E8%A5%BF%E5%B0%8F%E5%A6%B9%E6%8B%89%E5%AE%8C%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 15时33分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 15时33分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -656,6 +689,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时28分]"
+        },
+        {
+          "title": "黄金暴跌一周！“1983年大抛售”再现，中东“卖金筹资”？",
+          "url": "https://wallstreetcn.com/articles/3768045",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.91%，暂报2625.24点，上周五结束交易以来（7*24）累计下跌3.97%，整体呈现出冲高回落走势。 MarketVectorTM数字资产100中盘指数涨1.60%，报2832.32点，期内累计下跌2.82%。 MarketVector数字资产100指数涨0.61%，报14082.92点。 目前，Solana涨0.08%、期内整体持平，狗狗币涨0.49%、期内累跌2.67%，XRP跌0.57%、期内累涨2.66%。 比特币跌0.66%，暂报69855.50美元，在震荡上行中，于3月17日亚太早盘涨至75997.31美元，3月18日美股开盘前后显著回落；以太坊跌0.26%，暂报2138.38美元，期内累涨1.33%，3月16日迅猛上涨、3月17日亚太盘初曾涨至2385.450美元。",
