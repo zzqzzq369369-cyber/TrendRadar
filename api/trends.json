@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T19:22:43.002318+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-03-21T20:46:40.431456+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
@@ -31,8 +31,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时40分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时40分 ~ 20时46分]"
+        },
+        {
+          "title": "风云四号C星首套观测图像发布",
+          "url": "https://www.douyin.com/hot/2438267",
+          "source": "抖音",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时46分]"
         },
         {
           "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
@@ -62,11 +74,12 @@
             9,
             10,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 19时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 20时46分]"
         },
         {
           "title": "新一代小米 SU7 发布，售价 21.99-30.39 万，怎样看待这一定价？预计销量会如何？",
@@ -82,17 +95,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 07时28分]"
-        },
-        {
-          "title": "风云四号C星首套观测图像发布",
-          "url": "https://www.douyin.com/hot/2438267",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 19时22分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -122,11 +124,12 @@
             14,
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 19时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 20时46分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -217,17 +220,6 @@
           "time_info": "[09时55分 ~ 16时33分]"
         },
         {
-          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
-          "url": "https://wallstreetcn.com/livenews/3074449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
           "url": "https://www.zhihu.com/question/2017644548151616976",
           "source": "知乎",
@@ -250,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
-        },
-        {
-          "title": "华为云发布柔性智算操作系统FlexNPU",
-          "url": "https://wallstreetcn.com/livenews/3074447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
@@ -299,6 +280,18 @@
           "time_info": "[03时37分 ~ 05时31分]"
         },
         {
+          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
+          "url": "https://wallstreetcn.com/livenews/3074449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时46分]"
+        },
+        {
           "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
           "url": "https://flash.jin10.com/detail/20260321155755350800",
           "source": "金十数据",
@@ -309,6 +302,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时32分]"
+        },
+        {
+          "title": "华为云发布柔性智算操作系统FlexNPU",
+          "url": "https://wallstreetcn.com/livenews/3074447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时46分]"
         },
         {
           "title": "博主用AI手搓应用1个多月赚近九千",
@@ -390,6 +395,18 @@
           "time_info": "[13时40分 ~ 15时33分]"
         },
         {
+          "title": "男子购管制弩射杀流浪猫并发布虐猫视频博关注，已被拘留",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32805650",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
           "title": "VIP·9折解锁两大新功能！",
           "url": "https://flash.jin10.com/detail/20260321150228487800",
           "source": "金十数据",
@@ -426,17 +443,6 @@
           "time_info": "[17时32分 ~ 18时26分]"
         },
         {
-          "title": "男子购管制弩射杀流浪猫并发布虐猫视频博关注，已被拘留",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32805650",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时22分]"
-        },
-        {
           "title": "AI演员林汐颜秦凌岳为何引众怒",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -459,6 +465,17 @@
           "time_info": "13时40分"
         },
         {
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
           "url": "https://flash.jin10.com/detail/20260321032020972800",
           "source": "金十数据",
@@ -468,6 +485,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "华为肖德刚：AI技术与存储密不可分，加速迈入双向赋能新阶段",
+          "url": "https://flash.jin10.com/detail/20260321201526714800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "AI时代教育将被如何改写",
@@ -492,13 +531,24 @@
           "time_info": "17时32分"
         },
         {
+          "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
+          "url": "https://flash.jin10.com/detail/20260321200202568800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://flash.jin10.com/detail/20260321183027923800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -512,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "用AI拍出创意反诈大片",
+          "url": "https://www.douyin.com/hot/2437681",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "沦为AI素材杨紫尊严何在",
@@ -534,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "库克称不要惧怕要拥抱AI",
+          "url": "https://flash.jin10.com/detail/20260321192052787800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -549,8 +621,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 20时46分]"
         },
         {
           "title": "黄金白银为何暴跌？",
@@ -579,6 +651,21 @@
           "time_info": "[00时42分 ~ 06时28分]"
         },
         {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[07时28分 ~ 20时46分]"
+        },
+        {
           "title": "霍尔木兹海峡“锁喉”效应发酵，亚洲乙烯价格暴涨",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796850",
           "source": "澎湃新闻",
@@ -589,20 +676,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 06时28分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时28分 ~ 19时22分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -632,8 +705,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时05分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[12时05分 ~ 20时46分]"
         },
         {
           "title": "鸣潮流水暴跌,西小妹拉完了",
@@ -644,11 +717,12 @@
             4,
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时05分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[12时05分 ~ 20时46分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -704,8 +778,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时32分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时32分 ~ 20时46分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -876,7 +950,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
