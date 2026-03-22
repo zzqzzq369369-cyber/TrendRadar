@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T14:51:43.161026+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-03-22T15:38:49.125732+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时38分]"
         },
         {
           "title": "雷军就发布会口误道歉",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 07时24分]"
+        },
+        {
+          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2018341688767160603",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时38分]"
         },
         {
           "title": "华为发布新一代算力芯片昇腾950PR",
@@ -60,18 +73,6 @@
           "time_info": "[00时29分 ~ 07时24分]"
         },
         {
-          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2018341688767160603",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时51分]"
-        },
-        {
           "title": "男子购管制弩射杀流浪猫并发布虐猫视频博关注，已被拘留",
           "url": "https://m.thepaper.cn/newsDetail_forward_32805650",
           "source": "澎湃新闻",
@@ -92,11 +93,12 @@
             16,
             17,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时38分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -106,11 +108,27 @@
             21,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时38分]"
+        },
+        {
+          "title": "AI演员为啥遭网友抵制",
+          "url": "https://www.douyin.com/hot/2438688",
+          "source": "抖音",
+          "ranks": [
+            11,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时38分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -150,20 +168,6 @@
           "time_info": "[07时24分 ~ 14时51分]"
         },
         {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
-          "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时51分]"
-        },
-        {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://wallstreetcn.com/livenews/3074461",
           "source": "华尔街见闻-快讯",
@@ -193,22 +197,46 @@
             20,
             4,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时38分]"
         },
         {
           "title": "AI演员签约官宣",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E7%AD%BE%E7%BA%A6%E5%AE%98%E5%AE%A3%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 15时38分]"
+        },
+        {
+          "title": "中国AI大模型周调用量达4.69万亿Token",
+          "url": "https://wallstreetcn.com/livenews/3074504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "中国AI大模型调用量领跑全球 中国AI大模型周调用量达4.69万亿Token",
+          "url": "https://flash.jin10.com/detail/20260322145249948800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -217,11 +245,12 @@
           "ranks": [
             4,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时38分]"
         },
         {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
@@ -229,11 +258,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时38分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -246,6 +276,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时25分]"
+        },
+        {
+          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
+          "url": "https://wallstreetcn.com/articles/3768071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时38分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -261,37 +303,39 @@
           "time_info": "[12时52分 ~ 14时51分]"
         },
         {
-          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
-          "url": "https://wallstreetcn.com/articles/3768071",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
           "title": "逐玉发布反盗版声明",
           "url": "https://www.douyin.com/hot/2439366",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时38分]"
         },
         {
           "title": "网传“梅姨”本人照片非警方发布",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E6%A2%85%E5%A7%A8%E2%80%9D%E6%9C%AC%E4%BA%BA%E7%85%A7%E7%89%87%E9%9D%9E%E8%AD%A6%E6%96%B9%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时38分]"
+        },
+        {
+          "title": "广东横琴发布警情通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A8%AA%E7%90%B4%E5%8F%91%E5%B8%83%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "15时38分"
         },
         {
           "title": "华为重磅发布新一代算力芯片",
@@ -305,13 +349,24 @@
           "time_info": "00时29分"
         },
         {
+          "title": "山西发布养老保险丧葬补助金办理指南",
+          "url": "https://www.toutiao.com/trending/7618854657867169842/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "AI演员为何会舆论翻车",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%BC%94%E5%91%98%E4%B8%BA%E4%BD%95%E4%BC%9A%E8%88%86%E8%AE%BA%E7%BF%BB%E8%BD%A6",
           "source": "bilibili 热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -364,8 +419,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时38分]"
         },
         {
           "title": "鸣潮流水暴跌,西小妹拉完了",
@@ -375,11 +430,12 @@
             10,
             11,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时38分]"
         },
         {
           "title": "近日油价暴涨，是不是真的到了该换电车的时候了？",
@@ -390,8 +446,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时38分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -412,11 +468,12 @@
           "ranks": [
             6,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时38分]"
         },
         {
           "title": "深圳垃圾量46年暴涨超3000倍",
@@ -434,11 +491,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B0%A6%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A840%25",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时38分]"
         }
       ]
     },
@@ -468,11 +526,12 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时38分]"
         },
         {
           "title": "微信推出官方龙虾插件",
@@ -481,11 +540,12 @@
           "ranks": [
             7,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时38分]"
         },
         {
           "title": "腾讯张军回应微信龙虾插件",
