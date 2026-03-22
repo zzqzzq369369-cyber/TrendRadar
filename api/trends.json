@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T19:23:43.977278+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-03-22T20:50:13.967719+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 20时50分]"
         },
         {
           "title": "雷军就发布会口误道歉",
@@ -38,11 +38,12 @@
             6,
             5,
             4,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[10时07分 ~ 20时50分]"
         },
         {
           "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
@@ -112,11 +113,12 @@
             21,
             22,
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 20时50分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -132,8 +134,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 20时50分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -173,6 +175,21 @@
           "time_info": "[07时24分 ~ 14时51分]"
         },
         {
+          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
+          "url": "https://wallstreetcn.com/articles/3768071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 20时50分]"
+        },
+        {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://wallstreetcn.com/livenews/3074461",
           "source": "华尔街见闻-快讯",
@@ -210,6 +227,21 @@
           "time_info": "[10时07分 ~ 15时38分]"
         },
         {
+          "title": "逐玉发布反盗版声明",
+          "url": "https://www.douyin.com/hot/2439366",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            15,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时51分 ~ 20时50分]"
+        },
+        {
           "title": "AI演员签约官宣",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E7%AD%BE%E7%BA%A6%E5%AE%98%E5%AE%A3%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -239,21 +271,6 @@
           "time_info": "[12时52分 ~ 18时27分]"
         },
         {
-          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
-          "url": "https://wallstreetcn.com/articles/3768071",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 19时23分]"
-        },
-        {
           "title": "中国AI大模型周调用量达4.69万亿Token",
           "url": "https://wallstreetcn.com/livenews/3074504",
           "source": "华尔街见闻-快讯",
@@ -279,19 +296,17 @@
           "time_info": "15时38分"
         },
         {
-          "title": "逐玉发布反盗版声明",
-          "url": "https://www.douyin.com/hot/2439366",
-          "source": "抖音",
+          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
+          "url": "https://www.cls.cn/detail/2320520",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            15,
-            19,
-            20
+            10,
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时50分]"
         },
         {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
@@ -319,6 +334,19 @@
           "time_info": "[00时29分 ~ 01时25分]"
         },
         {
+          "title": "《逐玉》剧方版权方联合发布声明",
+          "url": "https://www.toutiao.com/trending/7619893244117958682/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时50分]"
+        },
+        {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
           "url": "https://flash.jin10.com/detail/20260322112847753800",
           "source": "金十数据",
@@ -332,16 +360,26 @@
           "time_info": "[12时52分 ~ 14时51分]"
         },
         {
-          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
-          "url": "https://www.cls.cn/detail/2320520",
-          "source": "财联社热门",
+          "title": "用AI写作能暴富吗",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E4%BD%9C%E8%83%BD%E6%9A%B4%E5%AF%8C%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            11
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时50分]"
+        },
+        {
+          "title": "官方发布安全“养龙虾”实践指南",
+          "url": "https://news.ifeng.com/c/8rhruI47hyL",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时23分]"
+          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "广东横琴发布警情通报",
@@ -354,18 +392,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时38分 ~ 16时34分]"
-        },
-        {
-          "title": "《逐玉》剧方版权方联合发布声明",
-          "url": "https://www.toutiao.com/trending/7619893244117958682/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "网传“梅姨”本人照片非警方发布",
@@ -386,7 +412,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -397,20 +423,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
         {
-          "title": "用AI写作能暴富吗",
-          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E4%BD%9C%E8%83%BD%E6%9A%B4%E5%AF%8C%E5%90%97",
-          "source": "百度热搜",
+          "title": "国家互联网应急中心等发布OpenClaw安全使用实践指南，建议做好供应链及数据安全防护",
+          "url": "https://wallstreetcn.com/livenews/3074541",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时23分"
+          "time_info": "20时50分"
+        },
+        {
+          "title": "国家互联网应急中心等发布OpenClaw安全使用实践指南",
+          "url": "https://flash.jin10.com/detail/20260322191734349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "华为发布新一代算力芯片",
@@ -460,7 +497,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -502,11 +539,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 20时50分]"
         },
         {
           "title": "鸣潮流水暴跌,西小妹拉完了",
@@ -519,11 +557,12 @@
             16,
             17,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 19时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 20时50分]"
         },
         {
           "title": "近日油价暴涨，是不是真的到了该换电车的时候了？",
@@ -586,11 +625,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 20时50分]"
         },
         {
           "title": "深圳垃圾量46年暴涨超3000倍",
@@ -602,6 +642,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
+          "title": "比特币再次跌穿68500美元，逼近北京时间08:02刷新的日低68254.41美元。 07:06，比特币出现一波跳水行情，从70095美元下挫。",
+          "url": "https://wallstreetcn.com/livenews/3074548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "本轮金价暴跌原因",
@@ -714,6 +765,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "被要求记录军舰出海时间 他果断举报",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AE%B0%E5%BD%95%E5%86%9B%E8%88%B0%E5%87%BA%E6%B5%B7%E6%97%B6%E9%97%B4+%E4%BB%96%E6%9E%9C%E6%96%AD%E4%B8%BE%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
         }
       ]
     }
