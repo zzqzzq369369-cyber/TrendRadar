@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T20:50:13.967719+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-03-22T21:44:00.260009+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 20时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 21时44分]"
         },
         {
           "title": "雷军就发布会口误道歉",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[10时07分 ~ 21时44分]"
         },
         {
           "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
@@ -90,6 +90,21 @@
           "time_info": "[00时29分 ~ 07时24分]"
         },
         {
+          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
+          "url": "https://wallstreetcn.com/articles/3768071",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 21时44分]"
+        },
+        {
           "title": "男子购管制弩射杀流浪猫并发布虐猫视频博关注，已被拘留",
           "url": "https://m.thepaper.cn/newsDetail_forward_32805650",
           "source": "澎湃新闻",
@@ -117,8 +132,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 20时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 21时44分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -134,8 +149,24 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 20时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 21时44分]"
+        },
+        {
+          "title": "逐玉发布反盗版声明",
+          "url": "https://www.douyin.com/hot/2439366",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            15,
+            19,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时51分 ~ 21时44分]"
         },
         {
           "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
@@ -175,21 +206,6 @@
           "time_info": "[07时24分 ~ 14时51分]"
         },
         {
-          "title": "华为发布新一代算力芯片，单卡算力达H20的2.87倍，国内唯一支持FP4推理产品",
-          "url": "https://wallstreetcn.com/articles/3768071",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 20时50分]"
-        },
-        {
           "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
           "url": "https://wallstreetcn.com/livenews/3074461",
           "source": "华尔街见闻-快讯",
@@ -227,19 +243,17 @@
           "time_info": "[10时07分 ~ 15时38分]"
         },
         {
-          "title": "逐玉发布反盗版声明",
-          "url": "https://www.douyin.com/hot/2439366",
-          "source": "抖音",
+          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
+          "url": "https://www.cls.cn/detail/2320520",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            15,
-            19,
-            20
+            10,
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时51分 ~ 20时50分]"
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 21时44分]"
         },
         {
           "title": "AI演员签约官宣",
@@ -296,19 +310,6 @@
           "time_info": "15时38分"
         },
         {
-          "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
-          "url": "https://www.cls.cn/detail/2320520",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时50分]"
-        },
-        {
           "title": "苹果CEO库克：迫不及待想看看中国AI下一步进展",
           "url": "https://flash.jin10.com/detail/20260322131458099800",
           "source": "金十数据",
@@ -332,6 +333,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时25分]"
+        },
+        {
+          "title": "官方发布安全“养龙虾”实践指南",
+          "url": "https://news.ifeng.com/c/8rhruI47hyL",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 21时44分]"
         },
         {
           "title": "《逐玉》剧方版权方联合发布声明",
@@ -371,17 +383,6 @@
           "time_info": "[19时23分 ~ 20时50分]"
         },
         {
-          "title": "官方发布安全“养龙虾”实践指南",
-          "url": "https://news.ifeng.com/c/8rhruI47hyL",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
-        },
-        {
           "title": "广东横琴发布警情通报",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A8%AA%E7%90%B4%E5%8F%91%E5%B8%83%E8%AD%A6%E6%83%85%E9%80%9A%E6%8A%A5%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -392,6 +393,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时38分 ~ 16时34分]"
+        },
+        {
+          "title": "国家互联网应急中心等发布OpenClaw安全使用实践指南，建议做好供应链及数据安全防护",
+          "url": "https://wallstreetcn.com/livenews/3074541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时44分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8A%A4%E8%88%AA%E7%9A%84%E6%B0%91%E8%AD%A6%E5%B1%85%E7%84%B6%E6%98%AFAI%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         },
         {
           "title": "网传“梅姨”本人照片非警方发布",
@@ -428,24 +452,13 @@
           "time_info": "19时23分"
         },
         {
-          "title": "国家互联网应急中心等发布OpenClaw安全使用实践指南，建议做好供应链及数据安全防护",
-          "url": "https://wallstreetcn.com/livenews/3074541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
           "title": "国家互联网应急中心等发布OpenClaw安全使用实践指南",
           "url": "https://flash.jin10.com/detail/20260322191734349800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
         },
@@ -497,7 +510,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -561,8 +574,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 20时50分]"
+          "appearance_count": 23,
+          "time_info": "[00时29分 ~ 21时44分]"
         },
         {
           "title": "近日油价暴涨，是不是真的到了该换电车的时候了？",
@@ -606,6 +619,31 @@
           "time_info": "[02时36分 ~ 06时24分]"
         },
         {
+          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时27分 ~ 21时44分]"
+        },
+        {
+          "title": "避险逻辑失效？金价暴跌真凶是它！",
+          "url": "https://flash.jin10.com/detail/20260322212120913800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "氦气价格暴涨40%",
           "url": "https://www.baidu.com/s?wd=%E6%B0%A6%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A840%25",
           "source": "百度热搜",
@@ -620,17 +658,16 @@
           "time_info": "[14时51分 ~ 19时23分]"
         },
         {
-          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
-          "source": "澎湃新闻",
+          "title": "比特币再次跌穿68500美元，逼近北京时间08:02刷新的日低68254.41美元。 07:06，比特币出现一波跳水行情，从70095美元下挫。",
+          "url": "https://wallstreetcn.com/livenews/3074548",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            19,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时50分]"
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时44分]"
         },
         {
           "title": "深圳垃圾量46年暴涨超3000倍",
@@ -642,17 +679,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 12时52分]"
-        },
-        {
-          "title": "比特币再次跌穿68500美元，逼近北京时间08:02刷新的日低68254.41美元。 07:06，比特币出现一波跳水行情，从70095美元下挫。",
-          "url": "https://wallstreetcn.com/livenews/3074548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
         },
         {
           "title": "本轮金价暴跌原因",
@@ -669,7 +695,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Cursor 被曝「套壳」国产开源模型 Kimi，创始人回应称忘记署名了，怎样看待这一事件？",
@@ -717,6 +743,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时52分 ~ 18时27分]"
+        },
+        {
+          "title": "“NXA”航空三字代码启用，雄安国际空港正式投用",
+          "url": "https://wallstreetcn.com/livenews/3074580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "腾讯张军回应微信龙虾插件",
@@ -777,11 +814,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AE%B0%E5%BD%95%E5%86%9B%E8%88%B0%E5%87%BA%E6%B5%B7%E6%97%B6%E9%97%B4+%E4%BB%96%E6%9E%9C%E6%96%AD%E4%B8%BE%E6%8A%A5",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 21时44分]"
         }
       ]
     }
