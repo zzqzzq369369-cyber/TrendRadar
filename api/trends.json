@@ -1,108 +1,11 @@
 {
-  "generated_at": "2026-03-24T01:04:05.535353+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-03-24T02:54:47.705867+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
-        },
-        {
-          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
-          "url": "https://www.cls.cn/detail/2321917",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
-        },
-        {
-          "title": "沪指跌3.6%险守3800点，全市场超5100股下跌，黄金股集体暴跌，恒指跌超3%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3768123",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
-        },
-        {
-          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2321966",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
-        },
-        {
-          "title": "国际油价盘中暴跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
-        },
-        {
-          "title": "美股期指金银快速反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
-        },
-        {
-          "title": "国际油价、美债收益率跌幅收窄，美股回吐涨幅，伊朗否认特朗普的说法",
-          "url": "https://wallstreetcn.com/livenews/3075315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -113,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
+          "url": "https://flash.jin10.com/detail/20260324024205486800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
@@ -122,11 +36,24 @@
           "source": "知乎",
           "ranks": [
             16,
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "内娱影视行业AI化是好是坏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A8%B1%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9AAI%E5%8C%96%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
+          "time_info": "[01时03分 ~ 02时54分]"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -140,15 +67,15 @@
           "time_info": "[00时00分 ~ 01时04分]"
         },
         {
-          "title": "内娱影视行业AI化是好是坏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A8%B1%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9AAI%E5%8C%96%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F",
-          "source": "bilibili 热搜",
+          "title": "Meta挖角AI初创公司Dreamer团队",
+          "url": "https://wallstreetcn.com/livenews/3075373",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "深度解析AI对影视行业的影响",
@@ -160,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
+          "url": "https://wallstreetcn.com/livenews/3075367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
           "title": "华为春季发布会",
@@ -179,7 +117,128 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "美国驻马斯喀特大使馆已针对阿曼国发布就地避难令。",
+          "url": "https://flash.jin10.com/detail/20260324021542067800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "美国发布海外公民安全警告",
+          "url": "https://www.douyin.com/hot/2440076",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
+          "url": "https://www.cls.cn/detail/2321917",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "沪指跌3.6%险守3800点，全市场超5100股下跌，黄金股集体暴跌，恒指跌超3%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3768123",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2321966",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "国际油价盘中暴跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
+        },
+        {
+          "title": "美股期指金银快速反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 01时04分]"
+        },
+        {
+          "title": "国际油价、美债收益率跌幅收窄，美股回吐涨幅，伊朗否认特朗普的说法",
+          "url": "https://wallstreetcn.com/livenews/3075315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -211,11 +270,12 @@
           "url": "https://www.zhihu.com/question/2019359659350254663",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 02时54分]"
         }
       ]
     }
