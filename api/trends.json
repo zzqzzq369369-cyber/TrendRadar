@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T16:55:30.120233+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-03-23T18:02:53.082825+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -138,11 +138,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 16时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 18时02分]"
         },
         {
           "title": "华为发布新一代算力芯片",
@@ -230,6 +231,30 @@
           "time_info": "[07时27分 ~ 10时08分]"
         },
         {
+          "title": "红色沙漠发布操作优化补丁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%89%B2%E6%B2%99%E6%BC%A0%E5%8F%91%E5%B8%83%E6%93%8D%E4%BD%9C%E4%BC%98%E5%8C%96%E8%A1%A5%E4%B8%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 18时02分]"
+        },
+        {
+          "title": "华为春季发布会",
+          "url": "https://www.douyin.com/hot/2440642",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 18时02分]"
+        },
+        {
           "title": "美透露误击伊朗小学原因：AI决策失误",
           "url": "https://www.toutiao.com/trending/7619991717072371753/",
           "source": "今日头条",
@@ -258,18 +283,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "红色沙漠发布操作优化补丁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%89%B2%E6%B2%99%E6%BC%A0%E5%8F%91%E5%B8%83%E6%93%8D%E4%BD%9C%E4%BC%98%E5%8C%96%E8%A1%A5%E4%B8%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
@@ -283,17 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "华为春季发布会",
-          "url": "https://www.douyin.com/hot/2440642",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         },
         {
           "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
@@ -313,9 +316,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "霍启刚形象被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%90%AF%E5%88%9A%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "郑强教授：AI发展不能低端化平庸化",
@@ -373,6 +387,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "上海黄金交易所发布提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E9%BB%84%E9%87%91%E4%BA%A4%E6%98%93%E6%89%80%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "阿里明日或将发布重要芯片产品",
           "url": "https://wallstreetcn.com/livenews/3074799",
           "source": "华尔街见闻-快讯",
@@ -387,7 +412,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
@@ -412,11 +437,12 @@
             20,
             24,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 16时55分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 18时02分]"
         },
         {
           "title": "美国财长劝民众接受油价暴涨",
@@ -427,8 +453,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 16时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 18时02分]"
         },
         {
           "title": "沪指跌3.6%险守3800点，全市场超5100股下跌，黄金股集体暴跌，恒指跌超3%，科网股普跌",
@@ -437,9 +463,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 18时02分]"
         },
         {
           "title": "美股期货亚市盘初走低，油价上涨",
@@ -488,13 +514,24 @@
           "time_info": "15时09分"
         },
         {
+          "title": "美股三大期货跌幅收窄，道指期货跌0.33%，标普500指数期货跌0.46%，纳指期货跌0.52%。此前三大股指期货均跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3075065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美股盘前黄金股下跌，泛美白银跌7.5%，哈莫尼黄金、AngloGold Ashant跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3074996",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         }
