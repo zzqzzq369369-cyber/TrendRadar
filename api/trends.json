@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T06:32:22.714527+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-24T07:32:31.641010+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "沪指跌3.6%险守3800点，全市场超5100股下跌，黄金股集体暴跌，恒指跌超3%，科网股普跌",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -46,11 +46,12 @@
           "url": "https://www.cls.cn/detail/2321966",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "美股",
@@ -61,11 +62,12 @@
             22,
             16,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -79,8 +81,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "国际油价盘中暴跌超10%",
@@ -90,11 +92,12 @@
             24,
             17,
             18,
-            29
+            29,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
@@ -103,9 +106,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时32分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（3月23日），美国科技股七巨头（Magnificent 7）指数涨1.36%，报187.71点。 “超大”市值科技股指数涨1.67%，报358.31点。",
@@ -179,6 +182,28 @@
           "time_info": "[05时54分 ~ 06时32分]"
         },
         {
+          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2322200",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美股大涨 国际油价跌超10%",
+          "url": "https://www.toutiao.com/trending/7620175160397742134/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "Strategy拟筹资逾400亿美元，从而加速购买比特币",
           "url": "https://wallstreetcn.com/livenews/3075399",
           "source": "华尔街见闻-快讯",
@@ -196,7 +221,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -215,7 +240,7 @@
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
@@ -225,11 +250,12 @@
             16,
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "普通人如何制作AI视频",
@@ -240,8 +266,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -328,6 +354,28 @@
           "time_info": "[02时54分 ~ 03时48分]"
         },
         {
+          "title": "OpenAI在投资者文件中指出：对微软的依赖是一大风险",
+          "url": "https://wallstreetcn.com/livenews/3075468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "国有六大行AIC全部落地，银行系扩容至9家",
+          "url": "https://wallstreetcn.com/livenews/3075466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "深度解析AI对影视行业的影响",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -337,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "据CNBC：OpenAI在投资者文件中将依赖微软(MSFT.O)列为一项风险因素。",
+          "url": "https://flash.jin10.com/detail/20260324070937024800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "华为春季发布会",
@@ -423,11 +482,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 07时32分]"
         }
       ]
     }
