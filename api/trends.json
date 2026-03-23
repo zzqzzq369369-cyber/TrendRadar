@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T21:05:56.605875+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-03-23T22:54:38.717289+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
@@ -122,6 +122,18 @@
           "time_info": "[00时31分 ~ 05时26分]"
         },
         {
+          "title": "普通人如何制作AI视频",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时54分]"
+        },
+        {
           "title": "AI短剧付费后竟然变成PPT",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -132,17 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时43分 ~ 21时05分]"
-        },
-        {
-          "title": "普通人如何制作AI视频",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
         },
         {
           "title": "预告：国新办3月24日就第九届数字中国建设峰会有关情况举行新闻发布会",
@@ -167,17 +168,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时08分 ~ 18时02分]"
-        },
-        {
-          "title": "深度解析AI对影视行业的影响",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
         },
         {
           "title": "华为发布新一代算力芯片",
@@ -227,6 +217,33 @@
           "time_info": "[15时08分 ~ 16时55分]"
         },
         {
+          "title": "华为春季发布会",
+          "url": "https://www.douyin.com/hot/2440642",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13,
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 22时54分]"
+        },
+        {
+          "title": "深度解析AI对影视行业的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时54分]"
+        },
+        {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
           "url": "https://wallstreetcn.com/livenews/3074617",
           "source": "华尔街见闻-快讯",
@@ -239,20 +256,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时25分 ~ 06时25分]"
-        },
-        {
-          "title": "华为春季发布会",
-          "url": "https://www.douyin.com/hot/2440642",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 21时05分]"
         },
         {
           "title": "国家互联网应急中心等发布OpenClaw安全使用实践指南",
@@ -302,6 +305,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时02分 ~ 19时43分]"
+        },
+        {
+          "title": "AI写歌走红程序员9个月赚20万",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时54分]"
         },
         {
           "title": "美透露误击伊朗小学原因：AI决策失误",
@@ -359,17 +374,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "AI写歌走红程序员9个月赚20万",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
           "title": "中美算力变局：中国AI开始争夺定价权",
           "url": "https://www.toutiao.com/trending/7620326265257463359/",
           "source": "今日头条",
@@ -381,13 +385,24 @@
           "time_info": "16时55分"
         },
         {
+          "title": "据意大利国家电视台（RAI）：根据实际计票结果预测，公投中“反对”党将获得胜利，预计得票率为53%。意大利总理梅洛尼在公投中或将以微弱劣势落败。",
+          "url": "https://flash.jin10.com/detail/20260323223937955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "OpenAI聘请前Meta广告高管Davedugan负责广告销售。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3075178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -483,7 +498,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
@@ -524,8 +539,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 21时05分]"
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 22时54分]"
         },
         {
           "title": "美国财长劝民众接受油价暴涨",
@@ -557,9 +572,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股高开高走，科技股普涨，原油跌幅收窄，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
+          "url": "https://www.cls.cn/detail/2321917",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时54分]"
         },
         {
           "title": "美股期货亚市盘初走低，油价上涨",
@@ -574,6 +612,19 @@
           "time_info": "[06时25分 ~ 07时28分]"
         },
         {
+          "title": "黄金暴跌 牛市终结还是上车机会",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C+%E7%89%9B%E5%B8%82%E7%BB%88%E7%BB%93%E8%BF%98%E6%98%AF%E4%B8%8A%E8%BD%A6%E6%9C%BA%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 22时54分]"
+        },
+        {
           "title": "美股股指期货周一走低，纳指期货跌0.68%。",
           "url": "https://flash.jin10.com/detail/20260323060224970800",
           "source": "金十数据",
@@ -586,16 +637,28 @@
           "time_info": "[06时25分 ~ 07时28分]"
         },
         {
-          "title": "黄金暴跌 牛市终结还是上车机会",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C+%E7%89%9B%E5%B8%82%E7%BB%88%E7%BB%93%E8%BF%98%E6%98%AF%E4%B8%8A%E8%BD%A6%E6%9C%BA%E4%BC%9A",
+          "title": "国际油价盘中暴跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
           "source": "百度热搜",
           "ranks": [
-            16,
-            24
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时43分 ~ 21时05分]"
+          "time_info": "[21时05分 ~ 22时54分]"
+        },
+        {
+          "title": "美股期指金银快速反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时54分]"
         },
         {
           "title": "欧美股市拉升，德国DAX指数涨超4%，道指期货一度涨近3%",
@@ -607,17 +670,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
-        },
-        {
-          "title": "国际油价盘中暴跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
         },
         {
           "title": "国际油价回吐涨幅，布油、WTI原油期货转跌。 美股期货收复失地，标普500指数期货转为基本持平。",
@@ -642,15 +694,26 @@
           "time_info": "15时09分"
         },
         {
-          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
-          "url": "https://www.cls.cn/detail/2321917",
+          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2321966",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美股三大期货跌幅收窄，道指期货跌0.33%，标普500指数期货跌0.46%，纳指期货跌0.52%。此前三大股指期货均跌1%。",
@@ -681,7 +744,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -697,24 +760,13 @@
           "time_info": "19时43分"
         },
         {
-          "title": "美股期指金银快速反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
           "title": "【欧美股市涨幅收窄，德国DAX指数涨幅收窄至1.6%，道指期货涨幅收窄至1.5%】欧股涨幅收窄，德国DAX指数涨幅收窄至1.6%，此前涨超4%；欧洲斯托克50指数涨幅收窄至1.8%，此前涨3.5%；法国CAC 40指数涨幅收窄至1.25%，此前涨近3%。美股期货涨幅收窄，道指期货涨幅收窄至1.5%，此前一度涨近3%；标普500指数涨幅收窄至1.4%，此前一度涨近3%；纳斯达克100指数涨幅收窄至1.4%。",
           "url": "https://wallstreetcn.com/livenews/3075174",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -728,12 +780,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        },
+        {
+          "title": "美股涨幅扩大，纳指涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3075244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人类基因是一套屎山代码吗？",
@@ -759,6 +822,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时37分]"
+        },
+        {
+          "title": "大量用户反馈被美团删除相册照片，客服回应称是插件冲突，真的是这样吗？为什么 App 能删用户的照片？",
+          "url": "https://www.zhihu.com/question/2019359659350254663",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
