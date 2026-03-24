@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T17:56:08.059519+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-03-24T18:52:29.858535+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             6,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 18时52分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -57,11 +58,26 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 18时52分]"
+        },
+        {
+          "title": "知名编剧打假:AI是庞氏骗局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时52分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -81,22 +97,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
         {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
+          "title": "以总统刚开完发布会就遇火箭弹袭击",
+          "url": "https://www.toutiao.com/trending/7620672080866508842/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            8,
-            10
+            12,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时52分]"
         },
         {
           "title": "美国发布海外公民安全警告",
@@ -137,18 +153,6 @@
           "time_info": "[01时03分 ~ 03时48分]"
         },
         {
-          "title": "以总统刚开完发布会就遇火箭弹袭击",
-          "url": "https://www.toutiao.com/trending/7620672080866508842/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时56分]"
-        },
-        {
           "title": "贝莱德CEO芬克：AI将重演财富分化剧本，普通人的出路是\"持股上车\"",
           "url": "https://www.cls.cn/detail/2322062",
           "source": "财联社热门",
@@ -168,8 +172,30 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 18时52分]"
+        },
+        {
+          "title": "“去人化”的AI影视 你还会看吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%BB%E4%BA%BA%E5%8C%96%E2%80%9D%E7%9A%84AI%E5%BD%B1%E8%A7%86+%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%9C%8B%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时56分]"
+          "time_info": "[17时55分 ~ 18时52分]"
+        },
+        {
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 18时52分]"
         },
         {
           "title": "AI写歌走红程序员9个月赚20万",
@@ -216,28 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 10时01分]"
-        },
-        {
-          "title": "“去人化”的AI影视 你还会看吗",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8E%BB%E4%BA%BA%E5%8C%96%E2%80%9D%E7%9A%84AI%E5%BD%B1%E8%A7%86+%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%9C%8B%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "余承东首次缺席鸿蒙智行发布会",
@@ -323,7 +327,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -422,6 +426,18 @@
           "time_info": "[00时00分 ~ 10时01分]"
         },
         {
+          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时00分 ~ 18时52分]"
+        },
+        {
           "title": "沪指跌3.6%险守3800点，全市场超5100股下跌，黄金股集体暴跌，恒指跌超3%，科网股普跌",
           "url": "https://wallstreetcn.com/articles/3768123",
           "source": "华尔街见闻",
@@ -444,18 +460,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时00分 ~ 05时54分]"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时00分 ~ 17时56分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -537,11 +541,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时52分]"
         },
         {
           "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
@@ -560,11 +565,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时52分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（3月23日），美国科技股七巨头（Magnificent 7）指数涨1.36%，报187.71点。 “超大”市值科技股指数涨1.67%，报358.31点。",
@@ -609,8 +615,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 18时52分]"
+        },
+        {
+          "title": "废旧手机回收价暴涨",
+          "url": "https://www.douyin.com/hot/2441963",
+          "source": "抖音",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时55分 ~ 18时52分]"
         },
         {
           "title": "航空业ETF收涨将近3.5%，领跑美股行业ETF，能源业ETF涨1.2%表现“不温不火”",
@@ -634,17 +652,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时59分 ~ 15时15分]"
-        },
-        {
-          "title": "废旧手机回收价暴涨",
-          "url": "https://www.douyin.com/hot/2441963",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "美股收盘：三大股指涨超1% 蔚来、小鹏涨7%",
