@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T19:44:59.632043+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-03-24T21:10:15.563013+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "如何看待华为 3 月 23 日举办的春季新品发布会？有哪些信息值得关注？",
@@ -22,6 +22,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时00分 ~ 10时01分]"
+        },
+        {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            6,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时26分 ~ 21时10分]"
         },
         {
           "title": "普通人如何制作AI视频",
@@ -52,21 +68,6 @@
           "time_info": "[12时26分 ~ 18时52分]"
         },
         {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 19时44分]"
-        },
-        {
           "title": "知名编剧打假:AI是庞氏骗局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
           "source": "贴吧",
@@ -75,11 +76,38 @@
             8,
             10,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时44分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 21时10分]"
+        },
+        {
+          "title": "以总统刚开完发布会就遇火箭弹袭击",
+          "url": "https://www.toutiao.com/trending/7620672080866508842/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            14,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 21时10分]"
+        },
+        {
+          "title": "官方定调！AI时代“词元经济”崛起",
+          "url": "https://www.cls.cn/detail/2322996",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -93,18 +121,16 @@
           "time_info": "02时54分"
         },
         {
-          "title": "以总统刚开完发布会就遇火箭弹袭击",
-          "url": "https://www.toutiao.com/trending/7620672080866508842/",
-          "source": "今日头条",
+          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            13,
-            14,
-            15
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时44分]"
+          "time_info": "[17时55分 ~ 21时10分]"
         },
         {
           "title": "郭守敬望远镜发布光谱数突破3000万",
@@ -180,15 +206,16 @@
           "time_info": "[10时00分 ~ 13时59分]"
         },
         {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
-          "source": "澎湃新闻",
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时44分]"
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 21时10分]"
         },
         {
           "title": "“去人化”的AI影视 你还会看吗",
@@ -223,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时48分]"
+        },
+        {
+          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
+          "url": "https://wallstreetcn.com/livenews/3075929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 21时10分]"
         },
         {
           "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
@@ -325,17 +364,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "西门子中国联手宇树、阿里云，打造工业AI生态系统",
-          "url": "https://wallstreetcn.com/livenews/3075929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%",
           "url": "https://wallstreetcn.com/livenews/3075834",
           "source": "华尔街见闻-快讯",
@@ -347,24 +375,13 @@
           "time_info": "17时56分"
         },
         {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
           "title": "卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司",
           "url": "https://wallstreetcn.com/livenews/3075921",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -441,7 +458,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -460,7 +477,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -471,8 +488,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时00分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[10时00分 ~ 21时10分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -539,6 +556,22 @@
           "time_info": "[00时00分 ~ 07时32分]"
         },
         {
+          "title": "内存价格暴涨 旧手机成“香饽饽”",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%97%A7%E6%89%8B%E6%9C%BA%E6%88%90%E2%80%9C%E9%A6%99%E9%A5%BD%E9%A5%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            10,
+            9,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 21时10分]"
+        },
+        {
           "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
           "url": "https://www.cls.cn/detail/2322200",
           "source": "财联社热门",
@@ -551,6 +584,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时32分 ~ 15时15分]"
+        },
+        {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 21时10分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -568,21 +616,6 @@
           "time_info": "[00时00分 ~ 07时32分]"
         },
         {
-          "title": "内存价格暴涨 旧手机成“香饽饽”",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E6%97%A7%E6%89%8B%E6%9C%BA%E6%88%90%E2%80%9C%E9%A6%99%E9%A5%BD%E9%A5%BD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时44分]"
-        },
-        {
           "title": "国际油价盘中暴跌超10%",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%9B%98%E4%B8%AD%E6%9A%B4%E8%B7%8C%E8%B6%8510%25",
           "source": "百度热搜",
@@ -598,20 +631,6 @@
           "time_info": "[00时00分 ~ 07时32分]"
         },
         {
-          "title": "李大霄解读美股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时44分]"
-        },
-        {
           "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -623,6 +642,43 @@
           "time_info": "[06时32分 ~ 07时32分]"
         },
         {
+          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 21时10分]"
+        },
+        {
+          "title": "废旧手机回收价暴涨",
+          "url": "https://www.douyin.com/hot/2441963",
+          "source": "抖音",
+          "ranks": [
+            9,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时55分 ~ 21时10分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3075976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（3月23日），美国科技股七巨头（Magnificent 7）指数涨1.36%，报187.71点。 “超大”市值科技股指数涨1.67%，报358.31点。",
           "url": "https://wallstreetcn.com/livenews/3075432",
           "source": "华尔街见闻-快讯",
@@ -632,18 +688,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
-        },
-        {
-          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时44分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -668,19 +712,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时54分]"
-        },
-        {
-          "title": "废旧手机回收价暴涨",
-          "url": "https://www.douyin.com/hot/2441963",
-          "source": "抖音",
-          "ranks": [
-            9,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时44分]"
         },
         {
           "title": "航空业ETF收涨将近3.5%，领跑美股行业ETF，能源业ETF涨1.2%表现“不温不火”",
@@ -783,6 +814,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-03-24）",
+          "url": "https://flash.jin10.com/detail/20260324203812075800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "大量用户反馈被美团删除相册照片，客服回应称是插件冲突，真的是这样吗？为什么 App 能删用户的照片？",
+          "url": "https://www.zhihu.com/question/2019359659350254663",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 10时01分]"
+        },
+        {
+          "title": "深交所：嘉实原油证券投资基金(QDII-LOF)（基金代码：160723）于2026年3月24日下午开市起至收市实施临时停牌，特此公告。",
+          "url": "https://wallstreetcn.com/livenews/3075647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "美团称 App 删安卓用户图片系第三方插件导致，将协助恢复并赔偿损失，此解释能服众吗？还有哪些问题待澄清？",
+          "url": "https://www.zhihu.com/question/2019784544652326413",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         }
       ]
     },
@@ -813,36 +896,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 06时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大量用户反馈被美团删除相册照片，客服回应称是插件冲突，真的是这样吗？为什么 App 能删用户的照片？",
-          "url": "https://www.zhihu.com/question/2019359659350254663",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 10时01分]"
-        },
-        {
-          "title": "深交所：嘉实原油证券投资基金(QDII-LOF)（基金代码：160723）于2026年3月24日下午开市起至收市实施临时停牌，特此公告。",
-          "url": "https://wallstreetcn.com/livenews/3075647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
         }
       ]
     }
