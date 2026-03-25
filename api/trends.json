@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T06:50:40.748579+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-03-26T07:34:42.656307+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "如何看待 sora 即将停止服务，seedance 还能坚持多久？",
@@ -15,11 +15,12 @@
             9,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时34分]"
         },
         {
           "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
@@ -31,8 +32,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时34分]"
         },
         {
           "title": "Sora关停背后",
@@ -43,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时34分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -54,11 +55,12 @@
             16,
             15,
             13,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时34分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -70,8 +72,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时34分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -81,11 +83,12 @@
             19,
             14,
             18,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 06时50分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 07时34分]"
         },
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -148,6 +151,18 @@
           "time_info": "[01时59分 ~ 03时03分]"
         },
         {
+          "title": "墨西哥经济部：墨西哥将于周四在总统新闻发布会上宣布针对运输业的支持计划。",
+          "url": "https://flash.jin10.com/detail/20260326055224594800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时34分]"
+        },
+        {
           "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
           "url": "https://wallstreetcn.com/livenews/3076829",
           "source": "华尔街见闻-快讯",
@@ -183,15 +198,26 @@
           "time_info": "01时59分"
         },
         {
-          "title": "墨西哥经济部：墨西哥将于周四在总统新闻发布会上宣布针对运输业的支持计划。",
-          "url": "https://flash.jin10.com/detail/20260326055224594800",
-          "source": "金十数据",
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时50分"
+          "time_info": "07时34分"
+        },
+        {
+          "title": "中东战火烧个不停 巴斯夫发布第五份涨价公告 基础胺类涨幅可达30%",
+          "url": "https://www.cls.cn/detail/2324965",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
@@ -214,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
+          "url": "https://wallstreetcn.com/livenews/3076931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "广州市监局发布殡葬领域提醒告诫函",
@@ -241,7 +278,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -255,23 +292,23 @@
           "time_info": "[00时15分 ~ 04时38分]"
         },
         {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时50分]"
-        },
-        {
           "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
           "url": "https://www.cls.cn/detail/2324750",
           "source": "财联社热门",
           "ranks": [
             9,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时34分]"
+        },
+        {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -288,6 +325,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 06时50分]"
+        },
+        {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时34分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -312,17 +372,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时50分]"
-        },
-        {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
         },
         {
           "title": "美股回吐涨幅，美国原油跌幅收窄，报道称伊朗布什尔核电站再遭袭击",
