@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:15:43.770206+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-03-25T16:52:01.804887+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 71,
+      "match_count": 77,
       "titles": [
         {
           "title": "张雪峰去世，公司发布讣告",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 15时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 16时52分]"
         },
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -44,6 +44,22 @@
           "time_info": "[00时08分 ~ 07时35分]"
         },
         {
+          "title": "AI骗老美,虚拟女兵狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            21,
+            20,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 16时52分]"
+        },
+        {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
           "source": "澎湃新闻",
@@ -53,21 +69,6 @@
             17,
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 15时15分]"
-        },
-        {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            21,
-            20,
-            22
           ],
           "is_new": false,
           "appearance_count": 15,
@@ -95,11 +96,12 @@
             16,
             25,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 15时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 16时52分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -117,6 +119,19 @@
           "time_info": "[00时08分 ~ 10时06分]"
         },
         {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 16时52分]"
+        },
+        {
           "title": "如何看待张雪峰公司发布张雪峰死亡讣告，有什么影响？",
           "url": "https://www.zhihu.com/question/2019896676995839705",
           "source": "知乎",
@@ -131,28 +146,44 @@
           "time_info": "[04时41分 ~ 07时35分]"
         },
         {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时15分]"
-        },
-        {
           "title": "Sora关停背后",
           "url": "https://www.douyin.com/hot/2442643",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时15分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 16时52分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 16时52分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            18,
+            19,
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 16时52分]"
         },
         {
           "title": "AI时代最离谱的KPI",
@@ -211,6 +242,32 @@
           "time_info": "04时41分"
         },
         {
+          "title": "快手(01024.HK)：2025年第四季度，由AIGC营销素材带来的线上营销服务消耗金额达到人民币40亿元。",
+          "url": "https://flash.jin10.com/detail/20260325163347009800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "AI将军凯旋归来",
+          "url": "https://www.douyin.com/hot/2442407",
+          "source": "抖音",
+          "ranks": [
+            30,
+            25,
+            27,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 16时52分]"
+        },
+        {
           "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
           "url": "https://flash.jin10.com/detail/20260325025306673800",
           "source": "金十数据",
@@ -242,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "【 快手：2025年第四季度，可灵AI营业收入达人民币3.4亿元】快手：2025年第四季度，可灵AI营业收入达人民币3.4亿元。值得一提的是，2025年12月，可灵AI单月收入突破2000万美元，即年化收入运行率（ARR）达2.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3076559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "多家银行发布风险提示",
@@ -290,31 +358,18 @@
           "time_info": "00时08分"
         },
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            18,
-            19,
-            25
+            14,
+            10,
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时15分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时15分]"
+          "time_info": "[12时53分 ~ 16时52分]"
         },
         {
           "title": "如何评价由新锐学术于 2026 年正式发布的《新锐期刊分区表》？",
@@ -368,17 +423,17 @@
           "time_info": "[10时05分 ~ 14时02分]"
         },
         {
-          "title": "AI将军凯旋归来",
-          "url": "https://www.douyin.com/hot/2442407",
-          "source": "抖音",
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
           "ranks": [
-            30,
-            25,
-            27
+            12,
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时05分 ~ 15时15分]"
+          "time_info": "[14时02分 ~ 16时52分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -406,19 +461,6 @@
           "time_info": "[07时35分 ~ 10时06分]"
         },
         {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时15分]"
-        },
-        {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
           "url": "https://www.cls.cn/detail/2323553",
           "source": "财联社热门",
@@ -429,6 +471,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时05分 ~ 12时53分]"
+        },
+        {
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时52分]"
         },
         {
           "title": "以总统刚开完发布会就遇火箭弹袭击",
@@ -454,16 +508,15 @@
           "time_info": "[06时30分 ~ 07时35分]"
         },
         {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
+          "title": "张雪峰：一个向AI世界喊停的人",
+          "url": "https://www.toutiao.com/trending/7621010942226075172/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时15分]"
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "短剧撞脸迪丽热巴别甩锅AI",
@@ -543,6 +596,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "裁员潮席卷硅谷，一线工程师戳破另一面真相：AI效率被严重高估",
+          "url": "https://wallstreetcn.com/livenews/3076545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。 微软和英伟达宣布，就核能展开AI合作。",
           "url": "https://wallstreetcn.com/livenews/3076067",
           "source": "华尔街见闻-快讯",
@@ -552,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "Brett Adcock旗下初创公司Hark正致力于开发与家庭相关的AI设备。",
@@ -585,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "英国、欧盟和瑞士发布T+1结算测试计划，为明年实施铺路",
+          "url": "https://wallstreetcn.com/livenews/3076538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼将专注于筹集资金、供应链和“以前所未有的规模建设数据中心”。",
@@ -629,17 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
         },
         {
           "title": "Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体",
@@ -703,7 +778,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -843,7 +918,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -872,11 +947,12 @@
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时35分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 16时52分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -914,11 +990,12 @@
             14,
             21,
             17,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 15时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时08分 ~ 16时52分]"
         },
         {
           "title": "旧手机回收价暴涨五六倍",
@@ -968,6 +1045,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时31分]"
+        },
+        {
+          "title": "绕开霍尔木兹！船只扎堆涌向红海 沙特延布港至亚洲油轮运费暴跌",
+          "url": "https://www.cls.cn/detail/2323948",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时52分]"
         },
         {
           "title": "废旧手机回收价暴涨",
@@ -1051,17 +1140,6 @@
           "time_info": "05时38分"
         },
         {
-          "title": "绕开霍尔木兹！船只扎堆涌向红海 沙特延布港至亚洲油轮运费暴跌",
-          "url": "https://www.cls.cn/detail/2323948",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
           "title": "金十图示：2026年03月24日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260325040543913800",
           "source": "金十数据",
@@ -1093,6 +1171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美股太空概念股盘前上扬，DXYZ大涨近15%，Rocket Lab、AST SpaceMobile、Redwire、Planet Labs涨超3%，Destiny Tech100上涨17.7%，消息称SpaceX据悉最快本周递表。",
+          "url": "https://flash.jin10.com/detail/20260325161629723800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "美股收盘：三大股指收跌 Circle大跌20%",
@@ -1204,7 +1293,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多地出台政策支持微短剧“出海”",
@@ -1222,11 +1311,23 @@
           "url": "https://wallstreetcn.com/articles/3768269",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时35分 ~ 16时52分]"
+        },
+        {
+          "title": "越来越多日本女性为供养牛郎跨境卖淫",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%80%A7%E4%B8%BA%E4%BE%9B%E5%85%BB%E7%89%9B%E9%83%8E%E8%B7%A8%E5%A2%83%E5%8D%96%E6%B7%AB%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时35分 ~ 15时15分]"
+          "time_info": "[16时51分 ~ 16时52分]"
         },
         {
           "title": "TikTok正为自制短剧系列遴选角色。（Business Insider）",
