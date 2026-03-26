@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-26T19:06:47.335140+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-03-26T21:14:33.210728+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
       "match_count": 45,
       "titles": [
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 21时14分]"
+        },
         {
           "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
           "url": "https://m.thepaper.cn/newsDetail_forward_32828365",
@@ -38,19 +51,6 @@
           "time_info": "[00时15分 ~ 07时34分]"
         },
         {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 19时06分]"
-        },
-        {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
@@ -59,11 +59,12 @@
             15,
             13,
             11,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 19时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 21时14分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -77,8 +78,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 19时06分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 21时14分]"
         },
         {
           "title": "Sora关停背后",
@@ -406,7 +407,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -557,8 +558,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 19时06分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 21时14分]"
         },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -632,6 +633,18 @@
           "time_info": "[18时02分 ~ 19时06分]"
         },
         {
+          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时14分]"
+        },
+        {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3076887",
           "source": "华尔街见闻-快讯",
@@ -642,17 +655,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时39分]"
-        },
-        {
-          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时06分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨超2.1%，英伟达涨约2%",
