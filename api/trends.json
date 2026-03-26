@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T17:03:32.875096+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-03-26T18:02:40.885655+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
@@ -38,6 +38,19 @@
           "time_info": "[00时15分 ~ 07时34分]"
         },
         {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 18时02分]"
+        },
+        {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
@@ -49,8 +62,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 17时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 18时02分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -59,11 +72,12 @@
           "ranks": [
             13,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 17时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 18时02分]"
         },
         {
           "title": "Sora关停背后",
@@ -94,18 +108,6 @@
           "time_info": "[03时03分 ~ 10时12分]"
         },
         {
-          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
-          "url": "https://wallstreetcn.com/articles/3768391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 17时03分]"
-        },
-        {
           "title": "如何看待 Sora 即将停止服务，seedance 还能坚持多久？",
           "url": "https://www.zhihu.com/question/2020124278553625840",
           "source": "知乎",
@@ -128,6 +130,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "广州：重点突破国产化AI算力芯片适配、异构算力动态调度技术 构建自主可控的智算中心架构",
+          "url": "https://wallstreetcn.com/livenews/3077352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "日本央行：将每月发布核心CPI指标。",
           "url": "https://flash.jin10.com/detail/20260326130401948800",
           "source": "金十数据",
@@ -139,6 +152,17 @@
           "time_info": "13时06分"
         },
         {
+          "title": "广州：重点突破国产化AI算力芯片适配、异构算力动态调度技术",
+          "url": "https://flash.jin10.com/detail/20260326175722218800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "菲律宾央行：将于当地时间下午3点举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260326144143297800",
           "source": "金十数据",
@@ -148,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "广州：建设推广人工智能辅助诊断、5G远程手术、AI影像筛查和智能家庭医生系统",
+          "url": "https://flash.jin10.com/detail/20260326175705285800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "中东战火烧个不停 巴斯夫发布第五份涨价公告 基础胺类涨幅可达30%",
@@ -197,6 +232,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 01时59分]"
+        },
+        {
+          "title": "剧版《哈利波特》发布首支预告",
+          "url": "https://www.toutiao.com/trending/7620400951362588166/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时07分 ~ 18时02分]"
         },
         {
           "title": "Sparc AI：在乌克兰推荐代理商，以加快OverwatchGPS无信号导航平台的部署。",
@@ -293,25 +341,13 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "剧版《哈利波特》发布首支预告",
-          "url": "https://www.toutiao.com/trending/7620400951362588166/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 17时03分]"
-        },
-        {
           "title": "韩国总统李在明：为应对中东战争危机，青瓦台于昨日正式启动了“紧急经济状况室”和由总理主持的“紧急经济总部”。我们也为下周即将发布的“战争补充预算”做好了应对的大框架。",
           "url": "https://flash.jin10.com/detail/20260326164400234800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -344,7 +380,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -399,7 +435,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -426,13 +462,24 @@
           "time_info": "15时07分"
         },
         {
+          "title": "商务部发布关于2026年度牛肉保障措施执行提示信息（一）",
+          "url": "https://flash.jin10.com/detail/20260326174206869800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "中国已是全球人工智能专利最大拥有国",
           "url": "https://www.toutiao.com/trending/7621002609559699507/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -465,7 +512,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -484,18 +531,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
           "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 17时03分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 18时02分]"
         },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -557,6 +605,17 @@
           "time_info": "[05时38分 ~ 06时50分]"
         },
         {
+          "title": "iPhone4回收价暴涨80倍",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%9A%B4%E6%B6%A880%E5%80%8D%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3076887",
           "source": "华尔街见闻-快讯",
@@ -590,6 +649,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美伊和谈陷入僵局，美股期货全线下跌，布油突破100美元，现货金银跳水",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美股回吐涨幅，美国原油跌幅收窄，报道称伊朗布什尔核电站再遭袭击",
@@ -664,7 +734,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -700,6 +770,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国科学院启动下一代开源芯片与系统研发",
+          "url": "https://wallstreetcn.com/livenews/3077339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "中国科学院启动下一代开源芯片与系统研发",
+          "url": "https://flash.jin10.com/detail/20260326174741169800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     }
