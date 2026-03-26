@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-26T10:12:04.812686+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-03-26T13:06:21.482407+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828365",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 13时06分]"
+        },
         {
           "title": "如何看待 sora 即将停止服务，seedance 还能坚持多久？",
           "url": "https://www.zhihu.com/question/2020124278553625840",
@@ -23,20 +38,6 @@
           "time_info": "[00时15分 ~ 07时34分]"
         },
         {
-          "title": "黄天鹅就鸡蛋角黄素抽检结果发布声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828365",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 10时12分]"
-        },
-        {
           "title": "OpenAI宣布关停Sora",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
           "source": "bilibili 热搜",
@@ -48,8 +49,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 13时06分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -61,8 +62,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 10时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 13时06分]"
         },
         {
           "title": "Sora关停背后",
@@ -104,17 +105,6 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
-          "url": "https://flash.jin10.com/detail/20260326100821499800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
@@ -123,8 +113,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 13时06分]"
+        },
+        {
+          "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
+          "url": "https://flash.jin10.com/detail/20260326100821499800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "日本央行：将每月发布核心CPI指标。",
+          "url": "https://flash.jin10.com/detail/20260326130401948800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -145,11 +157,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 13时06分]"
         },
         {
           "title": "像「报志愿、选专业指导规划」这类的工作，用 AI 能替代吗？换成 AI 提供建议，你会信任它吗？",
@@ -286,9 +299,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "报告：2025年国内消费级AI/AR市场销量增幅109%，雷鸟夺冠",
+          "url": "https://flash.jin10.com/detail/20260326125531947800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "DocuSign推出AI合同评估助理。",
@@ -308,7 +332,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -335,6 +359,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "伊朗官媒发炸毁自由女神像AI视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E5%8F%91%E7%82%B8%E6%AF%81%E8%87%AA%E7%94%B1%E5%A5%B3%E7%A5%9E%E5%83%8FAI%E8%A7%86%E9%A2%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "瑞士央行：瑞士境内的人工智能（AI）应用尚未“绞杀”那么多的就业岗位。",
           "url": "https://wallstreetcn.com/livenews/3076768",
           "source": "华尔街见闻-快讯",
@@ -349,7 +384,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -375,6 +410,17 @@
           "time_info": "[00时15分 ~ 07时34分]"
         },
         {
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 13时06分]"
+        },
+        {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
@@ -386,15 +432,17 @@
           "time_info": "[00时15分 ~ 06时50分]"
         },
         {
-          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
-          "url": "https://wallstreetcn.com/articles/3768319",
-          "source": "华尔街见闻",
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 10时12分]"
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 13时06分]"
         },
         {
           "title": "美伊谈判存疑，美股指涨幅收窄，存储板块走低，现货黄金涨2%，原油跌幅收窄",
@@ -407,19 +455,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时38分 ~ 06时50分]"
-        },
-        {
-          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
-          "url": "https://www.cls.cn/detail/2324998",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时50分 ~ 10时12分]"
         },
         {
           "title": "生物科技ETF收涨超2.5%，领跑美股行业ETF",
@@ -468,6 +503,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美股期货收复失地，纳斯达克100指数期货转为涨0.1%，标普500指数期货转为涨跌持平。 日经225指数小幅反弹，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3077097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "金十图示：2026年03月25日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260326005801127800",
           "source": "金十数据",
@@ -488,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "摩根大通交易员结束“美股看跌交易”",
+          "url": "https://www.toutiao.com/trending/7621380902110629439/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "数字货币市场上涨，比特币一度涨穿7.2万美元，狗狗币涨3.8%",
