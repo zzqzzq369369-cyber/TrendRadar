@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T16:52:52.516281+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-03-27T17:54:53.393933+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -29,11 +29,12 @@
             8,
             17,
             20,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 16时52分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 17时54分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -93,8 +94,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时54分]"
+        },
+        {
+          "title": "罗技中国为涉嫌侮辱消费者致歉：运营人员跳过审核流程擅自发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32839318",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时54分]"
         },
         {
           "title": "封关百日成绩单发布",
@@ -103,9 +118,34 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时54分]"
+        },
+        {
+          "title": "罗技就「广告侮辱消费者」道歉，称员工擅自发布，将深刻检讨，暴露出其宣发方面哪些问题？对品牌影响有多大？",
+          "url": "https://www.zhihu.com/question/2020603008002605570",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时54分]"
+        },
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "17时54分"
         },
         {
           "title": "日本央行发布自然利率及货币宽松程度的评估。日本央行认为，在考察经济活动和物价对短期利率变动的反应时，继续调整货币宽松力度是恰当的。",
@@ -132,52 +172,57 @@
           "time_info": "[13时06分 ~ 16时52分]"
         },
         {
-          "title": "罗技中国为涉嫌侮辱消费者致歉：运营人员跳过审核流程擅自发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32839318",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时52分]"
-        },
-        {
-          "title": "中国发布芯片研发突破成果",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%8A%AF%E7%89%87%E7%A0%94%E5%8F%91%E7%AA%81%E7%A0%B4%E6%88%90%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "教育部发布20条严禁清单",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8320%E6%9D%A1%E4%B8%A5%E7%A6%81%E6%B8%85%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "罗技就「广告侮辱消费者」道歉，称员工擅自发布，将深刻检讨，暴露出其宣发方面哪些问题？对品牌影响有多大？",
-          "url": "https://www.zhihu.com/question/2020603008002605570",
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
           "source": "知乎",
           "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 17时54分]"
+        },
+        {
+          "title": "大模型输出答案前在思考什么",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%AD%94%E6%A1%88%E5%89%8D%E5%9C%A8%E6%80%9D%E8%80%83%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
             8,
-            15,
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时52分]"
+          "time_info": "[13时06分 ~ 17时54分]"
+        },
+        {
+          "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时54分]"
+        },
+        {
+          "title": "教育部发布20条严禁清单",
+          "url": "https://www.douyin.com/hot/2445159",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 17时54分]"
         },
         {
           "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
@@ -192,30 +237,6 @@
           "time_info": "[03时55分 ~ 04时35分]"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 16时52分]"
-        },
-        {
-          "title": "大模型输出答案前在思考什么",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BE%93%E5%87%BA%E7%AD%94%E6%A1%88%E5%89%8D%E5%9C%A8%E6%80%9D%E8%80%83%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时52分]"
-        },
-        {
           "title": "白宫顾问戴维·萨克斯：美国国会可在数月内通过两党人工智能立法。",
           "url": "https://flash.jin10.com/detail/20260327034051169800",
           "source": "金十数据",
@@ -228,30 +249,28 @@
           "time_info": "[03时55分 ~ 04时35分]"
         },
         {
-          "title": "20条“严禁”！为基础教育办学划红线，教育部发布负面清单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841964",
-          "source": "澎湃新闻",
+          "title": "中国发布芯片研发突破成果",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E8%8A%AF%E7%89%87%E7%A0%94%E5%8F%91%E7%AA%81%E7%A0%B4%E6%88%90%E6%9E%9C",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            12,
-            10
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时52分]"
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "教育部发布20条严禁清单",
-          "url": "https://www.douyin.com/hot/2445159",
-          "source": "抖音",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8320%E6%9D%A1%E4%B8%A5%E7%A6%81%E6%B8%85%E5%8D%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            16,
-            11
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时52分]"
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "美媒称美已在俄乌战场部署持枪机器人，可 AI 评估战场射击，其作战能力如何？人形机器人上战场靠谱吗？",
@@ -264,6 +283,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时06分 ~ 16时52分]"
+        },
+        {
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 17时54分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -287,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时29分]"
+        },
+        {
+          "title": "Naiyou终身禁赛",
+          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "教育部发布 20 条负面清单，严禁提前开学延迟放假、幼儿园小学化等，会带来哪些影响和变化？",
@@ -336,18 +391,6 @@
           "time_info": "[05时31分 ~ 06时29分]"
         },
         {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 16时52分]"
-        },
-        {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3077682",
           "source": "华尔街见闻-快讯",
@@ -358,6 +401,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时29分]"
+        },
+        {
+          "title": "小米大模型负责人谈未来竞争",
+          "url": "https://www.douyin.com/hot/2445480",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时54分]"
+        },
+        {
+          "title": "《乘风2026》全阵容发布 公演将直播",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%B9%98%E9%A3%8E2026%E3%80%8B%E5%85%A8%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83+%E5%85%AC%E6%BC%94%E5%B0%86%E7%9B%B4%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 17时54分]"
         },
         {
           "title": "ChatGPT的心脏长什么样",
@@ -371,26 +437,15 @@
           "time_info": "[13时06分 ~ 13时07分]"
         },
         {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
-          "title": "Naiyou终身禁赛",
-          "url": "https://s.weibo.com/weibo?q=%23Naiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
+          "time_info": "17时54分"
         },
         {
           "title": "G2发布先锋赛训练赛战绩",
@@ -421,7 +476,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -454,7 +509,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -520,7 +575,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -534,17 +589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
-        },
-        {
-          "title": "《乘风2026》全阵容发布 公演将直播",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E4%B9%98%E9%A3%8E2026%E3%80%8B%E5%85%A8%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83+%E5%85%AC%E6%BC%94%E5%B0%86%E7%9B%B4%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
         },
         {
           "title": "加拿大央行高级副行长罗杰斯：贸易紧张局势、移民规模缩减以及人工智能的广泛应用将永久性地改变格局。",
@@ -591,17 +635,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "小米大模型负责人谈未来竞争",
-          "url": "https://www.douyin.com/hot/2445480",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时52分"
-        },
-        {
           "title": "马斯克：Grok Imagine下周有重大发布。",
           "url": "https://wallstreetcn.com/livenews/3077905",
           "source": "华尔街见闻-快讯",
@@ -622,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "腾讯云公布2026年AI演进路线，首发Agent产品全景图",
+          "url": "https://wallstreetcn.com/livenews/3078089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "教育部发布20条严禁清单",
@@ -674,7 +718,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -685,7 +729,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         }
@@ -693,7 +737,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -715,8 +759,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时54分]"
         },
         {
           "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
@@ -753,8 +797,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 16时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 17时54分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -884,6 +928,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "美伊局势走向不明，美股期指全线转跌，美日债市承压，油价涨势扩大，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260327003541364800",
           "source": "金十数据",
@@ -912,7 +967,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -939,6 +994,17 @@
           "time_info": "10时13分"
         },
         {
+          "title": "美股三大股指期货持续走低，纳指日内跌幅扩大至0.26%，标普500指数期货跌0.23%，道指期货跌0.24%； 国际原油走高，布伦特原油突破104美元/桶，日内涨超2%。 欧洲斯托克600指数跌幅扩大至1.1%，触及盘中新低。",
+          "url": "https://wallstreetcn.com/livenews/3078098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "美股标普纳指创开战后最大单日跌幅",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%A0%87%E6%99%AE%E7%BA%B3%E6%8C%87%E5%88%9B%E5%BC%80%E6%88%98%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
           "source": "百度热搜",
@@ -953,7 +1019,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京发布数据跨境流动便利化综合配套改革3.0版方案，聚焦商业航天等6个重点领域",
@@ -976,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "促进汽车数据跨境流动 中欧汽车工业协会签署备忘录",
+          "url": "https://wallstreetcn.com/livenews/3078081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -1001,7 +1078,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         }
