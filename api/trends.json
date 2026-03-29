@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T07:31:23.317527+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-03-29T10:23:33.276205+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -16,11 +16,12 @@
             16,
             4,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时23分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -28,11 +29,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时23分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -42,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时23分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -53,8 +55,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时23分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -66,6 +68,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时31分]"
+        },
+        {
+          "title": "中国军号发布视频：真正的史诗",
+          "url": "https://www.douyin.com/hot/2446822",
+          "source": "抖音",
+          "ranks": [
+            16,
+            10,
+            11,
+            14,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时40分 ~ 10时23分]"
         },
         {
           "title": "人工智能会取代哪些岗位？",
@@ -82,19 +100,26 @@
           "time_info": "[02时40分 ~ 06时29分]"
         },
         {
-          "title": "中国军号发布视频：真正的史诗",
-          "url": "https://www.douyin.com/hot/2446822",
-          "source": "抖音",
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            10,
-            11,
-            14,
-            17
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时40分 ~ 07时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
+          "url": "https://wallstreetcn.com/livenews/3078656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "《老鼠爱大米》词曲创作者发布声明",
@@ -180,13 +205,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "智能网联汽车等系列团体标准发布 加速共性关键技术转化与应用",
+          "url": "https://wallstreetcn.com/livenews/3078634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时23分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时23分]"
+        },
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
           "url": "https://wallstreetcn.com/articles/3768635",
@@ -210,29 +271,6 @@
           "time_info": "[00时33分 ~ 07时31分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
-        },
-        {
           "title": "氦气价格暴涨50%",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B0%A6%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A850%25%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -242,6 +280,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 07时31分]"
+        },
+        {
+          "title": "氦气价格暴涨50%",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%A6%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A850%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "曝内存价格暴涨前华为提前囤货",
+          "url": "https://www.toutiao.com/trending/7621789201730175019/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赚钱的意义是什么呢",
+          "url": "https://www.douyin.com/hot/2447064",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -257,8 +334,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时23分]"
         }
       ]
     }
