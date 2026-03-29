@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T00:34:57.521201+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-30T01:30:53.450266+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -37,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "美国中央司令部发布图文，在3月25日，“亚伯拉罕·林肯”号航空母舰上的美国海军F/A-18“超级大黄蜂”战斗机在“史诗怒火”行动期间准备执行夜间作战任务。",
           "url": "https://flash.jin10.com/detail/20260329232603509800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -59,19 +60,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         }
       ]
     },
@@ -87,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "中东两家铝业公司遭袭，花旗分析师：铝价或暴涨至每吨4000美元",
@@ -98,19 +100,37 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
         },
         {
           "title": "旧手机回收价格暴涨五六倍？真相来了",
           "url": "https://www.baidu.com/s?wd=%E6%97%A7%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E4%BA%94%E5%85%AD%E5%80%8D%EF%BC%9F%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
+          "url": "https://www.zhihu.com/question/2019836769743423292",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时30分"
         }
       ]
     }
