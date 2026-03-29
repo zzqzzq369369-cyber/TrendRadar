@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T16:39:37.737516+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-03-29T17:36:49.643266+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -36,8 +36,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 16时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -50,8 +50,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 16时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -84,11 +84,27 @@
           "ranks": [
             5,
             7,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时36分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            7,
+            13,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时23分 ~ 17时36分]"
         },
         {
           "title": "中国军号发布视频：真正的史诗",
@@ -107,20 +123,6 @@
           "time_info": "[02时40分 ~ 10时23分]"
         },
         {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            7,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 16时39分]"
-        },
-        {
           "title": "人工智能会取代哪些岗位？",
           "url": "https://www.zhihu.com/question/2019355746328932969",
           "source": "知乎",
@@ -133,6 +135,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时40分 ~ 06时29分]"
+        },
+        {
+          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
+          "url": "https://wallstreetcn.com/livenews/3078656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            9,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 17时36分]"
         },
         {
           "title": "《老鼠爱大米》词曲创作者发布声明",
@@ -150,32 +167,6 @@
           "time_info": "[01时28分 ~ 06时29分]"
         },
         {
-          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
-          "url": "https://wallstreetcn.com/livenews/3078656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 16时39分]"
-        },
-        {
-          "title": "宇树科技王兴兴：具身智能GPT时刻大概还需两到三年",
-          "url": "https://wallstreetcn.com/livenews/3078665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 16时39分]"
-        },
-        {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
           "source": "澎湃新闻",
@@ -185,8 +176,45 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时36分]"
+        },
+        {
+          "title": "模塑申城语料普惠计划2.0发布：明年底规模超10PB",
+          "url": "https://wallstreetcn.com/livenews/3078687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "中科院文献中心：不再更新、发布已推出22年的期刊分区表",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852180",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时10分 ~ 17时36分]"
+        },
+        {
+          "title": "宇树科技王兴兴：具身智能GPT时刻大概还需两到三年",
+          "url": "https://wallstreetcn.com/livenews/3078665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时03分 ~ 17时36分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -199,18 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 02时40分]"
-        },
-        {
-          "title": "中科院文献中心：不再更新、发布已推出22年的期刊分区表",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852180",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 16时39分]"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -260,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
@@ -323,7 +350,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -334,7 +361,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -367,8 +394,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 16时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
@@ -401,8 +428,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 16时39分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 17时36分]"
         },
         {
           "title": "氦气价格暴涨50%",
@@ -453,11 +480,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时23分 ~ 17时36分]"
         }
       ]
     },
@@ -476,8 +504,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 16时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 17时36分]"
         }
       ]
     }
