@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T17:11:31.378268+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-30T19:02:11.328539+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -27,11 +27,12 @@
             1,
             8,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 17时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 19时02分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -59,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 17时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 19时02分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时31分]"
+        },
+        {
+          "title": "我国发布首个氢能产品耐久性验证体系",
+          "url": "https://www.douyin.com/hot/2449001",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
@@ -145,6 +157,28 @@
           "time_info": "[00时34分 ~ 01时30分]"
         },
         {
+          "title": "vivo X300 Ultra发布",
+          "url": "https://search.bilibili.com/all?keyword=vivo%20X300%20Ultra",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "上汽大众ID.ERA 9X预售发布会",
+          "url": "https://www.toutiao.com/trending/7622287447712530474/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
           "url": "https://wallstreetcn.com/livenews/3078783",
           "source": "华尔街见闻-快讯",
@@ -156,13 +190,24 @@
           "time_info": "07时32分"
         },
         {
+          "title": "国家医保局将于2026年3月31日上午9点，在本局七楼大会议室召开关于《医疗保障基金使用监督管理条例实施细则》的新闻发布会，会上对实施细则的相关内容进行宣传解读。",
+          "url": "https://wallstreetcn.com/livenews/3079242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "中证指数：将于3月31日正式发布中证印制电路板指数",
           "url": "https://flash.jin10.com/detail/20260330163553857800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -173,7 +218,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -195,7 +240,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -206,7 +251,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         }
@@ -256,8 +301,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 19时02分]"
+        },
+        {
+          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时24分 ~ 17时11分]"
+          "time_info": "[17时11分 ~ 19时02分]"
         },
         {
           "title": "中东两家铝业公司遭袭，花旗分析师：铝价或暴涨至每吨4000美元",
@@ -271,17 +328,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时31分]"
-        },
-        {
-          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
