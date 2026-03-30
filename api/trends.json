@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-30T10:26:10.717451+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-03-30T13:24:23.734338+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 10时26分]"
-        },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
@@ -31,6 +20,18 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 13时24分]"
+        },
+        {
           "title": "伊朗战争的账单，“AI牛市”来买？",
           "url": "https://wallstreetcn.com/articles/3768662",
           "source": "华尔街见闻",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 10时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 13时24分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -51,11 +52,12 @@
             24,
             22,
             21,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 10时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 13时24分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -82,13 +84,35 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
+          "title": "市场监管总局：强化网络不正当竞争行为监管，加大对人工智能等新兴产业的保护力度",
+          "url": "https://flash.jin10.com/detail/20260330130924542800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度",
+          "url": "https://wallstreetcn.com/livenews/3078972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "特斯拉：TERAFAB项目正式发布 预计将实现每年超1太瓦算力产出",
           "url": "https://flash.jin10.com/detail/20260330095924126800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -132,7 +156,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -178,6 +202,17 @@
           "time_info": "[00时34分 ~ 06时31分]"
         },
         {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
           "url": "https://flash.jin10.com/detail/20260330060152527800",
           "source": "金十数据",
@@ -211,6 +246,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 10时26分]"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "美股反复震荡的元凶：一只巨无霸基金周二“换仓”，市场能喘口气吗？",
+          "url": "https://flash.jin10.com/detail/20260330123209986800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
