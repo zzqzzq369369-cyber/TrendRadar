@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T13:24:23.734338+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-03-30T15:27:27.503042+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 13时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 15时27分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -56,8 +57,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 13时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 15时27分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -90,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -101,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -151,12 +152,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "仅剩3天！VIP·9折解锁2大新功能",
+          "url": "https://flash.jin10.com/detail/20260330150117831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -206,11 +218,12 @@
           "url": "https://wallstreetcn.com/articles/3768688",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时27分]"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -237,6 +250,18 @@
           "time_info": "[06时31分 ~ 07时32分]"
         },
         {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时27分]"
+        },
+        {
           "title": "旧手机回收价格暴涨五六倍是真的吗",
           "url": "https://www.toutiao.com/trending/7621893548657885234/",
           "source": "今日头条",
@@ -248,15 +273,15 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
+          "title": "胡塞武装开辟新战线威胁替代航道 油价暴涨美油重回百元关口",
+          "url": "https://flash.jin10.com/detail/20260330150139494800",
+          "source": "金十数据",
           "ranks": [
-            9
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "15时27分"
         },
         {
           "title": "美股反复震荡的元凶：一只巨无霸基金周二“换仓”，市场能喘口气吗？",
@@ -265,7 +290,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
