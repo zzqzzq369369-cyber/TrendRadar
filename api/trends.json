@@ -1,40 +1,12 @@
 {
-  "generated_at": "2026-03-30T23:03:05.423990+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2026-03-31T00:57:20.397259+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时32分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            11,
-            15,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 23时03分]"
-        },
         {
           "title": "我国发布首个氢能产品耐久性验证体系",
           "url": "https://www.douyin.com/hot/2449001",
@@ -43,373 +15,70 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时01分 ~ 23时03分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时57分]"
         },
         {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 13时24分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
           "ranks": [
-            29,
-            24,
-            22,
-            21,
-            20,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 23时03分]"
-        },
-        {
-          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3078735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时31分]"
-        },
-        {
-          "title": "谁在给选基大模型喂答案？小心营销污染，基金信息不能被流量逻辑带偏",
-          "url": "https://www.cls.cn/detail/2328122",
-          "source": "财联社热门",
-          "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "市场监管总局：强化网络不正当竞争行为监管，加大对人工智能等新兴产业的保护力度",
-          "url": "https://flash.jin10.com/detail/20260330130924542800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度",
-          "url": "https://wallstreetcn.com/livenews/3078972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "特斯拉：TERAFAB项目正式发布 预计将实现每年超1太瓦算力产出",
-          "url": "https://flash.jin10.com/detail/20260330095924126800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "[00时55分 ~ 00时57分]"
         },
         {
           "title": "“车路云一体化”频迎利好：多个“团标”密集发布 启明信息8000万中标长春项目",
           "url": "https://www.cls.cn/detail/2329128",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时17分 ~ 23时03分]"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时57分]"
         },
         {
-          "title": "德、法、意、英四国外长发布声明，就一项将大幅扩大以色列适用死刑范围的法案表达深切关切。",
-          "url": "https://flash.jin10.com/detail/20260330024350882800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 05时31分]"
-        },
-        {
-          "title": "vivo发布了一台相机",
-          "url": "https://search.bilibili.com/all?keyword=vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E5%8F%B0%E7%9B%B8%E6%9C%BA",
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "美国中央司令部发布图文，在3月25日，“亚伯拉罕·林肯”号航空母舰上的美国海军F/A-18“超级大黄蜂”战斗机在“史诗怒火”行动期间准备执行夜间作战任务。",
-          "url": "https://flash.jin10.com/detail/20260329232603509800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时30分]"
-        },
-        {
-          "title": "飞猪发布首个旅行 skill，应用 App 自己发布 skills 供 Agent 使用是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2020443086786884211",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "vivo发布了一款民用哈勃",
-          "url": "https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E6%AC%BE%E6%B0%91%E7%94%A8%E5%93%88%E5%8B%83%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
-        },
-        {
-          "title": "vivo X300 Ultra发布",
-          "url": "https://search.bilibili.com/all?keyword=vivo%20X300%20Ultra",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "人工智能时代，我们应该学习什么样的知识才能不被淘汰？",
-          "url": "https://www.zhihu.com/question/1977151242334672705",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时02分 ~ 23时03分]"
-        },
-        {
-          "title": "上汽大众ID.ERA 9X预售发布会",
-          "url": "https://www.toutiao.com/trending/7622287447712530474/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
-          "url": "https://wallstreetcn.com/livenews/3078783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "国家医保局将于2026年3月31日上午9点，在本局七楼大会议室召开关于《医疗保障基金使用监督管理条例实施细则》的新闻发布会，会上对实施细则的相关内容进行宣传解读。",
-          "url": "https://wallstreetcn.com/livenews/3079242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "中证指数：将于3月31日正式发布中证印制电路板指数",
-          "url": "https://flash.jin10.com/detail/20260330163553857800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时57分]"
         },
         {
-          "title": "Shanghai Foursemi Semiconductor将香港IPO股票发行价定在每股40港元。",
-          "url": "https://wallstreetcn.com/livenews/3079462",
-          "source": "华尔街见闻-快讯",
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
           "ranks": [
             19
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时57分]"
+        },
+        {
+          "title": "3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6999元，vivo X300s起售价为4999元。",
+          "url": "https://wallstreetcn.com/livenews/3079485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "上海新沪商联合会发布“新沪商金帆计划”，联合银行等机构破解中小微企业融资难问题",
-          "url": "https://wallstreetcn.com/livenews/3079138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "仅剩3天！VIP·9折解锁2大新功能",
-          "url": "https://flash.jin10.com/detail/20260330150117831800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "中证指数：将于3月31日正式发布中证印制电路板指数",
-          "url": "https://wallstreetcn.com/livenews/3079132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "韩红秀牙缝自证“不是AI人”",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "time_info": "00时57分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 10时26分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时24分 ~ 23时03分]"
-        },
-        {
-          "title": "旧手机回收价格暴涨五六倍？真相来了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A7%E6%89%8B%E6%9C%BA%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%E4%BA%94%E5%85%AD%E5%80%8D%EF%BC%9F%E7%9C%9F%E7%9B%B8%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22,
-            9,
-            10,
-            7,
-            16,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 10时26分]"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时17分 ~ 23时03分]"
-        },
-        {
-          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 19时02分]"
-        },
-        {
-          "title": "中东两家铝业公司遭袭，花旗分析师：铝价或暴涨至每吨4000美元",
-          "url": "https://wallstreetcn.com/livenews/3078733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时31分]"
-        },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
@@ -419,159 +88,51 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时02分 ~ 23时03分]"
+          "time_info": "[00时55分 ~ 00时57分]"
         },
         {
-          "title": "中东局势升级，美股期货盘前走高，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时17分 ~ 21时18分]"
+          "time_info": "[00时55分 ~ 00时57分]"
         },
         {
-          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
-          "url": "https://flash.jin10.com/detail/20260330060152527800",
-          "source": "金十数据",
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            21
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
+          "time_info": "[00时55分 ~ 00时57分]"
         },
         {
-          "title": "布油高开逾3%，美股期货走低",
-          "url": "https://wallstreetcn.com/livenews/3078766",
+          "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
+          "url": "https://www.cls.cn/detail/2329636",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 00时57分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.11%，暂报2441.68点。 MarketVectorTM数字资产100中盘指数涨2.33%，报2786.56点。 MarketVector数字资产100指数涨2.18%，报13671.07点。 目前，Solana涨3.63%，狗狗币涨2.76%，XRP涨2.25%。 比特币涨2.06%，暂报67699美元；以太坊涨4.17%，暂报2078美元。",
+          "url": "https://wallstreetcn.com/livenews/3079502",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时32分]"
-        },
-        {
-          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时27分]"
-        },
-        {
-          "title": "旧手机回收价格暴涨五六倍是真的吗",
-          "url": "https://www.toutiao.com/trending/7621893548657885234/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3079384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-03-30）",
-          "url": "https://flash.jin10.com/detail/20260330205904243800",
-          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "全球现绿色燃料替代效应 自年初以来甲醇价格暴涨超70%",
-          "url": "https://wallstreetcn.com/livenews/3079460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "胡塞武装开辟新战线威胁替代航道 油价暴涨美油重回百元关口",
-          "url": "https://flash.jin10.com/detail/20260330150139494800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "美股反复震荡的元凶：一只巨无霸基金周二“换仓”，市场能喘口气吗？",
-          "url": "https://flash.jin10.com/detail/20260330123209986800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "赚钱的意义是什么呢",
-          "url": "https://www.douyin.com/hot/2447064",
-          "source": "抖音",
-          "ranks": [
-            22,
-            17,
-            18,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时32分 ~ 10时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
-          "url": "https://www.zhihu.com/question/2019836769743423292",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时30分 ~ 06时31分]"
+          "time_info": "00时57分"
         }
       ]
     }
