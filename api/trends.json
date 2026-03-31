@@ -1,643 +1,12 @@
 {
-  "generated_at": "2026-03-31T23:02:23.044519+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-04-01T00:56:56.641130+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
-      "titles": [
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 21时16分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时08分 ~ 23时02分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            12,
-            14,
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时08分 ~ 23时02分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            23,
-            21,
-            20,
-            14,
-            18,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时34分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时09分]"
-        },
-        {
-          "title": "具身智能领域首份行业标准发布",
-          "url": "https://www.toutiao.com/trending/7622863629935558675/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时41分 ~ 10时13分]"
-        },
-        {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 07时34分]"
-        },
-        {
-          "title": "我国发布首个氢能产品耐久性验证体系",
-          "url": "https://www.douyin.com/hot/2449001",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时57分]"
-        },
-        {
-          "title": "【国内航线燃油附加费上涨通知被撤回】多彩贵州航空今日下午向机票代理发布国内航线燃油附加费将在4月5日上涨5倍的通告，其中800公里(含)以下航段从目前的10元上调到60元，800公里以上航段从目前的20元上调到120元。刚刚获悉，该航司又向代理发通知称，因民航局撤回已发布的4月燃油信息，公司下午发布的通告作废，待局方发出新通知后再另行下发业务通告。（一财）",
-          "url": "https://wallstreetcn.com/livenews/3080073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "国行版苹果AI",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时09分]"
-        },
-        {
-          "title": "“车路云一体化”频迎利好：多个“团标”密集发布 启明信息8000万中标长春项目",
-          "url": "https://www.cls.cn/detail/2329128",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时59分]"
-        },
-        {
-          "title": "AI 会让年轻人的机会变多还是变少？",
-          "url": "https://www.zhihu.com/question/2016930184062789503",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时58分 ~ 04时52分]"
-        },
-        {
-          "title": "SUSS MicroTec SE法兰克福股价收跌5.47%，全年业绩发布后在欧股盘初暴跌将近17.15%。",
-          "url": "https://wallstreetcn.com/livenews/3079528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时58分]"
-        },
-        {
-          "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
-          "url": "https://flash.jin10.com/detail/20260331042636136800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时41分]"
-        },
-        {
-          "title": "AI短剧 偷脸",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 13时09分]"
-        },
-        {
-          "title": "77部作品看到AI创作可能性",
-          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
-        },
-        {
-          "title": "【伊朗：打击以色列多处军工设施】伊朗军方30日发布公告称，当天对以色列境内多处军事工业设施实施无人机打击。根据公告，伊朗军队此次动用多型无人机，打击目标包括位于特拉维夫和以色列北部地区的多家军工企业，涉及电子战、无人机制造以及防空系统等领域。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3079530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时58分]"
-        },
-        {
-          "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
-          "url": "https://wallstreetcn.com/livenews/3079576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时35分]"
-        },
-        {
-          "title": "美联储威廉姆斯：人工智能活动减弱将导致经济增长乏力。",
-          "url": "https://flash.jin10.com/detail/20260331044951046800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时35分]"
-        },
-        {
-          "title": "文科生能吃到什么 ai 红利？",
-          "url": "https://www.zhihu.com/question/2016910965501871946",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 05时41分]"
-        },
-        {
-          "title": "红果回应普通人形象被AI短剧盗脸",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%99%AE%E9%80%9A%E4%BA%BA%E5%BD%A2%E8%B1%A1%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
-        },
-        {
-          "title": "Coreweave(CRWV.O)美股盘前涨5.6%，此前该公司获得85亿美元贷款以扩展人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20260331210751541800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "泰国政府：微软计划在泰国投资10亿美元，用于人工智能和云计算领域。",
-          "url": "https://wallstreetcn.com/livenews/3079834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "以色列军方向黎巴嫩西部贝卡谷地的6个村庄发布撤离警告。",
-          "url": "https://flash.jin10.com/detail/20260331012448033800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "​国行版苹果AI突然上线后又被撤回 苹果回应：正在积极推进落地中国",
-          "url": "https://flash.jin10.com/detail/20260331150542905800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
-          "url": "https://wallstreetcn.com/livenews/3079581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "AI演员 拼尸块",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E6%8B%BC%E5%B0%B8%E5%9D%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "全球最大型号增程式旋挖钻机发布",
-          "url": "https://flash.jin10.com/detail/20260331124613927800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "B站AI创作产品“updream”已开启内测",
-          "url": "https://wallstreetcn.com/livenews/3080055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "上交所发布上证科创板公司可转换债券指数",
-          "url": "https://flash.jin10.com/detail/20260331164306377800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "阿里通义：CoPaw 1.0正式发布",
-          "url": "https://wallstreetcn.com/livenews/3080053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：特朗普账户是个“好主意”，我们将参与。 由于人工智能而出现了一些岗位流失，大部分已经重新安排。",
-          "url": "https://wallstreetcn.com/livenews/3080178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "美联储威廉姆斯：难以预测人工智能在未来几年将如何发展。",
-          "url": "https://flash.jin10.com/detail/20260331043947071800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时41分"
-        },
-        {
-          "title": "国行版苹果AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "中国商火发布2026-2027年长征系列运载火箭发射机会概览",
-          "url": "https://wallstreetcn.com/livenews/3079986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "茅台发布重大事项公告",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%8F%91%E5%B8%83%E9%87%8D%E5%A4%A7%E4%BA%8B%E9%A1%B9%E5%85%AC%E5%91%8A%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "Meta公司：新款AI眼镜即日起在美国开启预订，起售价499美元。",
-          "url": "https://flash.jin10.com/detail/20260331210216044800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "富力地产发布盈利预警公告，全年净亏损初步数据大约166亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3079820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "澳洲联储发布支付系统委员会的最终决定。 取消借记卡、预付卡和信用卡的刷卡手续费（附加费）。 降低交换费（Interchange Fees）的上限。 提高卡组织（如Visa/Mastercard）网络费用的透明度。 相关变更将于10月1日正式生效。 澳洲联储计划针对本次审查未涵盖的领域开展进一步咨询 澳洲联储的公开咨询计划包括手机钱包（Mobile Wallets）和“先买后付”（BNPL）模式。",
-          "url": "https://wallstreetcn.com/livenews/3079604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "仅剩1天！VIP·9折解锁2大新功能",
-          "url": "https://flash.jin10.com/detail/20260331150027272800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6999元，vivo X300s起售价为4999元。",
-          "url": "https://wallstreetcn.com/livenews/3079485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 35,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时34分 ~ 23时02分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时34分]"
-        },
-        {
-          "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 04时52分]"
-        },
-        {
-          "title": "科技股暴跌释放反转信号 华尔街吹响“抄底”号角",
-          "url": "https://www.cls.cn/detail/2329636",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时13分]"
-        },
-        {
-          "title": "运动员退役后从146斤暴涨至523斤",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%90%E5%8A%A8%E5%91%98%E9%80%80%E5%BD%B9%E5%90%8E%E4%BB%8E146%E6%96%A4%E6%9A%B4%E6%B6%A8%E8%87%B3523%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            2,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 21时16分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时35分 ~ 15时13分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            14,
-            15,
-            23,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 21时16分]"
-        },
-        {
-          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时35分]"
-        },
-        {
-          "title": "报道称特朗普愿在海峡关闭时停战！美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时00分 ~ 20时01分]"
-        },
-        {
-          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3768819",
@@ -645,340 +14,164 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "00时56分"
         },
         {
-          "title": "美股费城半导体指数跌幅扩大至4.07%，相干公司/高意公司跌9.7%，美光跌8.2%，泰瑞达跌7.2%，Lumentum控股、Sandisk跌超6.5%，英特尔跌4.6%，格芯、Arm控股跌4.4%。 标普500指数跌0.15%，纳指跌0.5%。 白宫新闻秘书莱维特宣称，与伊朗的谈判在继续，而且进展顺利。美国国务卿卢比奥声称，在美国实现自己目标之后才会结束伊朗战争。",
-          "url": "https://wallstreetcn.com/livenews/3079527",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油日内暴跌6.00%，现报101.40美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260401004357202800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "00时56分"
         },
         {
-          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260331032001591800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260331031910310800",
+          "title": "美股短线走强，纳指涨超3%，标普500指数、道指涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260401004225097800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时58分"
+          "time_info": "00时56分"
         },
         {
-          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 18时10分]"
-        },
-        {
-          "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
-          "url": "https://wallstreetcn.com/livenews/3079573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时35分]"
-        },
-        {
-          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3079569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时35分]"
-        },
-        {
-          "title": "美股三大指数高开 爱奇艺涨超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时58分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
-          "url": "https://wallstreetcn.com/livenews/3079578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时35分]"
-        },
-        {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 23时02分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.11%，暂报2441.68点。 MarketVectorTM数字资产100中盘指数涨2.33%，报2786.56点。 MarketVector数字资产100指数涨2.18%，报13671.07点。 目前，Solana涨3.63%，狗狗币涨2.76%，XRP涨2.25%。 比特币涨2.06%，暂报67699美元；以太坊涨4.17%，暂报2078美元。",
-          "url": "https://wallstreetcn.com/livenews/3079502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
-        },
-        {
-          "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3079624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时34分"
+          "time_info": "00时56分"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3080182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "00时56分"
         },
         {
-          "title": "运动员退役后从146斤暴涨至523斤",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%91%98%E9%80%80%E5%BD%B9%E5%90%8E%E4%BB%8E146%E6%96%A4%E6%9A%B4%E6%B6%A8%E8%87%B3523%E6%96%A4%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2330950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260401003322867800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "00时56分"
         },
         {
-          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260331040539391800",
+          "title": "金十图示：2026年03月31日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260401003320625800",
           "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "运动员退役后从146斤暴涨至523斤",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%91%98%E9%80%80%E5%BD%B9%E5%90%8E%E4%BB%8E146%E6%96%A4%E6%9A%B4%E6%B6%A8%E8%87%B3523%E6%96%A4%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国行版苹果AI",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "00时56分"
         },
         {
-          "title": "美股存储芯片指数收跌超6.9%，Rambus跌超11%，美光重挫约10%",
-          "url": "https://wallstreetcn.com/livenews/3079581",
-          "source": "华尔街见闻-快讯",
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
           "ranks": [
-            14
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260331040537263800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "中东冲突震动全球半导体供应链，氦气现货暴涨超 50%，为什么会这样？氦气涨价，会影响什么？",
-          "url": "https://www.zhihu.com/question/2021584407622940446",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "欧美股市短线走高，道指期货涨1%，欧洲斯托克600指数涨1%",
-          "url": "https://wallstreetcn.com/livenews/3080124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时01分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
-          "url": "https://flash.jin10.com/detail/20260331040226554800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "Centessa Pharmaceuticals美股盘前涨超54%，报道称礼来（Lilly）将以每股38美元加CVR（或有价值权）收购Centessa Pharmaceuticals。",
-          "url": "https://wallstreetcn.com/livenews/3080106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时01分"
-        },
-        {
-          "title": "Apellis美股盘前涨超142%，Biogen将以56亿美元收购制药公司Apellis",
-          "url": "https://wallstreetcn.com/livenews/3080105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时01分"
-        },
-        {
-          "title": "美股涨幅扩大，纳指涨超2%，标普500指数涨1.6%，道指涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3080226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "中国品牌集体“异动” 出海抢单成主机厂新增长极",
           "url": "https://www.cls.cn/detail/2330592",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时09分 ~ 23时02分]"
-        },
-        {
-          "title": "上市公司一季度订单扫描：数十亿元级大单涌现，出海与长单特征凸显",
-          "url": "https://wallstreetcn.com/livenews/3079607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "全球在建首艘万车级双燃料汽车运输船出海试航",
-          "url": "https://flash.jin10.com/detail/20260331174952991800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "李嘉诚的石油帝国有多赚钱",
-          "url": "https://www.toutiao.com/trending/7622945280459017782/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude Code完整源代码疑似因npm配置失误遭泄露",
-          "url": "https://flash.jin10.com/detail/20260331194021815800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时01分"
+          "time_info": "00时56分"
         }
       ]
     }
