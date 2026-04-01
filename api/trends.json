@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T18:55:44.451582+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-04-01T19:53:40.189980+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "如何看待教育部发布通知，明确学校自主经营食堂不以营利为目的，并严格执行陪餐制度？能保障学生用餐安全吗？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 18时55分]"
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 19时53分]"
         },
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -29,11 +29,12 @@
             18,
             19,
             23,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 18时55分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 19时53分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -129,6 +130,18 @@
           "time_info": "[15时19分 ~ 17时03分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时19分 ~ 19时53分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
           "url": "https://flash.jin10.com/detail/20260401041908272800",
           "source": "金十数据",
@@ -165,18 +178,6 @@
           "time_info": "[13时23分 ~ 15时20分]"
         },
         {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 18时55分]"
-        },
-        {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
           "url": "https://www.zhihu.com/question/2021882744435646530",
           "source": "知乎",
@@ -211,6 +212,18 @@
           "time_info": "[10时31分 ~ 13时24分]"
         },
         {
+          "title": "华储网发布关于2026年4月3日中央储备冻猪肉收储竞价交易有关事项的通知：本次收储竞价交易挂牌10000吨。",
+          "url": "https://wallstreetcn.com/livenews/3080850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时53分]"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3080363",
           "source": "华尔街见闻-快讯",
@@ -221,6 +234,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时38分]"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时53分]"
         },
         {
           "title": "谷歌发布论文，在2029年期限前就量子风险向加密行业发出警告",
@@ -247,6 +272,18 @@
           "time_info": "[04时42分 ~ 05时38分]"
         },
         {
+          "title": "周深新歌禁止用于AI训练",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时53分]"
+        },
+        {
           "title": "《华尔街日报》披露 Sora 关停内幕，每日亏百万、用户数腰斩，这暴露了 AI 视频赛道哪些致命问题？",
           "url": "https://www.zhihu.com/question/2021993627107292496",
           "source": "知乎",
@@ -256,6 +293,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时53分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
@@ -269,24 +317,13 @@
           "time_info": "04时42分"
         },
         {
-          "title": "华储网发布关于2026年4月3日中央储备冻猪肉收储竞价交易有关事项的通知：本次收储竞价交易挂牌10000吨。",
-          "url": "https://wallstreetcn.com/livenews/3080850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "最没人味的AI制作出最有人味的短片",
           "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%B2%A1%E4%BA%BA%E5%91%B3%E7%9A%84AI%E5%88%B6%E4%BD%9C%E5%87%BA%E6%9C%80%E6%9C%89%E4%BA%BA%E5%91%B3%E7%9A%84%E7%9F%AD%E7%89%87",
           "source": "百度热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -311,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "UP主用AI还原奶奶的笑脸",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%BF%98%E5%8E%9F%E5%A5%B6%E5%A5%B6%E7%9A%84%E7%AC%91%E8%84%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "微软预计到2029年将在新加坡的AI领域投资55亿美元。（彭博）",
@@ -355,17 +403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -423,15 +460,37 @@
           "time_info": "06时34分"
         },
         {
+          "title": "12家企业宣布无限Token计划，支持深度使用飞书AI产品",
+          "url": "https://wallstreetcn.com/livenews/3080861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "华储网发布关于2026年4月3日中央储备冻猪肉收储竞价交易有关事项的通知：本次收储竞价交易挂牌10000吨。",
           "url": "https://flash.jin10.com/detail/20260401182433555800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "英国央行称AI应用或构成金融稳定威胁 伊朗冲突带来重大负面供给冲击",
+          "url": "https://wallstreetcn.com/livenews/3080859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "联合国发布报告：中东冲突升级可能引发严重经济后果",
@@ -478,17 +537,6 @@
           "time_info": "07时41分"
         },
         {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "四部门发布通知 明确2025年度享受研发费用加计扣除政策的工业母机企业清单制定工作有关事项",
           "url": "https://wallstreetcn.com/livenews/3080596",
           "source": "华尔街见闻-快讯",
@@ -520,23 +568,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "周深新歌禁止用于AI训练",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -546,8 +583,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时41分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[07时41分 ~ 19时53分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -559,8 +596,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时34分 ~ 18时55分]"
+          "appearance_count": 10,
+          "time_info": "[06时34分 ~ 19时53分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -804,6 +841,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "如何看待甲骨文被曝凌晨 6 点突然裁员 3 万人？上季度其净利润刚暴涨 95%，为啥此时会大规模裁人？",
+          "url": "https://www.zhihu.com/question/2022645720885327267",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "WTI原油、现货黄金周三小幅高开，美股股指期货微跌。",
           "url": "https://flash.jin10.com/detail/20260401060049918800",
           "source": "金十数据",
@@ -821,7 +869,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1017,7 +1065,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -1025,7 +1073,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
@@ -1037,8 +1085,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时41分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[07时41分 ~ 19时53分]"
         },
         {
           "title": "Anthropic意外泄露了Claude AI智能体的源代码",
@@ -1057,11 +1105,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时53分]"
+        },
+        {
+          "title": "Claude Code泄漏代码完整逆向",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E6%B3%84%E6%BC%8F%E4%BB%A3%E7%A0%81%E5%AE%8C%E6%95%B4%E9%80%86%E5%90%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         }
       ]
     }
