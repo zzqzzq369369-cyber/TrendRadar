@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T15:20:12.720264+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-04-01T17:03:39.766842+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -15,11 +15,12 @@
             14,
             15,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 15时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 17时03分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -28,11 +29,12 @@
           "ranks": [
             22,
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 15时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 17时03分]"
         },
         {
           "title": "如何看待教育部发布通知，明确学校自主经营食堂不以营利为目的，并严格执行陪餐制度？能保障学生用餐安全吗？",
@@ -42,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时03分]"
         },
         {
           "title": "“Token经济”崛起再获验证！智谱发布“炸裂”数据 机构：Agent场景渗透打开利润空间",
@@ -54,19 +56,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 17时03分]"
         },
         {
-          "title": "DLSS4.5动态多帧生成功能发布",
-          "url": "https://search.bilibili.com/all?keyword=DLSS4.5%E5%8A%A8%E6%80%81%E5%A4%9A%E5%B8%A7%E7%94%9F%E6%88%90%E5%8A%9F%E8%83%BD%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://flash.jin10.com/detail/20260401164104532800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -111,6 +113,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "DLSS4.5动态多帧生成功能发布",
+          "url": "https://search.bilibili.com/all?keyword=DLSS4.5%E5%8A%A8%E6%80%81%E5%A4%9A%E5%B8%A7%E7%94%9F%E6%88%90%E5%8A%9F%E8%83%BD%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时03分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -183,6 +197,18 @@
           "time_info": "[10时31分 ~ 13时24分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时03分]"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3080363",
           "source": "华尔街见闻-快讯",
@@ -205,17 +231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时33分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
         },
         {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
@@ -274,6 +289,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "微软预计到2029年将在新加坡的AI领域投资55亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "大赚135亿！3000亿光伏龙头发布2025年年报|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2331060",
           "source": "财联社热门",
@@ -294,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://wallstreetcn.com/livenews/3080764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "苹果客服回应撤回国行AI",
@@ -431,8 +468,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时41分 ~ 17时03分]"
+        },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3768819",
@@ -445,17 +493,6 @@
           "time_info": "[00时56分 ~ 06时34分]"
         },
         {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时41分 ~ 15时20分]"
-        },
-        {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
@@ -465,8 +502,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时34分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[06时34分 ~ 17时03分]"
         },
         {
           "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
@@ -727,7 +764,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -760,7 +797,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -771,7 +808,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -804,9 +841,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。",
+          "url": "https://wallstreetcn.com/livenews/3080739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "美股三大股指集体收涨纳指涨超3.8%",
@@ -887,7 +935,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "史诗级泄露！51.2万行，Claude Code源代码开源了！",
@@ -899,8 +947,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时41分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[07时41分 ~ 17时03分]"
+        },
+        {
+          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
+          "url": "https://wallstreetcn.com/livenews/3080773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "UP主复现Claude Code代码漏洞",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     }
