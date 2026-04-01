@@ -1,117 +1,11 @@
 {
-  "generated_at": "2026-04-02T01:51:25.607750+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-04-02T03:01:45.420974+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "有线耳机被淘汰10年翻红 销量暴涨20%",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E8%A2%AB%E6%B7%98%E6%B1%B010%E5%B9%B4%E7%BF%BB%E7%BA%A2+%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A820%25",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "如何看待甲骨文被曝凌晨 6 点突然裁员 3 万人？上季度其净利润刚暴涨 95%，为啥此时会大规模裁人？",
-          "url": "https://www.zhihu.com/question/2022645720885327267",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "美股三大指数高开 耐克跌超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260402003143069800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260402003135801800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "比特币涨1.5%，上探6.9万美元",
-          "url": "https://wallstreetcn.com/livenews/3081048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
-          "url": "https://wallstreetcn.com/livenews/3081023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗总统将在一个小时内发布“致美国民众的信”。（Tasnim）",
@@ -120,9 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
+          "url": "https://flash.jin10.com/detail/20260402023533205800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -132,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -144,8 +49,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -154,17 +70,6 @@
           "ranks": [
             26,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -189,7 +94,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -199,6 +104,126 @@
           "source": "金十数据",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "标普500指数维持1.1%的涨幅。 据伊朗媒体Tasnim报道，伊朗总统将在一个小时内发布“致美国民众的信”。",
+          "url": "https://wallstreetcn.com/livenews/3081063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "有线耳机被淘汰10年翻红 销量暴涨20%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E8%A2%AB%E6%B7%98%E6%B1%B010%E5%B9%B4%E7%BF%BB%E7%BA%A2+%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A820%25",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "如何看待甲骨文被曝凌晨 6 点突然裁员 3 万人？上季度其净利润刚暴涨 95%，为啥此时会大规模裁人？",
+          "url": "https://www.zhihu.com/question/2022645720885327267",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "美股三大指数高开 耐克跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
+        },
+        {
+          "title": "比特币涨1.5%，上探6.9万美元",
+          "url": "https://wallstreetcn.com/livenews/3081048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时01分]"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260402003143069800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260402003135801800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
+          "url": "https://wallstreetcn.com/livenews/3081023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -219,19 +244,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%8E%B0Claude%20Code%E4%BB%A3%E7%A0%81%E6%BC%8F%E6%B4%9E",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时01分]"
         }
       ]
     },
