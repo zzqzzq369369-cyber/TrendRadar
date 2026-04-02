@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T01:06:40.357934+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-04-03T02:56:26.988371+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -15,41 +15,56 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
+        },
+        {
+          "title": "有线耳机被淘汰10年翻红 销量暴涨",
+          "url": "https://www.toutiao.com/trending/7622897692520726582/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "time_info": "[01时06分 ~ 02时56分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2333830",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
           "url": "https://www.cls.cn/detail/2333333",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
           "title": "美股三大指数低开 特斯拉跌逾4%",
@@ -57,22 +72,23 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
-          "title": "有线耳机被淘汰10年翻红 销量暴涨",
-          "url": "https://www.toutiao.com/trending/7622897692520726582/",
-          "source": "今日头条",
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "02时56分"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -81,7 +97,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -92,7 +108,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         },
@@ -103,7 +119,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         }
@@ -111,8 +127,19 @@
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "市场消息：也门武装部队将在美东时间2日下午2:40（北京时间3日凌晨2:40）发布重要声明。",
+          "url": "https://flash.jin10.com/detail/20260403023041061800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
@@ -122,8 +149,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -133,8 +160,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
           "title": "甲骨文(ORCL.N)：将在西雅图裁员475人，并发布预警通知。",
@@ -146,12 +173,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3081740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3081739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
+          "url": "https://flash.jin10.com/detail/20260403014329436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "2026清明档电影片单发布",
+          "url": "https://www.baidu.com/s?wd=2026%E6%B8%85%E6%98%8E%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%89%87%E5%8D%95%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "市场消息：OpenAI收购TBPN。",
+          "url": "https://flash.jin10.com/detail/20260403012712890800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "与辉同行回应带货优思益：全额退款",
@@ -159,22 +241,35 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
           "title": "曾带货优思益 李若彤明道等致歉",
           "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E5%B8%A6%E8%B4%A7%E4%BC%98%E6%80%9D%E7%9B%8A+%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%98%8E%E9%81%93%E7%AD%89%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 02时56分]"
+        },
+        {
+          "title": "与辉同行回应带货“优思益”：全额退款，严格复盘选品审核",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32883637",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "02时56分"
         }
       ]
     },
@@ -188,11 +283,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时56分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -201,7 +297,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
         }
