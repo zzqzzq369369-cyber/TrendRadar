@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T21:12:21.886458+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-04-02T22:55:44.103603+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -81,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -141,6 +141,20 @@
           "time_info": "18时02分"
         },
         {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 22时55分]"
+        },
+        {
           "title": "李若彤发布致歉声明",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8B%A5%E5%BD%A4%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -190,19 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时57分]"
-        },
-        {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 21时12分]"
         },
         {
           "title": "我的专业真被AI取代了吗",
@@ -344,6 +345,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美国海啸预警系统：印尼马鲁古海发生7.8级地震后发布海啸警报。",
           "url": "https://flash.jin10.com/detail/20260402065905129800",
           "source": "金十数据",
@@ -394,7 +406,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -542,6 +554,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3081664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府的相关公告最快本周发布，使用进口钢铁和铝制成的成品将被征收25%的关税。",
           "url": "https://flash.jin10.com/detail/20260402045648587800",
           "source": "金十数据",
@@ -564,6 +587,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "微软：三款世界级MAI模型现已上线FOUNDRY。",
+          "url": "https://wallstreetcn.com/livenews/3081656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "IBM(IBM.N)：与Arm(ARM.O)合作开发新硬件，助力企业运行人工智能和数据密集型工作负载。",
           "url": "https://flash.jin10.com/detail/20260402121026257800",
           "source": "金十数据",
@@ -584,12 +618,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "Blue Owl股价下跌7.6%，创盘中历史新低。 在赎回请求激增后，该公司通过4月2日发布的致股东信将私人信用基金赎回比例限制在5%。",
+          "url": "https://wallstreetcn.com/livenews/3081643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -637,8 +682,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时35分 ~ 21时12分]"
+          "appearance_count": 11,
+          "time_info": "[07时35分 ~ 22时55分]"
         },
         {
           "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
@@ -683,9 +728,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
@@ -735,6 +791,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时09分 ~ 21时12分]"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时55分]"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -801,18 +869,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -845,7 +902,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -859,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
+          "url": "https://www.cls.cn/detail/2333333",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "金十图示：2026年04月01日（周三）热门中概股行情一览（美股盘中）",
@@ -878,7 +946,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -905,6 +973,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美股股指期货、WTI原油和现货黄金周四开盘基本持稳，现货白银低开0.3%。",
           "url": "https://flash.jin10.com/detail/20260402060250655800",
           "source": "金十数据",
@@ -922,7 +1001,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -933,7 +1012,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1027,8 +1106,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 21时12分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 22时55分]"
         }
       ]
     }
