@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T19:37:48.901032+08:00",
-  "total_titles_processed": 1631,
+  "generated_at": "2026-04-03T21:02:22.819067+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             19,
             20,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 19时37分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 21时02分]"
         },
         {
           "title": "优思益发布海外工厂情况声明",
@@ -59,11 +60,12 @@
           "ranks": [
             5,
             8,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时07分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 21时02分]"
         },
         {
           "title": "美以伊战争丨模拟夺岛作战，五角大楼发布训练照",
@@ -83,11 +85,12 @@
           "ranks": [
             10,
             4,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时02分]"
         },
         {
           "title": "阿里发布Wan2.7-Video视频生成模型",
@@ -107,7 +110,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -318,7 +321,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -436,7 +439,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
@@ -531,6 +534,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 06时31分]"
+        },
+        {
+          "title": "苹果被曝高价扫荡全球手机内存，不惜牺牲利润锁死对手供应链，内存价格会再度暴涨吗？对安卓阵营冲击有多大？",
+          "url": "https://www.zhihu.com/question/2023407372723332647",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
@@ -656,8 +670,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时56分 ~ 19时37分]"
+          "appearance_count": 16,
+          "time_info": "[02时56分 ~ 21时02分]"
         },
         {
           "title": "与辉同行回应带货优思益：全额退款",
@@ -718,6 +732,19 @@
           "time_info": "[06时31分 ~ 13时04分]"
         },
         {
+          "title": "马上评｜优思益翻车，带货主播道歉不是终点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32891621",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 21时02分]"
+        },
+        {
           "title": "带货优思益的明星网红退赔标准不一",
           "url": "https://www.baidu.com/s?wd=%E5%B8%A6%E8%B4%A7%E4%BC%98%E6%80%9D%E7%9B%8A%E7%9A%84%E6%98%8E%E6%98%9F%E7%BD%91%E7%BA%A2%E9%80%80%E8%B5%94%E6%A0%87%E5%87%86%E4%B8%8D%E4%B8%80",
           "source": "百度热搜",
@@ -729,18 +756,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时35分]"
-        },
-        {
-          "title": "马上评｜优思益翻车，带货主播道歉不是终点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32891621",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 19时37分]"
         },
         {
           "title": "赎回潮冲击2万亿美元私募信贷，业内警惕跨境风险传导",
@@ -841,11 +856,12 @@
             13,
             8,
             21,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时02分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
