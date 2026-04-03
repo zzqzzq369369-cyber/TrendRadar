@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T16:54:12.224970+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-04-03T17:53:55.273877+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -29,11 +29,12 @@
             10,
             11,
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时53分]"
         },
         {
           "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
@@ -43,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 17时53分]"
         },
         {
           "title": "阿里发布Wan2.7-Video视频生成模型",
@@ -69,24 +70,25 @@
           "time_info": "10时11分"
         },
         {
+          "title": "优思益发布海外工厂情况声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E5%8F%91%E5%B8%83%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%8E%82%E6%83%85%E5%86%B5%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时53分]"
+        },
+        {
           "title": "市场监管总局发布《食品安全抽样检验核查处置管理办法（征求意见稿）》",
           "url": "https://flash.jin10.com/detail/20260403164305977800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "市场监管总局发布《食品安全抽样检验核查处置管理办法（征求意见稿）》",
-          "url": "https://wallstreetcn.com/livenews/3082100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -137,6 +139,18 @@
           "time_info": "[02时56分 ~ 03时52分]"
         },
         {
+          "title": "市场监管总局发布《食品安全抽样检验核查处置管理办法（征求意见稿）》",
+          "url": "https://wallstreetcn.com/livenews/3082100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时53分]"
+        },
+        {
           "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
           "url": "https://www.cls.cn/detail/2334039",
           "source": "财联社热门",
@@ -153,22 +167,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E7%BE%8E%E5%9B%BDF35%E6%AE%8B%E9%AA%B8%E7%85%A7%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
-        },
-        {
-          "title": "优思益发布海外工厂情况声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E5%8F%91%E5%B8%83%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%8E%82%E6%83%85%E5%86%B5%E5%A3%B0%E6%98%8E%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时53分]"
         },
         {
           "title": "谷歌官方发布最新模型Gemma4",
@@ -178,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时53分]"
         },
         {
           "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
@@ -263,6 +267,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "十部门：人工智能产品和服务应采取充分措施确保隐私数据得到有效保护",
+          "url": "https://wallstreetcn.com/livenews/3082106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "阿里发布Wan2.7-Video视频生成模型",
           "url": "https://wallstreetcn.com/livenews/3082014",
           "source": "华尔街见闻-快讯",
@@ -272,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "十部门：开展人工智能科技活动应将科技伦理要求贯穿全过程",
+          "url": "https://wallstreetcn.com/livenews/3082105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "雷军发文表示，MiMo大模型推出了Token Plan，提供四档套餐，Max套餐659元/月，首购优惠 88折。",
@@ -541,8 +567,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时56分 ~ 16时54分]"
+          "appearance_count": 13,
+          "time_info": "[02时56分 ~ 17时53分]"
         },
         {
           "title": "与辉同行回应带货优思益：全额退款",
@@ -699,22 +725,24 @@
           "url": "https://www.zhihu.com/question/2023359161887450046",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时53分]"
         },
         {
           "title": "Anthropic误删数千GitHub仓库",
           "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时53分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
