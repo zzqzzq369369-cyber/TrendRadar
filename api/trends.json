@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T10:11:33.681135+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-04-03T13:04:56.583439+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -30,19 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时11分]"
-        },
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 13时04分]"
         },
         {
           "title": "工信部等七部门发布《加力推进石化化工行业老旧装置更新改造行动方案（2026—2029年）》",
@@ -51,7 +40,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -67,6 +56,29 @@
           "time_info": "07时35分"
         },
         {
+          "title": "美国ITC发布对具有视频功能的笔记本电脑等的337部分终裁",
+          "url": "https://wallstreetcn.com/livenews/3081971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时04分]"
+        },
+        {
           "title": "市场消息：也门武装部队将在美东时间2日下午2:40（北京时间3日凌晨2:40）发布重要声明。",
           "url": "https://flash.jin10.com/detail/20260403023041061800",
           "source": "金十数据",
@@ -77,6 +89,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时52分]"
+        },
+        {
+          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
+          "url": "https://www.cls.cn/detail/2334039",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时04分]"
+        },
+        {
+          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
+          "url": "https://www.cls.cn/detail/2333899",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时04分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -115,17 +151,6 @@
           "time_info": "[02时56分 ~ 03时52分]"
         },
         {
-          "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
-          "url": "https://www.cls.cn/detail/2334039",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "甲骨文(ORCL.N)：将在西雅图裁员475人，并发布预警通知。",
           "url": "https://flash.jin10.com/detail/20260402232244472800",
           "source": "金十数据",
@@ -137,15 +162,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
-          "url": "https://www.cls.cn/detail/2333899",
-          "source": "财联社热门",
+          "title": "国家医保局发布医疗机构医疗保障定点管理暂行办法",
+          "url": "https://flash.jin10.com/detail/20260403122458262800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时04分"
         },
         {
           "title": "标普道琼斯指数公司：将Atmus Filtration纳入标普小盘股600指数，从中剔除Air Lease。",
@@ -157,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "雷军发文表示，MiMo大模型推出了Token Plan，提供四档套餐，Max套餐659元/月，首购优惠 88折。",
+          "url": "https://flash.jin10.com/detail/20260403121757644800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
@@ -237,6 +273,19 @@
           "time_info": "[01时06分 ~ 07时35分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 13时04分]"
+        },
+        {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
           "url": "https://wallstreetcn.com/articles/3768936",
           "source": "华尔街见闻",
@@ -277,18 +326,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 06时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 10时11分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
@@ -401,8 +438,22 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "与辉同行回应带货“优思益”：全额退款，严格复盘选品审核",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32883637",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            9,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时56分 ~ 13时04分]"
+        },
         {
           "title": "与辉同行回应带货优思益：全额退款",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E8%BE%89%E5%90%8C%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%B8%A6%E8%B4%A7%E4%BC%98%E6%80%9D%E7%9B%8A%EF%BC%9A%E5%85%A8%E9%A2%9D%E9%80%80%E6%AC%BE",
@@ -421,19 +472,6 @@
           "time_info": "[00时02分 ~ 10时11分]"
         },
         {
-          "title": "与辉同行回应带货“优思益”：全额退款，严格复盘选品审核",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32883637",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时56分 ~ 10时11分]"
-        },
-        {
           "title": "曾带货优思益 李若彤明道等致歉",
           "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E5%B8%A6%E8%B4%A7%E4%BC%98%E6%80%9D%E7%9B%8A+%E6%9D%8E%E8%8B%A5%E5%BD%A4%E6%98%8E%E9%81%93%E7%AD%89%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
@@ -450,6 +488,30 @@
           "time_info": "[01时06分 ~ 07时35分]"
         },
         {
+          "title": "曝「与辉同行」卖优思益销售额超千万，暴露出带货平台选品环节存在哪些问题？产品出问题平台责任如何界定？",
+          "url": "https://www.zhihu.com/question/2023066961702122325",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时04分]"
+        },
+        {
+          "title": "与辉同行就带货“优思益”作出回应：全额退款",
+          "url": "https://www.cls.cn/detail/2333911",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 13时04分]"
+        },
+        {
           "title": "带货优思益的明星网红退赔标准不一",
           "url": "https://www.baidu.com/s?wd=%E5%B8%A6%E8%B4%A7%E4%BC%98%E6%80%9D%E7%9B%8A%E7%9A%84%E6%98%8E%E6%98%9F%E7%BD%91%E7%BA%A2%E9%80%80%E8%B5%94%E6%A0%87%E5%87%86%E4%B8%8D%E4%B8%80",
           "source": "百度热搜",
@@ -463,29 +525,6 @@
           "time_info": "[05时37分 ~ 07时35分]"
         },
         {
-          "title": "与辉同行就带货“优思益”作出回应：全额退款",
-          "url": "https://www.cls.cn/detail/2333911",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 10时11分]"
-        },
-        {
-          "title": "曝「与辉同行」卖优思益销售额超千万，暴露出带货平台选品环节存在哪些问题？产品出问题平台责任如何界定？",
-          "url": "https://www.zhihu.com/question/2023066961702122325",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "赎回潮冲击2万亿美元私募信贷，业内警惕跨境风险传导",
           "url": "https://wallstreetcn.com/livenews/3081828",
           "source": "华尔街见闻-快讯",
@@ -497,13 +536,35 @@
           "time_info": "07时35分"
         },
         {
+          "title": "山东：实施十二条举措护航汽车出海",
+          "url": "https://wallstreetcn.com/livenews/3081961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "山东：实施十二条举措护航汽车出海",
+          "url": "https://flash.jin10.com/detail/20260403121209801800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "明星带货“翻车”责任怎么算",
           "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E2%80%9C%E7%BF%BB%E8%BD%A6%E2%80%9D%E8%B4%A3%E4%BB%BB%E6%80%8E%E4%B9%88%E7%AE%97",
           "source": "百度热搜",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
@@ -534,11 +595,12 @@
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 13时04分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
