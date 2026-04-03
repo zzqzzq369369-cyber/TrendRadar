@@ -1,33 +1,69 @@
 {
-  "generated_at": "2026-04-04T00:39:24.638302+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-04T01:34:38.132984+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
           "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "中小型数字货币在美国非农就业报告发布时刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3082292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时39分"
+          "time_info": "01时34分"
+        },
+        {
+          "title": "强劲非农就业数据发布后，美国国债于缩短的交易时段内收跌",
+          "url": "https://wallstreetcn.com/livenews/3082291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时34分"
         },
         {
           "title": "谷歌官方发布最新模型Gemma4",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
+        },
+        {
+          "title": "40岁男子AI成瘾无法接受版本更新",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -37,30 +73,31 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
         },
         {
           "title": "优思益发布海外工厂情况声明",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E6%80%9D%E7%9B%8A%E5%8F%91%E5%B8%83%E6%B5%B7%E5%A4%96%E5%B7%A5%E5%8E%82%E6%83%85%E5%86%B5%E5%A3%B0%E6%98%8E%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
         },
         {
-          "title": "40岁男子AI成瘾无法接受版本更新",
-          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
+          "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
+          "url": "https://www.zhihu.com/question/2020797858002073328",
+          "source": "知乎",
           "ranks": [
-            30
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时39分"
+          "time_info": "01时34分"
         }
       ]
     },
@@ -76,19 +113,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
         },
         {
           "title": "比特币目前跌0.1%，暂报66872美元。 伊朗Press TV援引伊朗官员报道称，伊朗可以在霍尔木兹海峡封闭状态下维持多年，并将切断美国的军事后勤支持。",
           "url": "https://wallstreetcn.com/livenews/3082268",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
         }
       ]
     },
@@ -104,8 +142,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
         }
       ]
     },
@@ -118,11 +156,12 @@
           "url": "https://search.bilibili.com/all?keyword=Anthropic%20GitHub%E4%BB%93%E5%BA%93",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时34分]"
         }
       ]
     }
