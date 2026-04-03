@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T18:43:25.275006+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-04-03T19:37:48.901032+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -31,11 +31,12 @@
             14,
             19,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 18时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 19时37分]"
         },
         {
           "title": "优思益发布海外工厂情况声明",
@@ -44,11 +45,12 @@
           "ranks": [
             9,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时37分]"
         },
         {
           "title": "教育部发布通知，义务教育学校严禁设立或变相设立重点班、实验班、快慢班，这一政策有何影响？",
@@ -56,23 +58,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时43分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 19时37分]"
         },
         {
           "title": "美以伊战争丨模拟夺岛作战，五角大楼发布训练照",
@@ -81,9 +72,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时37分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时37分]"
         },
         {
           "title": "阿里发布Wan2.7-Video视频生成模型",
@@ -97,6 +101,17 @@
           "time_info": "15时07分"
         },
         {
+          "title": "上海市新增7款已完成备案的生成式人工智能服务",
+          "url": "https://flash.jin10.com/detail/20260403190851634800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "工信部等七部门发布《加力推进石化化工行业老旧装置更新改造行动方案（2026—2029年）》",
           "url": "https://wallstreetcn.com/livenews/3081905",
           "source": "华尔街见闻-快讯",
@@ -106,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith",
-          "url": "https://wallstreetcn.com/livenews/3082144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "市场监管总局发布《食品安全抽样检验核查处置管理办法（征求意见稿）》",
@@ -187,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时52分]"
+        },
+        {
+          "title": "沐曦股份：联合上海人工智能实验室发布高性能GPU算子生成系统Kernel-Smith",
+          "url": "https://wallstreetcn.com/livenews/3082144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时37分]"
         },
         {
           "title": "市场监管总局发布《食品安全抽样检验核查处置管理办法（征求意见稿）》",
@@ -285,6 +301,28 @@
           "time_info": "[02时56分 ~ 03时52分]"
         },
         {
+          "title": "AI短剧“偷脸” 《桃花簪》全面下架",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%81%B7%E8%84%B8%E2%80%9D+%E3%80%8A%E6%A1%83%E8%8A%B1%E7%B0%AA%E3%80%8B%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时37分]"
+        },
+        {
+          "title": "云初令全阵容发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%88%9D%E4%BB%A4%E5%85%A8%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "甲骨文(ORCL.N)：将在西雅图裁员475人，并发布预警通知。",
           "url": "https://flash.jin10.com/detail/20260402232244472800",
           "source": "金十数据",
@@ -302,7 +340,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -357,7 +395,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -393,17 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "AI短剧“偷脸” 《桃花簪》全面下架",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E5%81%B7%E8%84%B8%E2%80%9D+%E3%80%8A%E6%A1%83%E8%8A%B1%E7%B0%AA%E3%80%8B%E5%85%A8%E9%9D%A2%E4%B8%8B%E6%9E%B6",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         }
       ]
     },
@@ -629,8 +656,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时56分 ~ 18时43分]"
+          "appearance_count": 15,
+          "time_info": "[02时56分 ~ 19时37分]"
         },
         {
           "title": "与辉同行回应带货优思益：全额退款",
@@ -704,6 +731,18 @@
           "time_info": "[05时37分 ~ 07时35分]"
         },
         {
+          "title": "马上评｜优思益翻车，带货主播道歉不是终点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32891621",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时37分]"
+        },
+        {
           "title": "赎回潮冲击2万亿美元私募信贷，业内警惕跨境风险传导",
           "url": "https://wallstreetcn.com/livenews/3081828",
           "source": "华尔街见闻-快讯",
@@ -724,17 +763,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
-        },
-        {
-          "title": "马上评｜优思益翻车，带货主播道歉不是终点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32891621",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "山东：实施十二条举措护航汽车出海",
@@ -789,8 +817,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时37分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -812,11 +840,12 @@
           "ranks": [
             13,
             8,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时37分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
