@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T06:29:38.965256+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-05T07:31:51.311493+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "东部战区发布海报",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             3,
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -44,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -57,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "伊朗驻华大使馆发布战果",
@@ -72,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时31分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -83,8 +84,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
@@ -92,11 +93,23 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260405062637079800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -134,11 +147,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32894743",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时31分]"
         }
       ]
     }
