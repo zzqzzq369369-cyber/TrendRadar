@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T10:04:25.959448+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-04-04T12:49:54.863957+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -16,11 +16,27 @@
             3,
             4,
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 12时49分]"
+        },
+        {
+          "title": "东部战区发布海报《为了这个省》，展示统一后台湾省清明节场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895016",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时44分 ~ 12时49分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -52,8 +68,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 12时49分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -61,25 +77,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时04分]"
-        },
-        {
-          "title": "东部战区发布海报《为了这个省》，展示统一后台湾省清明节场景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895016",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时44分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 12时49分]"
         },
         {
           "title": "东部战区发布海报《为了这个省》",
@@ -111,6 +114,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 06时33分]"
+        },
+        {
+          "title": "东部战区发布海报",
+          "url": "https://www.douyin.com/hot/2454660",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "千问AI打车上线后周环比增长超1500%",
+          "url": "https://wallstreetcn.com/livenews/3082383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "中小型数字货币在美国非农就业报告发布时刷新日高",
@@ -170,11 +195,45 @@
           "url": "https://wallstreetcn.com/livenews/3082360",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 12时49分]"
+        },
+        {
+          "title": "千问3.6Plus大模型登顶全球模型调用排行榜首，日调用量破万亿",
+          "url": "https://flash.jin10.com/detail/20260404114402936800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "12时49分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3082376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "千问3.6Plus大模型登顶全球模型调用排行榜首",
+          "url": "https://wallstreetcn.com/livenews/3082373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
@@ -183,7 +242,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -222,11 +281,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 12时49分]"
         },
         {
           "title": "比特币目前跌0.15%，持稳于66800美元上方。 据NBC报道，美国A-10战斗机在搜救之间坠毁飞机的过程中被伊朗击中。 A-10飞行员在科威特空域内弹射，目前是安全的。",
@@ -260,7 +320,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -274,6 +334,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马上评｜优思益翻车，带货主播道歉不是终点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32891621",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 10时04分]"
+        },
+        {
+          "title": "与辉同行就带货「优思益」致歉，称将全额退款，怎样看待这一处理方式？这种情况需要额外赔偿吗？",
+          "url": "https://www.zhihu.com/question/2023312628072670879",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "张雪机车夺冠背后的中国摩托车产业蜕变：从规模导向到价值导向，出海红利显现",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32894743",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 12时49分]"
         }
       ]
     },
@@ -294,8 +396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时44分 ~ 10时04分]"
+          "appearance_count": 10,
+          "time_info": "[02时44分 ~ 12时49分]"
         },
         {
           "title": "Anthropic误删数千GitHub仓库",
@@ -323,36 +425,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时32分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马上评｜优思益翻车，带货主播道歉不是终点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32891621",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 10时04分]"
-        },
-        {
-          "title": "张雪机车夺冠背后的中国摩托车产业蜕变：从规模导向到价值导向，出海红利显现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32894743",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
         }
       ]
     }
