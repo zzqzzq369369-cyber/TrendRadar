@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T22:45:57.593214+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-04-06T23:45:51.424327+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 10时27分]"
+        },
+        {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 23时45分]"
         },
         {
           "title": "伊朗媒体发布“被击落”美军军机图像：残骸遍地，余烟飘散",
@@ -49,20 +63,6 @@
           "time_info": "[00时36分 ~ 10时27分]"
         },
         {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时28分 ~ 22时45分]"
-        },
-        {
           "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
           "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
           "source": "百度热搜",
@@ -76,6 +76,21 @@
           "time_info": "[00时36分 ~ 13时23分]"
         },
         {
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 23时45分]"
+        },
+        {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
           "url": "https://www.toutiao.com/trending/7625239644062023743/",
           "source": "今日头条",
@@ -84,11 +99,12 @@
             17,
             16,
             26,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时26分 ~ 21时08分]"
+          "appearance_count": 11,
+          "time_info": "[10时26分 ~ 23时45分]"
         },
         {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
@@ -105,21 +121,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 07时33分]"
-        },
-        {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时28分 ~ 22时45分]"
         },
         {
           "title": "伊朗发布被击落美军机画面",
@@ -165,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时55分 ~ 22时45分]"
+          "appearance_count": 6,
+          "time_info": "[18时55分 ~ 23时45分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月5日",
@@ -267,6 +268,17 @@
           "time_info": "[02时43分 ~ 05时31分]"
         },
         {
+          "title": "公司用AI复刻离职员工继续工作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%94%A8AI%E5%A4%8D%E5%88%BB%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E7%BB%A7%E7%BB%AD%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：应广大媒体的要求，特朗普总统明天的新闻发布会将改在白宫新闻发布室举行，时间为美国东部时间下午1点（北京时间次日凌晨一点）。",
           "url": "https://flash.jin10.com/detail/20260406055420602800",
           "source": "金十数据",
@@ -297,11 +309,12 @@
           "ranks": [
             18,
             19,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时48分 ~ 22时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 23时45分]"
         },
         {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
@@ -357,7 +370,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -382,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "AI翻唱淘金小镇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BF%BB%E5%94%B1%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "OpenAI发布文章 提出AI时代产业政策建议",
@@ -461,6 +485,17 @@
           "time_info": "13时23分"
         },
         {
+          "title": "摩根大通下调对特斯拉的盈利预测 该公司发布的一季度交付量不及预期",
+          "url": "https://wallstreetcn.com/livenews/3082868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "AirAsia X创始人：不受林吉特汇率波动影响；油价是最关键因素。",
           "url": "https://flash.jin10.com/detail/20260406120353341800",
           "source": "金十数据",
@@ -508,7 +543,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "比特币跌幅收窄至大约0.6%，暂报66876美元。 据福克斯新闻报道，美国总统特朗普此前企图向伊朗抗议者们发放枪支弹药。 特朗普认为，库尔德截留了美方向伊朗抗议者们输送的武器。 特朗普宣称，很有可能会在明天（下周一）达成伊朗协议。",
@@ -523,6 +558,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时31分]"
+        },
+        {
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "美股存储板块盘前上涨，闪迪涨超4%，美光科技涨近4%，西部数据涨近3%，希捷科技涨超2%。",
@@ -632,7 +678,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -643,7 +689,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时45分"
         },
@@ -687,8 +733,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时28分 ~ 22时45分]"
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 23时45分]"
         },
         {
           "title": "人民日报：带货翻车代价会越来越大",
@@ -711,11 +757,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32912010",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时45分]"
         },
         {
           "title": "深圳推出“科薪通”试点 便利涉外员工跨境薪酬用汇",
@@ -741,9 +788,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 23时45分]"
         }
       ]
     }
