@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T17:08:11.422830+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-04-06T18:56:17.096507+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -89,11 +89,12 @@
             13,
             12,
             19,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 13时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 18时56分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -116,11 +117,24 @@
           "ranks": [
             1,
             17,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 17时08分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 18时56分]"
+        },
+        {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 18时56分]"
         },
         {
           "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
@@ -157,16 +171,15 @@
           "time_info": "[05时31分 ~ 07时33分]"
         },
         {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
+          "title": "OpenAI发布文章 提出AI时代产业政策建议",
+          "url": "https://flash.jin10.com/detail/20260406183015530800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "据CNN：白宫在当地时间12:22（北京时间00:22）发布媒体术语“lid”（“lid”术语暗示总统当天不会再公开露面）。",
@@ -181,6 +194,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 05时31分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 18时56分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年4月5日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 18时56分]"
         },
         {
           "title": "白宫新闻秘书莱维特：应广大媒体的要求，特朗普总统明天的新闻发布会将改在白宫新闻发布室举行，时间为美国东部时间下午1点（北京时间次日凌晨一点）。",
@@ -207,30 +246,6 @@
           "time_info": "[10时27分 ~ 13时23分]"
         },
         {
-          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
-          "url": "https://www.zhihu.com/question/2024413032667772670",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时08分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年4月5日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时08分]"
-        },
-        {
           "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
           "url": "https://flash.jin10.com/detail/20260406043433475800",
           "source": "金十数据",
@@ -253,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时33分]"
+        },
+        {
+          "title": "胖东来回应鸡蛋被检出角黄素，称检测结果全部合格，指责王海测评发布不实信息，怎样解读？王海测评要担责吗？",
+          "url": "https://www.zhihu.com/question/2024220346748859602",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "男子用AI写歌仅版权赚了5位数",
@@ -433,11 +459,12 @@
           "url": "https://wallstreetcn.com/livenews/3082776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 18时56分]"
         },
         {
           "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
@@ -491,7 +518,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -502,7 +529,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -513,7 +540,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -543,8 +570,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 18时56分]"
         },
         {
           "title": "人民日报：带货翻车代价会越来越大",
@@ -552,11 +579,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 18时56分]"
         },
         {
           "title": "深圳推出“科薪通”试点 便利涉外员工跨境薪酬用汇",
