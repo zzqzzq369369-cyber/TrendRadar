@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T07:35:31.004047+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-04-07T10:14:15.256075+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "胖东来回应鸡蛋被检出角黄素，称检测结果全部合格，指责王海测评发布不实信息，怎样解读？王海测评要担责吗？",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时14分]"
         },
         {
           "title": "如何看软著申请严查AI新规",
@@ -56,11 +56,12 @@
             14,
             10,
             9,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时43分 ~ 10时14分]"
         },
         {
           "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
@@ -68,11 +69,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时14分]"
         },
         {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
@@ -90,6 +92,19 @@
           "time_info": "[00时45分 ~ 07时35分]"
         },
         {
+          "title": "伊朗发布被击落美军机画面",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E8%A2%AB%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时55分 ~ 10时14分]"
+        },
+        {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
           "url": "https://www.zhihu.com/question/2024413032667772670",
           "source": "知乎",
@@ -103,6 +118,17 @@
           "time_info": "[00时45分 ~ 03时55分]"
         },
         {
+          "title": "中国AI大模型调用量连续五周超美国",
+          "url": "https://www.toutiao.com/trending/7625463207994179611/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
           "title": "金十提示：美国总统特朗普在白宫的新闻发布会结束。",
           "url": "https://flash.jin10.com/detail/20260407023407032800",
           "source": "金十数据",
@@ -114,13 +140,24 @@
           "time_info": "02时58分"
         },
         {
+          "title": "极氪：极氪8X定于4月17日举办上市发布会",
+          "url": "https://flash.jin10.com/detail/20260407100750067800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
           "url": "https://wallstreetcn.com/livenews/3083014",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -131,21 +168,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "伊朗发布被击落美军机画面",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E8%A2%AB%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%9C%BA%E7%94%BB%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时55分 ~ 05时38分]"
         },
         {
           "title": "巴拿马贸易部长：到明天我们将发布一项决议，允许第一量子矿业公司将科布雷巴拿马矿的矿石运出境外。",
@@ -232,6 +257,17 @@
           "time_info": "[03时55分 ~ 04时38分]"
         },
         {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
           "title": "AI热潮推动美国旧金山房价涨至215万美元，创历史新高",
           "url": "https://wallstreetcn.com/livenews/3082921",
           "source": "华尔街见闻-快讯",
@@ -256,6 +292,17 @@
           "time_info": "[02时58分 ~ 03时55分]"
         },
         {
+          "title": "Sand.ai旗下产品VidMuse ARR最快破千万美金，公司完成新一轮超五千万美金融资",
+          "url": "https://wallstreetcn.com/livenews/3083088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
           "url": "https://flash.jin10.com/detail/20260407000320677800",
           "source": "金十数据",
@@ -273,7 +320,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -336,18 +383,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
           "url": "https://wallstreetcn.com/articles/3769300",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时14分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -370,6 +418,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时14分]"
         },
         {
           "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
@@ -421,6 +481,17 @@
           "time_info": "[04时38分 ~ 05时38分]"
         },
         {
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
           "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260407040513015800",
           "source": "金十数据",
@@ -455,17 +526,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
@@ -506,11 +566,12 @@
           "ranks": [
             10,
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 10时14分]"
         },
         {
           "title": "人民日报谈明星带货翻车",
