@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T02:01:38.468826+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-08T03:18:37.019174+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "天舟十号飞行任务标识正式发布",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时18分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时18分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时18分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -48,11 +48,12 @@
           "ranks": [
             18,
             14,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时18分]"
         },
         {
           "title": "周杰伦发布爱琴海MV",
@@ -64,6 +65,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 02时01分]"
+        },
+        {
+          "title": "以军发布警告 要求黎南部海域船只北撤",
+          "url": "https://wallstreetcn.com/livenews/3083665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
+          "url": "https://wallstreetcn.com/livenews/3083664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗媒体发布警告，提醒居民和公民在穿越沙特阿拉伯、阿联酋和巴林的多座桥梁及道路时注意安全。伊朗媒体称，这些区域将于德黑兰时间晚11时起被宣布为封闭军事区，直至另行通知。",
+          "url": "https://flash.jin10.com/detail/20260408024040632800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -79,8 +113,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时18分]"
         },
         {
           "title": "微软开源面向智能体Web的嵌入模型",
@@ -107,8 +141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时18分]"
         },
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -118,8 +152,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沙特与巴林跨境大桥因袭击警报再次暂停通行",
+          "url": "https://flash.jin10.com/detail/20260408025511962800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     }
