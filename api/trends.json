@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T03:30:43.437729+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-09T04:42:27.468020+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "NASA发布“最清晰的月球照片”",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -49,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -61,8 +61,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "天舟十号飞行任务标识正式发布",
@@ -70,11 +70,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -84,8 +85,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "刘耀文流口水 AI生成",
@@ -121,6 +122,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美债收益率于美联储会议纪要发布后转涨",
+          "url": "https://wallstreetcn.com/livenews/3084556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
           "title": "美联储发布关于FEDNow的提案。",
           "url": "https://wallstreetcn.com/livenews/3084459",
           "source": "华尔街见闻-快讯",
@@ -149,7 +161,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         },
@@ -160,7 +172,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
         }
@@ -168,7 +180,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -178,8 +190,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -189,8 +201,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -198,11 +210,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
+        },
+        {
+          "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
+          "url": "https://wallstreetcn.com/livenews/3084565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -212,8 +236,64 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时30分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时42分]"
+        },
+        {
+          "title": "国际油价暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时30分 ~ 04时42分]"
+        },
+        {
+          "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260409040608867800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
+          "url": "https://wallstreetcn.com/livenews/3084561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260409040605113800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收涨 金龙指数大涨3%",
+          "url": "https://flash.jin10.com/detail/20260409040055281800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股盘中）",
@@ -236,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "国际油价暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时30分"
         }
       ]
     },
@@ -261,11 +330,12 @@
           "ranks": [
             25,
             26,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时42分]"
         }
       ]
     }
