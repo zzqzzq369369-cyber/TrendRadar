@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T18:27:41.999730+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-04-08T19:55:17.492212+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "天舟十号飞行任务标识正式发布",
@@ -32,11 +32,12 @@
             18,
             21,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 19时55分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -63,11 +64,12 @@
             17,
             15,
             19,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 19时55分]"
         },
         {
           "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
@@ -77,11 +79,12 @@
             5,
             4,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 19时55分]"
         },
         {
           "title": "创业板指持续走强涨超4%，CPO、AI应用等板块涨幅居前。",
@@ -119,6 +122,19 @@
           "time_info": "13时11分"
         },
         {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时55分]"
+        },
+        {
           "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
           "url": "https://www.zhihu.com/question/2025124518817973047",
           "source": "知乎",
@@ -129,6 +145,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时18分 ~ 17时02分]"
+        },
+        {
+          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时55分]"
+        },
+        {
+          "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32924115",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时55分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -143,40 +184,16 @@
           "time_info": "[04时47分 ~ 05时41分]"
         },
         {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时27分]"
-        },
-        {
-          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
+          "url": "https://www.zhihu.com/question/2024823845052269102",
           "source": "知乎",
           "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时27分]"
-        },
-        {
-          "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32924115",
-          "source": "澎湃新闻",
-          "ranks": [
             20,
-            18
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时27分]"
+          "time_info": "[18时27分 ~ 19时55分]"
         },
         {
           "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
@@ -211,6 +228,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时02分 ~ 18时27分]"
+        },
+        {
+          "title": "如何看待 3 月 30 日发布的 vivo X300s 与 vivo X300 Ultra，有哪些亮点值得关注 ？",
+          "url": "https://www.zhihu.com/question/2022042398700697421",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "周杰伦发布爱琴海MV",
@@ -279,6 +307,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "大型基金纷纷涌入美债和AI概念股，押注战争最动荡阶段已过",
+          "url": "https://wallstreetcn.com/livenews/3084312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "以色列军方发布警告称，鉴于可能发动袭击，将对贝鲁特南部郊区的七个街区发布撤离令。",
           "url": "https://flash.jin10.com/detail/20260408164202655800",
           "source": "金十数据",
@@ -310,17 +349,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
-          "url": "https://www.zhihu.com/question/2024823845052269102",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "伊朗媒体发布警告，提醒居民和公民在穿越沙特阿拉伯、阿联酋和巴林的多座桥梁及道路时注意安全。伊朗媒体称，这些区域将于德黑兰时间晚11时起被宣布为封闭军事区，直至另行通知。",
@@ -402,8 +430,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[10时14分 ~ 19时55分]"
         },
         {
           "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
@@ -453,8 +481,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 19时55分]"
+        },
+        {
+          "title": "779元滴眼液暴涨至3382元 患者担忧",
+          "url": "https://www.baidu.com/s?wd=779%E5%85%83%E6%BB%B4%E7%9C%BC%E6%B6%B2%E6%9A%B4%E6%B6%A8%E8%87%B33382%E5%85%83+%E6%82%A3%E8%80%85%E6%8B%85%E5%BF%A7",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            10,
+            14,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 19时55分]"
         },
         {
           "title": "779元滴眼液暴涨至3382元",
@@ -467,20 +510,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 15时18分]"
-        },
-        {
-          "title": "779元滴眼液暴涨至3382元 患者担忧",
-          "url": "https://www.baidu.com/s?wd=779%E5%85%83%E6%BB%B4%E7%9C%BC%E6%B6%B2%E6%9A%B4%E6%B6%A8%E8%87%B33382%E5%85%83+%E6%82%A3%E8%80%85%E6%8B%85%E5%BF%A7",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            10,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 18时27分]"
         },
         {
           "title": "受中东停战协议影响，原油价格暴跌，欧洲旅游与休闲类股以8%的涨幅领涨各大板块。",
@@ -744,11 +773,12 @@
             22,
             21,
             23,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时58分 ~ 18时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时58分 ~ 19时55分]"
         },
         {
           "title": "国产模型GLM 5.1登顶开源第一",
@@ -757,7 +787,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -790,7 +820,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
