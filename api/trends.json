@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T07:37:06.106534+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-04-08T10:15:14.857703+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -49,11 +49,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 07时37分]"
+          "appearance_count": 6,
+          "time_info": "[06时37分 ~ 10时15分]"
+        },
+        {
+          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "WTI原油日内暴跌15.00%，现报93.79美元/桶。",
@@ -62,7 +74,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -77,6 +89,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 05时41分]"
+        },
+        {
+          "title": "美伊以停火！油价暴跌，黄金、白银猛拉",
+          "url": "https://finance.ifeng.com/c/8s9HvUdoiQF",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "原油期货暴跌超15%",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E6%B2%B9%E6%9C%9F%E8%B4%A7%E6%9A%B4%E8%B7%8C%E8%B6%8515%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
+          "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
+          "url": "https://www.cls.cn/detail/2337241",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "Levi Strauss一季度净营收17.4亿美元，分析师预期16.5亿美元。 一季度调整后每股收益（EPS）为0.42美元，分析师预期0.37美元。 预计全年净营收将增长5.5%-6.5%，公司原本预计会增长5%-6%。 预计全年调整后EPS为1.42-1.48美元，公司原本预计1.40-1.46美元。 Levi Strauss美股盘后涨5%。",
@@ -115,6 +160,17 @@
           "time_info": "[05时41分 ~ 06时38分]"
         },
         {
+          "title": "油价暴跌 金价反弹",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
+        },
+        {
           "title": "金十图示：2026年04月07日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260408040542109800",
           "source": "金十数据",
@@ -132,7 +188,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -165,7 +221,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -176,9 +232,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "A股油气股开盘大跌，准油股份、贝肯能源、中曼石油、蓝焰控股等多股跌停，科力股份、潜能恒信、通源石油跌超10%，消息面上，美伊双方在巴基斯坦斡旋下达成为期两周的临时停火协议，引发国际原油期货暴跌，早盘WTI原油期货一度跌近20%。",
+          "url": "https://wallstreetcn.com/livenews/3083857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "WTI原油日内暴跌10美元，现报100.31美元/桶，跌幅9.10%。",
@@ -187,7 +254,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         }
@@ -195,7 +262,7 @@
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "天舟十号飞行任务标识正式发布",
@@ -205,11 +272,12 @@
             5,
             3,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 10时15分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -219,8 +287,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 10时15分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -230,8 +298,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 10时15分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -241,11 +309,36 @@
             18,
             14,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 10时15分]"
+        },
+        {
+          "title": "创业板指持续走强涨超4%，CPO、AI应用等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260408100730625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时37分 ~ 10时15分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -260,16 +353,15 @@
           "time_info": "[04时47分 ~ 05时41分]"
         },
         {
-          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
-          "url": "https://www.cls.cn/detail/2336990",
-          "source": "财联社热门",
+          "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
+          "url": "https://www.zhihu.com/question/2023389785188745917",
+          "source": "知乎",
           "ranks": [
-            13,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时37分 ~ 07时37分]"
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -292,6 +384,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 02时01分]"
+        },
+        {
+          "title": "严惩“机闹”等犯罪 两高发布司法解释",
+          "url": "https://flash.jin10.com/detail/20260408100333924800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "美国防部将就对伊“史诗怒火”军事行动举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3083889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "以军发布警告 要求黎南部海域船只北撤",
@@ -327,6 +441,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美国防部将就对伊“史诗怒火”军事行动举行新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260408095923871800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
           "title": "据Politico：美国网络安全与基础设施安全局周二发布的一份新通告称，伊朗黑客正在利用美国水务和能源供应商关键软件系统中的网络漏洞。",
           "url": "https://flash.jin10.com/detail/20260408035409745800",
           "source": "金十数据",
@@ -348,11 +473,12 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E9%98%B2%E8%AF%9D%E7%97%A8%E6%8F%92%E4%BB%B6%E7%88%86%E7%81%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 07时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时58分 ~ 10时15分]"
         },
         {
           "title": "微软开源面向智能体Web的嵌入模型",
