@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T13:11:16.804028+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-04-08T15:18:32.594195+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -19,18 +19,6 @@
           "time_info": "[00时58分 ~ 06时38分]"
         },
         {
-          "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 04时47分]"
-        },
-        {
           "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
           "url": "https://www.cls.cn/detail/2337193",
           "source": "财联社热门",
@@ -41,8 +29,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时37分 ~ 13时11分]"
+          "appearance_count": 8,
+          "time_info": "[06时37分 ~ 15时18分]"
+        },
+        {
+          "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 04时47分]"
         },
         {
           "title": "“调解人”巴基斯坦提出停火延期请求，美股抹平跌幅，油价跳水，黄金重回4700美元",
@@ -65,30 +65,42 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时18分]"
         },
         {
           "title": "779元滴眼液暴涨至3382元",
           "url": "https://s.weibo.com/weibo?q=%23779%E5%85%83%E6%BB%B4%E7%9C%BC%E6%B6%B2%E6%9A%B4%E6%B6%A8%E8%87%B33382%E5%85%83%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 15时18分]"
+        },
+        {
+          "title": "受中东停战协议影响，原油价格暴跌，欧洲旅游与休闲类股以8%的涨幅领涨各大板块。",
+          "url": "https://flash.jin10.com/detail/20260408150922047800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "779元滴眼液暴涨至3382元",
+          "url": "https://www.toutiao.com/trending/7625997103118549042/",
+          "source": "今日头条",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "779元滴眼液暴涨至3382元 患者担忧",
-          "url": "https://www.baidu.com/s?wd=779%E5%85%83%E6%BB%B4%E7%9C%BC%E6%B6%B2%E6%9A%B4%E6%B6%A8%E8%87%B33382%E5%85%83+%E6%82%A3%E8%80%85%E6%8B%85%E5%BF%A7",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "15时18分"
         },
         {
           "title": "WTI原油日内暴跌15.00%，现报93.79美元/桶。",
@@ -110,8 +122,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时18分]"
         },
         {
           "title": "美伊以停火！油价暴跌，黄金、白银猛拉",
@@ -121,8 +133,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 13时11分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 15时18分]"
+        },
+        {
+          "title": "779元滴眼液暴涨至3382元 患者担忧",
+          "url": "https://www.baidu.com/s?wd=779%E5%85%83%E6%BB%B4%E7%9C%BC%E6%B6%B2%E6%9A%B4%E6%B6%A8%E8%87%B33382%E5%85%83+%E6%82%A3%E8%80%85%E6%8B%85%E5%BF%A7",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 15时18分]"
         },
         {
           "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
@@ -201,7 +225,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -297,7 +321,7 @@
     },
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "天舟十号飞行任务标识正式发布",
@@ -320,11 +344,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 13时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 15时18分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -332,11 +357,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 13时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 15时18分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -351,8 +377,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 13时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 15时18分]"
+        },
+        {
+          "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
+          "url": "https://www.zhihu.com/question/2023389785188745917",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时11分 ~ 15时18分]"
         },
         {
           "title": "创业板指持续走强涨超4%，CPO、AI应用等板块涨幅居前。",
@@ -385,20 +423,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
         {
-          "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
-          "url": "https://www.zhihu.com/question/2023389785188745917",
+          "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
+          "url": "https://www.zhihu.com/question/2025124518817973047",
           "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "15时18分"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -463,7 +501,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -499,6 +537,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "巴林内政部发布警报提示民众前往安全地点",
+          "url": "https://flash.jin10.com/detail/20260408150146481800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "国内大厂 Trae 、 Qoder 、 CodeBuddy AI 编辑器哪个好用？",
+          "url": "https://www.zhihu.com/question/1951273247036380422",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "伊朗媒体发布警告，提醒居民和公民在穿越沙特阿拉伯、阿联酋和巴林的多座桥梁及道路时注意安全。伊朗媒体称，这些区域将于德黑兰时间晚11时起被宣布为封闭军事区，直至另行通知。",
@@ -540,7 +600,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -557,11 +617,12 @@
           "ranks": [
             4,
             22,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时58分 ~ 13时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 15时18分]"
         },
         {
           "title": "微软开源面向智能体Web的嵌入模型",
@@ -581,7 +642,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -589,8 +650,19 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心",
+          "url": "https://wallstreetcn.com/livenews/3084114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
         {
           "title": "沙特与巴林跨境大桥因袭击警报再次暂停通行",
           "url": "https://flash.jin10.com/detail/20260408025511962800",
