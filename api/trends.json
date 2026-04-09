@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T10:08:55.145432+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-04-09T13:09:47.895309+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "NASA发布“最清晰的月球照片”",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 10时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 13时09分]"
         },
         {
           "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
@@ -38,11 +39,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 10时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 13时09分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -103,20 +105,56 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "NASA发布有史以来最清晰月球照",
+          "url": "https://www.toutiao.com/trending/7626135639670472746/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "智元机器人发布GO-2具身基座大模型",
+          "url": "https://wallstreetcn.com/livenews/3084778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "上汽集团发布 2025 年财报，净利暴增 506%，如何解读这一增速？",
+          "url": "https://www.zhihu.com/question/2022978175014106475",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 13时09分]"
         },
         {
           "title": "NASA发布“最清晰的月球照片”",
           "url": "https://www.baidu.com/s?wd=NASA%E5%8F%91%E5%B8%83%E2%80%9C%E6%9C%80%E6%B8%85%E6%99%B0%E7%9A%84%E6%9C%88%E7%90%83%E7%85%A7%E7%89%87%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 13时09分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -131,18 +169,6 @@
           "time_info": "[05时41分 ~ 06时38分]"
         },
         {
-          "title": "上汽集团发布 2025 年财报，净利暴增 506%，如何解读这一增速？",
-          "url": "https://www.zhihu.com/question/2022978175014106475",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 10时08分]"
-        },
-        {
           "title": "美债收益率于美联储会议纪要发布后转涨",
           "url": "https://wallstreetcn.com/livenews/3084556",
           "source": "华尔街见闻-快讯",
@@ -153,6 +179,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时41分]"
+        },
+        {
+          "title": "两人用AI洗稿编造车企谣言被抓",
+          "url": "https://www.toutiao.com/trending/7625974933612773417/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 13时09分]"
+        },
+        {
+          "title": "伊朗发布霍尔木兹海峡安全路线",
+          "url": "https://www.cls.cn/detail/2338587",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 13时09分]"
         },
         {
           "title": "刘耀文流口水 AI生成",
@@ -172,9 +221,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "腾讯云发布AI算力、容器服务、EMR相关产品价格调整公告",
+          "url": "https://flash.jin10.com/detail/20260409123552093800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
@@ -186,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "腾讯云发布AI算力、容器服务、EMR相关产品价格调整公告",
+          "url": "https://wallstreetcn.com/livenews/3084773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "谷歌云：推出GKE云存储FUSE配置文件，旨在自动化性能调优，加速AI/ML工作负载的数据访问。",
@@ -210,17 +281,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "两人用AI洗稿编造车企谣言被抓",
-          "url": "https://www.toutiao.com/trending/7625974933612773417/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
           "title": "美国航空航天局（NASA）：新发布的照片​​展示了月球背面令人惊叹的细节。",
           "url": "https://flash.jin10.com/detail/20260409064811998800",
           "source": "金十数据",
@@ -232,17 +292,6 @@
           "time_info": "07时38分"
         },
         {
-          "title": "伊朗发布霍尔木兹海峡安全路线",
-          "url": "https://www.cls.cn/detail/2338587",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
           "title": "AI21 Labs曾在2025年讨论出售给英伟达。 Nebius洽谈收购AI初创公司AI21。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3084595",
           "source": "华尔街见闻-快讯",
@@ -252,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "巴西发布航空燃油免税措施。",
@@ -282,7 +342,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -378,7 +438,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -418,6 +478,17 @@
           "time_info": "[00时01分 ~ 07时38分]"
         },
         {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时09分]"
+        },
+        {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
           "source": "百度热搜",
@@ -429,15 +500,17 @@
           "time_info": "[01时02分 ~ 07时38分]"
         },
         {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
+          "url": "https://www.cls.cn/detail/2338535",
+          "source": "财联社热门",
           "ranks": [
-            1
+            5,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时08分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 13时09分]"
         },
         {
           "title": "国际油价暴跌",
@@ -451,18 +524,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时30分 ~ 07时38分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时08分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -570,6 +631,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260409003209598800",
           "source": "金十数据",
@@ -590,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "油价暴涨、货币暴跌，亚洲会重演1997年金融风暴吗？",
+          "url": "https://flash.jin10.com/detail/20260409122023877800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（4月8日），美国科技股七巨头（Magnificent 7）指数涨2.52%，报191.61点，跳空高开至194.23点之后快速回吐涨幅，绝大部分时间交投于盘初出现的日低190.68点附近，整体呈现出W形走势。 “超大”市值科技股指数涨2.61%，报366.44点。",
@@ -633,8 +716,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 10时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 13时09分]"
         }
       ]
     }
