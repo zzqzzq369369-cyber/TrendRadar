@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T07:38:10.016485+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-04-09T10:08:55.145432+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "NASA发布“最清晰的月球照片”",
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "国家体育总局游泳中心就全红婵等跳水运动员遭受网暴一事发布声明",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -66,11 +67,12 @@
             28,
             27,
             26,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -80,8 +82,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -93,6 +95,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时01分 ~ 04时42分]"
+        },
+        {
+          "title": "首批医保便捷支付地区名单发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E5%8C%BB%E4%BF%9D%E4%BE%BF%E6%8D%B7%E6%94%AF%E4%BB%98%E5%9C%B0%E5%8C%BA%E5%90%8D%E5%8D%95%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "NASA发布“最清晰的月球照片”",
+          "url": "https://www.baidu.com/s?wd=NASA%E5%8F%91%E5%B8%83%E2%80%9C%E6%9C%80%E6%B8%85%E6%99%B0%E7%9A%84%E6%9C%88%E7%90%83%E7%85%A7%E7%89%87%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -111,11 +135,12 @@
           "url": "https://www.zhihu.com/question/2022978175014106475",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 10时08分]"
         },
         {
           "title": "美债收益率于美联储会议纪要发布后转涨",
@@ -139,6 +164,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3084698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
@@ -174,15 +210,37 @@
           "time_info": "00时02分"
         },
         {
+          "title": "两人用AI洗稿编造车企谣言被抓",
+          "url": "https://www.toutiao.com/trending/7625974933612773417/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "美国航空航天局（NASA）：新发布的照片​​展示了月球背面令人惊叹的细节。",
           "url": "https://flash.jin10.com/detail/20260409064811998800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "伊朗发布霍尔木兹海峡安全路线",
+          "url": "https://www.cls.cn/detail/2338587",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "AI21 Labs曾在2025年讨论出售给英伟达。 Nebius洽谈收购AI初创公司AI21。（The Information）",
@@ -216,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "创业板指盘初跌逾1%，AI应用、BC电池等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260409093337729800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "万斯称十点提案有多个版本 有些像是AI写的",
@@ -360,6 +429,17 @@
           "time_info": "[01时02分 ~ 07时38分]"
         },
         {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 10时08分]"
+        },
+        {
           "title": "国际油价暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -373,26 +453,16 @@
           "time_info": "[03时30分 ~ 07时38分]"
         },
         {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
           "url": "https://www.cls.cn/detail/2338535",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 10时08分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -539,7 +609,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         }
@@ -559,11 +629,12 @@
             22,
             23,
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时08分]"
         }
       ]
     }
