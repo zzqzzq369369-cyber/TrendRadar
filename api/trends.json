@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T07:37:42.152773+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-04-10T10:28:36.894310+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 29,
+      "match_count": 42,
       "titles": [
         {
           "title": "字节发布全双工语音大模型Seeduplex",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 10时28分]"
         },
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -52,11 +52,12 @@
             15,
             20,
             21,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 10时28分]"
         },
         {
           "title": "NASA发布有史以来最清晰月球照",
@@ -66,11 +67,12 @@
             19,
             20,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 10时28分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -83,19 +85,36 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 10时28分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 10时28分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27,
+            16,
+            23,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 10时28分]"
         },
         {
           "title": "大疆Pocket 4将于4月16日发布",
@@ -107,21 +126,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时23分 ~ 06时40分]"
-        },
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            27,
-            16,
-            23,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 07时37分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -141,9 +145,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "xAI就科罗拉多州新AI法案提起诉讼",
@@ -152,9 +167,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://flash.jin10.com/detail/20260410100913466800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "武汉发布暴雨红色预警",
@@ -206,6 +232,62 @@
           "time_info": "[06时40分 ~ 07时37分]"
         },
         {
+          "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934976",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时37分 ~ 10时28分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://wallstreetcn.com/livenews/3085491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "加大对新型隐性腐败惩治力度 两高联合发布司法解释",
+          "url": "https://wallstreetcn.com/livenews/3085490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "分类施策全覆盖！教育部等5部门部署“人工智能+教育”行动计划",
+          "url": "https://wallstreetcn.com/livenews/3085488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
           "url": "https://flash.jin10.com/detail/20260410041947855800",
           "source": "金十数据",
@@ -215,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "OpenAI“星际之门”（Stargate）项目执行官Peter Hoeschele已离开公司。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
@@ -228,6 +321,39 @@
           "time_info": "03时06分"
         },
         {
+          "title": "SBTI作者深夜发布新链接",
+          "url": "https://s.weibo.com/weibo?q=%23SBTI%E4%BD%9C%E8%80%85%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E6%96%B0%E9%93%BE%E6%8E%A5%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "据The Information：OpenAI负责“星际之门”（Stargate）的高管Peter Hoeschele已离开公司。",
+          "url": "https://flash.jin10.com/detail/20260410100154101800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "加大对新型隐性腐败惩治力度 两高发布最新司法解释",
+          "url": "https://flash.jin10.com/detail/20260410100135438800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "xAI的CFO Anthony Armstrong离职。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3085275",
           "source": "华尔街见闻-快讯",
@@ -239,15 +365,37 @@
           "time_info": "03时06分"
         },
         {
-          "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934976",
-          "source": "澎湃新闻",
+          "title": "教育部等五部门：加快普及中小学生的人工智能教育",
+          "url": "https://flash.jin10.com/detail/20260410100041443800",
+          "source": "金十数据",
           "ranks": [
-            19
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "10时28分"
+        },
+        {
+          "title": "iOS 26.4.1正式版发布更新",
+          "url": "https://search.bilibili.com/all?keyword=iOS%2026.4.1%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83%E6%9B%B4%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
@@ -300,7 +448,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -359,11 +507,12 @@
           "url": "https://www.cls.cn/detail/2339594",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 10时28分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -386,8 +535,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时39分 ~ 07时37分]"
+          "appearance_count": 4,
+          "time_info": "[06时39分 ~ 10时28分]"
         },
         {
           "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
@@ -561,7 +710,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "燃油成本敏感地区需求提升，新能源汽车出海迎来新增量",
@@ -574,6 +723,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "A股人形机器人概念异动拉升，万向钱潮封板涨停，五洲新春涨超9%，斯菱智驱、巨轮智能、美力科技、三花智控、浙江荣泰、拓普集团、中大力德、奥比中光跟涨。消息面上，阿里与宇树科技正在筹备一个出海合作项目，项目细节将于下周官宣。",
+          "url": "https://flash.jin10.com/detail/20260410095909407800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "壳牌寻求明年开始开发委内瑞拉-特立尼达跨境巨型气田Loran-Manatee",
