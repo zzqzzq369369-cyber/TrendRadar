@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T17:08:36.633650+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-04-10T18:54:28.555621+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 68,
+      "match_count": 74,
       "titles": [
         {
           "title": "字节发布全双工语音大模型Seeduplex",
@@ -101,11 +101,12 @@
             21,
             29,
             26,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 17时08分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 18时54分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -142,26 +143,29 @@
           "time_info": "[03时05分 ~ 06时40分]"
         },
         {
-          "title": "小米食堂发布小米冰激凌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%82%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%BF%80%E5%87%8C%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时08分]"
-        },
-        {
           "title": "战争冲击预测框架 澳大利亚首次推迟发布能源展望报告",
           "url": "https://flash.jin10.com/detail/20260410170423660800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934976",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时37分 ~ 18时54分]"
         },
         {
           "title": "消息称Anthropic考虑自主研发AI芯片",
@@ -173,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "夫妻称用AI写公众号年赚200万被封号",
+          "url": "https://www.toutiao.com/trending/7626953352832040996/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "千问旗舰AI眼镜S1开启预约，最低到手价3499起",
@@ -197,6 +212,32 @@
           "time_info": "15时26分"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 18时54分]"
+        },
+        {
+          "title": "小米食堂发布小米冰激凌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%A3%9F%E5%A0%82%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E5%86%B0%E6%BF%80%E5%87%8C%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 18时54分]"
+        },
+        {
           "title": "xAI就科罗拉多州新AI法案提起诉讼",
           "url": "https://flash.jin10.com/detail/20260410070147196800",
           "source": "金十数据",
@@ -219,20 +260,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934976",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时37分 ~ 17时08分]"
-        },
-        {
           "title": "武汉发布暴雨红色预警",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
           "source": "bilibili 热搜",
@@ -244,19 +271,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时05分 ~ 05时45分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时08分]"
         },
         {
           "title": "AI写作年赚200万夫妻被封号",
@@ -296,6 +310,19 @@
           "time_info": "[04时51分 ~ 05时45分]"
         },
         {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 18时54分]"
+        },
+        {
           "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
           "url": "https://wallstreetcn.com/livenews/3085370",
           "source": "华尔街见闻-快讯",
@@ -320,30 +347,18 @@
           "time_info": "[10时28分 ~ 13时25分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时08分]"
-        },
-        {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.douyin.com/hot/2461467",
           "source": "抖音",
           "ranks": [
             15,
             11,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 17时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 18时54分]"
         },
         {
           "title": "最高涨价463% 你的AI员工变贵了",
@@ -356,6 +371,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 15时26分]"
+        },
+        {
+          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
+          "url": "https://www.cls.cn/detail/2340102",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 18时54分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -392,6 +419,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 13时25分]"
+        },
+        {
+          "title": "媒体称 NASA 发布有史以来「最清晰的月球照片」，是真的吗？有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2025509383656798056",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 18时54分]"
+        },
+        {
+          "title": "穆迪报告指出 AI 行业存在循环融资风险，五大巨头承诺资本开支高达 6800 亿美元，你怎么看？",
+          "url": "https://www.zhihu.com/question/2025517870495392629",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 18时54分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -449,17 +499,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "神秘AI视频模型 “欢乐马”屠榜！背后团队来自阿里 预计一周后发布",
-          "url": "https://www.cls.cn/detail/2340102",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
           "url": "https://flash.jin10.com/detail/20260410041947855800",
           "source": "金十数据",
@@ -499,7 +538,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -521,7 +560,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -570,6 +609,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
+          "url": "https://wallstreetcn.com/livenews/3085806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "教育部等五部门：加快普及中小学生的人工智能教育",
           "url": "https://flash.jin10.com/detail/20260410100041443800",
           "source": "金十数据",
@@ -581,17 +631,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "媒体称 NASA 发布有史以来「最清晰的月球照片」，是真的吗？有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2025509383656798056",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
           "title": "智元发布世界模型GE-Sim 2.0 打造聚身智能“物理进化引擎”",
           "url": "https://wallstreetcn.com/livenews/3085576",
           "source": "华尔街见闻-快讯",
@@ -601,17 +640,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
-        },
-        {
-          "title": "穆迪报告指出 AI 行业存在循环融资风险，五大巨头承诺资本开支高达 6800 亿美元，你怎么看？",
-          "url": "https://www.zhihu.com/question/2025517870495392629",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
         },
         {
           "title": "iOS 26.4.1正式版发布更新",
@@ -636,6 +664,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "饥荒新作游戏预告片发布",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A5%A5%E8%8D%92%E6%96%B0%E4%BD%9C%E6%B8%B8%E6%88%8F%E9%A2%84%E5%91%8A%E7%89%87%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
           "url": "https://flash.jin10.com/detail/20260410004158650800",
           "source": "金十数据",
@@ -656,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "脑机接口等国家标准发布",
+          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E7%AD%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
@@ -702,6 +752,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》",
+          "url": "https://flash.jin10.com/detail/20260410181714560800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "伊朗最高领袖将作重要发布",
           "url": "https://wallstreetcn.com/livenews/3085263",
           "source": "华尔街见闻-快讯",
@@ -735,6 +796,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
+          "url": "https://wallstreetcn.com/livenews/3085790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "智元发布世界模型GE-Sim 2.0 打造聚身智能“物理进化引擎”",
           "url": "https://flash.jin10.com/detail/20260410123149070800",
           "source": "金十数据",
@@ -752,7 +824,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -774,7 +846,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -796,7 +868,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
@@ -804,7 +876,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
@@ -897,9 +969,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
+          "url": "https://wallstreetcn.com/articles/3769646",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "暴涨1300%，一只不起眼的航运ETF捕捉着霍尔木兹海峡的瞬息万变",
