@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T10:28:36.894310+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-04-10T13:25:36.969136+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 56,
       "titles": [
         {
           "title": "字节发布全双工语音大模型Seeduplex",
@@ -31,6 +31,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时23分 ~ 07时37分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27,
+            16,
+            23,
+            3,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时23分 ~ 13时25分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -85,8 +102,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 10时28分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 13时25分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -98,22 +115,6 @@
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[01时23分 ~ 10时28分]"
-        },
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            27,
-            16,
-            23,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[01时23分 ~ 10时28分]"
         },
         {
@@ -150,15 +151,26 @@
           "time_info": "07时37分"
         },
         {
-          "title": "微信回应夫妻用AI写公众号年赚200万",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
+          "title": "千问旗舰AI眼镜S1开启预约，最低到手价3499起",
+          "url": "https://wallstreetcn.com/livenews/3085594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7",
           "source": "百度热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "13时25分"
         },
         {
           "title": "xAI就科罗拉多州新AI法案提起诉讼",
@@ -178,7 +190,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -232,6 +244,18 @@
           "time_info": "[06时40分 ~ 07时37分]"
         },
         {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 13时25分]"
+        },
+        {
           "title": "满足群众就近就便看病需求，加快建设分级诊疗体系若干措施发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_32934976",
           "source": "澎湃新闻",
@@ -240,8 +264,31 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 13时25分]"
+        },
+        {
+          "title": "AI写作年赚200万夫妻被封号",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 10时28分]"
+          "time_info": "[10时28分 ~ 13时25分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -250,9 +297,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "最高涨价463% 你的AI员工变贵了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B7463%25+%E4%BD%A0%E7%9A%84AI%E5%91%98%E5%B7%A5%E5%8F%98%E8%B4%B5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "蔚来 ES9 发布会宣传了多个「技术之最」，其中哪些是真正顶尖的产品力，哪些只是噱头？",
+          "url": "https://www.zhihu.com/question/2025670504049111564",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "加大对新型隐性腐败惩治力度 两高联合发布司法解释",
@@ -261,7 +330,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -272,7 +341,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -283,9 +352,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
@@ -305,7 +396,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -327,7 +418,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -338,9 +429,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "通胀炸弹即将引爆？周五CPI发布前，华尔街开始悄悄调仓",
+          "url": "https://flash.jin10.com/detail/20260410125223363800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "加大对新型隐性腐败惩治力度 两高发布最新司法解释",
@@ -349,7 +451,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -365,15 +467,48 @@
           "time_info": "03时06分"
         },
         {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "教育部等五部门：加快普及中小学生的人工智能教育",
           "url": "https://flash.jin10.com/detail/20260410100041443800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "如何看待华为 Pura 系列发布会定档 4 月 20 日，你对 Pura 90 系列有什么期待？",
+          "url": "https://www.zhihu.com/question/2025886519257231658",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "智元发布世界模型GE-Sim 2.0 打造聚身智能“物理进化引擎”",
+          "url": "https://wallstreetcn.com/livenews/3085576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "iOS 26.4.1正式版发布更新",
@@ -382,18 +517,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "AI写作年赚200万夫妻被封号",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C%E5%B9%B4%E8%B5%9A200%E4%B8%87%E5%A4%AB%E5%A6%BB%E8%A2%AB%E5%B0%81%E5%8F%B7%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -486,6 +610,39 @@
           "time_info": "03时06分"
         },
         {
+          "title": "阿里巴巴任命周靖人领导人工智能事业部。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3085564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "微信支付发布“AI接入工具箱”",
+          "url": "https://wallstreetcn.com/livenews/3085562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "智元发布世界模型GE-Sim 2.0 打造聚身智能“物理进化引擎”",
+          "url": "https://flash.jin10.com/detail/20260410123149070800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
           "url": "https://wallstreetcn.com/livenews/3085230",
           "source": "华尔街见闻-快讯",
@@ -532,11 +689,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 10时28分]"
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 13时25分]"
         },
         {
           "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
@@ -710,8 +868,19 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "A股跨境支付板块异动拉升，四方精创涨超8%，拉卡拉、赢时胜、翠微股份、恒宝股份、东信和平等拉升，消息面上，香港首批稳定币牌照今天下午公布。",
+          "url": "https://flash.jin10.com/detail/20260410131447530800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
         {
           "title": "燃油成本敏感地区需求提升，新能源汽车出海迎来新增量",
           "url": "https://wallstreetcn.com/livenews/3085367",
@@ -731,7 +900,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
