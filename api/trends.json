@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T15:14:39.752717+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-04-11T16:41:33.883743+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "脑机接口等国家标准发布",
@@ -85,6 +85,18 @@
           "time_info": "[00时50分 ~ 06时04分]"
         },
         {
+          "title": "证监会发布创业板改革意见，增设第四套上市标准",
+          "url": "https://wallstreetcn.com/articles/3769674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 16时41分]"
+        },
+        {
           "title": "人工智能卖瓜",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
           "source": "bilibili 热搜",
@@ -92,22 +104,12 @@
             30,
             14,
             2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 15时14分]"
-        },
-        {
-          "title": "证监会发布创业板改革意见，增设第四套上市标准",
-          "url": "https://wallstreetcn.com/articles/3769674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            26,
+            23
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "time_info": "[10时07分 ~ 16时41分]"
         },
         {
           "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
@@ -135,17 +137,6 @@
           "time_info": "[03时34分 ~ 07时34分]"
         },
         {
-          "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
-          "url": "https://flash.jin10.com/detail/20260411142532640800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
           "title": "如何评价米哈游近日公开的视频角色表演生成大模型 LPM1.0?",
           "url": "https://www.zhihu.com/question/2025975826286428215",
           "source": "知乎",
@@ -155,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3086174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
@@ -180,6 +160,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时07分 ~ 15时14分]"
+        },
+        {
+          "title": "百度智能云发布Beta版具身智能数据超市",
+          "url": "https://flash.jin10.com/detail/20260411133037970800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时41分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
@@ -207,18 +200,6 @@
           "time_info": "[07时34分 ~ 12时55分]"
         },
         {
-          "title": "百度智能云发布Beta版具身智能数据超市",
-          "url": "https://flash.jin10.com/detail/20260411133037970800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时14分]"
-        },
-        {
           "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
           "url": "https://flash.jin10.com/detail/20260411094803513800",
           "source": "金十数据",
@@ -229,6 +210,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 12时55分]"
+        },
+        {
+          "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
+          "url": "https://flash.jin10.com/detail/20260411142532640800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时41分]"
+        },
+        {
+          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3086174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时41分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时41分]"
         },
         {
           "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
@@ -267,16 +285,17 @@
           "time_info": "[03时43分 ~ 04时36分]"
         },
         {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
+          "title": "司机开路虎加油后逃单，江西警方发布警情通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32946262",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            9
+            19,
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时41分]"
         },
         {
           "title": "如何看待《崩坏：星穹铁道》即将发布第二期纪念册？",
@@ -291,16 +310,16 @@
           "time_info": "[14时01分 ~ 15时14分]"
         },
         {
-          "title": "司机开路虎加油后逃单，江西警方发布警情通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32946262",
-          "source": "澎湃新闻",
+          "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
+          "url": "https://flash.jin10.com/detail/20260411141004111800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            17
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 15时14分]"
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时41分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
@@ -327,6 +346,30 @@
           "time_info": "[03时34分 ~ 07时34分]"
         },
         {
+          "title": "湖北发布最新癌症年报",
+          "url": "https://www.toutiao.com/trending/7627362242027929610/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时41分]"
+        },
+        {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时41分]"
+        },
+        {
           "title": "市场消息：加拿大央行、该国各大银行及金融机构于周五举行会议，讨论Anthropic最新人工智能模型所带来的网络安全风险。",
           "url": "https://flash.jin10.com/detail/20260411033527040800",
           "source": "金十数据",
@@ -336,17 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
-        },
-        {
-          "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
-          "url": "https://flash.jin10.com/detail/20260411141004111800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
@@ -371,26 +403,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "湖北发布最新癌症年报",
-          "url": "https://www.toutiao.com/trending/7627362242027929610/",
-          "source": "今日头条",
+          "title": "内蒙古自贸试验区如何建？9张海报看懂这场发布会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32947621",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时41分"
         },
         {
           "title": "阿里组织架构调整，新设立集团技术委员会，升级通义大模型事业部，为何做此调整？将带来哪些影响？",
@@ -459,6 +480,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "普京：俄须自主研发有竞争力的AI模型",
+          "url": "https://www.toutiao.com/trending/7627072537363677227/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "中国军号海外账号发布中日英海报",
           "url": "https://www.toutiao.com/trending/7626215070365155337/",
           "source": "今日头条",
@@ -473,7 +505,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -485,8 +517,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 15时14分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 16时41分]"
         },
         {
           "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
@@ -498,8 +530,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时34分 ~ 15时14分]"
+          "appearance_count": 14,
+          "time_info": "[03时34分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -527,15 +559,27 @@
           "time_info": "[04时36分 ~ 10时07分]"
         },
         {
+          "title": "20 块的古董「有线耳机」成最火时尚单品，销量暴涨 20%，它为什么能翻红？戳中年轻人哪些心理？",
+          "url": "https://www.zhihu.com/question/2022392046053331729",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "一年暴涨2500% 闪迪4月20日将跻身纳指100",
           "url": "https://flash.jin10.com/detail/20260411143512206800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -598,6 +642,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "美股巨震",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
           "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
           "url": "https://wallstreetcn.com/livenews/3086072",
           "source": "华尔街见闻-快讯",
@@ -625,11 +680,12 @@
             8,
             12,
             9,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 10时07分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 16时41分]"
         },
         {
           "title": "赚钱就飘,财富自由作者最可怕",
@@ -640,8 +696,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 15时14分]"
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 16时41分]"
         }
       ]
     },
