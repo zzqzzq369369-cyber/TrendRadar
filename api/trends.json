@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T07:34:57.209152+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-04-11T10:07:56.522966+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "脑机接口等国家标准发布",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 10时07分]"
         },
         {
           "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 10时07分]"
         },
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -70,17 +70,6 @@
           "time_info": "[00时50分 ~ 07时34分]"
         },
         {
-          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
-          "url": "https://flash.jin10.com/detail/20260411041419863800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时04分 ~ 07时34分]"
-        },
-        {
           "title": "媒体称 NASA 发布有史以来「最清晰的月球照片」，是真的吗？有哪些细节值得关注？",
           "url": "https://www.zhihu.com/question/2025509383656798056",
           "source": "知乎",
@@ -96,6 +85,51 @@
           "time_info": "[00时50分 ~ 06时04分]"
         },
         {
+          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
+          "url": "https://flash.jin10.com/detail/20260411041419863800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 10时07分]"
+        },
+        {
+          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
+          "url": "https://flash.jin10.com/detail/20260411094848579800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
+          "url": "https://wallstreetcn.com/livenews/3086151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
+          "url": "https://flash.jin10.com/detail/20260411094803513800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "夫妻称用AI写公众号年赚200万被封号",
           "url": "https://www.toutiao.com/trending/7626953352832040996/",
           "source": "今日头条",
@@ -109,15 +143,38 @@
           "time_info": "[03时34分 ~ 07时34分]"
         },
         {
+          "title": "如何评价米哈游近日公开的视频角色表演生成大模型 LPM1.0?",
+          "url": "https://www.zhihu.com/question/2025975826286428215",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
+          "url": "https://flash.jin10.com/detail/20260411094510379800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3086136",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 10时07分]"
         },
         {
           "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
@@ -144,6 +201,17 @@
           "time_info": "[03时43分 ~ 04时36分]"
         },
         {
+          "title": "证监会发布创业板改革意见，增设第四套上市标准",
+          "url": "https://wallstreetcn.com/articles/3769674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 10时07分]"
+        },
+        {
           "title": "中国AI芯片格局反转",
           "url": "https://www.toutiao.com/trending/7627057914037289014/",
           "source": "今日头条",
@@ -165,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
-        },
-        {
-          "title": "证监会发布创业板改革意见，增设第四套上市标准",
-          "url": "https://wallstreetcn.com/articles/3769674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
         },
         {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
@@ -206,7 +263,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -264,6 +321,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "中国军号海外账号发布中日英海报",
+          "url": "https://www.toutiao.com/trending/7626215070365155337/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "人工智能卖瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
@@ -271,18 +350,6 @@
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
       "match_count": 10,
       "titles": [
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时36分 ~ 07时34分]"
-        },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260411041023502800",
@@ -301,11 +368,25 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时34分 ~ 07时34分]"
+          "appearance_count": 8,
+          "time_info": "[03时34分 ~ 10时07分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时36分 ~ 10时07分]"
         },
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
@@ -314,9 +395,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 10时07分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -405,11 +486,29 @@
             4,
             8,
             12,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 10时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
+          "url": "https://flash.jin10.com/detail/20260411094831132800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     }
