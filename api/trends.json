@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T20:03:04.994336+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-04-13T22:48:22.565088+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "周末要闻汇总：中央台办受权发布十项促进两岸交流合作的政策措施；主板ST股涨跌幅拟调整为10%",
@@ -113,11 +113,24 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 20时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 22时48分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时48分]"
         },
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -130,17 +143,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 06时34分]"
-        },
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时03分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -166,6 +168,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "日本软银集团计划发行美元债券和欧元债券，共六种到期时间。 该公司正与投资者们洽谈。 这批融资将用于支持OpenAI等目的。",
+          "url": "https://wallstreetcn.com/livenews/3087037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958948",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 22时48分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 22时48分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -206,31 +246,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时35分 ~ 16时02分]"
-        },
-        {
-          "title": "不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958948",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 20时03分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 20时03分]"
         },
         {
           "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
@@ -300,6 +315,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "北京最火饺子馆开始喂AI龙虾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "OpenAI：在伦敦设立首个永久办公室，预计将于2027年开放。",
           "url": "https://wallstreetcn.com/livenews/3086746",
           "source": "华尔街见闻-快讯",
@@ -347,7 +373,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -416,13 +442,24 @@
           "time_info": "[19时13分 ~ 20时03分]"
         },
         {
+          "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "高盛第一财季净利息收入35.6亿美元，预估35.2亿美元。 第一财季净营收172.3亿美元，每股收益17.55美元。 第一财季FICC业务销售和交易营收40.1亿美元，预估48.7亿美元。 第一财季股票销售和交易业务营收53.3亿美元，预估49亿美元。 高盛美股盘前跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3086933",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -467,11 +504,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%8F%E5%AD%90%E6%9C%AB%E6%97%A5%E5%80%92%E8%AE%A1%E6%97%B6%EF%BC%9F%E6%AF%94%E7%89%B9%E5%B8%81%E6%81%90%E8%A2%AB%E7%A0%B4%E8%A7%A3",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时48分]"
         },
         {
           "title": "美国“封锁”逼近，布油破百，黄金重挫，铝价四年新高，美股期货下跌",
@@ -491,7 +529,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -502,7 +540,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -513,7 +551,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
@@ -569,11 +607,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时48分]"
         },
         {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
