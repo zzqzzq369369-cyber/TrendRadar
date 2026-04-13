@@ -1,44 +1,23 @@
 {
-  "generated_at": "2026-04-13T07:34:29.983020+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-04-13T10:35:28.329226+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "央视曝光AI“造黄”产业链",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E2%80%9C%E9%80%A0%E9%BB%84%E2%80%9D%E4%BA%A7%E4%B8%9A%E9%93%BE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时34分]"
-        },
-        {
-          "title": "国产AI模型为何大多免费",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时34分]"
-        },
         {
           "title": "周末要闻汇总：中央台办受权发布十项促进两岸交流合作的政策措施；主板ST股涨跌幅拟调整为10%",
           "url": "https://www.cls.cn/detail/2341464",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时35分]"
         },
         {
           "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
@@ -46,6 +25,17 @@
           "source": "澎湃新闻",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时35分]"
+        },
+        {
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -61,6 +51,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时38分 ~ 07时34分]"
+        },
+        {
+          "title": "央视曝光AI“造黄”产业链",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E2%80%9C%E9%80%A0%E9%BB%84%E2%80%9D%E4%BA%A7%E4%B8%9A%E9%93%BE",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时35分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -118,6 +120,17 @@
           "time_info": "[00时38分 ~ 06时34分]"
         },
         {
+          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
+          "url": "https://www.zhihu.com/question/2026361952214017900",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "AI 会有情绪吗？",
           "url": "https://www.zhihu.com/question/583568899",
           "source": "知乎",
@@ -156,6 +169,28 @@
           "time_info": "[00时38分 ~ 01时34分]"
         },
         {
+          "title": "据华为终端微博消息，华为阔折叠手机Pura X Max将于4月20日发布。",
+          "url": "https://wallstreetcn.com/livenews/3086600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利",
+          "url": "https://wallstreetcn.com/articles/3769770",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "摩尔线程率先完成MiniMax M2.7大模型适配",
           "url": "https://flash.jin10.com/detail/20260412224618363800",
           "source": "金十数据",
@@ -183,6 +218,20 @@
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
       "match_count": 7,
       "titles": [
+        {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时35分]"
+        },
         {
           "title": "股价一年暴涨2500%！存储热潮下闪迪“升咖”：4月20日将跻身纳指100",
           "url": "https://www.cls.cn/detail/2341244",
@@ -218,19 +267,6 @@
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时34分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -276,18 +312,19 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "赚钱就飘,财富自由作者最可怕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353081&amp;topic_name=%E8%B5%9A%E9%92%B1%E5%B0%B1%E9%A3%98%2C%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%BD%9C%E8%80%85%E6%9C%80%E5%8F%AF%E6%80%95",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时35分]"
         },
         {
           "title": "特朗普：不允许伊朗通过出售石油赚钱",
@@ -314,13 +351,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时34分]"
+        },
+        {
+          "title": "券商晨会精华：AI供需缺口和出海新能源成为新“宁组合”概率正在增大",
+          "url": "https://www.cls.cn/detail/2341719",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "一个人能做出什么开源项目？",
+          "url": "https://www.zhihu.com/question/47684138",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
         {
           "title": "MiniMax M2.7全球开源",
           "url": "https://flash.jin10.com/detail/20260413070127994800",
@@ -328,7 +387,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -339,7 +398,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         }
