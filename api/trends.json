@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-04-14T15:44:43.392091+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-04-14T17:34:06.991849+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 15时44分]"
-        },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
           "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
@@ -34,6 +20,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 10时29分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            15,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 17时34分]"
         },
         {
           "title": "不得向8岁以下儿童开放！网信办发布11条网络直播打赏规定",
@@ -56,11 +57,12 @@
             8,
             9,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 15时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 17时34分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -87,26 +89,27 @@
           "time_info": "[13时23分 ~ 15时44分]"
         },
         {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "title": "中国首次发布东部海域海底化学元素图",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83%E4%B8%9C%E9%83%A8%E6%B5%B7%E5%9F%9F%E6%B5%B7%E5%BA%95%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E5%9B%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "微信又有新功能 网友直呼好玩",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E6%9C%89%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E5%A5%BD%E7%8E%A9",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时34分]"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
@@ -120,6 +123,18 @@
           "time_info": "00时12分"
         },
         {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时34分]"
+        },
+        {
           "title": "Claude：正调查Claude.AI出现的一个问题。",
           "url": "https://wallstreetcn.com/livenews/3087075",
           "source": "华尔街见闻-快讯",
@@ -129,6 +144,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "AI突袭短剧 “霸总爹”失业",
+          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时34分]"
         },
         {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
@@ -141,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 05时49分]"
+        },
+        {
+          "title": "多校试点「博士 + 硕士」双学位，鼓励博士生读人工智能等专业硕士，出于哪些考量？对高知人才培养有哪些影响？",
+          "url": "https://www.zhihu.com/question/2027138274049671830",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时34分]"
         },
         {
           "title": "美国清洁能源公司Bloom Energy：与甲骨文(ORCL.N)扩大战略合作伙伴关系，计划部署高达2.8GW的装机容量，以加速人工智能基础设施的建设。首批1.2GW项目已签约，部署正在进行，并将持续至明年。",
@@ -221,28 +260,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "多校试点「博士 + 硕士」双学位，鼓励博士生读人工智能等专业硕士，出于哪些考量？对高知人才培养有哪些影响？",
-          "url": "https://www.zhihu.com/question/2027138274049671830",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "AI突袭短剧 “霸总爹”失业",
-          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
           "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3087406",
           "source": "华尔街见闻-快讯",
@@ -282,7 +299,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -318,12 +335,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "我国累计发布国家标准外文版2613项 覆盖20余个重点领域",
+          "url": "https://wallstreetcn.com/livenews/3087559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -375,6 +403,18 @@
           "time_info": "[05时09分 ~ 05时49分]"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时34分]"
+        },
+        {
           "title": "量子末日倒计时？比特币恐被破解",
           "url": "https://www.baidu.com/s?wd=%E9%87%8F%E5%AD%90%E6%9C%AB%E6%97%A5%E5%80%92%E8%AE%A1%E6%97%B6%EF%BC%9F%E6%AF%94%E7%89%B9%E5%B8%81%E6%81%90%E8%A2%AB%E7%A0%B4%E8%A7%A3",
           "source": "百度热搜",
@@ -422,17 +462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 05时49分]"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时44分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股收盘）",
@@ -507,9 +536,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "越南VP银行预计将在第二季度末推出加密货币交易所。",
+          "url": "https://wallstreetcn.com/livenews/3087576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "美股三大股指期货短线拉升。道琼斯指数期货涨0.09%，标普500指数期货涨0.14%，纳斯达克100指数期货涨0.29%。",
@@ -518,7 +558,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
@@ -526,7 +566,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "对话｜律师拟发起对优思益公益诉讼：追责带货主播，推动整治“假洋牌”乱象",
@@ -558,11 +598,23 @@
           "url": "https://www.cls.cn/detail/2343218",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 17时34分]"
+        },
+        {
+          "title": "中欧国际工商学院院长汪泓：跨境金融和离岸市场是企业高质量出海的关键基础设施",
+          "url": "https://wallstreetcn.com/livenews/3087579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "17时34分"
         }
       ]
     },
@@ -576,11 +628,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 17时34分]"
         },
         {
           "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
@@ -588,11 +641,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 17时34分]"
         },
         {
           "title": "Rare Earths Americas申请美国IPO。 寻求按代码“REA”在纽交所交易其股票。",
