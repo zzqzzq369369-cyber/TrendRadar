@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T13:23:26.054687+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-04-14T15:44:43.392091+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 13时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 15时44分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -54,11 +55,12 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 13时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 15时44分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -77,11 +79,34 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
           "source": "bilibili 热搜",
           "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时44分]"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "15时44分"
+        },
+        {
+          "title": "微信又有新功能 网友直呼好玩",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E6%9C%89%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E5%A5%BD%E7%8E%A9",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
@@ -158,7 +183,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -196,13 +221,35 @@
           "time_info": "00时12分"
         },
         {
+          "title": "多校试点「博士 + 硕士」双学位，鼓励博士生读人工智能等专业硕士，出于哪些考量？对高知人才培养有哪些影响？",
+          "url": "https://www.zhihu.com/question/2027138274049671830",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "AI突袭短剧 “霸总爹”失业",
+          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3087406",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -213,7 +260,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -227,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "火药味十足！OpenAI高管点名Anthropic“虚增80亿美元营收”",
+          "url": "https://flash.jin10.com/detail/20260414151445573800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "土耳其央行发布行长Karahan的报告：经济活动正在放缓。 外汇储备“比以往那些资金外流时期都更强大”。",
@@ -265,7 +323,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国“封锁”逼近，美股指低开，石油股上涨，布油破百，黄金回调，铝价四年新高",
@@ -288,8 +346,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时41分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 15时44分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。 “超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。",
@@ -366,6 +424,17 @@
           "time_info": "[05时09分 ~ 05时49分]"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时44分]"
+        },
+        {
           "title": "金十图示：2026年04月13日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260414040552964800",
           "source": "金十数据",
@@ -386,17 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         },
         {
           "title": "美股收盘：标普500指数收复本轮冲突以来的所有跌幅",
@@ -441,52 +499,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
-          "url": "https://wallstreetcn.com/articles/3769838",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时23分]"
         },
         {
-          "title": "Rare Earths Americas申请美国IPO。 寻求按代码“REA”在纽交所交易其股票。",
-          "url": "https://wallstreetcn.com/livenews/3087173",
+          "title": "美股股指期货集体拉升，纳指期货涨约0.3%，现货黄金突破4790美元/盎司，现货白银日内涨3%，现报77.84美元/盎司。美元指数短线走低，日内跌0.25%。据消息人士称，美伊代表团本周晚些时候将在巴基斯坦谈判。",
+          "url": "https://wallstreetcn.com/livenews/3087503",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
-          "url": "https://www.zhihu.com/question/2026653029177280167",
-          "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "15时44分"
+        },
+        {
+          "title": "美股三大股指期货短线拉升。道琼斯指数期货涨0.09%，标普500指数期货涨0.14%，纳斯达克100指数期货涨0.29%。",
+          "url": "https://flash.jin10.com/detail/20260414151229231800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "对话｜律师拟发起对优思益公益诉讼：追责带货主播，推动整治“假洋牌”乱象",
@@ -512,6 +552,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "84.92%增速领跑！3月集成电路出口迎爆发，“科技出海”再提速",
+          "url": "https://www.cls.cn/detail/2343218",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+          "url": "https://wallstreetcn.com/articles/3769838",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 15时44分]"
+        },
+        {
+          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
+          "url": "https://www.zhihu.com/question/2026653029177280167",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时44分]"
+        },
+        {
+          "title": "Rare Earths Americas申请美国IPO。 寻求按代码“REA”在纽交所交易其股票。",
+          "url": "https://wallstreetcn.com/livenews/3087173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     }
