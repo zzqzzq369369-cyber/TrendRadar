@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T06:44:16.209922+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-04-15T07:41:54.976228+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             12,
             9,
             14,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -42,22 +43,24 @@
           "ranks": [
             20,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -67,8 +70,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -78,8 +81,33 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
+        },
+        {
+          "title": "微信新功能：不加好友面对面传图",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E4%B8%8D%E5%8A%A0%E5%A5%BD%E5%8F%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%A0%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            23,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
+          "time_info": "[03时14分 ~ 07时41分]"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时53分 ~ 07时41分]"
         },
         {
           "title": "加拿大财长：4月28日将发布首个春季经济更新。",
@@ -87,11 +115,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时44分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时41分]"
         },
         {
           "title": "GPT6 值得期待吗？",
@@ -107,19 +136,6 @@
           "time_info": "[03时14分 ~ 06时44分]"
         },
         {
-          "title": "微信新功能：不加好友面对面传图",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E4%B8%8D%E5%8A%A0%E5%A5%BD%E5%8F%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%A0%E5%9B%BE",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 06时44分]"
-        },
-        {
           "title": "加拿大AI部长会见Anthropic PBC的领导层。",
           "url": "https://wallstreetcn.com/livenews/3087961",
           "source": "华尔街见闻-快讯",
@@ -129,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时53分 ~ 06时44分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -243,7 +248,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
         },
@@ -328,7 +333,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -358,18 +363,6 @@
           "time_info": "[01时06分 ~ 06时44分]"
         },
         {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 04时53分]"
-        },
-        {
           "title": "5天暴涨45% 张小泉被炒成“科技股”",
           "url": "https://www.baidu.com/s?wd=5%E5%A4%A9%E6%9A%B4%E6%B6%A845%25+%E5%BC%A0%E5%B0%8F%E6%B3%89%E8%A2%AB%E7%82%92%E6%88%90%E2%80%9C%E7%A7%91%E6%8A%80%E8%82%A1%E2%80%9D",
           "source": "百度热搜",
@@ -380,8 +373,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
+        },
+        {
+          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时53分]"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -410,6 +415,18 @@
           "time_info": "01时06分"
         },
         {
+          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时43分 ~ 07时41分]"
+        },
+        {
           "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/3087963",
           "source": "华尔街见闻-快讯",
@@ -422,17 +439,6 @@
           "time_info": "[04时53分 ~ 05时52分]"
         },
         {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时43分 ~ 06时44分]"
-        },
-        {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
           "url": "https://wallstreetcn.com/livenews/3087957",
           "source": "华尔街见闻-快讯",
@@ -442,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美股收盘：中概股集体大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -490,40 +507,8 @@
       ]
     },
     {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
-          "url": "https://www.cls.cn/detail/2344095",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
-        },
-        {
-          "title": "盘点嘎子直播带货名场面",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E5%98%8E%E5%AD%90%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -546,6 +531,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
+          "url": "https://www.cls.cn/detail/2344176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
+          "url": "https://www.cls.cn/detail/2344095",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
+        },
+        {
+          "title": "盘点嘎子直播带货名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E5%98%8E%E5%AD%90%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时41分]"
         }
       ]
     }
