@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T13:23:33.679512+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-04-15T15:44:42.637991+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 50,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -21,6 +21,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时06分 ~ 13时23分]"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时53分 ~ 15时44分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -60,18 +72,6 @@
           "time_info": "[01时06分 ~ 06时44分]"
         },
         {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时53分 ~ 13时23分]"
-        },
-        {
           "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
           "url": "https://www.zhihu.com/question/2020902613164537309",
           "source": "知乎",
@@ -100,6 +100,18 @@
           "time_info": "[01时06分 ~ 07时41分]"
         },
         {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 15时44分]"
+        },
+        {
           "title": "微信新功能：不加好友面对面传图",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E4%B8%8D%E5%8A%A0%E5%A5%BD%E5%8F%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%A0%E5%9B%BE",
           "source": "百度热搜",
@@ -126,26 +138,37 @@
           "time_info": "[05时52分 ~ 07时41分]"
         },
         {
+          "title": "马斯克：恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。",
+          "url": "https://flash.jin10.com/detail/20260415152557597800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3088208",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
         {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
+          "title": "2026人形机器人半程马拉松赛事规则发布 4月19日开跑",
+          "url": "https://wallstreetcn.com/livenews/3088295",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "15时44分"
         },
         {
           "title": "GPT6 值得期待吗？",
@@ -159,6 +182,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时14分 ~ 06时44分]"
+        },
+        {
+          "title": "曝爱奇艺与深度合作艺人签约AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%88%B1%E5%A5%87%E8%89%BA%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E8%89%BA%E4%BA%BA%E7%AD%BE%E7%BA%A6AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "加拿大AI部长会见Anthropic PBC的领导层。",
@@ -208,6 +242,30 @@
           "time_info": "[04时53分 ~ 05时52分]"
         },
         {
+          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 15时44分]"
+        },
+        {
+          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
+          "url": "https://www.cls.cn/detail/2344256",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 15时44分]"
+        },
+        {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
           "url": "https://flash.jin10.com/detail/20260415052923283800",
           "source": "金十数据",
@@ -232,28 +290,15 @@
           "time_info": "[05时52分 ~ 06时44分]"
         },
         {
-          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
-          "source": "澎湃新闻",
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
           "ranks": [
-            11,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时23分]"
-        },
-        {
-          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
-          "url": "https://www.cls.cn/detail/2344256",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时23分]"
+          "time_info": "[13时23分 ~ 15时44分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -280,6 +325,28 @@
           "time_info": "[05时52分 ~ 06时44分]"
         },
         {
+          "title": "江苏最新癌情发布",
+          "url": "https://www.toutiao.com/trending/7628444996971085850/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E6%9E%84%E5%8F%91%E5%B8%83%E2%80%9C2026%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "微软将接管挪威Stargate Data Center（星际之门数据中心），该项目原本是为OpenAI准备的。",
           "url": "https://wallstreetcn.com/livenews/3087885",
           "source": "华尔街见闻-快讯",
@@ -302,24 +369,13 @@
           "time_info": "06时44分"
         },
         {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
           "url": "https://flash.jin10.com/detail/20260415124653212800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -352,9 +408,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "马斯克在X上称，恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。AI5将成为有史以来产量最高的AI芯片之一。",
+          "url": "https://wallstreetcn.com/livenews/3088282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "报道：Anthropic正准备Opus 4.7模型和AI设计工具",
@@ -396,7 +463,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -451,9 +518,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "阿里ATH事业群发布首款AI开发工具秒悟",
+          "url": "https://wallstreetcn.com/livenews/3088264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "AI不只是工具，也是威胁：摩根大通CEO警告金融体系或被放大攻击面",
@@ -462,7 +540,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -473,9 +551,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "余承东：问界M6将于4月22日发布",
+          "url": "https://wallstreetcn.com/livenews/3088261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "加拿大人工智能部长赞赏Anthropic对Mythos模型采取的处理方式",
@@ -547,6 +636,17 @@
           "time_info": "[01时06分 ~ 07时41分]"
         },
         {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 15时44分]"
+        },
+        {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
           "url": "https://wallstreetcn.com/articles/3769897",
           "source": "华尔街见闻",
@@ -574,15 +674,15 @@
           "time_info": "[01时06分 ~ 06时44分]"
         },
         {
-          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时27分 ~ 13时23分]"
+          "time_info": "[13时23分 ~ 15时44分]"
         },
         {
           "title": "比特币一度涨穿7.6万美元，以太币目前涨超3.7%",
@@ -602,18 +702,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -765,7 +854,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
