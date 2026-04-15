@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T10:27:21.805951+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-04-15T13:23:33.679512+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -15,11 +15,12 @@
             20,
             15,
             16,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时06分 ~ 10时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 13时23分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -59,6 +60,18 @@
           "time_info": "[01时06分 ~ 06时44分]"
         },
         {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时53分 ~ 13时23分]"
+        },
+        {
           "title": "教育部发布通知，要求严禁幼儿园提前教授小学阶段课程内容，这一规定有何影响？",
           "url": "https://www.zhihu.com/question/2020902613164537309",
           "source": "知乎",
@@ -87,18 +100,6 @@
           "time_info": "[01时06分 ~ 07时41分]"
         },
         {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时53分 ~ 10时27分]"
-        },
-        {
           "title": "微信新功能：不加好友面对面传图",
           "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%9A%E4%B8%8D%E5%8A%A0%E5%A5%BD%E5%8F%8B%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%A0%E5%9B%BE",
           "source": "百度热搜",
@@ -123,6 +124,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时41分]"
+        },
+        {
+          "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3088208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "GPT6 值得期待吗？",
@@ -209,6 +232,30 @@
           "time_info": "[05时52分 ~ 06时44分]"
         },
         {
+          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时23分]"
+        },
+        {
+          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
+          "url": "https://www.cls.cn/detail/2344256",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时23分]"
+        },
+        {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
@@ -255,15 +302,26 @@
           "time_info": "06时44分"
         },
         {
-          "title": "美联储将迎来最富掌门人 Anthropic最快本周发布Opus 4.7 | 环球市场",
-          "url": "https://www.cls.cn/detail/2344256",
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
           "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
+          "url": "https://flash.jin10.com/detail/20260415124653212800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时23分"
         },
         {
           "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
@@ -288,15 +346,15 @@
           "time_info": "04时53分"
         },
         {
-          "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972727",
-          "source": "澎湃新闻",
+          "title": "李家超：将于下半年启动香港人工智能研发院，推动人工智能技术转化",
+          "url": "https://wallstreetcn.com/livenews/3088191",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时23分"
         },
         {
           "title": "报道：Anthropic正准备Opus 4.7模型和AI设计工具",
@@ -327,9 +385,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "央行发布 2026 年一季度及 3 月社融初步数据，存量同比增 7.9%，M2 维持 8% 以上增长，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027320025485177826",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "阿里巴巴(09988.HK)涨超5%，消息面上，阿里云此前发布DDoS防护产品调价公告。",
@@ -338,7 +407,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -371,9 +440,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "5月1日起实施 多部门联合发布《口岸重点管控外来物种名录》",
+          "url": "https://wallstreetcn.com/livenews/3088177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "AI不只是工具，也是威胁：摩根大通CEO警告金融体系或被放大攻击面",
+          "url": "https://flash.jin10.com/detail/20260415121227220800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "机构发布“2026中国大学排名”",
+          "url": "https://www.toutiao.com/trending/7628549936241557510/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "加拿大人工智能部长赞赏Anthropic对Mythos模型采取的处理方式",
@@ -393,7 +495,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -401,7 +503,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -472,6 +574,17 @@
           "time_info": "[01时06分 ~ 06时44分]"
         },
         {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时23分]"
+        },
+        {
           "title": "比特币一度涨穿7.6万美元，以太币目前涨超3.7%",
           "url": "https://wallstreetcn.com/livenews/3087892",
           "source": "华尔街见闻-快讯",
@@ -483,15 +596,26 @@
           "time_info": "01时06分"
         },
         {
-          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
+          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
+          "url": "https://wallstreetcn.com/livenews/3088207",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时23分"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -587,7 +711,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -620,8 +744,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时23分]"
         },
         {
           "title": "A股量子科技概念股大面积高开，神州信息涨停，纬德信息涨超10%，格尔软件、科大国创、国盾量子、富士达、吉大正元跟涨，消息面上，英伟达推出全球首个开源量子人工智能模型“ISING”。",
@@ -630,9 +754,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "小红书开源大模型强化学习训练引擎Relax",
+          "url": "https://wallstreetcn.com/livenews/3088171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
