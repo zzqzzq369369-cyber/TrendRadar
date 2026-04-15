@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T06:41:10.824077+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-04-16T07:41:33.300004+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "王石委托律师发布声明：“被抓”纯属恶意捏造，人身自由不受任何限制",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
@@ -29,8 +30,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时41分]"
+        },
+        {
+          "title": "2026软科中国大学排名发布",
+          "url": "https://www.douyin.com/hot/2466951",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            12,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -46,20 +62,6 @@
           "time_info": "[01时03分 ~ 06时41分]"
         },
         {
-          "title": "2026软科中国大学排名发布",
-          "url": "https://www.douyin.com/hot/2466951",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时41分]"
-        },
-        {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
@@ -67,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "机构发布“2026中国大学排名”",
@@ -79,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
@@ -112,11 +114,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 06时41分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 07时41分]"
         },
         {
           "title": "美国发布新一轮涉伊制裁措施",
@@ -152,6 +155,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
+          "url": "https://wallstreetcn.com/livenews/3088814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "美国发布新一轮涉伊制裁措施",
           "url": "https://wallstreetcn.com/livenews/3088725",
           "source": "华尔街见闻-快讯",
@@ -161,6 +175,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国民主党参议员就燃气轮机问题对xAI和环保署发起审查",
+          "url": "https://wallstreetcn.com/livenews/3088802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
+          "url": "https://wallstreetcn.com/livenews/3088801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
@@ -173,11 +209,12 @@
           "url": "https://wallstreetcn.com/articles/3769987",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -197,11 +234,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
@@ -212,8 +250,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[06时18分 ~ 07时41分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
