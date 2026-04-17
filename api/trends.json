@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T15:45:32.355551+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-04-17T17:17:25.243379+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "如何看待 IDC 发布 2026 第一季度国内手机出货量数据，华为居首苹果次席，小米跌出前五？",
@@ -29,11 +29,12 @@
             4,
             7,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时14分 ~ 15时45分]"
+          "appearance_count": 13,
+          "time_info": "[01时14分 ~ 17时17分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -113,6 +114,18 @@
           "time_info": "[01时14分 ~ 07时40分]"
         },
         {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时17分]"
+        },
+        {
           "title": "Anthropic 发布 Claude Opus 4.7，性能如何？",
           "url": "https://www.zhihu.com/question/2028243941196054744",
           "source": "知乎",
@@ -128,15 +141,16 @@
           "time_info": "[03时11分 ~ 07时40分]"
         },
         {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
+          "title": "大疆 Pocket 4 发布，哪项升级最值得关注？Pocket 3 用户该不该入手？",
+          "url": "https://www.zhihu.com/question/2025971510033084970",
+          "source": "知乎",
           "ranks": [
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时45分]"
+          "time_info": "[15时45分 ~ 17时17分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -207,15 +221,17 @@
           "time_info": "01时14分"
         },
         {
-          "title": "大疆 Pocket 4 发布，哪项升级最值得关注？Pocket 3 用户该不该入手？",
-          "url": "https://www.zhihu.com/question/2025971510033084970",
-          "source": "知乎",
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
           "ranks": [
-            5
+            14,
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 17时17分]"
         },
         {
           "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
@@ -227,6 +243,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时30分 ~ 15时45分]"
+        },
+        {
+          "title": "神二十三发射、重复使用火箭飞行验证，今年中国航天重点任务发布",
+          "url": "https://www.cls.cn/detail/2347298",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 17时17分]"
         },
         {
           "title": "解读AI蒸馏攻防战",
@@ -253,28 +281,17 @@
           "time_info": "[07时39分 ~ 10时31分]"
         },
         {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 15时45分]"
-        },
-        {
           "title": "国产AI激光“灭蚊神器”海外爆单",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
           "source": "百度热搜",
           "ranks": [
             14,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 17时17分]"
         },
         {
           "title": "曝常春藤名校用打字机对抗AI",
@@ -334,17 +351,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "神二十三发射、重复使用火箭飞行验证，今年中国航天重点任务发布",
-          "url": "https://www.cls.cn/detail/2347298",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "广东：《支持中山在参与粤港澳大湾区建设中加快高质量发展的意见》正式发布",
           "url": "https://wallstreetcn.com/livenews/3089703",
           "source": "华尔街见闻-快讯",
@@ -367,13 +373,24 @@
           "time_info": "01时14分"
         },
         {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "禾赛发布空间智能AI硬件产品KOSMO，可服务物理AI数据训练",
           "url": "https://wallstreetcn.com/livenews/3089855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -417,9 +434,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3089933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "AI龙头业绩与指引双双提振信心 瑞银仍看好AI长期趋势",
+          "url": "https://flash.jin10.com/detail/20260417165554147800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
@@ -466,13 +505,24 @@
           "time_info": "03时12分"
         },
         {
+          "title": "港交所发布有关缩短香港股票现货市场结算周期的谘询文件",
+          "url": "https://flash.jin10.com/detail/20260417165047238800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "神二十三发射、重复使用火箭飞行验证 今年中国航天重点任务发布",
           "url": "https://wallstreetcn.com/livenews/3089839",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -502,7 +552,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -532,6 +582,17 @@
           "time_info": "[06时39分 ~ 15时45分]"
         },
         {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时30分 ~ 17时17分]"
+        },
+        {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
@@ -542,17 +603,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 05时42分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 15时45分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
@@ -696,15 +746,37 @@
           "time_info": "[04时46分 ~ 05时42分]"
         },
         {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "阿尔斯通股票恢复交易，暴跌32.6%。",
           "url": "https://flash.jin10.com/detail/20260417151808481800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260417165256011800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -765,7 +837,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
