@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T19:34:41.364384+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-04-18T21:01:56.829508+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 21时01分]"
         },
         {
           "title": "如何看待橘子海乐队向华为终端发布侵权声明，要求在 7 日之内赔偿道歉？",
@@ -32,6 +32,19 @@
           "time_info": "[00时01分 ~ 10时13分]"
         },
         {
+          "title": "刺猬猫AI文霸榜,作者魔法对轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时06分 ~ 21时01分]"
+        },
+        {
           "title": "AI入侵产业,2D国漫公司倒闭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
           "source": "贴吧",
@@ -42,24 +55,12 @@
             12,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 19时34分]"
-        },
-        {
-          "title": "刺猬猫AI文霸榜,作者魔法对轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时06分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 21时01分]"
         },
         {
           "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",
@@ -115,6 +116,19 @@
           "time_info": "[04时01分 ~ 10时13分]"
         },
         {
+          "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
+          "url": "https://wallstreetcn.com/articles/3770313",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 21时01分]"
+        },
+        {
           "title": "市场消息：人工智能编程初创公司Cursor正就新一轮融资进行谈判，拟筹资20亿美元。",
           "url": "https://flash.jin10.com/detail/20260418023954329800",
           "source": "金十数据",
@@ -124,18 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
-        },
-        {
-          "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
-          "url": "https://wallstreetcn.com/articles/3770313",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 19时34分]"
         },
         {
           "title": "观察｜怎么注册微信、绑支付宝？海外用户集体“疯抢”国产大模型",
@@ -444,6 +446,17 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
+          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
+          "url": "https://www.zhihu.com/question/2028416884643472906",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "AI驱动核能需求，美国瞄准纳米比亚铀矿",
           "url": "https://flash.jin10.com/detail/20260417233417863800",
           "source": "金十数据",
@@ -650,8 +663,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时38分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 21时01分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
