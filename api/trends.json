@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T13:27:28.842196+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-04-21T15:48:54.003829+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 13时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 15时48分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -60,22 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 13时27分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 13时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 15时48分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -87,8 +73,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时08分 ~ 13时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 15时48分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            11,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 15时48分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -266,17 +267,6 @@
           "time_info": "[01时57分 ~ 05时45分]"
         },
         {
-          "title": "拆解AI艺人库背后野心",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
           "url": "https://flash.jin10.com/detail/20260421065051985800",
           "source": "金十数据",
@@ -293,11 +283,37 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时48分]"
+        },
+        {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 15时48分]"
+        },
+        {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时48分]"
         },
         {
           "title": "Kimi 2.6 深夜正式发布",
@@ -310,18 +326,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时42分]"
-        },
-        {
-          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
-          "url": "https://www.zhihu.com/question/2029573487086362973",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时27分]"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -406,6 +410,18 @@
           "time_info": "[10时31分 ~ 13时27分]"
         },
         {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时48分]"
+        },
+        {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
           "url": "https://wallstreetcn.com/livenews/3091262",
           "source": "华尔街见闻-快讯",
@@ -440,24 +456,13 @@
           "time_info": "10时31分"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "我国自主量子计算机“本源悟空”形成搭载人工智能运算能力",
           "url": "https://flash.jin10.com/detail/20260421124724522800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -479,7 +484,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -493,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "惠誉：能源担忧和AI数据中心布局推动储能需求 头部电芯厂商将受益",
+          "url": "https://wallstreetcn.com/livenews/3091614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "华为发布全新二合一耳机表",
@@ -512,7 +528,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -553,8 +569,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时42分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[06时42分 ~ 15时48分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -708,7 +724,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -807,11 +823,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 15时48分]"
         },
         {
           "title": "腾讯QClaw开启海外版内测",
