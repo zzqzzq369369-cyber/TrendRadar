@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T07:42:10.124420+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-04-21T10:31:57.280963+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
@@ -26,26 +26,12 @@
           "ranks": [
             10,
             5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时42分]"
-        },
-        {
-          "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33010604",
-          "source": "澎湃新闻",
-          "ranks": [
             6,
-            7,
-            8,
-            9,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时31分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -62,27 +48,45 @@
           "time_info": "[00时08分 ~ 07时42分]"
         },
         {
+          "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010604",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时31分]"
+        },
+        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时31分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
           "url": "https://wallstreetcn.com/articles/3770370",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时31分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -125,19 +129,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时42分]"
-        },
-        {
-          "title": "如何看待 4 月 20 日发布的华为 Pura X Max，有哪些创新，值得购买吗？",
-          "url": "https://www.zhihu.com/question/2029526692234829977",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 10时31分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -149,11 +142,12 @@
             13,
             18,
             30,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时57分 ~ 10时31分]"
         },
         {
           "title": "​外交部发布关于中华人民共和国履行《不扩散核武器条约》情况的国家报告",
@@ -166,8 +160,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[01时57分 ~ 10时31分]"
+        },
+        {
+          "title": "如何看待 4 月 20 日发布的华为 Pura X Max，有哪些创新，值得购买吗？",
+          "url": "https://www.zhihu.com/question/2029526692234829977",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 07时42分]"
         },
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -190,11 +195,23 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时44分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[04时44分 ~ 10时31分]"
+        },
+        {
+          "title": "爱奇艺再回应AI艺人库",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%86%8D%E5%9B%9E%E5%BA%94AI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -209,6 +226,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 07时42分]"
+        },
+        {
+          "title": "AI短剧是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "极氪汽车：将在北京车展发布焕新极氪009豪华7座版本",
+          "url": "https://flash.jin10.com/detail/20260421102529220800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "“宁王”重磅发布会在即 钠电池产业或再度站上风口",
@@ -242,7 +281,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -352,6 +391,39 @@
           "time_info": "[03时07分 ~ 03时08分]"
         },
         {
+          "title": "工信部：一季度工业机器人产量同比增长33.2% 无人机、AI眼镜等日益丰富",
+          "url": "https://flash.jin10.com/detail/20260421101838075800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
+          "url": "https://www.zhihu.com/question/2029619054642557288",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
           "url": "https://www.zhihu.com/question/2029557729014933493",
           "source": "知乎",
@@ -383,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "天孚通信低开近8%，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/3091436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -435,8 +518,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 10时31分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -456,11 +539,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 10时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
@@ -639,6 +723,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "盘点嘎子哥直播带货名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E5%98%8E%E5%AD%90%E5%93%A5%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "腾讯QClaw开启海外版内测",
+          "url": "https://flash.jin10.com/detail/20260421100249375800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     }
