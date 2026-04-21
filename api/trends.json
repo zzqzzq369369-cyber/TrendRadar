@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T10:31:57.280963+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-04-21T13:27:28.842196+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 13时27分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 13时27分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -70,11 +70,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 13时27分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -82,11 +83,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 13时27分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -209,7 +211,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -228,24 +230,13 @@
           "time_info": "[00时08分 ~ 07时42分]"
         },
         {
-          "title": "AI短剧是如何诞生的",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
           "title": "极氪汽车：将在北京车展发布焕新极氪009豪华7座版本",
           "url": "https://flash.jin10.com/detail/20260421102529220800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -275,6 +266,17 @@
           "time_info": "[01时57分 ~ 05时45分]"
         },
         {
+          "title": "拆解AI艺人库背后野心",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E9%87%8E%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
           "url": "https://flash.jin10.com/detail/20260421065051985800",
           "source": "金十数据",
@@ -284,6 +286,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "AI短剧是如何诞生的",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E5%89%A7%E6%98%AF%E5%A6%82%E4%BD%95%E8%AF%9E%E7%94%9F%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 13时27分]"
         },
         {
           "title": "Kimi 2.6 深夜正式发布",
@@ -296,6 +310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时42分]"
+        },
+        {
+          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
+          "url": "https://www.zhihu.com/question/2029573487086362973",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 13时27分]"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -368,6 +394,18 @@
           "time_info": "[05时45分 ~ 06时43分]"
         },
         {
+          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
+          "url": "https://www.zhihu.com/question/2029619054642557288",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 13时27分]"
+        },
+        {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
           "url": "https://wallstreetcn.com/livenews/3091262",
           "source": "华尔街见闻-快讯",
@@ -397,31 +435,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
         {
-          "title": "于和伟、张若昀等接连否认入驻爱奇艺 AI 艺人库，到底是怎么回事？AI 艺人库可能涉及哪些法律风险？",
-          "url": "https://www.zhihu.com/question/2029619054642557288",
-          "source": "知乎",
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "13时27分"
         },
         {
-          "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
-          "url": "https://www.zhihu.com/question/2029573487086362973",
-          "source": "知乎",
+          "title": "我国自主量子计算机“本源悟空”形成搭载人工智能运算能力",
+          "url": "https://flash.jin10.com/detail/20260421124724522800",
+          "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "13时27分"
         },
         {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
@@ -433,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "在 AI 生成内容泛滥的时代，审美教育是多余的吗？理想的审美教育应该是什么样？",
+          "url": "https://www.zhihu.com/question/2029487128267036372",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
@@ -457,13 +506,24 @@
           "time_info": "00时08分"
         },
         {
+          "title": "速腾聚创发布“创世”架构及双旗舰芯片，激光雷达进入图像化时代",
+          "url": "https://wallstreetcn.com/livenews/3091512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "天孚通信低开近8%，此前发布财报。",
           "url": "https://wallstreetcn.com/livenews/3091436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }
@@ -471,7 +531,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "一家上市券商一季度仅赚百万元，净利暴跌98%，背后竟因一只股票",
@@ -484,6 +544,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时08分 ~ 07时42分]"
+        },
+        {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 13时27分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -511,15 +582,17 @@
           "time_info": "[00时08分 ~ 07时42分]"
         },
         {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
+          "source": "财联社热门",
           "ranks": [
-            1
+            9,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 10时31分]"
+          "appearance_count": 6,
+          "time_info": "[06时42分 ~ 13时27分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -532,19 +605,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时07分 ~ 07时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
-          "url": "https://www.cls.cn/detail/2350040",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时42分 ~ 10时31分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
@@ -642,6 +702,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "汇丰策略师力挺美股：遇冷就买，动作要快！",
+          "url": "https://flash.jin10.com/detail/20260421130754080800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "金十图示：2026年04月20日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260421040531468800",
           "source": "金十数据",
@@ -735,11 +806,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E5%98%8E%E5%AD%90%E5%93%A5%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 13时27分]"
         },
         {
           "title": "腾讯QClaw开启海外版内测",
@@ -748,7 +820,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }
