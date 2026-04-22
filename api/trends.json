@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T13:25:49.680835+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-04-22T15:46:08.777506+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -43,6 +43,19 @@
           "time_info": "[01时01分 ~ 10时29分]"
         },
         {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 15时46分]"
+        },
+        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
@@ -55,27 +68,16 @@
           "time_info": "[01时01分 ~ 10时29分]"
         },
         {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时25分]"
-        },
-        {
           "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
           "url": "https://www.zhihu.com/question/2029861890638045761",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 15时46分]"
         },
         {
           "title": "AI创造营",
@@ -152,6 +154,42 @@
           "time_info": "10时29分"
         },
         {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时46分]"
+        },
+        {
+          "title": "汇丰前海在报告中表示，恒生科技指数在经历自2025年四季度高点的明显回调后，当前估值已具吸引力，叠加AI在广告等领域扩大收入空间的潜力，维持对该指数整体积极看法。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时28分 ~ 15时46分]"
+        },
+        {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
           "url": "https://wallstreetcn.com/livenews/3092121",
           "source": "华尔街见闻-快讯",
@@ -189,24 +227,24 @@
           "time_info": "[02时08分 ~ 07时34分]"
         },
         {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时46分]"
+        },
+        {
           "title": "《灵魂摆渡》电影全AI生成",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
           "ranks": [
             13,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时28分 ~ 13时25分]"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -324,17 +362,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
           "url": "https://flash.jin10.com/detail/20260422032455495800",
           "source": "金十数据",
@@ -379,15 +406,15 @@
           "time_info": "04时03分"
         },
         {
-          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
-          "url": "https://www.zhihu.com/question/1984557341190873580",
-          "source": "知乎",
+          "title": "张雪机车发布召回通告",
+          "url": "https://wallstreetcn.com/livenews/3092392",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "15时46分"
         },
         {
           "title": "如何评价最新发布的 GPT-Image-2，有哪些亮点值得关注？",
@@ -396,7 +423,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -418,7 +445,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -462,7 +489,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -495,7 +522,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -520,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "天能股份：已在储能领域完成深度研发布局并具备规模化交付能力",
+          "url": "https://flash.jin10.com/detail/20260422150258773800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "库克卸任：4万亿市值与AI失落的十年",
@@ -547,8 +585,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时34分 ~ 15时46分]"
+        },
         {
           "title": "支付加密货币当“过路费”？霍尔木兹惊现诈骗活动 有船只“上钩”并遭袭",
           "url": "https://www.cls.cn/detail/2350761",
@@ -600,17 +649,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时44分 ~ 13时25分]"
-        },
-        {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 13时25分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -685,6 +723,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时34分]"
+        },
+        {
+          "title": "“美股暴跌20%”、“200美元油价”情景没出现？特朗普直言“很惊讶”",
+          "url": "https://www.cls.cn/detail/2351488",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超2.8%，布油基金涨超5.5%",
