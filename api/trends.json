@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T06:36:57.474829+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-04-26T07:38:27.544598+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -25,22 +25,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
           "url": "https://wallstreetcn.com/livenews/3094410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
@@ -62,8 +64,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -85,8 +87,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -96,8 +98,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
+        },
+        {
+          "title": "AI帮忙投资靠谱吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "中国科学家发布智能科研工具",
@@ -131,36 +145,13 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "AI帮忙投资靠谱吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "中企回应印尼镍矿新政：成本将暴涨",
-          "url": "https://www.toutiao.com/trending/7632249781768110143/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
         {
           "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
           "url": "https://www.cls.cn/detail/2355589",
@@ -169,8 +160,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
@@ -183,6 +174,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 06时36分]"
+        },
+        {
+          "title": "中企回应印尼镍矿新政：成本将暴涨",
+          "url": "https://www.toutiao.com/trending/7632249781768110143/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 07时38分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -221,8 +225,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时36分]"
+          "appearance_count": 4,
+          "time_info": "[04时38分 ~ 07时38分]"
+        },
+        {
+          "title": "中企回应印尼镍矿新政：成本将暴涨",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BC%81%E5%9B%9E%E5%BA%94%E5%8D%B0%E5%B0%BC%E9%95%8D%E7%9F%BF%E6%96%B0%E6%94%BF%EF%BC%9A%E6%88%90%E6%9C%AC%E5%B0%86%E6%9A%B4%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     }
