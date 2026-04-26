@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T18:02:37.320644+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-04-26T19:39:17.030619+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -66,11 +66,12 @@
             17,
             19,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 18时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 19时39分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -122,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 19时39分]"
         },
         {
           "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
@@ -135,8 +136,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时37分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时37分 ~ 19时39分]"
         },
         {
           "title": "中国航天“日程表”发布",
@@ -154,11 +155,24 @@
           "url": "https://wallstreetcn.com/articles/3770908",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时39分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时39分 ~ 19时39分]"
+        },
+        {
+          "title": "DeepSeek V4发布意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时39分]"
         },
         {
           "title": "特朗普发布嫌疑人照片和一段监控录像",
@@ -190,17 +204,6 @@
           "time_info": "[10时38分 ~ 18时02分]"
         },
         {
-          "title": "DeepSeek V4发布意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "特朗普发布枪手冲闯安检口瞬间录像",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%83%E6%9E%AA%E6%89%8B%E5%86%B2%E9%97%AF%E5%AE%89%E6%A3%80%E5%8F%A3%E7%9E%AC%E9%97%B4%E5%BD%95%E5%83%8F",
           "source": "百度热搜",
@@ -210,6 +213,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体平台发布白宫记者晚宴上的袭击者的特写照片。",
+          "url": "https://wallstreetcn.com/livenews/3094436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            15,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 19时39分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -225,20 +243,6 @@
           "time_info": "[15时28分 ~ 18时02分]"
         },
         {
-          "title": "美国总统特朗普在社交媒体平台发布白宫记者晚宴上的袭击者的特写照片。",
-          "url": "https://wallstreetcn.com/livenews/3094436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 18时02分]"
-        },
-        {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
           "source": "澎湃新闻",
@@ -247,8 +251,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 19时39分]"
         },
         {
           "title": "GPT-Image2 生成的图像逼真到让人不安，为什么越像真的反而越让人害怕？这种不适感在警告我们什么？",
@@ -274,6 +278,18 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
+          "title": "中共中央办公厅、国务院办公厅发布关于加强新就业群体服务管理的意见",
+          "url": "https://flash.jin10.com/detail/20260426171110404800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时39分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
@@ -295,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 10时38分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时39分]"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -330,17 +358,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "中共中央办公厅、国务院办公厅发布关于加强新就业群体服务管理的意见",
-          "url": "https://flash.jin10.com/detail/20260426171110404800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "伊朗外交部发布消息称，伊朗外长阿拉格齐已抵达阿曼马斯喀特。这是他巴基斯坦、阿曼、俄罗斯三国之行中的第二站，将与阿曼同行就中东当前局势进行磋商。",
           "url": "https://flash.jin10.com/detail/20260426013818173800",
           "source": "金十数据",
@@ -352,15 +369,37 @@
           "time_info": "02时52分"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
+          "title": "市场消息：以色列军方对利塔尼河以北的七个黎巴嫩城镇发布撤离警告。",
+          "url": "https://flash.jin10.com/detail/20260426175503018800",
+          "source": "金十数据",
           "ranks": [
-            18
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "19时39分"
+        },
+        {
+          "title": "国家安全部发布视频无我",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%E6%97%A0%E6%88%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "中国军号海外发布视频",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
