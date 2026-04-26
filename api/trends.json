@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T17:00:52.247182+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-04-26T18:02:37.320644+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -69,8 +69,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 17时00分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 18时02分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -113,15 +113,17 @@
           "time_info": "[00时40分 ~ 10时38分]"
         },
         {
-          "title": "中国航天“日程表”发布",
-          "url": "https://www.douyin.com/hot/2479418",
-          "source": "抖音",
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 18时02分]"
         },
         {
           "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
@@ -133,20 +135,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时37分 ~ 17时00分]"
+          "appearance_count": 8,
+          "time_info": "[10时37分 ~ 18时02分]"
         },
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
+          "title": "中国航天“日程表”发布",
+          "url": "https://www.douyin.com/hot/2479418",
+          "source": "抖音",
           "ranks": [
-            6,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 17时00分]"
+          "appearance_count": 3,
+          "time_info": "[13时39分 ~ 15时28分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -156,8 +157,48 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时39分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普发布嫌疑人照片和一段监控录像",
+          "url": "https://www.toutiao.com/trending/7632668804354719795/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时39分 ~ 18时02分]"
+        },
+        {
+          "title": "北京发布土地经营权流转价格模型",
+          "url": "https://wallstreetcn.com/livenews/3094432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            16,
+            19,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时39分 ~ 17时00分]"
+          "time_info": "[10时38分 ~ 18时02分]"
+        },
+        {
+          "title": "DeepSeek V4发布意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普发布枪手冲闯安检口瞬间录像",
@@ -171,43 +212,17 @@
           "time_info": "13时39分"
         },
         {
-          "title": "特朗普发布嫌疑人照片和一段监控录像",
-          "url": "https://www.toutiao.com/trending/7632668804354719795/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时39分 ~ 17时00分]"
-        },
-        {
-          "title": "北京发布土地经营权流转价格模型",
-          "url": "https://wallstreetcn.com/livenews/3094432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时00分]"
-        },
-        {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
           "url": "https://flash.jin10.com/detail/20260426150306413800",
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 17时00分]"
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 18时02分]"
         },
         {
           "title": "美国总统特朗普在社交媒体平台发布白宫记者晚宴上的袭击者的特写照片。",
@@ -216,11 +231,24 @@
           "ranks": [
             10,
             12,
-            15
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 18时02分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时39分 ~ 17时00分]"
+          "time_info": "[16时59分 ~ 18时02分]"
         },
         {
           "title": "GPT-Image2 生成的图像逼真到让人不安，为什么越像真的反而越让人害怕？这种不适感在警告我们什么？",
@@ -269,17 +297,6 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时00分]"
-        },
-        {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
           "url": "https://www.toutiao.com/trending/7632259248220422187/",
           "source": "今日头条",
@@ -313,6 +330,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "中共中央办公厅、国务院办公厅发布关于加强新就业群体服务管理的意见",
+          "url": "https://flash.jin10.com/detail/20260426171110404800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "伊朗外交部发布消息称，伊朗外长阿拉格齐已抵达阿曼马斯喀特。这是他巴基斯坦、阿曼、俄罗斯三国之行中的第二站，将与阿曼同行就中东当前局势进行磋商。",
           "url": "https://flash.jin10.com/detail/20260426013818173800",
           "source": "金十数据",
@@ -322,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
@@ -342,19 +381,6 @@
           "time_info": "[00时40分 ~ 06时36分]"
         },
         {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 17时00分]"
-        },
-        {
           "title": "中企回应印尼镍矿新政：成本将暴涨",
           "url": "https://www.toutiao.com/trending/7632249781768110143/",
           "source": "今日头条",
@@ -366,6 +392,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 07时38分]"
+        },
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 18时02分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
