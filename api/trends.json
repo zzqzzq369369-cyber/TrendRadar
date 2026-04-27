@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T19:04:05.244250+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-27T21:50:53.952318+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 50,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -151,6 +151,17 @@
           "time_info": "[00时41分 ~ 10时40分]"
         },
         {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 21时50分]"
+        },
+        {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
           "source": "澎湃新闻",
@@ -174,17 +185,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时53分 ~ 10时40分]"
-        },
-        {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 19时04分]"
         },
         {
           "title": "歌手 AI海报",
@@ -234,17 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 13时55分]"
-        },
-        {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -311,6 +300,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "中消协发布“五一”消费提示",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%B6%88%E5%8D%8F%E5%8F%91%E5%B8%83%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E6%B6%88%E8%B4%B9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "伊朗消息人士及美媒均透露，伊朗欲分阶段解决当前分歧：先就霍尔木兹海峡达成协议并解除美国封锁，核问题留待日后再谈；本周再迎“超级央行周”，市场关注鲍威尔或举行作为美联储主席的最后一场发布会。当前金银呈卖出信号，美油多空情绪接近持平，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260427103350545800",
           "source": "金十数据",
@@ -333,6 +333,30 @@
           "time_info": "10时40分"
         },
         {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 21时50分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 21时50分]"
+        },
+        {
           "title": "科技记者古尔曼：苹果CEO蒂姆·库克正将一条实力雄厚的产品线移交给继任者约翰·特努斯，其中包括计划于九月发布的折叠屏iPhone。",
           "url": "https://flash.jin10.com/detail/20260427024243091800",
           "source": "金十数据",
@@ -345,6 +369,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时45分 ~ 06时37分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 21时50分]"
         },
         {
           "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
@@ -372,18 +409,6 @@
           "time_info": "[10时40分 ~ 16时23分]"
         },
         {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 19时04分]"
-        },
-        {
           "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
           "source": "澎湃新闻",
@@ -397,15 +422,37 @@
           "time_info": "[10时40分 ~ 16时23分]"
         },
         {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
+          "title": "美股开盘，道指开跌0.24%，标普500指数跌0.15%，纳指跌0.17%。微软(MSFT.O)跌0.5%，公司宣布OpenAI许可转为非独家且将不再向OpenAI支付收入分成。高通(QCOM.O)涨5.2%，据悉OpenAI正与联发科及高通合作开发手机处理器。",
+          "url": "https://flash.jin10.com/detail/20260427213032078800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
+          "url": "https://wallstreetcn.com/articles/3770976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "POET Technologies美股盘前跌超40%，公司失去Celestial AI的采购订单。",
+          "url": "https://wallstreetcn.com/livenews/3095052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "广州广开知城人工智能产业投资基金成立",
@@ -419,6 +466,28 @@
           "time_info": "10时40分"
         },
         {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "OpenAI与微软达成“休战协议”：取消排他性、收入分成设限",
+          "url": "https://flash.jin10.com/detail/20260427212620435800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "港股大模型“双雄”震荡走弱，MINIMAX-W(00100.HK)跌超12%，智谱(02513.HK)跌超3%。",
           "url": "https://flash.jin10.com/detail/20260427102547435800",
           "source": "金十数据",
@@ -428,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "微软：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
+          "url": "https://wallstreetcn.com/livenews/3095041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "河南发布领导干部任职前公示",
@@ -463,6 +543,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "AI短剧 融脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E8%9E%8D%E8%84%B8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260427100332954800",
           "source": "金十数据",
@@ -491,9 +582,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
+        },
+        {
+          "title": "美国FBI局长帕特尔：今天晚些时候将就枪击事件召开新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3095020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
+          "url": "https://flash.jin10.com/detail/20260427211114444800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "郭明錤：OpenAI进军手机，正与联发科、高通合作开发处理器",
@@ -510,8 +623,30 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
+          "url": "https://wallstreetcn.com/livenews/3095061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
+          "title": "对冲基金集体“降杠杆”、养老金将抛250亿...高盛警示美股短期风险！",
+          "url": "https://flash.jin10.com/detail/20260427213159714800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
         {
           "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
           "url": "https://www.cls.cn/detail/2356401",
@@ -537,6 +672,18 @@
           "time_info": "[06时37分 ~ 07时38分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 21时50分]"
+        },
+        {
           "title": "美股三大股指期货周一小幅低开0.2%。",
           "url": "https://flash.jin10.com/detail/20260427060114579800",
           "source": "金十数据",
@@ -549,15 +696,15 @@
           "time_info": "[06时37分 ~ 07时38分]"
         },
         {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
+          "title": "美伊谈判僵局难解，美股盘前小幅下跌，高通大涨10%，布油日内涨3%，镍价刷两年新高",
+          "url": "https://wallstreetcn.com/articles/3770961",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
@@ -569,12 +716,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "高盛称对冲基金利用美股上涨降低风险",
+          "url": "https://wallstreetcn.com/livenews/3095019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恶意代码风险凸显，养“龙虾”时别随意提交密码等隐私资料",
@@ -588,6 +746,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 06时37分]"
+        },
+        {
+          "title": "国产开源大模型下载量破100亿次",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "在 AI 一键生成代码的时代，程序员还有必要坚持手写「古法编程」吗？",
@@ -604,7 +773,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股一季度最赚钱公司曝光",
@@ -622,6 +791,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 07时38分]"
+        },
+        {
+          "title": "公募难赚钱的一季度：谁给基民亏了钱？赚钱的有啥必杀技？",
+          "url": "https://www.cls.cn/detail/2356939",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     }
