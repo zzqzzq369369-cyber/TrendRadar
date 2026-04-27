@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T13:55:17.063392+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-04-27T16:23:35.316000+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 13时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "国安部发布视频：宝岛珠还 功成无我",
@@ -107,8 +107,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 13时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 16时23分]"
         },
         {
           "title": "中国军号海外发布视频",
@@ -213,6 +213,17 @@
           "time_info": "[10时40分 ~ 13时55分]"
         },
         {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
           "url": "https://flash.jin10.com/detail/20260427010358748800",
           "source": "金十数据",
@@ -266,6 +277,28 @@
           "time_info": "10时40分"
         },
         {
+          "title": "歌手 AI海报",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "我国牵头修订的商用车辆气电连接位置国际标准正式发布",
+          "url": "https://flash.jin10.com/detail/20260427160701874800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "伊朗消息人士及美媒均透露，伊朗欲分阶段解决当前分歧：先就霍尔木兹海峡达成协议并解除美国封锁，核问题留待日后再谈；本周再迎“超级央行周”，市场关注鲍威尔或举行作为美联储主席的最后一场发布会。当前金银呈卖出信号，美油多空情绪接近持平，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260427103350545800",
           "source": "金十数据",
@@ -306,11 +339,12 @@
           "url": "https://wallstreetcn.com/articles/3770917",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时23分]"
         },
         {
           "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
@@ -318,11 +352,35 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 16时23分]"
+        },
+        {
+          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时55分]"
+          "time_info": "[13时55分 ~ 16时23分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "广州广开知城人工智能产业投资基金成立",
@@ -347,17 +405,6 @@
           "time_info": "10时40分"
         },
         {
-          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "河南发布领导干部任职前公示",
           "url": "https://www.toutiao.com/trending/7633062653507846187/",
           "source": "今日头条",
@@ -369,13 +416,24 @@
           "time_info": "10时40分"
         },
         {
+          "title": "紫光展锐联合华阳通用发布新一代AI座舱平台",
+          "url": "https://flash.jin10.com/detail/20260427154532397800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "腾讯QClaw发布版本更新：支持Hermes，接入DS-V4、Hy3 preview",
           "url": "https://wallstreetcn.com/livenews/3094708",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -408,7 +466,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
@@ -416,7 +474,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -441,6 +499,58 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时38分]"
+        },
+        {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
+          "url": "https://www.cls.cn/detail/2356367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "恶意代码风险凸显，养“龙虾”时别随意提交密码等隐私资料",
+          "url": "https://wallstreetcn.com/livenews/3094538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 06时37分]"
+        },
+        {
+          "title": "在 AI 一键生成代码的时代，程序员还有必要坚持手写「古法编程」吗？",
+          "url": "https://www.zhihu.com/question/2030599879777572198",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -464,25 +574,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 07时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恶意代码风险凸显，养“龙虾”时别随意提交密码等隐私资料",
-          "url": "https://wallstreetcn.com/livenews/3094538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 06时37分]"
         }
       ]
     }
