@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-29T05:57:41.687897+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-04-29T06:58:36.411670+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 29,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
-        },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
           "source": "财联社热门",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -49,11 +49,70 @@
             5,
             9,
             20,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
+        },
+        {
+          "title": "净利同比增长近40%！3000亿PCB龙头发布一季报|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2358586",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -67,29 +126,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
-        },
-        {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
-        },
-        {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095950",
           "source": "华尔街见闻-快讯",
@@ -99,29 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "净利同比增长近40%！3000亿PCB龙头发布一季报|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2358586",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
-        },
-        {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
@@ -146,6 +159,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时16分]"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
@@ -192,6 +249,28 @@
           "time_info": "00时51分"
         },
         {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
           "title": "周二（4月28日）纽约尾盘，美元兑日元涨0.15%，报159.65日元，日内交投区间为158.96-159.79日元，日本央行宣布利率决议之际、在北京时间11:04显著跳水，随后逐步回升。 欧元兑日元涨0.01%，报186.990日元，日本央行行长举行新闻发布会之际，14:43刷新日低至186.07日元；英镑兑日元跌0.01%，报215.763日元，整体呈现出W形走势。",
           "url": "https://wallstreetcn.com/livenews/3095984",
           "source": "华尔街见闻-快讯",
@@ -203,6 +282,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
           "title": "FDA计划利用实时数据和人工智能加快药物试验进程",
           "url": "https://flash.jin10.com/detail/20260429030806303800",
           "source": "金十数据",
@@ -212,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "美国五角大楼已正式提出更名申请，拟将“国防部”更名为“战争部”，预计相关调整成本将超过5000万美元。据悉，五角大楼总法律顾问办公室已发布相关提案，推动修改法律以完成正式更名。",
+          "url": "https://flash.jin10.com/detail/20260429054636287800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
@@ -234,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -286,7 +398,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -338,7 +450,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "今年 1-2 月笔记本电脑销量暴跌 40.5%，为啥大家不买笔记本电脑了？厂商该如何应对目前的市场环境？",
@@ -348,19 +460,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
+        },
+        {
+          "title": "Silicon Motion Technology Corp.（SIMO）美股盘后涨14%，二季度销售指引超过分析师预期。",
+          "url": "https://wallstreetcn.com/livenews/3096046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月28日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报214.75点，跳空低开之后，快速收复失地，随后再次扩大跌幅，又再次逐步收窄失地。 “超大”市值科技股指数跌1.10%，报416.16点，整体低位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3096026",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时58分]"
         },
         {
           "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
@@ -396,13 +520,24 @@
           "time_info": "02时17分"
         },
         {
+          "title": "已经破产了的加密货币交易所FTX联合创始人Sam Bankman-Fried（SBF）请求重新审判，自称掌握了新的证据，但被美国法官Lewis Kaplan驳回，法官认为SBF意图“挽回自己的颜面”。",
+          "url": "https://wallstreetcn.com/livenews/3096030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
           "url": "https://wallstreetcn.com/livenews/3096006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -413,7 +548,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -424,7 +559,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -435,7 +570,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
@@ -456,8 +591,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时58分]"
         }
       ]
     }
