@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T14:23:04.346401+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-04-29T17:09:05.891382+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,33 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时58分 ~ 17时09分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时58分 ~ 17时09分]"
+        },
+        {
+          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
+          "url": "https://www.cls.cn/detail/2358910",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时58分 ~ 14时23分]"
+          "time_info": "[11时35分 ~ 17时09分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -109,31 +134,6 @@
           "time_info": "[00时51分 ~ 07时59分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时58分 ~ 14时23分]"
-        },
-        {
-          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
-          "url": "https://www.cls.cn/detail/2358910",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 14时23分]"
-        },
-        {
           "title": "净利同比增长近40%！3000亿PCB龙头发布一季报|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2358586",
           "source": "财联社热门",
@@ -157,6 +157,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 05时57分]"
+        },
+        {
+          "title": "香奈儿发布无底绑带鞋",
+          "url": "https://www.toutiao.com/trending/7634048167855718443/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 17时09分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -228,15 +251,16 @@
           "time_info": "[00时51分 ~ 02时17分]"
         },
         {
-          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
-          "url": "https://www.zhihu.com/question/2030222424457703714",
-          "source": "知乎",
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时35分 ~ 14时23分]"
+          "time_info": "[14时22分 ~ 17时09分]"
         },
         {
           "title": "李斌发布会邀请秦力洪上车躺平",
@@ -262,6 +286,17 @@
           "time_info": "[06时58分 ~ 07时59分]"
         },
         {
+          "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
+          "url": "https://news.ifeng.com/c/8sifWoWmOAa",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
           "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3771123",
           "source": "华尔街见闻",
@@ -273,15 +308,15 @@
           "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "英伟达发布多模态“全能模型” 智能体效率跃升至竞品9倍",
@@ -374,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "微软、亚马逊、Meta、Alphabet同日放榜！AI叙事若失速，科技股回调或迅速放大",
+          "url": "https://flash.jin10.com/detail/20260429163636046800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
@@ -569,7 +615,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -591,7 +637,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -665,7 +711,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "今年 1-2 月笔记本电脑销量暴跌 40.5%，为啥大家不买笔记本电脑了？厂商该如何应对目前的市场环境？",
@@ -701,6 +747,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时58分]"
+        },
+        {
+          "title": "阿联酋退出欧佩克 黄金为何暴跌",
+          "url": "https://www.toutiao.com/trending/7634029642852077097/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
@@ -794,7 +851,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "小米宣布MiMo V2.5正式开源",
@@ -821,6 +878,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "腾讯混元开源手机端离线翻译模型，仅0.4G",
+          "url": "https://flash.jin10.com/detail/20260429163744287800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "腾讯混元开源手机端离线翻译模型，仅0.4G",
+          "url": "https://wallstreetcn.com/livenews/3096405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
