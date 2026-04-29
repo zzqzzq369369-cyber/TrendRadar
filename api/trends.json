@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-29T21:53:57.300697+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-04-29T23:56:18.405296+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时58分 ~ 21时53分]"
+          "appearance_count": 11,
+          "time_info": "[07时58分 ~ 23时56分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -26,11 +27,12 @@
             10,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时58分 ~ 21时53分]"
+          "appearance_count": 12,
+          "time_info": "[06时58分 ~ 23时56分]"
         },
         {
           "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
@@ -135,6 +137,19 @@
           "time_info": "[00时51分 ~ 07时59分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 23时56分]"
+        },
+        {
           "title": "净利同比增长近40%！3000亿PCB龙头发布一季报|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2358586",
           "source": "财联社热门",
@@ -162,19 +177,6 @@
           "time_info": "[11时35分 ~ 21时53分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 21时53分]"
-        },
-        {
           "title": "追觅发布火箭汽车，搭载专属定制的双固体火箭助推系统，百公里加速 0.9 秒，还有哪些亮点？",
           "url": "https://www.zhihu.com/question/2032366127414599941",
           "source": "知乎",
@@ -198,6 +200,18 @@
           "time_info": "[17时08分 ~ 17时09分]"
         },
         {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时56分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -207,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "速通教育部新发布38个专业",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9A%E6%95%99%E8%82%B2%E9%83%A8%E6%96%B0%E5%8F%91%E5%B8%8338%E4%B8%AA%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -231,17 +256,6 @@
           "time_info": "11时36分"
         },
         {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095950",
           "source": "华尔街见闻-快讯",
@@ -251,6 +265,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时08分 ~ 23时56分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -278,16 +304,17 @@
           "time_info": "[00时51分 ~ 02时17分]"
         },
         {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            19,
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时08分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 23时56分]"
         },
         {
           "title": "李斌发布会邀请秦力洪上车躺平",
@@ -311,6 +338,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时59分]"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时56分]"
         },
         {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
@@ -404,18 +443,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时59分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时53分]"
         },
         {
           "title": "公司引入AI后男子被裁员 法院判了",
@@ -515,17 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        },
-        {
-          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2360001",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
         },
         {
           "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
@@ -649,6 +665,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "北京车展前后超过 15 款大六座 SUV 密集发布，真的有这么多「家庭」场景需求吗？",
+          "url": "https://www.zhihu.com/question/2032471904640917642",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "英伟达高管将与三星、SK海力士洽谈物理AI合作",
           "url": "https://flash.jin10.com/detail/20260429110204868800",
           "source": "金十数据",
@@ -702,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "金十数据整理：加拿大央行利率决议与行长麦克勒姆发布会重点一览",
+          "url": "https://flash.jin10.com/detail/20260429231820101800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -773,7 +811,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "今年 1-2 月笔记本电脑销量暴跌 40.5%，为啥大家不买笔记本电脑了？厂商该如何应对目前的市场环境？",
@@ -822,13 +860,24 @@
           "time_info": "[17时08分 ~ 17时09分]"
         },
         {
+          "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌超1%，医疗业ETF跌近1%，能源业ETF涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3096727",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -850,7 +899,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -938,7 +987,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -949,7 +998,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         }
@@ -1011,7 +1060,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "从爆火出圈到重组出海，再到收购被要求撤销，Manus 这段跌宕历程，给中国科技企业合规出海带来什么启示？",
@@ -1023,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时35分 ~ 14时23分]"
+        },
+        {
+          "title": "玉渊谭天：禁止Manus并购案，不是禁止AI企业出海",
+          "url": "https://wallstreetcn.com/livenews/3096793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     }
