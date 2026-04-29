@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T17:09:05.891382+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-04-29T19:28:46.422335+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时58分 ~ 17时09分]"
+          "appearance_count": 9,
+          "time_info": "[07时58分 ~ 19时28分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时58分 ~ 17时09分]"
+          "appearance_count": 10,
+          "time_info": "[06时58分 ~ 19时28分]"
         },
         {
           "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
@@ -175,11 +175,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 17时09分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 19时28分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -213,6 +214,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 19时28分]"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -251,16 +264,15 @@
           "time_info": "[00时51分 ~ 02时17分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时09分]"
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 19时28分]"
         },
         {
           "title": "李斌发布会邀请秦力洪上车躺平",
@@ -306,17 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
-        },
-        {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "英伟达发布多模态“全能模型” 智能体效率跃升至竞品9倍",
@@ -417,7 +418,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -598,6 +599,28 @@
           "time_info": "04时16分"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年4月28日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33072106",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "英伟达高管将与三星、SK海力士洽谈物理AI合作",
           "url": "https://flash.jin10.com/detail/20260429110204868800",
           "source": "金十数据",
@@ -706,6 +729,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "在异环中演奏See you again",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -886,7 +920,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
@@ -897,7 +931,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         }
