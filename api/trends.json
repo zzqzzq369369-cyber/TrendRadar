@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T01:28:30.146633+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-30T03:24:31.634714+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
         },
         {
           "title": "速通教育部新发布38个专业",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -37,19 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -59,8 +48,42 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
+        },
+        {
+          "title": "美联储主席鲍威尔：我们是唯一一家不发布预测的主要央行。",
+          "url": "https://flash.jin10.com/detail/20260430030041849800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "鲍威尔：每次FOMC货币政策狐疑举办新闻发布会是现在的行业常态。",
+          "url": "https://wallstreetcn.com/livenews/3096892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
         },
         {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
@@ -70,8 +93,53 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
+        },
+        {
+          "title": "北京车展前后超过 15 款大六座 SUV 密集发布，真的有这么多「家庭」场景需求吗？",
+          "url": "https://www.zhihu.com/question/2032471904640917642",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
+        },
+        {
+          "title": "美联储主席鲍威尔：每次会议的新闻发布会已成为“行业规范”。",
+          "url": "https://flash.jin10.com/detail/20260430030008472800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "03时24分"
         },
         {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
@@ -79,17 +147,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2360001",
-          "source": "财联社热门",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -107,26 +164,59 @@
           "time_info": "01时28分"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
+          "title": "美联储主席鲍威尔：每次会议都举行新闻发布会已成常态，人们对此已习以为常。",
+          "url": "https://flash.jin10.com/detail/20260430025900041800",
+          "source": "金十数据",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "03时24分"
         },
         {
-          "title": "北京车展前后超过 15 款大六座 SUV 密集发布，真的有这么多「家庭」场景需求吗？",
-          "url": "https://www.zhihu.com/question/2032471904640917642",
-          "source": "知乎",
+          "title": "墨西哥比索兑美元、南非兰特兑美元至少跌0.9%，刷新日低，鲍威尔正在举行新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3096883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "中美AI竞争的本质差距在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "鲍威尔：这将是我身为美联储主席最后一次举行新闻发布会。 希望（有机会）针对周三美国参议院银行委员会的表决结果祝贺凯文·沃什（的美联储主席提名进程）。",
+          "url": "https://wallstreetcn.com/livenews/3096870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美联储主席鲍威尔在新闻发布会的开场白阶段称：美国经济一直稳步扩张。 就业增速一直偏低，失业率大致持稳。 就业人口增幅放缓，在一定程度上体现出（美国总统特朗普造成的）移民人口下降。 劳动力需求也显然趋于温和。 消费者开支一直稳固。 基于CPI的预测表明，美国3月PCE上升3.5%。 企业固定投资按较快的步伐扩张。 住房市场保持疲软。",
+          "url": "https://wallstreetcn.com/livenews/3096867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -139,11 +229,12 @@
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时24分]"
         },
         {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
@@ -155,6 +246,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对明星带货等虚假宣传坚持一案多查",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E7%AD%89%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0%E5%9D%9A%E6%8C%81%E4%B8%80%E6%A1%88%E5%A4%9A%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     }
