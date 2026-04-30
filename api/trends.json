@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T10:48:33.621347+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-04-30T13:58:56.295427+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "速通教育部新发布38个专业",
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时28分 ~ 10时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时28分 ~ 13时58分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -88,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时03分 ~ 10时48分]"
+          "appearance_count": 7,
+          "time_info": "[05时03分 ~ 13时58分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -109,11 +110,23 @@
           "url": "https://www.cls.cn/detail/2360312",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时58分]"
+        },
+        {
+          "title": "宇树发布只有上半身的人形机器人，高管否认熊猫机器人抄袭魔法原子",
+          "url": "https://wallstreetcn.com/livenews/3097235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "13时58分"
         },
         {
           "title": "软银计划让旗下一家新的人工智能与机器人公司在美上市，软银正寻求为该AI公司（名为Roze）争取高达1000亿美元的估值。（英国金融时报）",
@@ -155,9 +168,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 13时58分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -195,19 +221,6 @@
           "time_info": "[06时56分 ~ 07时55分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时56分 ~ 10时48分]"
-        },
-        {
           "title": "在异环中演奏See you again",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
           "source": "bilibili 热搜",
@@ -217,6 +230,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时03分 ~ 07时55分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时58分]"
         },
         {
           "title": "北京车展前后超过 15 款大六座 SUV 密集发布，真的有这么多「家庭」场景需求吗？",
@@ -247,7 +272,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -258,7 +283,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -280,9 +305,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美联储主席鲍威尔：每次会议的新闻发布会已成为“行业规范”。",
@@ -318,24 +354,13 @@
           "time_info": "05时04分"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "大猩猩狠拽女游客头发视频系AI",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%8C%A9%E7%8C%A9%E7%8B%A0%E6%8B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%A4%B4%E5%8F%91%E8%A7%86%E9%A2%91%E7%B3%BBAI",
           "source": "百度热搜",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -368,7 +393,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -384,6 +409,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "墨西哥比索兑美元、南非兰特兑美元至少跌0.9%，刷新日低，鲍威尔正在举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3096883",
           "source": "华尔街见闻-快讯",
@@ -393,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "华尔街见闻消息，据接近投资方人士透露，追觅旗下AURORA智能手机正在按照640亿（约100亿美金）估值，推进新一轮融资。 据了解，追觅AURORA手机今日在美国硅谷举行发布会，苹果创始人沃兹尼亚克也作为嘉宾现身活动现场，对产品表示高度认可。",
+          "url": "https://wallstreetcn.com/livenews/3097219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "Alphabet(GOOGL.O)CEO：企业人工智能解决方案首次成为云计算的主要增长动力。",
@@ -500,7 +547,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -533,9 +580,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "日本央行：日本央行审议委员小枝淳子将于5月21日在福冈出席会议和新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260430132539884800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美联储主席鲍威尔在新闻发布会的开场白阶段称：美国经济一直稳步扩张。 就业增速一直偏低，失业率大致持稳。 就业人口增幅放缓，在一定程度上体现出（美国总统特朗普造成的）移民人口下降。 劳动力需求也显然趋于温和。 消费者开支一直稳固。 基于CPI的预测表明，美国3月PCE上升3.5%。 企业固定投资按较快的步伐扩张。 住房市场保持疲软。",
@@ -555,7 +613,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -585,8 +643,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时56分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 13时58分]"
         },
         {
           "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
