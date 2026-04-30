@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:15:40.997036+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-04-30T23:09:51.287950+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 72,
+      "match_count": 80,
       "titles": [
         {
           "title": "速通教育部新发布38个专业",
@@ -28,11 +28,12 @@
             9,
             11,
             13,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时28分 ~ 20时15分]"
+          "appearance_count": 13,
+          "time_info": "[01时28分 ~ 23时09分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -137,6 +138,19 @@
           "time_info": "[10时48分 ~ 13时58分]"
         },
         {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时48分 ~ 23时09分]"
+        },
+        {
           "title": "宇树发布只有上半身的人形机器人，高管否认熊猫机器人抄袭魔法原子",
           "url": "https://wallstreetcn.com/livenews/3097235",
           "source": "华尔街见闻-快讯",
@@ -170,6 +184,29 @@
           "time_info": "07时55分"
         },
         {
+          "title": "白宫顾问哈塞特：债权人们可能会让航空公司Spirit Airlines获得更多时间。",
+          "url": "https://wallstreetcn.com/livenews/3097595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "中方关于日本拥核问题的工作文件发布",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 23时09分]"
+        },
+        {
           "title": "美联储主席鲍威尔：我们是唯一一家不发布预测的主要央行。",
           "url": "https://flash.jin10.com/detail/20260430030041849800",
           "source": "金十数据",
@@ -179,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850518&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/JW6c8ckJ-xzznMye3Dcia.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260430230011398800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "鲍威尔：每次FOMC货币政策狐疑举办新闻发布会是现在的行业常态。",
@@ -203,19 +251,6 @@
           "time_info": "10时48分"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时48分 ~ 20时15分]"
-        },
-        {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032593268840600541",
           "source": "知乎",
@@ -227,16 +262,16 @@
           "time_info": "[01时28分 ~ 06时56分]"
         },
         {
-          "title": "中方关于日本拥核问题的工作文件发布",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E6%97%A5%E6%9C%AC%E6%8B%A5%E6%A0%B8%E9%97%AE%E9%A2%98%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%91%E5%B8%83",
+          "title": "悟空号发布新成果",
+          "url": "https://search.bilibili.com/all?keyword=%E6%82%9F%E7%A9%BA%E5%8F%B7%E5%8F%91%E5%B8%83%E6%96%B0%E6%88%90%E6%9E%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
-            10
+            7,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时15分]"
+          "time_info": "[18时56分 ~ 23时09分]"
         },
         {
           "title": "Meta Platforms(META.O)CEO：相信用户会为“高端或高算力版本”的目标导向AI功能付费。",
@@ -286,24 +321,38 @@
           "time_info": "[13时58分 ~ 18时56分]"
         },
         {
+          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033187099386590088",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 23时09分]"
+        },
+        {
+          "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33083077",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 23时09分]"
+        },
+        {
           "title": "外交部发布中方关于日本拥核问题的工作文件",
           "url": "https://www.cls.cn/detail/2360837",
           "source": "财联社热门",
           "ranks": [
             11,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时15分]"
-        },
-        {
-          "title": "中方发布关于日本拥核问题的工作文件，指出日本实际上不认同战败国身份，还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033187099386590088",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -332,18 +381,6 @@
           "time_info": "[05时03分 ~ 05时04分]"
         },
         {
-          "title": "上海快递行业劳动规则协议发布：面对投诉，不得未经核实就处罚快递员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33083077",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时15分]"
-        },
-        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报177650元/吨，较上日16:30价格上涨1100元/吨。",
           "url": "https://wallstreetcn.com/livenews/3097116",
           "source": "华尔街见闻-快讯",
@@ -364,17 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
-        },
-        {
-          "title": "悟空号发布新成果",
-          "url": "https://search.bilibili.com/all?keyword=%E6%82%9F%E7%A9%BA%E5%8F%B7%E5%8F%91%E5%B8%83%E6%96%B0%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "微软第三财季营收828.9亿美元，分析师预期814.6亿美元。 第三财季运营利润384亿美元，分析师预期369亿美元。 第三财季Azure与其他云剔除汇率因素之后的营收增长39%，分析师预期增长38.2%。 第三财季云营收545亿美元，分析师预期537.8亿美元。 第三财季微软365商业云营收增长19%，消费者云营收增长33%。 第三财季LinkedIn营收增长12%，Dynamics 365营收增长22%。 第三财季Windos OEM与设备营收下滑2%，Xbox内容与服务营收下滑5%。 第三财季资本开支包含319亿美元租赁费用，分析师预期352.9亿美元。 微软在业绩报告发布后冲高回落，涨3%之后转而跌1.57%。",
@@ -399,6 +425,17 @@
           "time_info": "10时48分"
         },
         {
+          "title": "假如AI能模拟去世亲人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "美联储主席鲍威尔：每次会议的新闻发布会已成为“行业规范”。",
           "url": "https://flash.jin10.com/detail/20260430030008472800",
           "source": "金十数据",
@@ -419,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美国海军陆战队于周二在阿拉伯海登上了一艘名为“蓝星三号”的商船，以确认该船不会停靠伊朗港口。美国中央司令部发布的画面显示，一架直升机飞向该船，海军陆战队员随即登船。",
@@ -504,7 +552,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -551,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://www.cls.cn/detail/2361143",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "墨西哥比索兑美元、南非兰特兑美元至少跌0.9%，刷新日低，鲍威尔正在举行新闻发布会。",
@@ -647,9 +706,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
+        },
+        {
+          "title": "欧洲央行决议和拉加德新闻发布会要点汇总",
+          "url": "https://wallstreetcn.com/livenews/3097576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "高通(QCOM.O)：领先的超大规模定制芯片合作预计将在今年晚些时候开始初步交付。期待在6月24日的投资者日上提供关于包括数据中心和物理人工智能机遇的信息。",
@@ -674,13 +744,24 @@
           "time_info": "05时04分"
         },
         {
+          "title": "Citadel证券与证券衍生品策略主管Scott Rubner：AI的开支与需求没有出现下滑迹象。 美国科技巨头被抛售，给投资者提供了进场机会。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3097574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "广州发布房地产新政",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%96%B0%E6%94%BF%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -727,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美国间谍机构利用Anthropic的大模型Mythos来寻找网络弱点。",
+          "url": "https://wallstreetcn.com/livenews/3097572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "更多银行参与软银的400亿美元银团贷款 助其投资OpenAI",
@@ -831,7 +923,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -842,8 +934,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时56分 ~ 20时15分]"
+          "appearance_count": 9,
+          "time_info": "[06时56分 ~ 23时09分]"
         },
         {
           "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
@@ -880,6 +972,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "周三（4月29日），美股降息赢家指数跌2.58%，报90.89点，小幅跳空低开之后持续走低，北京时间23:00以来低位持稳于日低附近。 “特朗普关税输家”指数跌1.02%。 “特朗普金融指数”跌1.94%，报161.28点，走势与降息指数类似。",
@@ -1018,7 +1121,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "这对儿带货CP要火",
@@ -1037,11 +1140,23 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时56分 ~ 23时09分]"
+        },
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "对明星带货等虚假宣传坚持一案多查",
