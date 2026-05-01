@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T02:04:56.897463+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-05-02T04:04:15.737350+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国总统特朗普：（关于精神航空）将于周五晚些时候发布公告。",
@@ -23,33 +23,47 @@
           "url": "https://wallstreetcn.com/articles/3771451",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
           "url": "https://www.cls.cn/detail/2361886",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "time_info": "[04时03分 ~ 04时04分]"
         },
         {
           "title": "美国总统特朗普：如果一个好的交易对航空公司Spirit Airlines有利，将达成一份协议。",
@@ -69,7 +83,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -80,7 +94,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -99,18 +113,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
           "url": "https://wallstreetcn.com/articles/3771356",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -120,8 +135,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
+        },
+        {
+          "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时04分 ~ 04时04分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股盘中）",
@@ -135,15 +162,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "04时04分"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -161,11 +188,12 @@
           "url": "https://wallstreetcn.com/articles/3771452",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时04分]"
         },
         {
           "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
@@ -174,7 +202,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
