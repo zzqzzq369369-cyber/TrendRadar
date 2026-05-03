@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T19:42:05.842210+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-05-03T21:08:07.281584+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "深圳、广州、天津、武汉、苏州，接连发布楼市新政",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 19时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 21时08分]"
+        },
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时47分 ~ 21时08分]"
         },
         {
           "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
@@ -41,8 +54,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 19时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 21时08分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时47分 ~ 21时08分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -58,34 +85,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 19时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 21时08分]"
         },
         {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 19时42分]"
-        },
-        {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
+            9,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[13时58分 ~ 21时08分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -166,8 +180,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 19时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 21时08分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -181,8 +195,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 19时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时44分 ~ 21时08分]"
+        },
+        {
+          "title": "高市访越发布新版“印太战略”，野心背后是藏不住的焦虑",
+          "url": "https://news.ifeng.com/c/8soD1idcu9G",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时47分 ~ 21时08分]"
         },
         {
           "title": "外交部发布中方关于日本拥核问题的工作文件，哪些信息值得关注？",
@@ -197,15 +222,17 @@
           "time_info": "[00时44分 ~ 10时47分]"
         },
         {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
           "ranks": [
-            1
+            12,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时03分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[18时03分 ~ 21时08分]"
         },
         {
           "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
@@ -239,17 +266,16 @@
           "time_info": "[00时45分 ~ 07时42分]"
         },
         {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
-          "source": "华尔街见闻",
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            6,
-            5
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时58分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[18时03分 ~ 21时08分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -268,17 +294,6 @@
           "time_info": "[00时45分 ~ 07时42分]"
         },
         {
-          "title": "高市访越发布新版“印太战略”，野心背后是藏不住的焦虑",
-          "url": "https://news.ifeng.com/c/8soD1idcu9G",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 19时42分]"
-        },
-        {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
           "url": "https://flash.jin10.com/detail/20260503042107626800",
           "source": "金十数据",
@@ -291,6 +306,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时41分 ~ 10时47分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 21时08分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 21时08分]"
         },
         {
           "title": "误导女子闯入毒蛇窝AI道歉",
@@ -307,17 +346,6 @@
           "time_info": "[01时43分 ~ 07时42分]"
         },
         {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
-        },
-        {
           "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
           "url": "https://flash.jin10.com/detail/20260503021929638800",
           "source": "金十数据",
@@ -332,28 +360,16 @@
           "time_info": "[03时56分 ~ 07时42分]"
         },
         {
-          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
-          "url": "https://www.zhihu.com/question/2034241896516510290",
-          "source": "知乎",
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            5
+            4,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时03分 ~ 19时42分]"
-        },
-        {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时08分 ~ 19时42分]"
+          "time_info": "[19时41分 ~ 21时08分]"
         },
         {
           "title": "公司用AI后35岁主管被裁 法院判了",
@@ -366,17 +382,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时08分 ~ 18时04分]"
-        },
-        {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时08分 ~ 19时42分]"
         },
         {
           "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
@@ -461,6 +466,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时43分]"
+        },
+        {
+          "title": "如何评价《重返未来：1999》制作组发布的《来自重返未来 1999 制作组的一封信》？",
+          "url": "https://www.zhihu.com/question/2033194560470389460",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
