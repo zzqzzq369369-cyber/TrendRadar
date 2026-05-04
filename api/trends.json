@@ -1,34 +1,23 @@
 {
-  "generated_at": "2026-05-04T07:44:18.116810+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-04T10:45:10.097966+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "深圳、广州、天津、武汉、苏州，接连发布楼市新政",
           "url": "https://www.cls.cn/detail/2362120",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
-        },
-        {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
         },
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -46,16 +35,30 @@
           "time_info": "[00时49分 ~ 07时44分]"
         },
         {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
+        },
+        {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
         },
         {
           "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
@@ -65,11 +68,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -78,11 +82,27 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
+        },
+        {
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
         },
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
@@ -113,24 +133,26 @@
           "time_info": "[01时45分 ~ 07时44分]"
         },
         {
+          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
+          "url": "https://www.zhihu.com/question/2034308747380482937",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            12,
+            11,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时58分 ~ 10时45分]"
+        },
+        {
           "title": "云南的水果像极了AI生成的",
           "url": "https://www.douyin.com/hot/2486796",
           "source": "抖音",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
-        },
-        {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
             7,
             6
           ],
@@ -144,11 +166,12 @@
           "source": "微博",
           "ranks": [
             10,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -158,23 +181,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 07时44分]"
-        },
-        {
-          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
-          "url": "https://www.zhihu.com/question/2034308747380482937",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            12,
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时58分 ~ 07时44分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 10时45分]"
         },
         {
           "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
@@ -190,6 +198,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时44分]"
+        },
+        {
+          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
+          "url": "https://wallstreetcn.com/articles/3771507",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时56分 ~ 10时45分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -221,19 +243,6 @@
           "time_info": "[02时58分 ~ 07时44分]"
         },
         {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时56分 ~ 07时44分]"
-        },
-        {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
           "url": "https://www.cls.cn/detail/2362279",
           "source": "财联社热门",
@@ -245,15 +254,121 @@
           "time_info": "[06时40分 ~ 07时44分]"
         },
         {
+          "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
+          "url": "https://wallstreetcn.com/articles/3771508",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "公司引进AI后将员工降薪裁员",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%BC%95%E8%BF%9BAI%E5%90%8E%E5%B0%86%E5%91%98%E5%B7%A5%E9%99%8D%E8%96%AA%E8%A3%81%E5%91%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
+          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
           "title": "美国总统特朗普在社交媒体平台Truth Social上发布了一张照片，照片中他手持多张卡片，并配文“我手头拥有所有卡牌（I have all the cards）”。",
           "url": "https://flash.jin10.com/detail/20260504062617636800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "Anthropic携手华尔街巨头 豪掷15亿美元深耕私募AI咨询市场",
+          "url": "https://flash.jin10.com/detail/20260504101348077800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：当前经济条件支持超越传统框架的建议。",
+          "url": "https://flash.jin10.com/detail/20260504094831597800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：只有当同步性高且协调机制有效运行时，先发制人的紧缩才是合理的。",
+          "url": "https://flash.jin10.com/detail/20260504094810391800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会成员Gai：就霍尔木兹海峡冲击模型而言，没有任何信息暗示存在反射性的紧缩倾向。",
+          "url": "https://flash.jin10.com/detail/20260504094755879800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
+          "url": "https://flash.jin10.com/detail/20260504060507166800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时44分]"
+        },
+        {
+          "title": "巴菲特谈美股投机风气",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         }
       ]
     },
@@ -275,24 +390,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时45分 ~ 07时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260504060507166800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时44分]"
         }
       ]
     }
