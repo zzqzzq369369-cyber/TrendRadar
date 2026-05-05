@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-05T13:43:19.905660+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-05-05T16:08:33.081964+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 10时38分]"
-        },
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
           "url": "https://wallstreetcn.com/articles/3771537",
@@ -29,8 +18,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 16时08分]"
+        },
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 10时38分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -47,18 +47,19 @@
           "time_info": "[00时03分 ~ 13时43分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
             11,
-            18
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 16时08分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -69,25 +70,27 @@
             10,
             12,
             11,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 16时08分]"
         },
         {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
+            7,
+            8,
             11,
-            10,
-            9,
-            8
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 16时08分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -97,11 +100,12 @@
             8,
             9,
             12,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 16时08分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -129,6 +133,20 @@
           "time_info": "[00时03分 ~ 10时38分]"
         },
         {
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时14分 ~ 16时08分]"
+        },
+        {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
@@ -140,28 +158,37 @@
           "time_info": "[00时03分 ~ 02时14分]"
         },
         {
-          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
-          "url": "https://wallstreetcn.com/articles/3771542",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时14分 ~ 13时43分]"
-        },
-        {
           "title": "澳洲联储主席布洛克将于十分钟后召开货币政策新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260505132000001800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "挪威主权财富基金首席执行官：即将有三次重要的首次公开募股——SpaceX、Anthropic和OpenAI。我们会买入这些公司的股份。",
+          "url": "https://flash.jin10.com/detail/20260505154538750800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "中国移动将推出AI-eSIM产品",
@@ -200,6 +227,18 @@
           "time_info": "[06时00分 ~ 07时02分]"
         },
         {
+          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
+          "url": "https://wallstreetcn.com/livenews/3098714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时08分]"
+        },
+        {
           "title": "埃及航空发布声明，暂停飞往迪拜、沙迦和阿布扎比的航班，直至另行通知。",
           "url": "https://flash.jin10.com/detail/20260505050030762800",
           "source": "金十数据",
@@ -210,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 07时02分]"
+        },
+        {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时08分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -224,15 +275,26 @@
           "time_info": "[06时00分 ~ 07时02分]"
         },
         {
-          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
-          "url": "https://wallstreetcn.com/livenews/3098714",
-          "source": "华尔街见闻-快讯",
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "16时08分"
+        },
+        {
+          "title": "鸿海：4月营收同比增长29.74%。 第二季度是ICT行业的传统淡季，主要产品正处于新旧机型交替期。 不过，AI服务器预计将保持持续增长趋势。 根据目前的可见性，预计第二季度营收将实现环比和同比增长。 但仍需关注全球政治与经济局势波动的影响。",
+          "url": "https://wallstreetcn.com/livenews/3098730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方消息人士警告阿联酋不要沦为“以色列的棋子”，称任何错误举动都将招致严厉回应。伊朗军方消息人士称未发布针对阿联酋的官方威胁，相关报道源自媒体。",
@@ -244,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         },
         {
           "title": "美联储威廉姆斯：预计未来几年人工智能将带来更高的生产率增长。",
@@ -323,6 +374,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "鸿海：第二季度是信息与通信技术行业的传统淡季，主要产品进入新旧机型的过渡期。不过，人工智能相关业务预计将保持持续增长态势。",
+          "url": "https://flash.jin10.com/detail/20260505153236384800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "墨西哥国家地震局4日发布初步报告说，该国南部瓦哈卡州当天发生6级地震，首都墨西哥城有震感。",
           "url": "https://flash.jin10.com/detail/20260504233447853800",
           "source": "金十数据",
@@ -351,7 +413,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -392,7 +454,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -403,8 +465,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 16时08分]"
         },
         {
           "title": "中东局势再吃紧，美股低开、标普纳指回落，存储芯片股逆市大涨，原油一度涨超5%",
@@ -429,6 +491,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "英特尔美股盘前涨超3%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
+          "url": "https://wallstreetcn.com/livenews/3098737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "美股收盘：道指跌超1% 英特尔跌近4%",
           "url": "https://flash.jin10.com/detail/20260505040130170800",
           "source": "金十数据",
@@ -444,11 +517,12 @@
           "url": "https://www.cls.cn/detail/2362725",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时38分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 16时08分]"
         },
         {
           "title": "周一（5月4日），美股存储芯片与硬件供应链指数涨2.81%，报163.29点，继续创收盘历史新高。 成分股美光科技收涨6.31%，闪迪涨5.80%，西部数据涨2.51%，希捷科技涨1.60%，拉姆研究、应用材料至多涨0.72%，Rambus跌0.38%，泰瑞达TER跌2.31%。",
