@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T05:57:14.565939+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-05-07T06:54:51.817364+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时54分]"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
           "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时54分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时54分]"
         },
         {
           "title": "有AI真好 放以前没十几亿下不来",
@@ -50,8 +51,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时54分]"
+        },
+        {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时54分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -67,18 +80,6 @@
           "time_info": "[00时27分 ~ 05时57分]"
         },
         {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时57分]"
-        },
-        {
           "title": "10后小孩哥用AI帮妈妈管店",
           "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
           "source": "百度热搜",
@@ -88,8 +89,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 06时54分]"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -132,11 +133,36 @@
           "url": "https://www.zhihu.com/question/2035415081798869913",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
+          "url": "https://wallstreetcn.com/livenews/3099573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时56分 ~ 05时57分]"
+          "time_info": "[05时57分 ~ 06时54分]"
+        },
+        {
+          "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
+          "url": "https://flash.jin10.com/detail/20260507050409862800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时54分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -172,28 +198,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
-          "url": "https://wallstreetcn.com/livenews/3099573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
-          "url": "https://flash.jin10.com/detail/20260507050409862800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
           "title": "美联储古尔斯比：如果人工智能如宣传的那样优秀，那将是“美妙的”，但美联储仍需警惕经济过热。",
           "url": "https://flash.jin10.com/detail/20260507011748861800",
           "source": "金十数据",
@@ -211,7 +215,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -233,7 +237,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -244,7 +248,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -255,7 +259,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -288,7 +292,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
@@ -296,7 +300,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -321,8 +325,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时54分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -333,8 +337,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 06时54分]"
+        },
+        {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -346,8 +361,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时54分]"
         },
         {
           "title": "亚洲市场史诗级暴涨",
@@ -355,11 +370,24 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时54分]"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3099572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时54分]"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -406,17 +434,6 @@
           "time_info": "04时23分"
         },
         {
-          "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
-          "url": "https://wallstreetcn.com/livenews/3099572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
           "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260507040519442800",
           "source": "金十数据",
@@ -445,7 +462,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -456,7 +473,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
