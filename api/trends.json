@@ -1,688 +1,117 @@
 {
-  "generated_at": "2026-05-06T22:08:36.568412+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-05-07T00:27:47.241809+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 9,
       "titles": [
         {
-          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
-          "url": "https://wallstreetcn.com/articles/3771568",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 10时43分]"
-        },
-        {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 22时08分]"
-        },
-        {
-          "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
-          "url": "https://www.zhihu.com/question/2034044394312037174",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 10时43分]"
-        },
-        {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
           "source": "财联社热门",
           "ranks": [
-            4,
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 22时08分]"
-        },
-        {
-          "title": "国家安全部发布最新提醒",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%83%A8%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 13时58分]"
-        },
-        {
-          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
-          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 10时43分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
           "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            11,
-            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "周三（5月6日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨6.18%，LVMH集团涨5.11%，欧莱雅涨3.33%，诺和诺德在业绩报告发布后涨2.48%，德国思爱普Sap则收跌0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3099488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时43分 ~ 22时08分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 10时43分]"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报187500元/吨，较上日16:30价格上涨6750元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3099075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "00时27分"
         },
         {
-          "title": "从猫狗到水果 AI短剧还能火多久",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E7%8C%AB%E7%8B%97%E5%88%B0%E6%B0%B4%E6%9E%9C+AI%E7%9F%AD%E5%89%A7%E8%BF%98%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            26,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 07时47分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 07时47分]"
-        },
-        {
-          "title": "苹果将允许用户在iOS 27各功能中选择使用不同AI模型",
-          "url": "https://flash.jin10.com/detail/20260506013420106800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "大学生用AI把家乡拖鞋卖到海外",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E6%8A%8A%E5%AE%B6%E4%B9%A1%E6%8B%96%E9%9E%8B%E5%8D%96%E5%88%B0%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 16时29分]"
-        },
-        {
-          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
-          "url": "https://www.cls.cn/detail/2363932",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
-          "url": "https://wallstreetcn.com/livenews/3098899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "英飞凌因AI需求推动增长前景，上调2026年展望",
-          "url": "https://wallstreetcn.com/livenews/3099146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时09分 ~ 19时06分]"
-        },
-        {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 05时02分]"
-        },
-        {
-          "title": "OpenAI：GPT-5.5 Instant已开始在ChatGPT中推出",
-          "url": "https://wallstreetcn.com/livenews/3098871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 03时24分]"
-        },
-        {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 16时29分]"
-        },
-        {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 13时58分]"
-        },
-        {
-          "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时47分]"
-        },
-        {
-          "title": "据The Information：Meta Platforms(META.O)正在开发一款名为“Hatch”的人工智能代理，并在Instagram上打造一款基于代理的购物工具。",
-          "url": "https://flash.jin10.com/detail/20260506063919812800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时47分]"
-        },
-        {
-          "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
-          "url": "https://wallstreetcn.com/livenews/3098957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时47分]"
-        },
-        {
-          "title": "vibe coding 这么久了，大家有没有较好的 AI 开发模式经验沉淀下来？",
-          "url": "https://www.zhihu.com/question/2032011984942649735",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
-        },
-        {
-          "title": "苹果(AAPL.O)：将在今年秋季发布的iOS 27中提供更灵活的人工智能方案。",
-          "url": "https://flash.jin10.com/detail/20260506012430985800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "苹果(AAPL.O)：计划让用户在iOS 27系统中自行选择使用竞争对手的人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260506012427946800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "OpenAI更新ChatGPT默认模型 提升准确性与个性化",
-          "url": "https://flash.jin10.com/detail/20260506012340306800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "澳大利亚4月AIG建筑业表现指数 -19.3，前值-31.4。",
-          "url": "https://flash.jin10.com/detail/20260506070043740800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "澳大利亚4月AIG/PWC制造业表现指数 -27.9，前值-27.9。",
-          "url": "https://flash.jin10.com/detail/20260506070037685800",
-          "source": "金十数据",
+          "title": "有AI真好 放以前没十几亿下不来",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%89AI%E7%9C%9F%E5%A5%BD%20%E6%94%BE%E4%BB%A5%E5%89%8D%E6%B2%A1%E5%8D%81%E5%87%A0%E4%BA%BF%E4%B8%8B%E4%B8%8D%E6%9D%A5&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时47分"
+          "time_info": "00时27分"
         },
         {
-          "title": "中方呼吁推动人工智能向善发展",
-          "url": "https://wallstreetcn.com/livenews/3099325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
-          "url": "https://wallstreetcn.com/livenews/3098891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3098933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "郭明錤：OpenAI智能体手机冲击明年量产 目标两年出货3000万部",
-          "url": "https://www.cls.cn/detail/2363135",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "独家|部分城商行希望获得AIC牌照，地方政府热情高但短期难度或较大",
-          "url": "https://www.cls.cn/detail/2363416",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "OpenAI总裁：今年预计在算力上花费500亿美元",
-          "url": "https://flash.jin10.com/detail/20260506025522677800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "导师和评委真的能一眼看出来你的毕业论文是 AI 写的吗？",
-          "url": "https://www.zhihu.com/question/2027479561852429688",
+          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
+          "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "00时27分"
         },
         {
-          "title": "OpenAI：在所有ChatGPT模型中引入内存源。",
-          "url": "https://flash.jin10.com/detail/20260506010514286800",
-          "source": "金十数据",
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "00时27分"
         },
         {
-          "title": "OpenAI：记忆来源功能正在网页端向所有ChatGPT消费级套餐用户逐步推出，并即将在移动端上线。",
-          "url": "https://flash.jin10.com/detail/20260506010504904800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "最高法就“开门杀”等发布司法解释",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B3%95%E5%B0%B1%E2%80%9C%E5%BC%80%E9%97%A8%E6%9D%80%E2%80%9D%E7%AD%89%E5%8F%91%E5%B8%83%E5%8F%B8%E6%B3%95%E8%A7%A3%E9%87%8A",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "OpenAI：对于付费用户，GPT‑5.3 Instant将在未来3个月内继续可用，用户可通过模型配置设置访问，之后该版本将正式退役。",
-          "url": "https://flash.jin10.com/detail/20260506010453455800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出。",
-          "url": "https://flash.jin10.com/detail/20260506010425675800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "英国海事贸易行动办公室（UKMTO）表示，已收到霍尔木兹海峡内发生事件的报告。 UKMTO称，经核实的消息源报告一艘货船被不明抛射物击中，报告发布时环境影响尚不明确。",
-          "url": "https://wallstreetcn.com/livenews/3098918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "中央气象台发布强对流预警",
-          "url": "https://www.toutiao.com/trending/7635998616095637545/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
-          "url": "https://wallstreetcn.com/livenews/3098845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "苹果公司将允许用户选用多款第三方人工智能服务，为旗下全系软件功能提供智能支持。 据知情人士透露，用户未来可选择多款第三方AI模型，完成文字创作编辑、图像生成修改等任务。 这项功能变更定于今年秋季随iOS 27、iPadOS 27以及macOS 27正式上线，用户可通过设置应用，自主挑选想要为苹果智能功能提供服务的AI平台。",
-          "url": "https://wallstreetcn.com/livenews/3098878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
-          "url": "https://flash.jin10.com/detail/20260506022641166800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "IMF总裁：即使伊朗战争今天就结束，至少也还需要3-4个月来处理战争造成的后果。 AI对就业的总体影响实际上略微偏正面。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3098844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "TheWeeknd亚洲巡演发布预告",
-          "url": "https://www.douyin.com/hot/2490347",
-          "source": "抖音",
+          "title": "火到欧美的韩国棒球女神是AI生成",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "00时27分"
         },
         {
-          "title": "OpenAI或加速手机开发",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "英伟达与ServiceNow联手打造新型自主AI智能体。",
+          "url": "https://wallstreetcn.com/livenews/3099463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
-          "url": "https://flash.jin10.com/detail/20260506052544732800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "Cerence AI：也提起了地区法院诉讼。",
-          "url": "https://flash.jin10.com/detail/20260506052339847800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 30,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 16时29分]"
-        },
-        {
-          "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
-          "url": "https://www.cls.cn/detail/2362725",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 07时47分]"
-        },
-        {
-          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3771589",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 05时02分]"
-        },
-        {
-          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
-          "url": "https://www.cls.cn/detail/2363413",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 19时06分]"
-        },
-        {
-          "title": "亚洲市场史诗级暴涨",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
-          "url": "https://www.cls.cn/detail/2362589",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 07时47分]"
-        },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
           "url": "https://wallstreetcn.com/articles/3771614",
@@ -690,316 +119,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美伊接近达成停战备忘录，美股期指短线拉升，美油暴跌10%，黄金涨超3%触及4700美元",
-          "url": "https://wallstreetcn.com/articles/3771614",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时06分"
+          "time_info": "00时27分"
         },
         {
-          "title": "油价暴跌了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E6%9A%B4%E8%B7%8C%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 19时06分]"
-        },
-        {
-          "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
-          "url": "https://wallstreetcn.com/livenews/3098968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时47分]"
-        },
-        {
-          "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2362959",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时43分 ~ 13时58分]"
-        },
-        {
-          "title": "国际油价再现暴跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%86%8D%E7%8E%B0%E6%9A%B4%E8%B7%8C",
+          "title": "全球芯片巨头集体暴涨背后",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
           "source": "百度热搜",
           "ranks": [
-            18,
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 22时08分]"
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2364164",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
           "url": "https://www.zhihu.com/question/2034453660378382744",
           "source": "知乎",
           "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 22时08分]"
-        },
-        {
-          "title": "美股三大股指期货走高，纳指期货涨幅扩大至0.9%。",
-          "url": "https://flash.jin10.com/detail/20260506070051821800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
-          "url": "https://wallstreetcn.com/livenews/3098937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "阿里巴巴美股盘前涨超5%，百度涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3099328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "迪士尼美股盘前涨近8%，公司第二季度营收251.68美元，同比增长7%",
-          "url": "https://wallstreetcn.com/livenews/3099326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "美股盘前，AMD大涨超16%，公司Q1营收超预期增长38%，二季度指引超预期；存储芯片概念股延续涨势，美光科技涨超5%，闪迪涨超6%。英特尔涨超5%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
-          "url": "https://wallstreetcn.com/livenews/3099222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "美股三大股指高开，康宁大涨超17%",
-          "url": "https://wallstreetcn.com/livenews/3099421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
-          "url": "https://wallstreetcn.com/livenews/3098934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "亚洲芯片双雄带飞全场：韩股暴涨6%，三星破万亿",
-          "url": "https://flash.jin10.com/detail/20260506101411693800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011214821800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "00时27分"
         },
         {
-          "title": "Lumentum第三财季营收8.084亿美元，IBES预期8.043亿美元。 第三财季调整后每股收益（EPS）为2.37美元，IBES预期2.27美元。 第三财季调整后净利润2.257亿美元，分析师预期2.025亿美元。 预计第四财季营收9.60亿-10.1亿美元，预计调整后EPS为2.85-3.05美元。 Lumentum美股盘后跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3098932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260506011205693800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "AMD一季度调整后每股收益（EPS）为1.37美元，IBES预期1.29美元。 一季度调整后净利润22.65亿美元，IBES预期21.14亿美元。 一季度净利润13.83亿美元。 客户对MI450系列和Helios的（订单）参与正在增强。 AMD美股盘后跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3098931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
-          "url": "https://wallstreetcn.com/livenews/3098929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "AMD(AMD.O)美股盘后涨超11%。",
-          "url": "https://flash.jin10.com/detail/20260506055845033800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "谷歌(GOOG.O)美股盘后涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260506042737308800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3099405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "AMD(AMD.O)美股盘后涨2%。",
-          "url": "https://flash.jin10.com/detail/20260506042115421800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人爆火 哪些赚钱哪些裸泳",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%88%86%E7%81%AB+%E5%93%AA%E4%BA%9B%E8%B5%9A%E9%92%B1%E5%93%AA%E4%BA%9B%E8%A3%B8%E6%B3%B3",
+          "title": "亚洲市场史诗级暴涨",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            23,
-            21,
-            20,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 07时47分]"
-        },
-        {
-          "title": "世界杯扩军是为了赚钱吗",
-          "url": "https://www.toutiao.com/trending/7636236021798715434/",
-          "source": "今日头条",
-          "ranks": [
-            28
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ChatGPT宣布，已作为插件登陆Excel和谷歌表格（Google Sheets）。ChatGPT表示，其能帮助分析杂乱的数据、编写公式、更新电子表格，并在操作过程中解释其操作步骤——这一切都无需离开电子表格界面。服务将由GPT-5.5提供支持。",
-          "url": "https://flash.jin10.com/detail/20260506055208531800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "00时27分"
         }
       ]
     }
