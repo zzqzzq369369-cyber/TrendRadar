@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T00:27:47.241809+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-05-07T02:16:09.354214+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -26,19 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "周三（5月6日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨6.18%，LVMH集团涨5.11%，欧莱雅涨3.33%，诺和诺德在业绩报告发布后涨2.48%，德国思爱普Sap则收跌0.32%。",
-          "url": "https://wallstreetcn.com/livenews/3099488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
@@ -48,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
+        },
+        {
+          "title": "周三（5月6日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨6.18%，LVMH集团涨5.11%，欧莱雅涨3.33%，诺和诺德在业绩报告发布后涨2.48%，德国思爱普Sap则收跌0.32%。",
+          "url": "https://wallstreetcn.com/livenews/3099488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "有AI真好 放以前没十几亿下不来",
@@ -59,41 +60,77 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
+        },
+        {
+          "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101097",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
+        },
+        {
+          "title": "10后小孩哥用AI帮妈妈管店",
+          "url": "https://www.baidu.com/s?wd=10%E5%90%8E%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%94%A8AI%E5%B8%AE%E5%A6%88%E5%A6%88%E7%AE%A1%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 02时16分]"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
+          "url": "https://wallstreetcn.com/livenews/3099509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美联储古尔斯比：如果人工智能如宣传的那样优秀，那将是“美妙的”，但美联储仍需警惕经济过热。",
+          "url": "https://flash.jin10.com/detail/20260507011748861800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "英伟达与ServiceNow联手打造新型自主AI智能体。",
@@ -110,7 +147,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -120,19 +157,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "全球芯片巨头集体暴涨背后",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -142,30 +180,65 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
           "url": "https://www.zhihu.com/question/2034453660378382744",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
         },
         {
           "title": "亚洲市场史诗级暴涨",
           "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时16分]"
+        },
+        {
+          "title": "美股中概股大涨 百度涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 02时16分]"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260507012939266800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时16分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260507012919807800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     }
