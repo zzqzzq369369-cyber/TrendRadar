@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:52:56.823548+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-05-07T10:45:03.358383+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -51,11 +51,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时45分]"
         },
         {
           "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
@@ -64,11 +65,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时45分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
@@ -78,11 +80,25 @@
             27,
             18,
             23,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时15分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[02时15分 ~ 10时45分]"
+        },
+        {
+          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
+          "url": "https://www.zhihu.com/question/2035415081798869913",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时56分 ~ 10时45分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -109,6 +125,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报189500元/吨，较上日16:30价格上涨1500元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3099707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -122,18 +149,6 @@
           "time_info": "[00时27分 ~ 04时23分]"
         },
         {
-          "title": "如何看待蔡浩宇的硅谷 AI 公司战略转向，LLM 团队整体回流国内？",
-          "url": "https://www.zhihu.com/question/2035415081798869913",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时56分 ~ 07时52分]"
-        },
-        {
           "title": "周三（5月6日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨6.18%，LVMH集团涨5.11%，欧莱雅涨3.33%，诺和诺德在业绩报告发布后涨2.48%，德国思爱普Sap则收跌0.32%。",
           "url": "https://wallstreetcn.com/livenews/3099488",
           "source": "华尔街见闻-快讯",
@@ -144,6 +159,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 02时16分]"
+        },
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "黄仁勋：美国应保持AI领先地位",
+          "url": "https://www.douyin.com/hot/2489930",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
           "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
@@ -168,6 +216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时54分]"
+        },
+        {
+          "title": "EXO ai篡改记忆",
+          "url": "https://s.weibo.com/weibo?q=EXO%20ai%E7%AF%A1%E6%94%B9%E8%AE%B0%E5%BF%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -198,7 +257,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -242,9 +301,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "泰国财政部长：世界银行对人工智能导致的失业表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260507100117468800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
@@ -264,7 +334,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -338,7 +408,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -351,6 +421,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 05时57分]"
+        },
+        {
+          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2364164",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 10时45分]"
         },
         {
           "title": "全球芯片巨头集体暴涨背后",
@@ -368,18 +451,6 @@
           "time_info": "[00时27分 ~ 07时52分]"
         },
         {
-          "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2364164",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时54分]"
-        },
-        {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
@@ -387,8 +458,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 10时45分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -397,7 +468,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -415,6 +486,18 @@
           "time_info": "[00时27分 ~ 06时54分]"
         },
         {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 10时45分]"
+        },
+        {
           "title": "亚洲市场史诗级暴涨",
           "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8",
           "source": "百度热搜",
@@ -427,6 +510,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 07时52分]"
+        },
+        {
+          "title": "国际油价因市场消息暴跌前 “绝妙空单”再度现身",
+          "url": "https://www.cls.cn/detail/2364332",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2364390",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 10时45分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
@@ -450,17 +566,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 02时16分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
