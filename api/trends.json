@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T19:48:10.175580+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-05-07T22:29:05.485054+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -43,6 +43,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时52分]"
+        },
+        {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 22时29分]"
         },
         {
           "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
@@ -102,18 +115,6 @@
           "time_info": "[05时56分 ~ 14时10分]"
         },
         {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时48分]"
-        },
-        {
           "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
           "url": "https://www.cls.cn/detail/2364594",
           "source": "财联社热门",
@@ -124,6 +125,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时10分 ~ 19时48分]"
+        },
+        {
+          "title": "男子称爷爷30年前捐赠名家书画部分去向不明，天津美术学院：正处置，将发布通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105107",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时10分 ~ 22时29分]"
         },
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -137,6 +152,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 05时57分]"
+        },
+        {
+          "title": "“人工智能+”走向智能经济新形态",
+          "url": "https://www.toutiao.com/trending/7636674300020015155/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "比亚迪正式加入IATF AISBL",
@@ -167,7 +193,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -204,19 +230,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时44分 ~ 17时32分]"
-        },
-        {
-          "title": "男子称爷爷30年前捐赠名家书画部分去向不明，天津美术学院：正处置，将发布通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105107",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时10分 ~ 19时48分]"
         },
         {
           "title": "火到欧美的韩国棒球女神是AI生成",
@@ -324,6 +337,17 @@
           "time_info": "[19时47分 ~ 19时48分]"
         },
         {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
+        },
+        {
           "title": "AI记账软件怼用户买的衣服像寿衣",
           "url": "https://www.baidu.com/s?wd=AI%E8%AE%B0%E8%B4%A6%E8%BD%AF%E4%BB%B6%E6%80%BC%E7%94%A8%E6%88%B7%E4%B9%B0%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%83%8F%E5%AF%BF%E8%A1%A3",
           "source": "百度热搜",
@@ -357,6 +381,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "谷歌推出Fitbit Air，售价100美元，对标Whoop。",
+          "url": "https://wallstreetcn.com/livenews/3100053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "马斯克：xAI将不再作为独立公司存在，因此将更名为SpaceXAI。",
           "url": "https://wallstreetcn.com/livenews/3099540",
           "source": "华尔街见闻-快讯",
@@ -377,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "美团公测AI社区“觅游”，打造人和AI的赛博生活",
+          "url": "https://wallstreetcn.com/livenews/3100046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "美联储古尔斯比：如果人工智能如宣传的那样优秀，那将是“美妙的”，但美联储仍需警惕经济过热。",
@@ -473,7 +519,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -484,7 +530,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -506,9 +552,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "美股三大股指小幅高开，标普500指数涨0.09%，道指涨0.39%，纳指涨0.14%。ARM下跌7%，因AI芯片供应担忧盖过乐观业绩指引。美股AI应用软件股走强，Datadog涨超30%，Snowflake涨10%，MongoDB涨12%。光通信板块走低，Coherent跌超5%，Credo、Lumentum跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3100035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "印度金融服务秘书：Anthropic的新人工智能模型引发了全球网络安全担忧，全球监管机构关注银行风险。",
@@ -580,7 +637,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -590,8 +647,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时54分 ~ 19时48分]"
+          "appearance_count": 11,
+          "time_info": "[06时54分 ~ 22时29分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -634,6 +691,19 @@
           "time_info": "[00时27分 ~ 07时52分]"
         },
         {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时44分 ~ 22时29分]"
+        },
+        {
           "title": "国际油价暴跌前近万份空单突现",
           "url": "https://www.douyin.com/hot/2490761",
           "source": "抖音",
@@ -658,16 +728,28 @@
           "time_info": "[07时52分 ~ 14时10分]"
         },
         {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
+          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
+          "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
-            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时44分 ~ 19时48分]"
+          "time_info": "[17时31分 ~ 22时29分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -721,18 +803,6 @@
           "time_info": "[00时27分 ~ 07时52分]"
         },
         {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时48分]"
-        },
-        {
           "title": "国际油价因市场消息暴跌前 “绝妙空单”再度现身",
           "url": "https://www.cls.cn/detail/2364332",
           "source": "财联社热门",
@@ -743,6 +813,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 14时10分]"
+        },
+        {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
@@ -818,7 +899,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -865,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3100025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
@@ -879,7 +971,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
