@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T17:32:14.598425+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-05-07T19:48:10.175580+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -102,6 +102,30 @@
           "time_info": "[05时56分 ~ 14时10分]"
         },
         {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时48分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时10分 ~ 19时48分]"
+        },
+        {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
@@ -113,17 +137,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 05时57分]"
-        },
-        {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "比亚迪正式加入IATF AISBL",
@@ -148,16 +161,15 @@
           "time_info": "04时23分"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
+          "title": "七部门发布《医药代表管理办法》",
+          "url": "https://wallstreetcn.com/livenews/3099981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 17时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报189500元/吨，较上日16:30价格上涨1500元/吨。",
@@ -194,6 +206,19 @@
           "time_info": "[10时44分 ~ 17时32分]"
         },
         {
+          "title": "男子称爷爷30年前捐赠名家书画部分去向不明，天津美术学院：正处置，将发布通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105107",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时10分 ~ 19时48分]"
+        },
+        {
           "title": "火到欧美的韩国棒球女神是AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E7%81%AB%E5%88%B0%E6%AC%A7%E7%BE%8E%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%A3%92%E7%90%83%E5%A5%B3%E7%A5%9E%E6%98%AFAI%E7%94%9F%E6%88%90%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -205,6 +230,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 04时23分]"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时48分]"
         },
         {
           "title": "周三（5月6日），欧股“十一罗汉”几乎全面收涨，阿斯麦控股涨6.18%，LVMH集团涨5.11%，欧莱雅涨3.33%，诺和诺德在业绩报告发布后涨2.48%，德国思爱普Sap则收跌0.32%。",
@@ -219,16 +255,15 @@
           "time_info": "[00时27分 ~ 02时16分]"
         },
         {
-          "title": "男子称爷爷30年前捐赠名家书画部分去向不明，天津美术学院：正处置，将发布通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105107",
-          "source": "澎湃新闻",
+          "title": "AMD股价暴涨19%！华尔街密集上调目标价 代理式AI引爆CPU需求",
+          "url": "https://www.cls.cn/detail/2364555",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时48分]"
         },
         {
           "title": "EXO ai篡改记忆",
@@ -241,28 +276,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 14时10分]"
-        },
-        {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
-        },
-        {
-          "title": "AMD股价暴涨19%！华尔街密集上调目标价 代理式AI引爆CPU需求",
-          "url": "https://www.cls.cn/detail/2364555",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "黄仁勋：美国应保持AI领先地位",
@@ -298,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时54分]"
+        },
+        {
+          "title": "如何评价 xiaohu 粉丝发布 ELK 失误视频，掀起的 WBG 双 C 数据复盘大战？",
+          "url": "https://www.zhihu.com/question/2035524803327681495",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 19时48分]"
         },
         {
           "title": "AI记账软件怼用户买的衣服像寿衣",
@@ -350,7 +374,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -443,6 +467,28 @@
           "time_info": "07时52分"
         },
         {
+          "title": "全国首款！上海研发的医疗大模型产品进入国家创新医疗器械特别审查通道",
+          "url": "https://wallstreetcn.com/livenews/3099957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "受人工智能冲击，翻译工具DeepL计划裁员25%",
+          "url": "https://flash.jin10.com/detail/20260507191612242800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "伊朗向霍尔木兹海峡的商船发布通告，称伊朗的港口已全面准备好为船只提供一般海事服务和支持。（伊朗伊斯兰共和国通讯社）",
           "url": "https://flash.jin10.com/detail/20260507044456564800",
           "source": "金十数据",
@@ -452,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "国家知识产权局发布《二〇二五年中国知识产权保护状况》白皮书",
+          "url": "https://wallstreetcn.com/livenews/3099953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "印度金融服务秘书：Anthropic的新人工智能模型引发了全球网络安全担忧，全球监管机构关注银行风险。",
@@ -523,7 +580,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -533,8 +590,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时54分 ~ 17时32分]"
+          "appearance_count": 9,
+          "time_info": "[06时54分 ~ 19时48分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -577,6 +634,17 @@
           "time_info": "[00时27分 ~ 07时52分]"
         },
         {
+          "title": "国际油价暴跌前近万份空单突现",
+          "url": "https://www.douyin.com/hot/2490761",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时48分]"
+        },
+        {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
           "url": "https://www.cls.cn/detail/2364348",
           "source": "财联社热门",
@@ -590,15 +658,16 @@
           "time_info": "[07时52分 ~ 14时10分]"
         },
         {
-          "title": "国际油价暴跌前近万份空单突现",
-          "url": "https://www.douyin.com/hot/2490761",
-          "source": "抖音",
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 19时48分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -652,15 +721,16 @@
           "time_info": "[00时27分 ~ 07时52分]"
         },
         {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时44分 ~ 17时32分]"
+          "time_info": "[17时31分 ~ 19时48分]"
         },
         {
           "title": "国际油价因市场消息暴跌前 “绝妙空单”再度现身",
@@ -673,17 +743,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时44分 ~ 14时10分]"
-        },
-        {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
@@ -753,6 +812,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "Shake Shack第一季度营收不及预期，并宣布任命新任首席财务官，股价盘前暴跌20%。",
+          "url": "https://flash.jin10.com/detail/20260507191903079800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
           "title": "美股收盘：英伟达市值重回5万亿 金龙指数涨3.4%",
           "url": "https://flash.jin10.com/detail/20260507040122273800",
           "source": "金十数据",
@@ -781,7 +851,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -800,8 +870,19 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "飞书深诺Meetsocial完成对4KMILES的战略并购，补齐跨境电商全链路关键拼图",
+          "url": "https://wallstreetcn.com/livenews/3099983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
         {
           "title": "广深港高铁“五一”假期运送跨境旅客59.6万人次",
           "url": "https://wallstreetcn.com/livenews/3099754",
