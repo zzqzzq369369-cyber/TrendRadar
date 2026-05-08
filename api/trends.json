@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T08:03:16.514432+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-05-08T12:16:42.472395+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 08时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 12时16分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -28,6 +28,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时49分 ~ 04时15分]"
+        },
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 12时16分]"
         },
         {
           "title": "“全球大模型第一股”智谱3.6亿在京买楼背后：电商掀起买地潮 下一波扫楼的是谁？",
@@ -56,28 +70,27 @@
           "time_info": "[00时49分 ~ 08时03分]"
         },
         {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 08时03分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
           "url": "https://www.cls.cn/detail/2365503",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时16分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗发布打击美国军舰视频",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时16分"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -86,11 +99,23 @@
           "ranks": [
             30,
             26,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 08时03分]"
+          "appearance_count": 6,
+          "time_info": "[02时23分 ~ 12时16分]"
+        },
+        {
+          "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
+          "url": "https://flash.jin10.com/detail/20260508121027450800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "加码科技金融，中小银行盼AIC试点扩容",
@@ -115,6 +140,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 04时15分]"
+        },
+        {
+          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
+          "url": "https://www.cls.cn/detail/2365476",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "Anthropic将筹集百亿剑指算力 估值或近万亿超OpenAI",
+          "url": "https://flash.jin10.com/detail/20260508120310089800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
@@ -145,9 +192,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
@@ -156,9 +214,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "剑指“成本焦虑”：商汤发布SenseNova Token Plan，首月高频限免",
+          "url": "https://wallstreetcn.com/livenews/3100376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
@@ -170,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "OpenAI：开始向用户推出“可信联系人”功能。",
@@ -227,6 +307,28 @@
           "time_info": "00时49分"
         },
         {
+          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
+          "url": "https://www.zhihu.com/question/2035662942067225907",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508114512303800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
           "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3100130",
           "source": "华尔街见闻-快讯",
@@ -236,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报192250元/吨，较上日16:30价格上涨1500元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3100353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         },
         {
           "title": "美联储卡什卡利：对人工智能持乐观态度。",
@@ -307,9 +420,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时16分]"
+        },
+        {
+          "title": "英伟达“亲儿子”CoreWeave今夜迎财报大考！暴涨245%后，市场开始担心三件事",
+          "url": "https://wallstreetcn.com/articles/3771762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时14分 ~ 12时16分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -356,19 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "英伟达“亲儿子”CoreWeave今夜迎财报大考！暴涨245%后，市场开始担心三件事",
-          "url": "https://wallstreetcn.com/articles/3771762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 08时03分]"
         },
         {
           "title": "周四（5月7日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8078元，较周三纽约尾盘涨54点，日内整体交投于6.8135-6.7957元区间，亚太尾盘至美股早盘曾涨穿6.8元。",
