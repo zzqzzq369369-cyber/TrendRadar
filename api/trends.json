@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T20:09:39.621925+08:00",
-  "total_titles_processed": 1401,
+  "generated_at": "2026-05-08T22:51:31.327842+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -70,6 +70,21 @@
           "time_info": "[02时23分 ~ 14时52分]"
         },
         {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 22时51分]"
+        },
+        {
           "title": "“全球大模型第一股”智谱3.6亿在京买楼背后：电商掀起买地潮 下一波扫楼的是谁？",
           "url": "https://www.cls.cn/detail/2365364",
           "source": "财联社热门",
@@ -108,6 +123,20 @@
           "time_info": "[08时03分 ~ 12时16分]"
         },
         {
+          "title": "钱江摩托发布声明：“国内摩托车大厂围剿张雪机车”系不实言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120361",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 22时51分]"
+        },
+        {
           "title": "助力统一大市场建设 国内贸易交易指引今日发布",
           "url": "https://wallstreetcn.com/livenews/3100537",
           "source": "华尔街见闻-快讯",
@@ -119,18 +148,15 @@
           "time_info": "16时24分"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
+          "title": "美国发布有关UFO的文件",
+          "url": "https://www.toutiao.com/trending/7637398785416613417/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            13,
-            10,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 20时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "助力统一大市场建设 国内贸易交易指引今日发布",
@@ -142,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
@@ -161,7 +198,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -171,24 +208,25 @@
           "source": "今日头条",
           "ranks": [
             27,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 22时51分]"
         },
         {
-          "title": "钱江摩托发布声明：“国内摩托车大厂围剿张雪机车”系不实言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120361",
-          "source": "澎湃新闻",
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            15,
-            14
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 22时51分]"
         },
         {
           "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
@@ -222,23 +260,12 @@
           "ranks": [
             17,
             10,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 20时09分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 20时09分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 22时51分]"
         },
         {
           "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
@@ -337,7 +364,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -384,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "GAI新歌星梦MV",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "剑指“成本焦虑”：商汤发布SenseNova Token Plan，首月高频限免",
@@ -507,6 +545,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "报道：因担忧人工智能，TCI将微软持仓降至投资组合的1%",
+          "url": "https://wallstreetcn.com/livenews/3100790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2035645446962549472",
           "source": "知乎",
@@ -612,7 +661,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -653,7 +702,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -664,8 +713,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时03分 ~ 20时09分]"
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 22时51分]"
         },
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -807,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "美股三大指数集体高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "Coinbase连续第二个季度亏损，受累于加密货币交易动能减弱",
