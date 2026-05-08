@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T12:16:42.472395+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-05-08T14:52:15.803035+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 12时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 14时52分]"
+        },
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时23分 ~ 14时52分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -30,18 +44,30 @@
           "time_info": "[00时49分 ~ 04时15分]"
         },
         {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
+          "title": "伊朗战争丨伊朗发布打击美国军舰视频",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时23分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时52分]"
+        },
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            26,
+            28,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时23分 ~ 14时52分]"
         },
         {
           "title": "“全球大模型第一股”智谱3.6亿在京买楼背后：电商掀起买地潮 下一波扫楼的是谁？",
@@ -82,38 +108,13 @@
           "time_info": "[08时03分 ~ 12时16分]"
         },
         {
-          "title": "伊朗战争丨伊朗发布打击美国军舰视频",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26,
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 12时16分]"
-        },
-        {
           "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
           "url": "https://flash.jin10.com/detail/20260508121027450800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -130,6 +131,42 @@
           "time_info": "[07时01分 ~ 08时03分]"
         },
         {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时52分]"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时52分]"
+        },
+        {
+          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
+          "url": "https://www.zhihu.com/question/2035662942067225907",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时52分]"
+        },
+        {
           "title": "报道：美伊战争消息发布前的油价博弈总额达70亿美元",
           "url": "https://wallstreetcn.com/livenews/3100144",
           "source": "华尔街见闻-快讯",
@@ -142,13 +179,46 @@
           "time_info": "[02时23分 ~ 04时15分]"
         },
         {
+          "title": "AI四小龙估值破万亿",
+          "url": "https://www.toutiao.com/trending/7637337803117825590/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 14时52分]"
+        },
+        {
+          "title": "钱江摩托发布声明：“国内摩托车大厂围剿张雪机车”系不实言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120361",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 14时52分]"
+        },
+        {
+          "title": "科技行业裁员或体现在美国4月非农中，但AI担忧或被夸大",
+          "url": "https://flash.jin10.com/detail/20260508142001821800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
           "url": "https://www.cls.cn/detail/2365476",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -159,7 +229,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -197,17 +267,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
           "url": "https://wallstreetcn.com/livenews/3100252",
           "source": "华尔街见闻-快讯",
@@ -225,7 +284,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -241,17 +300,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
           "title": "OpenAI：开始向用户推出“可信联系人”功能。",
           "url": "https://flash.jin10.com/detail/20260508015927604800",
           "source": "金十数据",
@@ -261,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "AI建设热潮持续，台积电4月营收增长17.5%",
+          "url": "https://flash.jin10.com/detail/20260508141054350800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -296,6 +355,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "印度外交部：外交部长与阿联酋国际合作国务部长和法国欧洲与外交事务部秘书长于2026年5月7日在阿布扎比参加了印度-阿联酋-法国三方会议。 会议讨论了在人工智能、太空和文化遗产领域的战略合作。各方一致同意以结构化方式推进三方合作。",
+          "url": "https://flash.jin10.com/detail/20260508140704728800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2035645446962549472",
           "source": "知乎",
@@ -307,15 +377,15 @@
           "time_info": "00时49分"
         },
         {
-          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
-          "url": "https://www.zhihu.com/question/2035662942067225907",
-          "source": "知乎",
+          "title": "新紫光发布“紫弦”近存计算架构",
+          "url": "https://wallstreetcn.com/livenews/3100438",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "14时52分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-05-08）",
@@ -324,7 +394,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -346,7 +416,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
@@ -401,6 +471,17 @@
           "time_info": "[00时49分 ~ 05时57分]"
         },
         {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 14时52分]"
+        },
+        {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
           "url": "https://wallstreetcn.com/articles/3771706",
           "source": "华尔街见闻",
@@ -414,17 +495,6 @@
           "time_info": "[00时49分 ~ 08时03分]"
         },
         {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时16分]"
-        },
-        {
           "title": "英伟达“亲儿子”CoreWeave今夜迎财报大考！暴涨245%后，市场开始担心三件事",
           "url": "https://wallstreetcn.com/articles/3771762",
           "source": "华尔街见闻",
@@ -434,8 +504,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 12时16分]"
+          "appearance_count": 8,
+          "time_info": "[04时14分 ~ 14时52分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
