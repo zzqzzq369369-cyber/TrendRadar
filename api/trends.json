@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:51:51.187699+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-05-10T21:16:27.227240+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -73,6 +73,19 @@
           "time_info": "[00时54分 ~ 14时22分]"
         },
         {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时47分 ~ 21时16分]"
+        },
+        {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
           "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
@@ -86,19 +99,6 @@
           "time_info": "[00时54分 ~ 16时53分]"
         },
         {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时47分 ~ 19时51分]"
-        },
-        {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
@@ -110,6 +110,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时47分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 21时16分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -164,30 +177,18 @@
           "time_info": "[00时54分 ~ 06时42分]"
         },
         {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 19时51分]"
-        },
-        {
           "title": "妈妈的AI在岁月里具象",
           "url": "https://www.douyin.com/hot/2494006",
           "source": "抖音",
           "ranks": [
             5,
             10,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 21时16分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -280,6 +281,32 @@
           "time_info": "[16时53分 ~ 18时14分]"
         },
         {
+          "title": "微信又有新功能 网友：好用",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E6%9C%89%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%A5%BD%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时16分]"
+        },
+        {
+          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
+          "url": "https://wallstreetcn.com/livenews/3101113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时16分]"
+        },
+        {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
           "source": "澎湃新闻",
@@ -294,29 +321,30 @@
           "time_info": "[07时47分 ~ 16时53分]"
         },
         {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时51分]"
-        },
-        {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
           "url": "https://www.cls.cn/detail/2367107",
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 21时16分]"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 21时16分]"
         },
         {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
@@ -329,18 +357,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时47分 ~ 14时22分]"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 18时14分]"
         },
         {
           "title": "AI基础设施投资风向转变：AMD、英特尔与美光飙涨，英伟达光环渐褪",
@@ -377,13 +393,35 @@
           "time_info": "07时47分"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "中央气象台发布强对流天气蓝色预警",
+          "url": "https://www.toutiao.com/trending/7637856670856986687/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -397,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
-        },
-        {
-          "title": "微信又有新功能 网友：好用",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%8F%88%E6%9C%89%E6%96%B0%E5%8A%9F%E8%83%BD+%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%A5%BD%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "上海科创基金总裁杨斌：人工智能带来的不仅是技术层面的迭代 而是生产要素的革命性重构",
@@ -461,8 +488,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 21时16分]"
         },
         {
           "title": "遭恶意退款榴莲店家询单量暴涨",
@@ -513,7 +540,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "单季净赚百亿！“华尔街最赚钱的巨头”，你可能都没听过",
@@ -544,11 +571,23 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BB%A1%E5%A4%A7%E8%A1%97%E7%9A%84%E5%85%85%E7%94%B5%E6%A1%A9%E6%B2%A1%E5%87%A0%E4%B8%AA%E8%B5%9A%E9%92%B1",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时16分]"
+        },
+        {
+          "title": "申万宏源：A股赚钱效应累积正在质变",
+          "url": "https://www.toutiao.com/trending/7638180405157822506/",
+          "source": "今日头条",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时51分"
+          "time_info": "21时16分"
         }
       ]
     },
