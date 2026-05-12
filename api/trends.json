@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T11:29:58.311335+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-05-12T14:43:57.924265+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 11时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 14时43分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -32,11 +32,12 @@
             20,
             25,
             24,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 11时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 14时43分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -48,11 +49,12 @@
             18,
             15,
             16,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 11时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 14时43分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -64,11 +66,12 @@
             24,
             23,
             21,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 11时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 14时43分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -77,9 +80,42 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 14时43分]"
+        },
+        {
+          "title": "宇树科技发布载人变形机甲 390万元起",
+          "url": "https://www.toutiao.com/trending/7638860347448757798/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "14时43分"
+        },
+        {
+          "title": "宇树发布载人变形机甲 390万元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2+390%E4%B8%87%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "宇树发布载人变形机甲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -99,7 +135,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -121,7 +157,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -161,15 +197,49 @@
           "time_info": "[04时49分 ~ 06时08分]"
         },
         {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 14时43分]"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "韩国总统府政策室长金容范称，人工智能公民红利并不意味着暴利税。",
           "url": "https://wallstreetcn.com/livenews/3101985",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "上海AI实验室联合团队攻克芯片核心材料光刻胶稳定制备难题",
@@ -178,7 +248,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -189,7 +259,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -211,7 +281,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -255,20 +325,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
         {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "14时43分"
         },
         {
           "title": "我国牵头制定5项天然气国际标准发布",
@@ -337,6 +407,28 @@
           "time_info": "04时49分"
         },
         {
+          "title": "北京“两区”数据出境负面清单发布 国内首批拓展至全市域",
+          "url": "https://wallstreetcn.com/livenews/3102040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "国产AI爱死机到底怎么做出来的",
+          "url": "https://www.douyin.com/hot/2495617",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "AI会取代哪些职业？多个AI意见不统一",
           "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
           "source": "百度热搜",
@@ -362,7 +454,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -396,8 +488,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 11时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 14时43分]"
         },
         {
           "title": "大作缺席,任天堂股价暴跌",
@@ -405,11 +497,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 11时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 14时43分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -420,8 +513,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时07分 ~ 11时29分]"
+          "appearance_count": 6,
+          "time_info": "[06时07分 ~ 14时43分]"
         },
         {
           "title": "报道：对冲基金在诉讼融资资产暴跌之际入场",
@@ -435,6 +528,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
           "url": "https://wallstreetcn.com/livenews/3101855",
           "source": "华尔街见闻-快讯",
@@ -444,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美日短线暴跌近百点！贝森特到访东京之际，当局又“秀肌肉”？",
+          "url": "https://flash.jin10.com/detail/20260512143605829800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
@@ -482,6 +597,29 @@
           "time_info": "[04时49分 ~ 06时08分]"
         },
         {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 14时43分]"
+        },
+        {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 14时43分]"
+        },
+        {
           "title": "能源业ETF收涨超2.6%，与半导体ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3101849",
           "source": "华尔街见闻-快讯",
@@ -492,28 +630,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时08分]"
-        },
-        {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         },
         {
           "title": "“大空头”：任何暴涨走抛物线行情的股票，都应清仓",
@@ -641,20 +757,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 14时43分]"
         },
         {
           "title": "演员张静初带货优思益翻车，47 名消费者退款无门拟集体起诉，对张静初影响有多大？起诉能拿回钱吗？",
           "url": "https://www.zhihu.com/question/2036793564118480454",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 14时43分]"
         }
       ]
     },
