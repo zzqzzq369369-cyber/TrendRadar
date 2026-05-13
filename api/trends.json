@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-13T08:20:20.475241+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-05-13T12:43:30.076273+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 12时43分]"
+        },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
@@ -20,28 +33,16 @@
           "time_info": "[01时10分 ~ 08时20分]"
         },
         {
-          "title": "宇树发布首款载人变形机甲：一拳能锤倒砖墙，售价390万元起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33162316",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 08时20分]"
-        },
-        {
           "title": "钢铁侠成真!宇树发布载人机甲",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 08时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 12时43分]"
         },
         {
           "title": "宇树发布载人变形机甲",
@@ -57,6 +58,21 @@
           "time_info": "[01时10分 ~ 07时01分]"
         },
         {
+          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
+          "url": "https://wallstreetcn.com/articles/3772081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 12时43分]"
+        },
+        {
           "title": "宇树发布 GD01 载人变形机甲，定价 390 万元起，目标客户可能是谁？这一定价合理吗？",
           "url": "https://www.zhihu.com/question/2037512541304262884",
           "source": "知乎",
@@ -68,6 +84,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时10分 ~ 07时01分]"
+        },
+        {
+          "title": "SMM发布关于升级“SMM碳酸锂样本周度库存数据”的公告",
+          "url": "https://flash.jin10.com/detail/20260513123051751800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            15,
+            16,
+            22,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 12时43分]"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -82,41 +124,12 @@
           "time_info": "[01时10分 ~ 08时20分]"
         },
         {
-          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
-          "url": "https://wallstreetcn.com/articles/3772081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 08时20分]"
-        },
-        {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
           "url": "https://www.cls.cn/detail/2369195",
           "source": "财联社热门",
           "ranks": [
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 08时20分]"
-        },
-        {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            15,
-            16,
-            22,
-            13
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -187,6 +200,18 @@
           "time_info": "[03时50分 ~ 07时01分]"
         },
         {
+          "title": "澎湃暗访后，河南老君山景区发布整改声明并致歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33166482",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 12时43分]"
+        },
+        {
           "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
           "url": "https://wallstreetcn.com/livenews/3102476",
           "source": "华尔街见闻-快讯",
@@ -197,6 +222,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 05时19分]"
+        },
+        {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 12时43分]"
+        },
+        {
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 12时43分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
@@ -222,26 +271,37 @@
           "time_info": "[03时50分 ~ 05时19分]"
         },
         {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
+          "title": "百度智能云：已服务超1000家AI硬件公司，全球Top10手机厂商全部在列",
+          "url": "https://wallstreetcn.com/livenews/3102702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "豆包收费 大模型将告别免费时代",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时20分"
+          "time_info": "12时43分"
         },
         {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
+          "title": "弗洛伦蒂诺皇马发布会解读",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%97%E6%B4%9B%E4%BC%A6%E8%92%82%E8%AF%BA%E7%9A%87%E9%A9%AC%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时20分"
+          "time_info": "12时43分"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -255,6 +315,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "AI世界的“原油期货”要来了：芝商所官宣将推出算力期货市场",
+          "url": "https://www.cls.cn/detail/2369513",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
           "url": "https://wallstreetcn.com/livenews/3102501",
           "source": "华尔街见闻-快讯",
@@ -264,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "腾讯元宝上线新功能：支持总结微信聊天记录",
+          "url": "https://wallstreetcn.com/livenews/3102693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
@@ -277,15 +359,15 @@
           "time_info": "07时01分"
         },
         {
-          "title": "澎湃暗访后，河南老君山景区发布整改声明并致歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33166482",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-13）",
+          "url": "https://flash.jin10.com/detail/20260513120124433800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时20分"
+          "time_info": "12时43分"
         },
         {
           "title": "据The Information：Anthropic正在与开发工具初创公司Stainless进行深入洽谈，收购金额至少为3亿美元。",
@@ -343,6 +425,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/j3NUkKt32vCzV1bQLzUpu.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260513120011016800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "据华尔街日报：YouTube借助人工智能帮助，正向各类广告主承诺全方位服务。",
           "url": "https://flash.jin10.com/detail/20260513060227809800",
           "source": "金十数据",
@@ -371,7 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -382,7 +475,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -415,7 +508,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         }
@@ -423,7 +516,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
@@ -432,11 +525,12 @@
           "ranks": [
             4,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 08时20分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 12时43分]"
         },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -450,6 +544,30 @@
           "time_info": "[01时10分 ~ 07时01分]"
         },
         {
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 12时43分]"
+        },
+        {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时20分 ~ 12时43分]"
+        },
+        {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
           "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
@@ -460,29 +578,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 03时50分]"
-        },
-        {
-          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2369590",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时20分]"
-        },
-        {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时20分"
         },
         {
           "title": "数字货币市场刷新日低，比特币快速跌穿8万美元整数位心理关口",
@@ -541,6 +636,19 @@
           "time_info": "[01时10分 ~ 08时20分]"
         },
         {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 12时43分]"
+        },
+        {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
           "url": "https://wallstreetcn.com/articles/3772023",
           "source": "华尔街见闻",
@@ -552,16 +660,26 @@
           "time_info": "[01时10分 ~ 05时19分]"
         },
         {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
+          "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
+          "url": "https://www.cls.cn/detail/2369664",
+          "source": "财联社热门",
           "ranks": [
-            10,
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "投资者在担心什么？美股芯片板块集体回调 市场静待英伟达财报定方向",
+          "url": "https://www.cls.cn/detail/2369669",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌3%，布油基金涨3.4%",
@@ -581,7 +699,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -614,9 +732,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
+        },
+        {
+          "title": "铜银单日暴涨，黄金为何没跟？",
+          "url": "https://flash.jin10.com/detail/20260513120012556800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美股大类资产类ETF多数收跌",
@@ -625,7 +754,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时20分"
         },
@@ -668,6 +797,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek-TUI 霸榜 GitHub，小白不到 10 元开发应用，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2036544679387341657",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     }
