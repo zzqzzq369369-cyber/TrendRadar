@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T06:10:50.801665+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-05-14T07:57:59.443612+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "马化腾回应AI掉队",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
         },
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
         },
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
@@ -38,11 +40,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -51,11 +54,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -65,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
         },
         {
           "title": "与英伟达不存在任何业务关系！330亿光纤概念股发布澄清公告|盘后公告集锦",
@@ -75,11 +79,62 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
+        },
+        {
+          "title": "弗洛伦蒂诺皇马发布会解读",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%97%E6%B4%9B%E4%BC%A6%E8%92%82%E8%AF%BA%E7%9A%87%E9%A9%AC%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
+        },
+        {
+          "title": "如何看待宇树发布载人机甲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
+        },
+        {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
+        },
+        {
+          "title": "钢铁侠成真!宇树发布载人机甲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -93,61 +148,13 @@
           "time_info": "[00时20分 ~ 06时10分]"
         },
         {
-          "title": "弗洛伦蒂诺皇马发布会解读",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%97%E6%B4%9B%E4%BC%A6%E8%92%82%E8%AF%BA%E7%9A%87%E9%A9%AC%E5%8F%91%E5%B8%83%E4%BC%9A%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
-        },
-        {
-          "title": "如何看待宇树发布载人机甲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
-        },
-        {
-          "title": "AI续写轻音少女第三季",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
-        },
-        {
-          "title": "钢铁侠成真!宇树发布载人机甲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354208&amp;topic_name=%E9%92%A2%E9%93%81%E4%BE%A0%E6%88%90%E7%9C%9F%21%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
-        },
-        {
           "title": "美国国会山两党议员们就AI网络威胁发函白宫，要求就此问题采取行动。 信函中提及Anthropic的大模型Mythos。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3103241",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -174,6 +181,19 @@
           "time_info": "00时21分"
         },
         {
+          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
+          "url": "https://www.cls.cn/detail/2370586",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 07时57分]"
+        },
+        {
           "title": "思科盘后涨幅扩大至15%。该公司预计，2026财年，超大规模云服务商（Hyperscalers）AI基础设施订单将高达90亿美元。所给业绩指引超过市场预期，宣布裁员不到4000人。",
           "url": "https://wallstreetcn.com/livenews/3103218",
           "source": "华尔街见闻-快讯",
@@ -196,19 +216,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 06时10分]"
-        },
-        {
-          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
-          "url": "https://www.cls.cn/detail/2370586",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时03分 ~ 06时10分]"
         },
         {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
@@ -235,6 +242,17 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时57分]"
+        },
+        {
           "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
           "url": "https://wallstreetcn.com/livenews/3103184",
           "source": "华尔街见闻-快讯",
@@ -258,15 +276,15 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
+          "title": "思科美股盘后大涨20%，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/3103271",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时57分"
         },
         {
           "title": "市场消息：法国科技与人工智能公司Mistral为无法使用Mythos模型的银行开发新AI模型。",
@@ -286,7 +304,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -302,13 +320,24 @@
           "time_info": "04时46分"
         },
         {
+          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
+          "url": "https://www.cls.cn/detail/2370695",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "阿联酋外交部：这些关系并非建立在保密基础之上，因此，任何有关“未公开访问”或相关安排的说法，除非由阿联酋官方正式发布，否则均毫无根据。",
           "url": "https://flash.jin10.com/detail/20260514043037748800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -352,9 +381,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "法国西南部吉伦特省13日发布公报确认，停泊在该省波尔多市的“雄心”号邮轮发生的感染事件是由诺如病毒引发。",
+          "url": "https://flash.jin10.com/detail/20260514072744818800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "美联储调查：四分之一的劳动者表示，在过去一个月内曾在工作中使用生成式人工智能。",
@@ -385,7 +425,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -426,7 +466,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -447,11 +487,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 07时57分]"
         },
         {
           "title": "美国参议院共和党成员Kennedy将支持加密货币立法草案。（PunchBowl）",
@@ -489,6 +530,18 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
+          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
+          "url": "https://www.cls.cn/detail/2370687",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时57分]"
+        },
+        {
           "title": "思科(CSCO.O)美股盘后上涨超7%。",
           "url": "https://flash.jin10.com/detail/20260514040733737800",
           "source": "金十数据",
@@ -501,15 +554,26 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
-          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
-          "url": "https://www.cls.cn/detail/2370687",
-          "source": "财联社热门",
+          "title": "美国4月PPI飙升至2022年来最高，能源成本单月暴涨7.8%，加息押注升温",
+          "url": "https://wallstreetcn.com/articles/3772201",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时57分"
+        },
+        {
+          "title": "思科(CSCO.O)美股盘后大涨20%，其业绩指引超预期。",
+          "url": "https://flash.jin10.com/detail/20260514074304593800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览（美股收盘）",
@@ -551,9 +615,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "美股芯片股遭抛售潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE%E6%BD%AE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     }
