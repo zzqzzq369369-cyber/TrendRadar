@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T19:52:21.569718+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-05-14T22:11:19.279074+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -73,11 +73,12 @@
             10,
             19,
             22,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 19时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 22时11分]"
         },
         {
           "title": "弗洛伦蒂诺皇马发布会解读",
@@ -91,8 +92,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 19时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 22时11分]"
         },
         {
           "title": "如何看待宇树发布载人机甲",
@@ -240,6 +241,19 @@
           "time_info": "[07时57分 ~ 11时38分]"
         },
         {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 22时11分]"
+        },
+        {
           "title": "思科盘后涨幅扩大至15%。该公司预计，2026财年，超大规模云服务商（Hyperscalers）AI基础设施订单将高达90亿美元。所给业绩指引超过市场预期，宣布裁员不到4000人。",
           "url": "https://wallstreetcn.com/livenews/3103218",
           "source": "华尔街见闻-快讯",
@@ -277,6 +291,20 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 22时11分]"
+        },
+        {
           "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
           "url": "https://www.zhihu.com/question/2037950969506428373",
           "source": "知乎",
@@ -288,19 +316,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时37分 ~ 17时46分]"
-        },
-        {
-          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 19时52分]"
         },
         {
           "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
@@ -325,18 +340,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 14时46分]"
-        },
-        {
-          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
-          "url": "https://www.zhihu.com/question/2037926535315677917",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 19时52分]"
         },
         {
           "title": "消息人士：微软正探索与人工智能初创公司达成交易，以为“后OpenAI时代”做准备。微软曾考虑收购Cursor，但因反垄断担忧而放弃。微软已与人工智能初创公司Inception讨论交易事宜。Inception已聘请一家银行，就至少10亿美元的交易进行谈判。",
@@ -507,6 +510,17 @@
           "time_info": "14时46分"
         },
         {
+          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2371414",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "阿联酋外交部：这些关系并非建立在保密基础之上，因此，任何有关“未公开访问”或相关安排的说法，除非由阿联酋官方正式发布，否则均毫无根据。",
           "url": "https://flash.jin10.com/detail/20260514043037748800",
           "source": "金十数据",
@@ -529,6 +543,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "市场监管总局：加快推进“互联网+AI监管”建设，治理网络餐饮、网红食品等问题",
+          "url": "https://wallstreetcn.com/livenews/3103743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "OpenAI回应TanStack供应链攻击：未发现用户数据泄露",
           "url": "https://wallstreetcn.com/livenews/3103488",
           "source": "华尔街见闻-快讯",
@@ -546,7 +571,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -579,7 +604,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -601,7 +626,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -612,7 +637,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -634,7 +659,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -656,7 +681,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -681,6 +706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "黄仁勋谈中国AI发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美联储调查：四分之一的劳动者表示，在过去一个月内曾在工作中使用生成式人工智能。",
@@ -722,7 +758,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -736,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "黄仁勋：AI已为中国带来新的机遇",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E5%B7%B2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%B8%A6%E6%9D%A5%E6%96%B0%E7%9A%84%E6%9C%BA%E9%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
@@ -766,7 +813,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -796,7 +843,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -856,7 +903,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -870,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美股三大股指小幅高开，光通信概念股POET涨超30%",
+          "url": "https://wallstreetcn.com/livenews/3103752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
@@ -896,18 +954,6 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
-          "title": "“最大硅光客户”13亿美元锁定产能！英伟达合作商股价暴涨",
-          "url": "https://www.cls.cn/detail/2370991",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 19时52分]"
-        },
-        {
           "title": "卢比暴跌,莫迪喊你少吃肉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354267&amp;topic_name=%E5%8D%A2%E6%AF%94%E6%9A%B4%E8%B7%8C%2C%E8%8E%AB%E8%BF%AA%E5%96%8A%E4%BD%A0%E5%B0%91%E5%90%83%E8%82%89",
           "source": "贴吧",
@@ -915,6 +961,18 @@
             10,
             12,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 22时11分]"
+        },
+        {
+          "title": "“最大硅光客户”13亿美元锁定产能！英伟达合作商股价暴涨",
+          "url": "https://www.cls.cn/detail/2370991",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -945,13 +1003,35 @@
           "time_info": "[04时46分 ~ 06时10分]"
         },
         {
+          "title": "金十图示：2026年05月14日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260514214916462800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2371660",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "加拿大鹅第四财季营收为4.533亿加元，预估为4.097亿加元。 第四财季非国际财务报告准则调整后息税前利润为6490万加元，预估为6100万加元。 第四财季非国际财务报告准则调整后每股收益为0.37加元，预估为0.39加元。 加拿大鹅美股盘前微跌。",
           "url": "https://wallstreetcn.com/livenews/3103672",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -965,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3103741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览（美股收盘）",
@@ -1011,6 +1102,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "美股开盘，道指涨0.8%、标普500指数涨0.21%、纳指涨0.09%。明星科技股涨跌分化，思科(CSCO.O)大涨超15%，英伟达(NVDA.O)涨1.8%，股价均续创历史新高；英特尔(INTC.O)跌4.5%，阿里巴巴(BABA.N)跌3.5%，高通(QCOM.O)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260514213022478800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "美股盘前，英伟达涨超2%；存储芯片概念股普跌，美光科技、闪迪均跌超1%。思科盘前涨近20%，第三季度营收超预期并宣布裁员。",
           "url": "https://wallstreetcn.com/livenews/3103563",
           "source": "华尔街见闻-快讯",
@@ -1020,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "美股强劲但资金“掉队”？杰富瑞：这或是美股的最强支撑！",
+          "url": "https://flash.jin10.com/detail/20260514212549180800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美股芯片股遭抛售潮",
