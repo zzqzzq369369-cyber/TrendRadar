@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T19:56:32.516432+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-05-15T22:04:53.412764+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -95,17 +95,6 @@
           "time_info": "[01时01分 ~ 07时57分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时56分]"
-        },
-        {
           "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
           "url": "https://flash.jin10.com/detail/20260515004813773800",
           "source": "金十数据",
@@ -145,6 +134,29 @@
           "time_info": "[01时01分 ~ 06时11分]"
         },
         {
+          "title": "AI浪潮助推科技股，全球股票基金连续第八周吸金",
+          "url": "https://wallstreetcn.com/livenews/3104504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时04分]"
+        },
+        {
           "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
           "url": "https://www.zhihu.com/question/2018783635805860978",
           "source": "知乎",
@@ -165,9 +177,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
+        },
+        {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 22时04分]"
         },
         {
           "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
@@ -207,6 +232,19 @@
           "time_info": "[03时01分 ~ 04时41分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 22时04分]"
+        },
+        {
           "title": "AI还原烂梗有多毒",
           "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -219,29 +257,41 @@
           "time_info": "[01时01分 ~ 07时57分]"
         },
         {
-          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
-          "source": "澎湃新闻",
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 19时56分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             8,
-            9
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时55分 ~ 19时56分]"
+          "time_info": "[17时48分 ~ 22时04分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时04分]"
+        },
+        {
+          "title": "中证协发布投资者保护重要“行标”",
+          "url": "https://www.cls.cn/detail/2372324",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 22时04分]"
         },
         {
           "title": "腾讯辟谣“AI一号位即将离职”",
@@ -253,42 +303,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 17时48分]"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时56分]"
-        },
-        {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时56分]"
-        },
-        {
-          "title": "中证协发布投资者保护重要“行标”",
-          "url": "https://www.cls.cn/detail/2372324",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时56分]"
         },
         {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
@@ -475,7 +489,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -497,7 +511,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -508,7 +522,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -522,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
@@ -654,12 +679,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "美股开盘，道指跌0.66%，标普500指数跌0.85%，纳指跌1.3%。AI芯片股普跌，英特尔(INTC.O)跌超5%，百度(BIDU.O)跌近4%，AMD(AMD.O)跌3.5%，英伟达(NVDA.O)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260515213022273800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -671,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时10分 ~ 19时56分]"
+          "appearance_count": 8,
+          "time_info": "[06时10分 ~ 22时04分]"
         },
         {
           "title": "下午3点半，员工厕所“爆满”，大家都在看股票账户！韩国股市暴涨，散户疯狂涌入，全国人口5100万，活跃股票账户超1亿",
@@ -721,6 +757,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时57分]"
+        },
+        {
+          "title": "美股白银股普跌，Silvercorp Metals(SVM.A)一度跌9.3%，Endeavour Silver(EXK.N)跌8.8%，科尔黛伦矿业(CDE.N)、Hecla Mining跌超8%。",
+          "url": "https://flash.jin10.com/detail/20260515215145414800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "全球长债收益率飙升，美股低开，英伟达跌4%，白银大跌9%，黄金跌3%",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
@@ -849,6 +907,28 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美股三大股指低开低走，道指跌超1%，纳指跌1.8%，标普500指数跌1.27%。纳斯达克中国金龙指数跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260515214546798800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美股跌幅扩大，纳指跌2%，费城半导体指数跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3104498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美股光通信妖股POET暴涨超30% 披露光引擎采购大单",
           "url": "https://www.cls.cn/detail/2371779",
           "source": "财联社热门",
@@ -904,6 +984,39 @@
           "time_info": "04时41分"
         },
         {
+          "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260515214213453800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "供不应求 特种光纤价格暴涨10倍",
+          "url": "https://wallstreetcn.com/livenews/3104490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "供不应求，特种光纤价格暴涨10倍，国产光纤光模块卖爆全球",
+          "url": "https://flash.jin10.com/detail/20260515214001658800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "数字货币普遍走高，加密货币监管草案在美国参议院通过一道障碍",
           "url": "https://wallstreetcn.com/livenews/3103845",
           "source": "华尔街见闻-快讯",
@@ -913,6 +1026,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美股三大股指集体低开，道指跌0.66%，标普500指数跌0.85%，纳指跌1.3%。科技股多数下跌，英特尔、美光科技跌超5%，英伟达跌超2%。微软开盘涨1%，比尔·阿克曼表示，潘兴广场重仓微软。美股黄金股普跌，哈莫尼黄金跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3104481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美股三大股指低开 芯片股集体下挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E4%BD%8E%E5%BC%80+%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E4%B8%8B%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "美股黄金矿业股普跌，哈莫尼黄金(HMY.N)跌7.1%，Sibanye-Stillwater(SBSW.N)、AngloGold Ashanti(AU.N)跌超6.5%，金罗斯黄金(KGC.N)跌5.2%；SPDR黄金ETF下跌2.4%。",
+          "url": "https://flash.jin10.com/detail/20260515213642166800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美股股指期货持续下挫，纳指期货跌幅扩大至1%，标普500指数期货跌0.60%。",
@@ -929,7 +1075,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "库什纳旗下Thrive Capital对Shopify投资1亿美元。",
@@ -941,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "【司法部认定欧盟相关跨境调查做法构成不当域外管辖措施】中华人民共和国司法部今日发布公告，根据《中华人民共和国反外国不当域外管辖条例》第三条、第六条等规定，司法部会同商务部等有关部门调查认定，欧盟利用其《外国补贴条例》在对同方威视调查中对中国实体采取的相关跨境调查做法，构成不当域外管辖措施。 任何组织、个人不得执行或者协助执行该不当域外管辖措施。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         }
       ]
     },
