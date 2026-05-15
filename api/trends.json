@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T11:37:18.291401+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-05-15T14:55:27.062892+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -35,6 +35,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时57分]"
+        },
+        {
+          "title": "【早报】算力“入海”！全球首个海底数据中心实现淡水零消耗；中芯国际、华虹公司发布一季报",
+          "url": "https://www.cls.cn/detail/2371850",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时55分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -83,18 +95,6 @@
           "time_info": "[01时01分 ~ 07时57分]"
         },
         {
-          "title": "【早报】算力“入海”！全球首个海底数据中心实现淡水零消耗；中芯国际、华虹公司发布一季报",
-          "url": "https://www.cls.cn/detail/2371850",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时37分]"
-        },
-        {
           "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
           "url": "https://flash.jin10.com/detail/20260515004813773800",
           "source": "金十数据",
@@ -134,17 +134,6 @@
           "time_info": "[01时01分 ~ 06时11分]"
         },
         {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
           "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
           "url": "https://flash.jin10.com/detail/20260515041632296800",
           "source": "金十数据",
@@ -182,6 +171,18 @@
           "time_info": "[03时01分 ~ 04时41分]"
         },
         {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 14时55分]"
+        },
+        {
           "title": "AI还原烂梗有多毒",
           "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 07时57分]"
+        },
+        {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 14时55分]"
         },
         {
           "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
@@ -228,6 +240,28 @@
           "time_info": "[07时57分 ~ 11时37分]"
         },
         {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 14时55分]"
+        },
+        {
+          "title": "鸿蒙智行智界V9上市发布会",
+          "url": "https://www.baidu.com/s?wd=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E6%99%BA%E7%95%8CV9%E4%B8%8A%E5%B8%82%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
           "url": "https://wallstreetcn.com/livenews/3103910",
           "source": "华尔街见闻-快讯",
@@ -245,7 +279,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -261,24 +295,24 @@
           "time_info": "03时01分"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "如何评价 LoL 设计师在 26.10 版本突然发布的兵线改动？",
           "url": "https://www.zhihu.com/question/2038269362247836045",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -289,7 +323,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -305,15 +339,15 @@
           "time_info": "03时01分"
         },
         {
-          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
-          "source": "澎湃新闻",
+          "title": "中央气象台发布暴雨蓝色预警",
+          "url": "https://www.toutiao.com/trending/7639682686174298148/",
+          "source": "今日头条",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "14时55分"
         },
         {
           "title": "据CNBC：消息人士称，SpaceX的首次公开募股（IPO）招股说明书最快可能于下周发布。",
@@ -338,6 +372,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "广东珠海发布暴雨红警 全市停课",
+          "url": "https://www.toutiao.com/trending/7639982748857273906/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
+          "title": "白宫发布中国仪仗队画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E4%BB%AA%E4%BB%97%E9%98%9F%E7%94%BB%E9%9D%A2%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
           "url": "https://wallstreetcn.com/livenews/3103841",
           "source": "华尔街见闻-快讯",
@@ -355,7 +411,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -366,7 +422,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -404,13 +460,24 @@
           "time_info": "07时57分"
         },
         {
+          "title": "阿里发布Qoder 1.0",
+          "url": "https://wallstreetcn.com/livenews/3104131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "我被AI短剧盗脸了",
           "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E4%BA%86&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         }
@@ -418,7 +485,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "标普纳指又新高，思科飙涨13%创新高，英国政局致英镑暴跌，白银重挫",
@@ -430,8 +497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时10分 ~ 11时37分]"
+          "appearance_count": 5,
+          "time_info": "[06时10分 ~ 14时55分]"
         },
         {
           "title": "下午3点半，员工厕所“爆满”，大家都在看股票账户！韩国股市暴涨，散户疯狂涌入，全国人口5100万，活跃股票账户超1亿",
@@ -443,8 +510,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 11时37分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 14时55分]"
         },
         {
           "title": "卢比暴跌,莫迪喊你少吃肉",
@@ -459,6 +526,17 @@
           "time_info": "[01时01分 ~ 11时37分]"
         },
         {
+          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
+          "url": "https://www.cls.cn/detail/2371819",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时55分]"
+        },
+        {
           "title": "美股三大期指集体走高 思科盘前大涨15% | 今夜看点",
           "url": "https://www.cls.cn/detail/2371660",
           "source": "财联社热门",
@@ -469,17 +547,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时57分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普500指数再创新高 英伟达市值逼近6万亿美元",
-          "url": "https://www.cls.cn/detail/2371819",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时37分]"
         },
         {
           "title": "周四（5月14日），美股存储芯片与硬件供应链指数跌1.95%，报185.75点。 成分股闪迪跌4.46%，美光、Rambus至多跌3.44%，泰瑞达、希捷科技、西部数据至多跌1.88%，应用材料则收涨0.90%，拉姆研究涨1.26%。",
@@ -614,7 +681,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时37分"
         },
@@ -661,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美股股指期货持续下挫，纳指期货跌幅扩大至1%，标普500指数期货跌0.60%。",
+          "url": "https://wallstreetcn.com/livenews/3104138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     },
