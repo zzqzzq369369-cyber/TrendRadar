@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T02:51:09.851469+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-19T04:24:50.202229+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
@@ -60,8 +60,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "湖北武汉发布暴雨红色预警",
@@ -71,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
@@ -86,13 +86,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
+          "url": "https://wallstreetcn.com/livenews/3105584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "美国财政部发布与俄罗斯相关的通用许可。",
           "url": "https://wallstreetcn.com/livenews/3105554",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -103,9 +114,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美国针对埃博拉疫情发布旅行新规",
+          "url": "https://flash.jin10.com/detail/20260519035138713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
@@ -114,7 +136,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -125,7 +147,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -136,7 +158,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -147,7 +169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -158,15 +180,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -177,8 +210,52 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
+        },
+        {
+          "title": "中东局势降温预期提振市场，拉美股汇两市双双走高",
+          "url": "https://wallstreetcn.com/livenews/3105592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040525263800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040523142800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
+          "url": "https://flash.jin10.com/detail/20260519040054557800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -188,8 +265,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "打车零抽成,昆明司机收入暴涨",
@@ -199,8 +276,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时24分]"
         },
         {
           "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股盘中）",
@@ -209,7 +286,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         },
@@ -220,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
         }
