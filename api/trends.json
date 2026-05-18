@@ -1,129 +1,22 @@
 {
-  "generated_at": "2026-05-18T20:29:24.936999+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-05-19T00:22:50.646329+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 40,
+      "match_count": 7,
       "titles": [
         {
-          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
-          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 16时03分]"
-        },
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
+          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://www.cls.cn/detail/2374609",
           "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时58分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时58分]"
-        },
-        {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 11时54分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 11时54分]"
-        },
-        {
-          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
-          "url": "https://wallstreetcn.com/livenews/3104897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时53分]"
-        },
-        {
-          "title": "柳州市柳南区地震事件新闻发布会",
-          "url": "https://www.toutiao.com/trending/7640995838713675819/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "【外交部：中方愿同美方一道全面准确落实好两国元首达成的重要共识】5月18日，外交部发言人郭嘉昆主持例行记者会。总台央视记者提问，白宫发布了特朗普总统访华的事实清单，介绍此访的有关成果，请问中方对此有何评论？郭嘉昆表示，特朗普总统访华期间，两国元首同意将“中美建设性战略稳定关系”作为两国关系的新定位，就下阶段高层交往和外交、经贸等各领域对话合作作出规划，就共同关心的国际和地区热点问题深入交换意见。中方愿同美方一道全面准确落实好两国元首达成的重要共识。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3105215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "大普微：AI带动企业级SSD存储需求发展存在一定波动和不确定性 明起停牌核查",
-          "url": "https://wallstreetcn.com/livenews/3105413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
-          "url": "https://flash.jin10.com/detail/20260518074442462800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时22分"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -132,522 +25,103 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "【外交部介绍普京访华相关安排】外交部发言人郭嘉昆主持例行记者会。有记者问，中方前天发布了普京总统将对中国进行国事访问的消息，能否具体介绍此访有关安排？中方对普京总统此访有什么期待？中方如何评价当前中俄关系？ 郭嘉昆表示，这将是普京总统第二十五次到访中国。访问期间，两国元首将就双边关系、各领域合作以及共同关心的国际地区问题交换意见。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3105210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "百度美股盘前涨超5%，公司Q1营收320.8亿元，AI新业务占比首次过半，智能云收入同比增长79% 。",
-          "url": "https://wallstreetcn.com/livenews/3105407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
-          "url": "https://www.cls.cn/detail/2373700",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 20时29分]"
-        },
-        {
-          "title": "城商行AIC牌照“破冰”尚无时间表 有地方金融监管局：争取辖内城商行申设金融资产投资公司",
-          "url": "https://wallstreetcn.com/livenews/3105406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
-          "url": "https://www.zhihu.com/question/2039331976692200758",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
-          "url": "https://wallstreetcn.com/livenews/3104889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时53分]"
-        },
-        {
-          "title": "据俄罗斯卫星网：俄罗斯天然气工业股份公司发布消息称，欧洲地下储气设施显示5月12日至14日的气体注入记录，创历史最低水平。",
-          "url": "https://flash.jin10.com/detail/20260518034421847800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 06时53分]"
-        },
-        {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 20时29分]"
-        },
-        {
-          "title": "AI如何更好的模仿人类",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%A8%A1%E4%BB%BF%E4%BA%BA%E7%B1%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "小米YU7GT发布会定档",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3YU7GT%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "AI预测世界杯西班牙夺冠",
-          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
-          "url": "https://www.zhihu.com/question/2037993874522629479",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "AI已经卷到灯了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%B7%B2%E7%BB%8F%E5%8D%B7%E5%88%B0%E7%81%AF%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "博主：中国AI算力产业链正在全面腾飞",
-          "url": "https://www.toutiao.com/trending/7640853095961857599/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时55分]"
+          "time_info": "00时22分"
         },
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
           "url": "https://wallstreetcn.com/articles/3772508",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "市场消息：斯泰兰蒂斯与埃森哲将启动战略合作伙伴关系，携手英伟达共同推动人工智能驱动的工业生产。首批实施将涉及选定的工厂，试点项目于2026年在北美启动。",
-          "url": "https://flash.jin10.com/detail/20260518200731410800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "阳光电源、芯联集成等成立新公司 含AI及机器人业务",
-          "url": "https://wallstreetcn.com/livenews/3105086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时54分"
+          "time_info": "00时22分"
         },
         {
-          "title": "AI一天 地上一年",
-          "url": "https://s.weibo.com/weibo?q=AI%E4%B8%80%E5%A4%A9%20%E5%9C%B0%E4%B8%8A%E4%B8%80%E5%B9%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
-          "url": "https://wallstreetcn.com/livenews/3104924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "湖北发布暴雨橙色省级预警：荆州市中心城区落实“五停”措施",
-          "url": "https://wallstreetcn.com/livenews/3105080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "德国航运巨头赫伯罗特：鉴于与5月1日发布的美国行政令相关的合规风险，决定暂停往返古巴的订舱业务。",
-          "url": "https://flash.jin10.com/detail/20260518015806475800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "摩根士丹利：将英伟达(NVDA.O)目标股价从260美元上调至285美元，新架构的推进和投入成本上升可能带来毛利率压力，但强劲的供应可见性和持续的AI需求动能将对此形成对冲。",
-          "url": "https://flash.jin10.com/detail/20260518200615954800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "摩根士丹利：目前预计在AI数据中心需求以及Blackwell和Rubin产品周期的推动下，英伟达(NVDA.O)的业绩增长将加快。",
-          "url": "https://flash.jin10.com/detail/20260518200551975800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "以色列对黎巴嫩南部索莫尔、鲁明、库赛巴、胡纳和纳库拉地区发布强制撤离令。",
-          "url": "https://flash.jin10.com/detail/20260517234402403800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "航运巨头达飞轮船：已决定暂停所有往返古巴的订舱业务，直至另行通知。此项决定是基于美国于5月1日发布的一项行政命令。",
-          "url": "https://flash.jin10.com/detail/20260518013351619800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报190100元/吨，较上日16:30价格下跌1250元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3105060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "京东：今年京东体系AI相关研发投入增长将超200%",
-          "url": "https://wallstreetcn.com/livenews/3105377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展",
-          "url": "https://flash.jin10.com/detail/20260518110622674800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "谁卡住AI算力瓶颈谁就离财富越近",
-          "url": "https://www.toutiao.com/trending/7640834668656332351/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "打车零抽成,昆明司机收入暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354352&amp;topic_name=%E6%89%93%E8%BD%A6%E9%9B%B6%E6%8A%BD%E6%88%90%2C%E6%98%86%E6%98%8E%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            11,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 20时29分]"
-        },
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时58分]"
-        },
-        {
-          "title": "全球债市抛售加剧、10年期日债收益率创30年新高，美股盘前短线拉升，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "巨力索具暴涨神话崩塌",
-          "url": "https://www.toutiao.com/trending/7640850020018687529/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时53分]"
-        },
-        {
-          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
-          "url": "https://www.cls.cn/detail/2373864",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 20时29分]"
-        },
-        {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 07时58分]"
-        },
-        {
-          "title": "韩国股市开盘闪崩，瞬间暴跌 350 点，启动熔断机制，背后原因是什么？应如何理解其市场信号？",
-          "url": "https://www.zhihu.com/question/2039630692439384740",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 20时29分]"
-        },
-        {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "A股科创板整体暴涨",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E5%88%9B%E6%9D%BF%E6%95%B4%E4%BD%93%E6%9A%B4%E6%B6%A8&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260518060027813800",
+          "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
+          "url": "https://flash.jin10.com/detail/20260519000740912800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "00时22分"
         },
         {
-          "title": "百度(BIDU.O)美股盘前涨超5%，公司Q1智能云收入同比增长79% 。",
-          "url": "https://flash.jin10.com/detail/20260518201018616800",
-          "source": "金十数据",
+          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
+          "url": "https://www.cls.cn/detail/2374303",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "00时22分"
         },
         {
-          "title": "国际油价短线下挫，现货黄金、美股期货短线拉升，报道称美国提出在最终协议达成前暂时豁免对伊朗的石油制裁",
-          "url": "https://wallstreetcn.com/livenews/3105394",
-          "source": "华尔街见闻-快讯",
+          "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
+          "url": "https://www.zhihu.com/question/2039331976692200758",
+          "source": "知乎",
           "ranks": [
-            15
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "00时22分"
+        },
+        {
+          "title": "湖北武汉发布暴雨红色预警",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
     {
-      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
       "match_count": 3,
       "titles": [
         {
-          "title": "多只跨境ETF持续高溢价，基金公司频发风险提示",
-          "url": "https://wallstreetcn.com/livenews/3104940",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时22分"
         },
         {
-          "title": "数据中心电源变革！国内厂商出海抢机遇 以HVDC技术破局突围",
-          "url": "https://www.cls.cn/detail/2373554",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 16时03分]"
-        },
-        {
-          "title": "4月中国手游出海成绩出炉：世纪华通3款游戏跻身收入TOP10 悠星网络占据增长榜冠亚军",
-          "url": "https://www.cls.cn/detail/2373414",
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "打车零抽成,昆明司机收入暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354352&amp;topic_name=%E6%89%93%E8%BD%A6%E9%9B%B6%E6%8A%BD%E6%88%90%2C%E6%98%86%E6%98%8E%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
