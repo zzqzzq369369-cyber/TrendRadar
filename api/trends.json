@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T13:04:58.722696+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-05-20T17:32:21.358234+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -27,11 +27,12 @@
           "ranks": [
             5,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 17时32分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -39,11 +40,24 @@
           "source": "贴吧",
           "ranks": [
             12,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 13时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 17时32分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 17时32分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -95,16 +109,16 @@
           "time_info": "[00时19分 ~ 08时05分]"
         },
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
+          "title": "王力宏腾势发布会现场承认用代言费买比亚迪股票，直言若十年前入手早已翻倍，「代言变股东」的操作你怎么看？",
+          "url": "https://www.zhihu.com/question/2039837853883031925",
+          "source": "知乎",
           "ranks": [
-            4,
+            5,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时04分 ~ 13时04分]"
+          "time_info": "[13时04分 ~ 17时32分]"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
@@ -171,7 +185,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -196,17 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "王力宏腾势发布会现场承认用代言费买比亚迪股票，直言若十年前入手早已翻倍，「代言变股东」的操作你怎么看？",
-          "url": "https://www.zhihu.com/question/2039837853883031925",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "武汉市联合调查组发布情况通报",
@@ -270,6 +273,28 @@
           "time_info": "[00时19分 ~ 03时01分]"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "Gemini 3.5 Flash 正式发布，你怎么评价这款模型?",
+          "url": "https://www.zhihu.com/question/2040251136867815469",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3106244",
           "source": "华尔街见闻-快讯",
@@ -282,6 +307,17 @@
           "time_info": "[04时49分 ~ 06时16分]"
         },
         {
+          "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
+          "url": "https://www.zhihu.com/question/2040077336809322399",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
           "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
           "url": "https://www.cls.cn/detail/2375963",
           "source": "财联社热门",
@@ -291,6 +327,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "周杰伦七月的极光MV发布",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%83%E6%9C%88%E7%9A%84%E6%9E%81%E5%85%89MV%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "印度为何押注AI和芯片产业",
@@ -376,7 +423,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -442,7 +489,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -469,6 +516,17 @@
           "time_info": "04时49分"
         },
         {
+          "title": "知情人士：软银CEO孙正义曾表示相信OpenAI创始人Sam Altman正引领着本世纪最重要的技术变革。",
+          "url": "https://flash.jin10.com/detail/20260520165930678800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "谷歌CEO Pichai：AI概览功能月活用户数25亿。 Gemini APP月活用户数一年翻倍，至超过9亿。 公司一个月处理3200万亿Token。 今年夏季，在美国推出“Ask YouTube”AI搜索功能。 “Docs Live”允许用户创作利用语音指令来创建Docs。",
           "url": "https://wallstreetcn.com/livenews/3106187",
           "source": "华尔街见闻-快讯",
@@ -491,15 +549,37 @@
           "time_info": "03时01分"
         },
         {
+          "title": "瑞讯集团：英伟达财报对AI投资者的情绪影响减弱",
+          "url": "https://flash.jin10.com/detail/20260520165854372800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-05-20）",
           "url": "https://flash.jin10.com/detail/20260520115627016800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "银行业高管谈论AI的口风已变 员工噩梦降临",
+          "url": "https://wallstreetcn.com/livenews/3106604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
@@ -508,7 +588,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         },
@@ -538,7 +618,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -595,11 +675,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时15分 ~ 13时04分]"
+          "appearance_count": 6,
+          "time_info": "[06时15分 ~ 17时31分]"
         },
         {
           "title": "周二（5月19日），美股存储芯片与硬件供应链指数涨0.62%，报173.64点，美股早盘呈现出V形反转行情。 成分股闪迪收涨3.77%，美光科技涨2.52%，泰瑞达涨0.15%，西部数据则收跌0.63%，希捷科技、Rambus、应用材料、拉姆研究跌1.01%-1.65%。",
@@ -671,6 +752,29 @@
           "time_info": "[04时49分 ~ 06时16分]"
         },
         {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 17时32分]"
+        },
+        {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3106240",
           "source": "华尔街见闻-快讯",
@@ -692,17 +796,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时04分"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -736,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美股盘前，半导体股普涨，英特尔涨超4%，美光科技涨近4%，高通涨近3%，阿斯麦、AMD涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3106616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
@@ -780,6 +884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "英伟达美股盘前波动不大，现涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3106599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
@@ -817,7 +932,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
         }
