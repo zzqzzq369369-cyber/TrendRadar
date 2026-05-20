@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T03:24:22.414387+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-05-21T05:52:22.900190+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -36,9 +36,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3106952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3106951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "谷歌(GOOG.O)将在人工智能模式中推出更有帮助的广告。",
@@ -50,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "颠覆AI公司“烧钱”逻辑 Anthropic预计二季度营收将爆炸性增长",
+          "url": "https://flash.jin10.com/detail/20260521052959976800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "谷歌在AI模型推出更有用的广告。",
@@ -70,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 05时52分]"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -82,8 +115,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 05时52分]"
         },
         {
           "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
@@ -92,9 +125,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3106941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布会议纪要。",
@@ -103,9 +147,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
+          "url": "https://flash.jin10.com/detail/20260521051358120800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：以人工智能为基础的产品和服务的应用正在加速。人工智能现在是提升生产力的必要条件。",
+          "url": "https://flash.jin10.com/detail/20260521051252544800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "英伟达：（CFO在分析师电话会议上表示）需求正在加速。 预计到这个十年（2021-2030年）末尾，年度AI开支将达到3万亿-4万亿美元。 今年的CPU收入有望达到200亿美元。 相信公司能获得供应来支持增长。 AI行业将研发、投资列为优先事项。",
+          "url": "https://wallstreetcn.com/livenews/3106934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "美债和油价一起施压，AI高估值危险了？",
@@ -130,15 +207,48 @@
           "time_info": "00时35分"
         },
         {
+          "title": "SpaceX：预计最早将在2028年开始部署轨道人工智能计算卫星。 计划在月球和火星建立制造基础设施。 公司将把融资用于AI计算、基础设施、发射卫星等。",
+          "url": "https://wallstreetcn.com/livenews/3106928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。 一季度调整后EBITDA为11.3亿美元。 一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。 2025年营收113.9亿美元，运营净利润44.2亿美元。 2025年资本支出207.4亿美元，其中AI资本开支127.3亿美元。 星链（Starlink）拥有大约1030万用户。 至3月31日，大约9600颗卫星在近地点轨道运行。 Grok和X等AI平台活跃账户超过13亿。",
+          "url": "https://wallstreetcn.com/livenews/3106925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3106863",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "SpaceX：计划在月球和火星建立制造基础设施。预计最早将在2028年开始部署轨道人工智能计算卫星。",
+          "url": "https://flash.jin10.com/detail/20260521045533791800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "债券市场预警，AI浪潮恐让凯文·沃什的通胀困局雪上加霜",
@@ -155,19 +265,31 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3106949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
         {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 05时52分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -178,19 +300,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 05时52分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
           "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 05时52分]"
         },
         {
           "title": "委内瑞拉代总统：启动重组债务谈判，委内瑞拉债券暴涨势头停滞",
@@ -204,6 +327,28 @@
           "time_info": "00时35分"
         },
         {
+          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3106946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
+          "url": "https://wallstreetcn.com/livenews/3106945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
           "title": "美国上周原油总库存创纪录暴跌1780万桶，出口创历史新高引发供应紧缺隐忧",
           "url": "https://wallstreetcn.com/livenews/3106836",
           "source": "华尔街见闻-快讯",
@@ -215,6 +360,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "英伟达美股盘后跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3106935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
           "title": "美股三大指数持续拉升，均涨超1%。特朗普表示，与伊朗的谈判已进入“最后阶段”。",
           "url": "https://flash.jin10.com/detail/20260520231849724800",
           "source": "金十数据",
@@ -224,6 +380,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/3106919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
+          "url": "https://wallstreetcn.com/livenews/3106924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         }
       ]
     }
