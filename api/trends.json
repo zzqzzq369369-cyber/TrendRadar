@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T05:27:47.933994+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-22T07:03:33.652004+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -26,19 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
           "url": "https://wallstreetcn.com/articles/3772765",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "如何看待 5 月 21 日小米发布的 YU7 GT 及 YU7 标准版，有哪些亮点与不足？",
@@ -49,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -60,8 +61,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "星巴克在北美全线叫停AI库存盘点工具",
@@ -86,6 +100,51 @@
           "time_info": "03时54分"
         },
         {
+          "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
+          "url": "https://flash.jin10.com/detail/20260522061919828800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
+        },
+        {
+          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
+          "url": "https://www.cls.cn/detail/2378186",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
+        },
+        {
+          "title": "小米YU7 GT正式发布 售价38.99万元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7+GT%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B738.99%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
+        },
+        {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
           "url": "https://wallstreetcn.com/livenews/3107573",
           "source": "华尔街见闻-快讯",
@@ -98,52 +157,6 @@
           "time_info": "[01时57分 ~ 03时54分]"
         },
         {
-          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
-        },
-        {
-          "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
-          "url": "https://www.cls.cn/detail/2378186",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
-        },
-        {
-          "title": "小米YU7 GT正式发布 售价38.99万元",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7+GT%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B738.99%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
-        },
-        {
           "title": "小米17 Max发布 售价4799元起",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B317+Max%E5%8F%91%E5%B8%83+%E5%94%AE%E4%BB%B74799%E5%85%83%E8%B5%B7",
           "source": "百度热搜",
@@ -153,8 +166,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "小米新品发布会",
@@ -164,8 +177,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "小米发布首款耳夹式耳机 首销价799元",
@@ -173,11 +186,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -188,8 +202,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "小米发布首款耳夹式耳机",
@@ -200,8 +214,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -214,6 +228,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 05时27分]"
+        },
+        {
+          "title": "明晟公司（MSCI）将于6月18日发布2026年全球市场可及性审查结果，而2026年年度市场分类审查则定于6月23日进行。",
+          "url": "https://flash.jin10.com/detail/20260522061143321800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
@@ -329,18 +354,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 05时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 07时03分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -385,30 +411,43 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 05时27分]"
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 07时03分]"
         },
         {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3107626",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 07时03分]"
         },
         {
           "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
           "url": "https://wallstreetcn.com/livenews/3107625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 07时03分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "07时03分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
@@ -417,7 +456,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         },
@@ -439,9 +478,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
+          "url": "https://wallstreetcn.com/livenews/3107635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.79%，暂报2735.65点。 MarketVectorTM数字资产100中盘指数涨0.51%，报3005.80点。 MarketVector数字资产100指数跌0.27%，报15166.54点。 目前，Solana跌0.05%，狗狗币持平，XRP跌0.97%。 比特币跌0.72%，暂报76964.96美元；以太坊跌0.64%，暂报2122.45美元。",
@@ -461,7 +511,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
         }
