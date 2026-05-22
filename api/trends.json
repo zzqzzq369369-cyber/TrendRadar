@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T18:50:02.105922+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-05-22T21:32:18.385928+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时57分 ~ 11时34分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时57分 ~ 21时32分]"
         },
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -40,20 +54,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 07时03分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            17,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 18时50分]"
         },
         {
           "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
@@ -91,27 +91,53 @@
           "time_info": "[01时57分 ~ 07时03分]"
         },
         {
-          "title": "朱自清散文AI率超60%",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
-        },
-        {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
           "url": "https://www.zhihu.com/question/2040809853350831319",
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 21时32分]"
+        },
+        {
+          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 21时32分]"
+        },
+        {
+          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
+          "url": "https://www.zhihu.com/question/2040888661999350787",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时34分 ~ 21时32分]"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时43分 ~ 18时50分]"
+          "time_info": "[18时49分 ~ 21时32分]"
         },
         {
           "title": "中国贸促会：第四届链博会将发布2026版《全球供应链促进报告》等一批研究成果",
@@ -125,13 +151,26 @@
           "time_info": "11时34分"
         },
         {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 21时32分]"
+        },
+        {
           "title": "上交所发布本周沪市市场运行情况",
           "url": "https://flash.jin10.com/detail/20260522181724588800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -227,30 +266,6 @@
           "time_info": "[11时34分 ~ 18时50分]"
         },
         {
-          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时50分]"
-        },
-        {
-          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
-          "url": "https://www.zhihu.com/question/2040888661999350787",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时50分]"
-        },
-        {
           "title": "用上AI后工作时间反而更长了",
           "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -322,16 +337,16 @@
           "time_info": "[01时57分 ~ 03时54分]"
         },
         {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            13
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时43分 ~ 18时50分]"
+          "time_info": "[15时43分 ~ 21时32分]"
         },
         {
           "title": "小米17 Max发布 售价4799元起",
@@ -360,6 +375,18 @@
           "time_info": "[01时57分 ~ 07时03分]"
         },
         {
+          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
+          "url": "https://www.zhihu.com/question/2040949624073152492",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时32分]"
+        },
+        {
           "title": "小米发布首款耳夹式耳机",
           "url": "https://www.toutiao.com/trending/7641429959340834858/",
           "source": "今日头条",
@@ -370,6 +397,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 07时03分]"
+        },
+        {
+          "title": "AI浪潮提振全球股市，美股期指齐涨，存储芯片股走低，老虎证券盘前大跌40%，美伊僵局推升油价",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "朱自清散文AI率超60%",
@@ -383,15 +421,26 @@
           "time_info": "[15时43分 ~ 15时44分]"
         },
         {
-          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
-          "url": "https://wallstreetcn.com/articles/3772862",
-          "source": "华尔街见闻",
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时43分 ~ 15时44分]"
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
+          "title": "2025年全国1%人口抽样调查主要数据公报发布",
+          "url": "https://www.cls.cn/detail/2378964",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "朱自清《荷塘月色》AI率超60%",
@@ -405,6 +454,17 @@
           "time_info": "[18时49分 ~ 18时50分]"
         },
         {
+          "title": "多地发布关于杨梅的消费提示，提醒消费者谨慎选购",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33208601",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
           "url": "https://www.zhihu.com/question/2037993874522629479",
           "source": "知乎",
@@ -415,17 +475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 05时27分]"
-        },
-        {
-          "title": "如何评价《一人之下》最新话（763 话）最后一页疑似使用 AI？",
-          "url": "https://www.zhihu.com/question/2040949624073152492",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "明晟公司（MSCI）将于6月18日发布2026年全球市场可及性审查结果，而2026年年度市场分类审查则定于6月23日进行。",
@@ -533,7 +582,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -544,7 +593,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -668,12 +717,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "据AXIOS：Reflection AI正与美国能源部合作，为“创世纪”任务提供支持。",
+          "url": "https://flash.jin10.com/detail/20260522210407197800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -686,6 +746,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 07时03分]"
+        },
+        {
+          "title": "盘前暴跌，老虎、富途、长桥的处罚终是落地了，始末回顾",
+          "url": "https://www.cls.cn/detail/2379178",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时32分]"
         },
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -710,17 +782,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 05时27分]"
-        },
-        {
-          "title": "盘前暴跌，老虎、富途、长桥的处罚终是落地了，始末回顾",
-          "url": "https://www.cls.cn/detail/2379178",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股盘中）",
@@ -770,6 +831,17 @@
           "time_info": "[03时54分 ~ 07时03分]"
         },
         {
+          "title": "创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%",
+          "url": "https://wallstreetcn.com/articles/3772886",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3107626",
           "source": "华尔街见闻-快讯",
@@ -800,7 +872,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -825,6 +897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3108061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
@@ -888,7 +971,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
         },
@@ -899,15 +982,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        },
+        {
+          "title": "布伦特原油5分钟内下跌1.13美元/桶，报103.19美元/桶；WTI原油5分钟内下跌1.13美元/桶，报96.33美元/桶。 美股期货拉升，标普500指数期货涨0.4%。 美国国债扩大涨幅，10年期国债收益率触及盘中低点4.54%。 欧洲债券扩大涨幅，德国10年期国债收益率下跌7个基点至3.03%。",
+          "url": "https://wallstreetcn.com/livenews/3108046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
@@ -917,8 +1011,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时32分]"
         },
         {
           "title": "老虎、富途、长桥非法跨境展业被罚，没收违法所得，设置 2 年整治期清理非法存量业务，哪些信息值得关注？",
@@ -928,41 +1022,55 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时32分]"
         },
         {
           "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
           "url": "https://wallstreetcn.com/articles/3772917",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时32分]"
         },
         {
           "title": "告别非法跨境炒股，存量投资者可在两年内卖出",
           "url": "https://wallstreetcn.com/articles/3772926",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时32分]"
         },
         {
           "title": "94岁的劳尔·卡斯特罗，会被“跨境判死刑”？",
           "url": "https://news.ifeng.com/c/8tL1HrQhR8J",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时32分]"
+        },
+        {
+          "title": "东方甄选前 CEO 孙东旭复出直播，选了卖书而不是带货，这步棋走得怎么样？你看好他接下来的发展吗？",
+          "url": "https://www.zhihu.com/question/2040722011702259987",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时49分 ~ 18时50分]"
+          "time_info": "[21时31分 ~ 21时32分]"
         }
       ]
     }
