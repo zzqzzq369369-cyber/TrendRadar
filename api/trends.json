@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-23T04:43:42.490145+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-23T06:07:22.323557+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
           "url": "https://wallstreetcn.com/articles/3772907",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "国家统计局发布《2025 年全国 1% 人口抽样调查主要数据公报》，如何解读报告内容？",
@@ -24,11 +25,84 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
+        },
+        {
+          "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3108254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
+          "url": "https://www.cls.cn/detail/2379110",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
+        },
+        {
+          "title": "多地发布关于杨梅的消费提示，提醒消费者谨慎选购",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33208601",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
+        },
+        {
+          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
+          "url": "https://www.zhihu.com/question/2040888661999350787",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -44,76 +118,28 @@
           "time_info": "[00时25分 ~ 04时43分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
-          "url": "https://www.cls.cn/detail/2379110",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
-        },
-        {
-          "title": "多地发布关于杨梅的消费提示，提醒消费者谨慎选购",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33208601",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
-        },
-        {
-          "title": "郝哥李广奇回应AI买瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
-        },
-        {
-          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
-          "url": "https://www.zhihu.com/question/2040888661999350787",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
-        },
-        {
           "title": "夏奇拉来批daidai作业啦",
           "url": "https://www.douyin.com/hot/2508674",
           "source": "抖音",
           "ranks": [
             30,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 06时07分]"
+        },
+        {
+          "title": "ai漫剧硬通货 泡面火腿纯净水",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -141,7 +167,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "盘前暴跌，老虎、富途、长桥的处罚终是落地了，始末回顾",
@@ -151,8 +177,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -177,6 +203,50 @@
           "time_info": "02时53分"
         },
         {
+          "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
+          "url": "https://wallstreetcn.com/livenews/3108253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 06时07分]"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040726833800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 06时07分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 高通涨超11%",
+          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 06时07分]"
+        },
+        {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
           "url": "https://wallstreetcn.com/livenews/3108158",
           "source": "华尔街见闻-快讯",
@@ -199,37 +269,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040728628800",
-          "source": "金十数据",
+          "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3108237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260523040726833800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 高通涨超11%",
-          "url": "https://flash.jin10.com/detail/20260523040305525800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "06时07分"
         },
         {
           "title": "受伊朗战争重创，全球航运巨头达飞海运第一季度利润暴跌",
@@ -238,9 +286,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经从委内瑞拉攫取了如此多的石油。 等我解决完伊朗问题，油价将暴跌。 我们已经阻止了伊朗拥有核武器。 伊朗问题很快就会结束。",
+          "url": "https://wallstreetcn.com/livenews/3108235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.51%，暂报2785.12点，上周五结束交易以来（7*24）累计上涨0.25%，整体呈现出钝化（平坦）的V形反转，5月18日北京时间07:13曾跌至2608.96点。 MarketVectorTM数字资产100中盘指数涨1.60%，报3065.76点，期内本周累涨0.95%。 MarketVector数字资产100指数跌0.19%，报15173.89点，期内累跌2.86%，5月16-18日持续走低，5月18日以来持续交投于15100点附近。 最近七天迄今，Solana累跌2.63%，狗狗币累跌6.41%，XRP累跌5.64%。 比特币累跌2.80%，暂报76870美元；以太坊累跌4.41%，暂报2121.030美元。",
@@ -267,8 +326,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
@@ -278,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "告别非法跨境炒股，存量投资者可在两年内卖出",
@@ -289,8 +348,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "94岁的劳尔·卡斯特罗，会被“跨境判死刑”？",
@@ -300,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         },
         {
           "title": "老虎、富途、长桥非法跨境展业被罚，富途等券商有多少业务依赖内地？将产生多大影响？",
@@ -312,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时53分 ~ 06时07分]"
         },
         {
           "title": "老虎、富途、长桥将被罚，2年集中整治如何影响跨境炒股投资者",
@@ -324,8 +383,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时07分]"
         }
       ]
     },
@@ -340,7 +399,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         }
