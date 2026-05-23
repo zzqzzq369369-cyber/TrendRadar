@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T19:10:34.089062+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-05-23T21:22:49.007764+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -231,6 +231,19 @@
           "time_info": "[06时07分 ~ 08时07分]"
         },
         {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 21时22分]"
+        },
+        {
           "title": "伊朗民航局否认近期曾发布任何涉及限制航班飞行的警告",
           "url": "https://flash.jin10.com/detail/20260523170033585800",
           "source": "金十数据",
@@ -243,16 +256,50 @@
           "time_info": "[17时51分 ~ 19时10分]"
         },
         {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
+          "title": "AI 泡沫还能持续多久？",
+          "url": "https://www.zhihu.com/question/1903030274536743238",
+          "source": "知乎",
           "ranks": [
-            16,
-            13
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时10分]"
+          "time_info": "[19时10分 ~ 21时22分]"
+        },
+        {
+          "title": "AI光算力第一股上市首日暴涨380%",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 21时22分]"
+        },
+        {
+          "title": "比亚迪 5 月 28 日将举办智能化战略发布会，预计宣布新突破，可能涉及什么技术？你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2041247388258362911",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美银乐观预测：AI十年内每年将拉动增长约1个百分点",
@@ -277,17 +324,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "AI 泡沫还能持续多久？",
-          "url": "https://www.zhihu.com/question/1903030274536743238",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "如何看待蔚来发布 2026 年第一季度财报，连续两个季度盈利？",
           "url": "https://www.zhihu.com/question/2040896897133586054",
           "source": "知乎",
@@ -308,17 +344,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "AI光算力第一股上市首日暴涨380%",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%89%E7%AE%97%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8380%25%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -359,8 +384,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时06分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 21时22分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -369,11 +394,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时06分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 21时22分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -420,6 +446,19 @@
           "time_info": "06时07分"
         },
         {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 21时22分]"
+        },
+        {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260523040728628800",
           "source": "金十数据",
@@ -451,18 +490,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 08时07分]"
-        },
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时10分]"
         },
         {
           "title": "华尔街最新观点称，美股下跌就能抑制商品通胀，并阶段结束美债高收益率现状，对此你怎么看？",
@@ -620,6 +647,19 @@
           "time_info": "[02时53分 ~ 15时32分]"
         },
         {
+          "title": "非法跨境展业遭重拳整治：中国证监会拟对富途罚款18.5亿，老虎证券罚没4.112亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33213504",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时22分]"
+        },
+        {
           "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
           "url": "https://www.cls.cn/detail/2379069",
           "source": "财联社热门",
@@ -644,19 +684,6 @@
           "time_info": "[00时25分 ~ 15时32分]"
         },
         {
-          "title": "非法跨境展业遭重拳整治：中国证监会拟对富途罚款18.5亿，老虎证券罚没4.112亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33213504",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时10分]"
-        },
-        {
           "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
           "url": "https://www.cls.cn/detail/2379666",
           "source": "财联社热门",
@@ -665,8 +692,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时10分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时22分]"
         },
         {
           "title": "「耿同学」称有头衔学者的研究应接受更严格的监督，举报不为了赚钱，已与 MCN 解约，这种体面打假能长久吗？",
@@ -692,11 +719,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 19时10分]"
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 21时22分]"
         },
         {
           "title": "Anthropic介绍Project Glasssing的最新情况：发现大部分合作伙伴具有脆弱性，每个都发现数百个脆弱点。 下周将与伙伴们扩展Glasswing。 希望将Project Glasswing拓展至更多伙伴。 Mythos在开源项目上发现脆弱点。 希望在安全防护措施到位后扩大Mythos级别模型的应用。",
