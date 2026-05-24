@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T17:24:24.684046+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-24T19:16:08.258049+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "山西煤矿事故新闻发布会：涉事煤矿企业有重大违法行为",
@@ -76,8 +76,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 19时16分]"
+        },
+        {
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221203",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时24分 ~ 19时16分]"
         },
         {
           "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
@@ -110,6 +124,17 @@
           "time_info": "[00时08分 ~ 07时57分]"
         },
         {
+          "title": "山西煤矿瓦斯爆炸事故发布会介绍，目前事故已致 82 人遇难，初步判断涉事企业有重大违法行为，如何看待？",
+          "url": "https://www.zhihu.com/question/2041649898714616757",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时59分 ~ 19时16分]"
+        },
+        {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
@@ -122,19 +147,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 07时57分]"
-        },
-        {
-          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221203",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时24分 ~ 17时24分]"
         },
         {
           "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代。（央视）",
@@ -150,17 +162,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 07时57分]"
-        },
-        {
-          "title": "山西煤矿瓦斯爆炸事故发布会介绍，目前事故已致 82 人遇难，初步判断涉事企业有重大违法行为，如何看待？",
-          "url": "https://www.zhihu.com/question/2041649898714616757",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 17时24分]"
         },
         {
           "title": "山西留神峪煤矿瓦斯爆炸事故新闻发布会现场为遇难者默哀",
@@ -201,15 +202,50 @@
           "time_info": "[00时08分 ~ 06时52分]"
         },
         {
-          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
-          "url": "https://flash.jin10.com/detail/20260524165346994800",
-          "source": "金十数据",
+          "title": "今年首个红色预警！水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "url": "https://wallstreetcn.com/livenews/3108489",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "19时16分"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 19时16分]"
+        },
+        {
+          "title": "我国将适时发布以粤港澳大湾区为整体的外贸数据",
+          "url": "https://wallstreetcn.com/livenews/3108488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "url": "https://flash.jin10.com/detail/20260524184356023800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "山西留神峪煤矿瓦斯爆炸事故发布会：事故已致82人遇难",
@@ -226,16 +262,41 @@
           "time_info": "[03时24分 ~ 07时57分]"
         },
         {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+          "url": "https://flash.jin10.com/detail/20260524165346994800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            1
+            1,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时40分 ~ 17时24分]"
+          "time_info": "[17时24分 ~ 19时16分]"
+        },
+        {
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：企业对作业人数统计不清，一开始通报的人数不准确",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221209",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 19时16分]"
+        },
+        {
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时16分]"
         },
         {
           "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
@@ -251,6 +312,18 @@
           "time_info": "[11时40分 ~ 17时24分]"
         },
         {
+          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：涉事煤矿企业有重大违法行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221182",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时16分]"
+        },
+        {
           "title": "据福克斯新闻：美国驻乌克兰大使馆发布安全警报。",
           "url": "https://flash.jin10.com/detail/20260524021855506800",
           "source": "金十数据",
@@ -261,6 +334,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时51分]"
+        },
+        {
+          "title": "2026世界杯主题曲MV发布",
+          "url": "https://www.douyin.com/hot/2510323",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
@@ -287,18 +371,6 @@
           "time_info": "[11时40分 ~ 14时59分]"
         },
         {
-          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：企业对作业人数统计不清，一开始通报的人数不准确",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221209",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 17时24分]"
-        },
-        {
           "title": "山西留神峪煤矿瓦斯爆炸事故发布会：要给遇难者及其家属和社会公众一个负责任的交代",
           "url": "https://flash.jin10.com/detail/20260523224957289800",
           "source": "金十数据",
@@ -321,6 +393,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "我国将适时发布以粤港澳大湾区为整体的外贸数据",
+          "url": "https://flash.jin10.com/detail/20260524183401433800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "芬兰大学：新型AI聊天机器人有助抵抗错误健康信息",
           "url": "https://flash.jin10.com/detail/20260524102210505800",
           "source": "金十数据",
@@ -330,17 +413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
-        },
-        {
-          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
-          "url": "https://wallstreetcn.com/articles/3772986",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "俄罗斯别尔哥罗德州行动指挥部发布通报，在该州格赖沃隆市，一架无人机发生爆炸，造成一名平民死亡。",
@@ -420,17 +492,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "山西留神峪煤矿瓦斯爆炸事故发布会：涉事煤矿企业有重大违法行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221182",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "留神峪煤矿事故发布会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -440,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "国投白银LOF发布A类基金份额二级市场交易价格溢价风险提示",
+          "url": "https://flash.jin10.com/detail/20260524170330052800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "SpaceX抢跑 OpenAI追击",
@@ -468,8 +540,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -482,8 +554,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 19时16分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -539,8 +611,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 17时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 19时16分]"
         },
         {
           "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
