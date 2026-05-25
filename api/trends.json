@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T08:04:43.252234+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-05-25T13:19:38.260529+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 13时19分]"
         },
         {
           "title": "2026世界杯主题曲MV发布",
@@ -25,11 +26,38 @@
           "source": "抖音",
           "ranks": [
             5,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 13时19分]"
+        },
+        {
+          "title": "武汉市红色橙色预警7连发，气象台同步发布防御指南：停止集会、停课、停业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33223094",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 13时19分]"
+        },
+        {
+          "title": "世界杯主题曲MV发布 梅西等球星出镜",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2MV%E5%8F%91%E5%B8%83+%E6%A2%85%E8%A5%BF%E7%AD%89%E7%90%83%E6%98%9F%E5%87%BA%E9%95%9C",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 13时19分]"
         },
         {
           "title": "中疾控发布埃博拉病毒病防控提示",
@@ -43,29 +71,19 @@
           "time_info": "[00时59分 ~ 08时04分]"
         },
         {
-          "title": "武汉市红色橙色预警7连发，气象台同步发布防御指南：停止集会、停课、停业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33223094",
-          "source": "澎湃新闻",
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            15,
-            14,
-            17
+            25,
+            26,
+            22,
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 08时04分]"
-        },
-        {
-          "title": "世界杯主题曲MV发布 梅西等球星出镜",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2MV%E5%8F%91%E5%B8%83+%E6%A2%85%E8%A5%BF%E7%AD%89%E7%90%83%E6%98%9F%E5%87%BA%E9%95%9C",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 08时04分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 13时19分]"
         },
         {
           "title": "网警发布防汛抗灾网络文明倡议书",
@@ -74,7 +92,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -115,18 +133,16 @@
           "time_info": "[00时59分 ~ 05时56分]"
         },
         {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://www.douyin.com/hot/2511031",
+          "source": "抖音",
           "ranks": [
-            25,
-            26,
-            22,
-            24
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 08时04分]"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时19分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -141,6 +157,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时05分 ~ 08时04分]"
+        },
+        {
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 13时19分]"
         },
         {
           "title": "国务院台湾事务办公室5月27日举行新闻发布会",
@@ -179,25 +206,25 @@
         },
         {
           "title": "网警发布防汛抗灾网络文明倡议书",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
-          "source": "百度热搜",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "13时19分"
         },
         {
-          "title": "网警发布防汛抗灾网络文明倡议书",
-          "url": "https://www.douyin.com/hot/2511031",
-          "source": "抖音",
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "13时19分"
         },
         {
           "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
@@ -211,6 +238,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
           "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
           "url": "https://flash.jin10.com/detail/20260525010206221800",
           "source": "金十数据",
@@ -220,12 +258,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179250元/吨，较上日16:30价格上涨1000元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3108640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -249,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "哈塞特：一旦美伊达成协议油价将暴跌，为美联储降息创造空间",
