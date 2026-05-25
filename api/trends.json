@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T06:58:45.017423+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-25T08:04:43.252234+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 08时04分]"
         },
         {
           "title": "2026世界杯主题曲MV发布",
           "url": "https://www.douyin.com/hot/2510323",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 08时04分]"
         },
         {
           "title": "中疾控发布埃博拉病毒病防控提示",
@@ -38,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 08时04分]"
         },
         {
           "title": "武汉市红色橙色预警7连发，气象台同步发布防御指南：停止集会、停课、停业",
@@ -48,11 +49,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 08时04分]"
         },
         {
           "title": "世界杯主题曲MV发布 梅西等球星出镜",
@@ -62,8 +64,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 08时04分]"
+        },
+        {
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -75,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "山西煤矿瓦斯爆炸事故发布会介绍，目前事故已致 82 人遇难，初步判断涉事企业有重大违法行为，如何看待？",
+          "url": "https://www.zhihu.com/question/2041649898714616757",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时04分 ~ 08时04分]"
         },
         {
           "title": "张雪机车发布律师函：从未授权出书",
@@ -91,28 +115,18 @@
           "time_info": "[00时59分 ~ 05时56分]"
         },
         {
-          "title": "山西煤矿瓦斯爆炸事故发布会介绍，目前事故已致 82 人遇难，初步判断涉事企业有重大违法行为，如何看待？",
-          "url": "https://www.zhihu.com/question/2041649898714616757",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时04分 ~ 06时58分]"
-        },
-        {
           "title": "世界杯主题曲Dai Dai MV正式上线",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
             25,
             26,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 06时58分]"
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 08时04分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -121,11 +135,36 @@
           "ranks": [
             6,
             11,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时05分 ~ 06时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时05分 ~ 08时04分]"
+        },
+        {
+          "title": "国务院台湾事务办公室5月27日举行新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260525061037307800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -137,6 +176,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时04分]"
+        },
+        {
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://www.douyin.com/hot/2511031",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
@@ -159,28 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        },
-        {
-          "title": "国务院台湾事务办公室5月27日举行新闻发布会",
-          "url": "https://flash.jin10.com/detail/20260525061037307800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
         }
       ]
     },
@@ -204,11 +243,12 @@
           "url": "https://flash.jin10.com/detail/20260525060644652800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
         },
         {
           "title": "哈塞特：一旦美伊达成协议油价将暴跌，为美联储降息创造空间",
