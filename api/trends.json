@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T13:19:38.260529+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-05-25T18:03:30.963898+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 13时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 18时03分]"
         },
         {
           "title": "2026世界杯主题曲MV发布",
@@ -86,6 +86,17 @@
           "time_info": "[02时04分 ~ 13时19分]"
         },
         {
+          "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
+          "url": "https://wallstreetcn.com/livenews/3108809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "网警发布防汛抗灾网络文明倡议书",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -95,6 +106,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://www.douyin.com/hot/2511031",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 18时03分]"
+        },
+        {
+          "title": "上海：布局市级“AI+微短剧”中试基地 支持“AI+微短剧”应用创新",
+          "url": "https://flash.jin10.com/detail/20260525173449877800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -133,16 +167,16 @@
           "time_info": "[00时59分 ~ 05时56分]"
         },
         {
-          "title": "网警发布防汛抗灾网络文明倡议书",
-          "url": "https://www.douyin.com/hot/2511031",
-          "source": "抖音",
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            5
+            8,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 18时03分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -166,8 +200,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 18时03分]"
+        },
+        {
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 13时19分]"
+          "time_info": "[13时19分 ~ 18时03分]"
         },
         {
           "title": "国务院台湾事务办公室5月27日举行新闻发布会",
@@ -205,26 +250,26 @@
           "time_info": "[00时59分 ~ 02时04分]"
         },
         {
-          "title": "网警发布防汛抗灾网络文明倡议书",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
-          "source": "bilibili 热搜",
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "18时03分"
         },
         {
-          "title": "券商晨会精华：看好AI产业链与算力网建设",
-          "url": "https://www.cls.cn/detail/2380227",
-          "source": "财联社热门",
+          "title": "原华为云AI算法创新Lab主任朱森华创业，押注类脑智能与具身模型",
+          "url": "https://wallstreetcn.com/livenews/3108804",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时19分"
+          "time_info": "18时03分"
         },
         {
           "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
@@ -244,7 +289,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -260,15 +305,59 @@
           "time_info": "02时04分"
         },
         {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "腾讯ima宣布AI助手Copilot功能全面开放",
+          "url": "https://flash.jin10.com/detail/20260525172240380800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报179250元/吨，较上日16:30价格上涨1000元/吨。",
           "url": "https://wallstreetcn.com/livenews/3108640",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "伊朗外交部发言人Esmail Baghaei：伊朗外长阿拉格齐访美之行因签证问题取消。 阿拉格齐原计划出席联合国会议。",
+          "url": "https://wallstreetcn.com/livenews/3108774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "软银集团股价创历史新高 受OpenAI的IPO预期提振",
+          "url": "https://wallstreetcn.com/livenews/3108773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
@@ -306,7 +395,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -320,6 +409,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美以伊战争启示录｜餐桌危机：不赚钱的冰美式外卖，不油炸的新德里炸鸡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205033",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美军一架C-17发出紧急代码7700",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E4%B8%80%E6%9E%B6C-17%E5%8F%91%E5%87%BA%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     }
