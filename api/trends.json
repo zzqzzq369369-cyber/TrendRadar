@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T15:54:57.952133+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-05-29T19:28:36.481296+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -70,7 +70,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -107,6 +107,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 19时28分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -209,18 +221,6 @@
           "time_info": "[02时11分 ~ 07时15分]"
         },
         {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 15时54分]"
-        },
-        {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
           "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
           "source": "澎湃新闻",
@@ -230,6 +230,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时11分 ~ 07时15分]"
+        },
+        {
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 19时28分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -289,6 +301,43 @@
           "time_info": "[02时11分 ~ 07时15分]"
         },
         {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 19时28分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 19时28分]"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 19时28分]"
+        },
+        {
           "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
           "url": "https://www.cls.cn/detail/2384059",
           "source": "财联社热门",
@@ -301,39 +350,15 @@
           "time_info": "[02时11分 ~ 05时08分]"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
+          "title": "5月“科学”流言榜发布",
+          "url": "https://www.toutiao.com/trending/7645136790484172810/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 15时54分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 15时54分]"
-        },
-        {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 19时28分]"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -348,23 +373,35 @@
           "time_info": "[11时28分 ~ 15时54分]"
         },
         {
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 19时28分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 19时28分]"
+        },
+        {
           "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
           "url": "https://www.cls.cn/detail/2384829",
           "source": "财联社热门",
           "ranks": [
             13,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 15时54分]"
-        },
-        {
-          "title": "5月“科学”流言榜发布",
-          "url": "https://www.toutiao.com/trending/7645136790484172810/",
-          "source": "今日头条",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -406,6 +443,17 @@
           "time_info": "[02时11分 ~ 02时12分]"
         },
         {
+          "title": "诺基亚发布首款微聊手机 售价199元",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%BE%AE%E8%81%8A%E6%89%8B%E6%9C%BA+%E5%94%AE%E4%BB%B7199%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
           "url": "https://www.cls.cn/detail/2384760",
           "source": "财联社热门",
@@ -434,7 +482,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -472,17 +520,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
           "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：公司在本季度结束时，人工智能订单积压创纪录达到513亿美元。",
           "url": "https://flash.jin10.com/detail/20260529043950413800",
           "source": "金十数据",
@@ -505,15 +542,15 @@
           "time_info": "11时28分"
         },
         {
-          "title": "AI眼镜的“iPhone时刻”快来了吗",
-          "url": "https://www.cls.cn/detail/2385164",
-          "source": "财联社热门",
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "19时28分"
         },
         {
           "title": "市场监管总局批准发布血管芯片国家标准",
@@ -544,7 +581,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -560,15 +597,15 @@
           "time_info": "05时08分"
         },
         {
-          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
-          "url": "https://www.cls.cn/detail/2385245",
-          "source": "财联社热门",
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时54分"
+          "time_info": "19时28分"
         },
         {
           "title": "北京太空算力产业创新中心即将成立 国电高科将发布“天启星座”未来规划",
@@ -610,7 +647,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -624,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "字节跳动AI4S团队调整，由杨震原负责管理",
+          "url": "https://wallstreetcn.com/livenews/3111381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "Autodesk将按大约36亿美元现金收购Maintainx。",
@@ -646,6 +694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：美联储必须明确表明其对维持物价稳定的决心。 招聘低迷是一个更普遍的现象，不仅仅是因为人工智能。",
+          "url": "https://wallstreetcn.com/livenews/3111379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
@@ -676,7 +735,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -698,7 +757,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -709,7 +768,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -731,7 +790,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
@@ -764,6 +823,18 @@
           "time_info": "[02时11分 ~ 05时08分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 19时28分]"
+        },
+        {
           "title": "黄金为什么暴涨暴跌",
           "url": "https://www.toutiao.com/trending/7644938884576448042/",
           "source": "今日头条",
@@ -775,17 +846,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时11分 ~ 07时15分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 15时54分]"
         },
         {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
@@ -816,7 +876,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -984,6 +1044,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 15时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "梁文锋迁移代码到昇腾",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E8%BF%81%E7%A7%BB%E4%BB%A3%E7%A0%81%E5%88%B0%E6%98%87%E8%85%BE&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     }
