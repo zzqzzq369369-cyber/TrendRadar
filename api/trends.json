@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T11:28:53.718907+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-05-29T15:54:57.952133+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 53,
+      "match_count": 64,
       "titles": [
         {
           "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -48,9 +48,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
         },
         {
           "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "上金所发布关于调整部分延期合约保证金比例和涨跌停板的通知",
+          "url": "https://wallstreetcn.com/livenews/3111253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
@@ -87,24 +98,13 @@
           "time_info": "07时15分"
         },
         {
-          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
-          "url": "https://www.zhihu.com/question/2043503794751791638",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "商务部副部长鄢东在国新办新闻发布会上表示，第10届中国—南亚博览会将于6月11日至16日在昆明举行。",
           "url": "https://wallstreetcn.com/livenews/3111085",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -209,6 +209,18 @@
           "time_info": "[02时11分 ~ 07时15分]"
         },
         {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
           "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
           "source": "澎湃新闻",
@@ -218,6 +230,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时11分 ~ 07时15分]"
+        },
+        {
+          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
+          "url": "https://www.zhihu.com/question/2043503794751791638",
+          "source": "知乎",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -277,6 +301,88 @@
           "time_info": "[02时11分 ~ 05时08分]"
         },
         {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
+          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
+          "url": "https://www.cls.cn/detail/2384804",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
+          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
+          "url": "https://www.cls.cn/detail/2384829",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
+          "title": "5月“科学”流言榜发布",
+          "url": "https://www.toutiao.com/trending/7645136790484172810/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
+          "title": "92岁老艺术家手搓AI写了封情书",
+          "url": "https://www.douyin.com/hot/2515594",
+          "source": "抖音",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
           "title": "如何看待蔚来 「突袭式」 发布新款，成都提车 9 天变旧款，车主称遭遇「背刺」？你怎么看？",
           "url": "https://www.zhihu.com/question/2043264595666658269",
           "source": "知乎",
@@ -306,7 +412,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -322,15 +428,15 @@
           "time_info": "05时08分"
         },
         {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
+          "title": "广州“十五五”规划纲要：重点突破国产化人工智能算力芯片适配、异构算力动态调度技术",
+          "url": "https://wallstreetcn.com/livenews/3111248",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "15时54分"
         },
         {
           "title": "闪迪CTO：AI竞赛正变成“拼内存” HBF成套产品明年推出",
@@ -342,17 +448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         },
         {
           "title": "闪迪CTO：新型AI内存HBF将在年底送样，配备控制器的完整产品预计于明年正式推出。",
@@ -377,37 +472,15 @@
           "time_info": "07时15分"
         },
         {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
-          "url": "https://www.cls.cn/detail/2384804",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "15时54分"
         },
         {
           "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：公司在本季度结束时，人工智能订单积压创纪录达到513亿美元。",
@@ -427,20 +500,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
         {
-          "title": "5月“科学”流言榜发布",
-          "url": "https://www.toutiao.com/trending/7645136790484172810/",
-          "source": "今日头条",
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "15时54分"
         },
         {
           "title": "市场监管总局批准发布血管芯片国家标准",
@@ -449,7 +522,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -460,20 +533,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
         {
-          "title": "92岁老艺术家手搓AI写了封情书",
-          "url": "https://www.douyin.com/hot/2515594",
-          "source": "抖音",
+          "title": "从“卖卡”到“卖Token”：AI算力市场重构与国产芯片的窗口期|深度",
+          "url": "https://www.cls.cn/detail/2384876",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "15时54分"
         },
         {
           "title": "据英国金融时报：亚马逊(AMZN.O)取消人工智能排行榜，以阻止员工追求使用分数。",
@@ -487,15 +560,15 @@
           "time_info": "05时08分"
         },
         {
-          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
-          "url": "https://www.cls.cn/detail/2384829",
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "15时54分"
         },
         {
           "title": "北京太空算力产业创新中心即将成立 国电高科将发布“天启星座”未来规划",
@@ -504,7 +577,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -526,9 +599,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "广州“十五五”规划纲要：重点突破国产化人工智能算力芯片适配、异构算力动态调度技术",
+          "url": "https://flash.jin10.com/detail/20260529153912473800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "欧盟严阵以待，将与Anthropic就获取Mythos AI模型展开谈判",
@@ -559,7 +643,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -570,7 +654,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -586,15 +670,48 @@
           "time_info": "07时15分"
         },
         {
+          "title": "港股大模型股下挫，智谱跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3111219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "卢伟冰宣布小米17T系列国内即将发布",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E5%AE%A3%E5%B8%83%E5%B0%8F%E7%B1%B317T%E7%B3%BB%E5%88%97%E5%9B%BD%E5%86%85%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "国产AI芯片三国杀",
+          "url": "https://www.toutiao.com/trending/7645160711315787327/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：获取OpenAI的新模型将有助于日本加强网络安全的努力。",
+          "url": "https://flash.jin10.com/detail/20260529153517277800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "美联储Barkin：AI投资给中性利率带来压力。 某些AI相关的领域正表现出通胀压力。",
@@ -606,12 +723,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "黄仁勋谈AI：浪费Token没事别浪费时间",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%EF%BC%9A%E6%B5%AA%E8%B4%B9Token%E6%B2%A1%E4%BA%8B%E5%88%AB%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -649,6 +777,17 @@
           "time_info": "[02时11分 ~ 07时15分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
+        },
+        {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -660,17 +799,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
           "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
           "url": "https://wallstreetcn.com/livenews/3110886",
           "source": "华尔街见闻-快讯",
@@ -680,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "三星、SK海力士暴涨“冲击”基金持仓封顶线 引发强制抛盘",
+          "url": "https://wallstreetcn.com/livenews/3111251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -735,7 +874,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -839,11 +978,12 @@
           "url": "https://www.cls.cn/detail/2384856",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 15时54分]"
         }
       ]
     }
