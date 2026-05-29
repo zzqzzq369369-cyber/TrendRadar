@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T02:32:08.720909+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-30T05:07:25.805149+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -15,30 +15,66 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
+        },
+        {
+          "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。",
+          "url": "https://wallstreetcn.com/livenews/3111637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
+          "url": "https://wallstreetcn.com/livenews/3111636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3773393",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
+        },
+        {
+          "title": "诺基亚发布首款微聊手机 售价199元",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%BE%AE%E8%81%8A%E6%89%8B%E6%9C%BA+%E5%94%AE%E4%BB%B7199%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -48,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
@@ -59,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -70,8 +106,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "“广东高考将用AI批卷”不实",
@@ -81,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "“广东夏季高考将用AI批卷”不实",
@@ -92,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -103,8 +139,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
@@ -114,30 +150,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "诺基亚发布首款微聊手机",
           "url": "https://www.toutiao.com/trending/7645127667012812854/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
-        },
-        {
-          "title": "诺基亚发布首款微聊手机 售价199元",
-          "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%BE%AE%E8%81%8A%E6%89%8B%E6%9C%BA+%E5%94%AE%E4%BB%B7199%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "美联储戴利：利用AI获得持续生产率增长的障碍很大程度上在于监管方面。 看到AI为生产率增长带来的绿色萌芽（积极迹象）。 未看到AI造成美国大规模失业或劳动力流离失所。",
@@ -146,7 +172,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -157,9 +183,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260530034751105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "美联储戴利：预计人工智能将推动生产率增长出现积极迹象。",
@@ -168,7 +205,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -179,7 +216,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -190,7 +227,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
@@ -198,7 +235,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -208,19 +245,64 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260530040526961800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260530040525395800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "周五（5月29日），美股信息科技指数涨2.27%，报437.17点，5月份累涨28.14%。",
+          "url": "https://wallstreetcn.com/livenews/3111635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "周五（5月29日），美股超大规模云服务商（Hyperscalers）收涨1.28%，报105.80点，5月份累涨7.11%。",
+          "url": "https://wallstreetcn.com/livenews/3111634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
           "url": "https://wallstreetcn.com/articles/3773437",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -230,8 +312,52 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收涨超5.4%，5月份谷歌A涨21.6%",
+          "url": "https://wallstreetcn.com/livenews/3111630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "周五（5月29日），美股存储芯片与硬件供应链指数行1.48%，报210.62点，继续创收盘历史新高，本周（四个交易日）累计上涨11.93%，5月份累涨37.27%。",
+          "url": "https://wallstreetcn.com/livenews/3111628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
+          "url": "https://flash.jin10.com/detail/20260530040220789800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
+          "url": "https://wallstreetcn.com/livenews/3111624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时07分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.31%，暂报2691.30点，上周五结束交易以来（7*24）累计下跌3.53%，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨1.61%，报2917.71点，期内累跌4.91%，5月24-27日持稳于3050点附近（高位窄幅震荡）。 MarketVector数字资产100指数涨0.92%，报14608.72点，期内累跌3.75%。 最近连续七天迄今，Solana累跌2.58%，狗狗币累跌3.56%，XRP累跌1.15%。 比特币目前涨0.57%，暂报73890.88美元，最近七天累跌2.64%；以太坊涨1.33%，暂报2038.128美元，最近七天累跌1.74%。",
@@ -240,7 +366,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
@@ -258,8 +384,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 05时07分]"
         }
       ]
     }
