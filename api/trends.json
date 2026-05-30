@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T10:55:39.104355+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-05-30T14:24:26.873058+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时31分 ~ 07时12分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 14时24分]"
         },
         {
           "title": "停火预期压制油价，AI热潮推涨美股，标普九周连涨，戴尔暴涨33%，黄金冲高回落",
@@ -65,25 +78,13 @@
           "time_info": "[02时31分 ~ 10时55分]"
         },
         {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时31分 ~ 10时55分]"
-        },
-        {
           "title": "国家制造强国建设战略咨询委员会副主任苏波：要深度把握AI与先进制造的融合趋势，完善顶层设计",
           "url": "https://wallstreetcn.com/livenews/3111707",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -182,6 +183,19 @@
           "time_info": "[05时07分 ~ 07时12分]"
         },
         {
+          "title": "英伟达、微软一同发布神秘预告 传闻中的PC芯片下周亮相？",
+          "url": "https://www.cls.cn/detail/2385944",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 14时24分]"
+        },
+        {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
@@ -192,18 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 05时07分]"
-        },
-        {
-          "title": "英伟达、微软一同发布神秘预告 传闻中的PC芯片下周亮相？",
-          "url": "https://www.cls.cn/detail/2385944",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时55分]"
         },
         {
           "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
@@ -217,15 +219,37 @@
           "time_info": "[05时07分 ~ 07时12分]"
         },
         {
+          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
+          "url": "https://www.cls.cn/detail/2386025",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "传奇对冲基金经理Dan Loeb：拒绝进化的“死硬价值派”都死了，不学AI注定灭绝",
           "url": "https://wallstreetcn.com/articles/3773413",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "韩国巨额AI奖金引发科技财富分配大论战",
@@ -239,13 +263,35 @@
           "time_info": "07时12分"
         },
         {
+          "title": "“亚洲最大AI科技展”ComputeX下周开幕，黄仁勋领衔AI巨头轮番登台",
+          "url": "https://wallstreetcn.com/articles/3773430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "深圳网约车市场已饱和，官方发布风险提示",
+          "url": "https://wallstreetcn.com/livenews/3111729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "赛力斯将推新汽车品牌，火山引擎深度参与，计划6月发布",
           "url": "https://wallstreetcn.com/livenews/3111694",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -270,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "九号公司发布N1、M1、全新M3以及Fz5四款新车型，覆盖酷玩电摩、都市通勤电摩、高端电摩及电动自行车。（界面）",
+          "url": "https://wallstreetcn.com/livenews/3111723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         },
         {
           "title": "美联储戴利：预计人工智能将推动生产率增长出现积极迹象。",
@@ -305,6 +362,28 @@
           "time_info": "07时12分"
         },
         {
+          "title": "天津发布2025年度人工智能十大应用标杆场景，总投资超6亿元",
+          "url": "https://wallstreetcn.com/livenews/3111717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "AI时代选专业必看",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E9%80%89%E4%B8%93%E4%B8%9A%E5%BF%85%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "挪威首相：期待与中国在人工智能等全球性议题上加强沟通",
           "url": "https://wallstreetcn.com/livenews/3111564",
           "source": "华尔街见闻-快讯",
@@ -322,15 +401,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "白宫发布特朗普医生出具的备忘录：特朗普没有动脉阻塞及异常情况。 特朗普有轻微小腿肿胀。医生称特朗普的小腿肿胀较2025年有所改善 特朗普的医生表示总统健康状况适合履行所有职责。 特朗普的医生表示总统健康状况极佳。",
+          "url": "https://wallstreetcn.com/livenews/3111711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -344,6 +434,20 @@
           "time_info": "[02时31分 ~ 07时12分]"
         },
         {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时31分 ~ 14时24分]"
+        },
+        {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260530040526961800",
           "source": "金十数据",
@@ -353,6 +457,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时07分 ~ 07时12分]"
+        },
+        {
+          "title": "三星、SK海力士暴涨“撑爆”持仓红线：基金被迫抛售，韩股外资创纪录流出",
+          "url": "https://wallstreetcn.com/articles/3773445",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 14时24分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股收盘）",
@@ -366,17 +483,16 @@
           "time_info": "[05时07分 ~ 07时12分]"
         },
         {
-          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2385789",
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            10
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时31分 ~ 10时55分]"
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 14时24分]"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
@@ -389,29 +505,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 05时07分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "三星、SK海力士暴涨“撑爆”持仓红线：基金被迫抛售，韩股外资创纪录流出",
-          "url": "https://wallstreetcn.com/articles/3773445",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 10时55分]"
         },
         {
           "title": "周五（5月29日），美股信息科技指数涨2.27%，报437.17点，5月份累涨28.14%。",
@@ -504,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美股市值前十已无一家传统公司",
+          "url": "https://www.toutiao.com/trending/7645499041781911082/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
         }
       ]
     },
@@ -518,7 +622,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         }
