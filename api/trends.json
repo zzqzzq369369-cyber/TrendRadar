@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T02:37:54.005725+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-02T06:11:07.419838+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "深圳网约车市场饱和，官方发布风险提示，从经济学角度如何理解？有没有跑网约车的朋友聊聊现在还能赚到钱吗？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "一批儿童相关国家标准正式发布",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "你看好英伟达即将发布的首款笔记本电脑 N1X 吗？",
@@ -70,30 +70,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -103,8 +93,76 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
+        },
+        {
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
+        },
+        {
+          "title": "黄仁勋和刘强东都反对借AI名义裁员",
+          "url": "https://www.toutiao.com/trending/7646333345659358729/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 06时11分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
+          "url": "https://flash.jin10.com/detail/20260602053510657800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "06时11分"
+        },
+        {
+          "title": "超微电脑美股盘后涨7%，追随惠与（HPE）业绩报告发布之后的表现。",
+          "url": "https://wallstreetcn.com/livenews/3112653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "以色列国防军：鉴于确认有火箭弹从黎巴嫩发射，目标直指冲突线沿线的各社区，后方司令部已发布预防性指令。公众应在警报响起时立即进入避难场所。",
@@ -118,6 +176,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
+          "url": "https://wallstreetcn.com/livenews/3112644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "为什么说AI下一个爆发点在智能终端",
           "url": "https://www.toutiao.com/trending/7646385380161228324/",
           "source": "今日头条",
@@ -129,15 +198,15 @@
           "time_info": "02时37分"
         },
         {
-          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
-          "url": "https://www.zhihu.com/question/2044719064757397392",
-          "source": "知乎",
+          "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
+          "url": "https://flash.jin10.com/detail/20260602044358873800",
+          "source": "金十数据",
           "ranks": [
-            20
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "06时11分"
         },
         {
           "title": "Apollo首席经济学家称AI热潮将浇灭美联储新任主席沃什快速降息的希望",
@@ -165,7 +234,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 2,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
@@ -175,8 +244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
         },
         {
           "title": "为什么号称绝对安全的加密货币，频繁被美国政府没收？",
@@ -186,8 +255,96 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 06时11分]"
+        },
+        {
+          "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
+          "url": "https://wallstreetcn.com/livenews/3112642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
+          "url": "https://wallstreetcn.com/livenews/3112640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美股光通信概念股Credo股价盘后跌超15%。 最新业绩报告显示，该公司第四财季营收4.37亿美元，分析师预期4.325亿美元。 第四财季调整后每股收益（EPS）为1.16美元，分析师预期1美元。 预计第一财季营收4.65亿-4.75亿美元，分析师预期4.605亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3112639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260602044727050800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国伊利诺伊州将对网络数字广告、社交媒体、预测市场、加密货币征税，从而支撑当地的2027财年预算。",
+          "url": "https://wallstreetcn.com/livenews/3112636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "惠与第二财季调整后每股收益（EPS）为0.79美元，分析师预期0.54美元。 将Elliott Investment Partners的Chris Hsu纳入董事会。 预计全年调整后EPS为3.35-3.45美元，公司原本预计2.30-2.50美元。 惠与（HPE）美股盘后涨28%。",
+          "url": "https://wallstreetcn.com/livenews/3112635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国芝商所（CME）启动加密货币期货与期权全天候（7*24）交易。",
+          "url": "https://wallstreetcn.com/livenews/3112625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     }
