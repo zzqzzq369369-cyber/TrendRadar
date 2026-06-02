@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T05:48:04.750872+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-06-03T07:45:13.401633+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
         },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -37,19 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
-        },
-        {
-          "title": "教育部发布2026年高考预警信息",
-          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -63,6 +53,18 @@
           "time_info": "[02时39分 ~ 05时48分]"
         },
         {
+          "title": "教育部发布2026年高考预警信息",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%832026%E5%B9%B4%E9%AB%98%E8%80%83%E9%A2%84%E8%AD%A6%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
+        },
+        {
           "title": "索尼SOP游戏发布会",
           "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BCSOP%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -74,13 +76,35 @@
           "time_info": "[05时47分 ~ 05时48分]"
         },
         {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
           "title": "受台风“蔷薇”影响 日本和歌山县发布最高等级5级警戒。",
           "url": "https://flash.jin10.com/detail/20260603052810784800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -102,7 +126,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -111,11 +135,23 @@
           "url": "https://www.douyin.com/hot/2521059",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -130,15 +166,37 @@
           "time_info": "[02时39分 ~ 05时48分]"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "AI演员已经有眼神戏了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9C%89%E7%9C%BC%E7%A5%9E%E6%88%8F%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "肖战 被AI做局",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E8%A2%ABAI%E5%81%9A%E5%B1%80&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
@@ -163,6 +221,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "业内人士：供给偏紧、AI需求托底，锡价中长期上行可期",
+          "url": "https://wallstreetcn.com/livenews/3113332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
           "url": "https://wallstreetcn.com/livenews/3113224",
           "source": "华尔街见闻-快讯",
@@ -172,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3113331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "OpenAI：Codex For Work现已原生支持Zoominfo。",
@@ -229,6 +309,28 @@
           "time_info": "02时39分"
         },
         {
+          "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
+          "url": "https://flash.jin10.com/detail/20260603070002418800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
+          "title": "澳大利亚5月AIG/PWC制造业表现指数 -22.4，前值-27.9。",
+          "url": "https://flash.jin10.com/detail/20260603070002375800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
+        },
+        {
           "title": "报道：欧盟AI数据中心计划因延误和资金问题受挫",
           "url": "https://wallstreetcn.com/livenews/3113206",
           "source": "华尔街见闻-快讯",
@@ -246,7 +348,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -257,9 +359,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3113311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     },
@@ -274,7 +387,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -283,11 +396,25 @@
           "url": "https://www.cls.cn/detail/2388757",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
+        },
+        {
+          "title": "今日，腾讯市值暴涨3000亿！",
+          "url": "https://www.cls.cn/detail/2388836",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时39分 ~ 07时45分]"
         },
         {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
@@ -313,25 +440,13 @@
           "time_info": "[02时39分 ~ 05时48分]"
         },
         {
-          "title": "今日，腾讯市值暴涨3000亿！",
-          "url": "https://www.cls.cn/detail/2388836",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 05时48分]"
-        },
-        {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
           "url": "https://wallstreetcn.com/livenews/3113295",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -353,7 +468,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -364,7 +479,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -375,7 +490,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         },
@@ -386,7 +501,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
         }
