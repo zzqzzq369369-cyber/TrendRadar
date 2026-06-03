@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T11:57:59.655779+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-06-03T16:57:49.982717+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -31,18 +31,6 @@
           "time_info": "[02时39分 ~ 07时45分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时39分 ~ 11时57分]"
-        },
-        {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
@@ -51,8 +39,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 16时57分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时39分 ~ 16时57分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -146,15 +147,48 @@
           "time_info": "05时48分"
         },
         {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "微软全面押注智能体时代：发布新模型、展示新终端、重塑应用生态",
           "url": "https://www.cls.cn/detail/2388956",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "张杰工作室发布声明",
@@ -191,6 +225,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 05时48分]"
+        },
+        {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 16时57分]"
         },
         {
           "title": "AI演员已经有眼神戏了",
@@ -287,7 +333,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -303,13 +349,24 @@
           "time_info": "02时39分"
         },
         {
+          "title": "【午报】创业板指震荡走高涨近4%，AI硬件与芯片产业联袂领涨",
+          "url": "https://www.cls.cn/detail/2389313",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "【腾讯AI产业应用大会在即，即将发布系列智能体应用新品】据腾讯云官号账号信息，腾讯2026AI产业应用大会即将在北京举办。作为腾讯年度最重要的AI产品发布平台，此次将发布系列智能体应用新品，并将公布infra等基础设施升级新进展。与此同时，腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生将于腾讯AI首席科学家姚顺雨同台对话，解读AI下半场腾讯在AI赛道的最新布局和思考。（澎湃新闻）",
           "url": "https://wallstreetcn.com/livenews/3113463",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -325,15 +382,15 @@
           "time_info": "02时39分"
         },
         {
-          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
-          "url": "https://www.zhihu.com/question/2045210107105862467",
-          "source": "知乎",
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "16时57分"
         },
         {
           "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
@@ -347,6 +404,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "杭州13岁小孩哥AI识毒果断报警",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E13%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%93%A5AI%E8%AF%86%E6%AF%92%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "微软推出Web IQ套件，包含一系列AI原生Grounding API。 Web IQ是一款针对AI系统的搜索引擎。 针对新AI设备推出Project Solara。 推出可让OpenClaw在Windows系统上顺畅运行的技术支持方案。",
           "url": "https://wallstreetcn.com/livenews/3113213",
           "source": "华尔街见闻-快讯",
@@ -356,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
@@ -375,7 +454,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -419,9 +498,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "翘楚演员回应被认成AI",
+          "url": "https://www.douyin.com/hot/2521565",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
@@ -441,7 +531,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -452,7 +542,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -471,7 +561,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "今日，腾讯市值暴涨3000亿！",
@@ -545,6 +635,28 @@
           "time_info": "05时48分"
         },
         {
+          "title": "“巨无霸IPO”即将接踵而至，以史为鉴美股要崩了？一文看懂",
+          "url": "https://www.cls.cn/detail/2389038",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "美股现罕见盘面，历史级涨幅对标1987年崩盘前夕",
+          "url": "https://flash.jin10.com/detail/20260603164512752800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "数字货币市场走低，比特币跌5.6%一度失守6.7万美元",
           "url": "https://wallstreetcn.com/livenews/3113210",
           "source": "华尔街见闻-快讯",
@@ -606,24 +718,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33297512",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 16时57分]"
+        },
+        {
           "title": "国台办回应赖清德攻击TikTok小红书",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%B5%96%E6%B8%85%E5%BE%B7%E6%94%BB%E5%87%BBTikTok%E5%B0%8F%E7%BA%A2%E4%B9%A6",
           "source": "百度热搜",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "赖清德声称将处理TikTok、小红书对台青影响，国台办回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33297512",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -634,7 +747,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
@@ -662,7 +775,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         }
