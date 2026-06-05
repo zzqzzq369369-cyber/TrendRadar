@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-05T13:16:10.885266+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-06-05T17:45:03.699783+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 65,
       "titles": [
+        {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 17时45分]"
+        },
         {
           "title": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
           "url": "https://www.zhihu.com/question/2045477936329744808",
@@ -21,15 +32,16 @@
           "time_info": "[04时04分 ~ 08时06分]"
         },
         {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时06分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 17时45分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -44,17 +56,6 @@
           "time_info": "[08时06分 ~ 13时16分]"
         },
         {
-          "title": "教育部发布2026年高考十问十答",
-          "url": "https://www.douyin.com/hot/2524066",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "AI脸泛滥成灾,建模师没活了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
           "source": "贴吧",
@@ -65,6 +66,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时47分 ~ 13时16分]"
+        },
+        {
+          "title": "教育部发布2026年高考十问十答",
+          "url": "https://www.douyin.com/hot/2524066",
+          "source": "抖音",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 17时45分]"
         },
         {
           "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
@@ -80,15 +93,16 @@
           "time_info": "[06时20分 ~ 13时16分]"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
           "ranks": [
-            4
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 17时45分]"
         },
         {
           "title": "美联储戴利：目前人工智能可能带来通胀下降的影响，但这不是紧迫的问题。",
@@ -200,6 +214,18 @@
           "time_info": "[01时47分 ~ 06时21分]"
         },
         {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 17时45分]"
+        },
+        {
           "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
           "url": "https://www.zhihu.com/question/2045154297281827321",
           "source": "知乎",
@@ -236,6 +262,39 @@
           "time_info": "[06时20分 ~ 06时21分]"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -246,6 +305,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 04时04分]"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -259,15 +329,15 @@
           "time_info": "[01时47分 ~ 04时04分]"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
@@ -279,6 +349,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
@@ -303,15 +384,26 @@
           "time_info": "[01时47分 ~ 04时04分]"
         },
         {
-          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
-          "url": "https://www.cls.cn/detail/2391554",
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "LPL发布BLG和Bin的处罚公告",
@@ -381,13 +473,24 @@
           "time_info": "01时47分"
         },
         {
+          "title": "【国办：严格禁止私募基金违规从事借贷、“名股实债”等行为】国务院办公厅发布关于加强监管防范风险促进私募投资基金高质量发展的指导意见。意见提出，坚持目标导向和问题导向，针对私募基金行业准入机制有待完善、监管不到位、制度不健全、部际央地协调配合不足、部分政府投资基金和国有企业投资基金出资人责任落实不到位以及部分私募基金成为违法犯罪、新型腐败和隐性腐败工具等问题，构建加强监管、防范风险的制度体系和长效机制，推动行业在规范中发展、在发展中提升。坚守功能定位，统筹总体布局，优化增量、盘活存量，扶优限劣、提质增效，严格禁止私募基金违规从事借贷、“名股实债”等行为。坚持分类监管，根据出资主体、产品类型等不同维度实施“一类一策”监管。坚持既管合法更管非法，对合法机构从严监管，对非法机构坚决取缔，对非法行为严厉打击。绩和功能作用发挥为导向的激励约束制度。",
+          "url": "https://wallstreetcn.com/livenews/3114983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：AI建设正在加速。 我给韩国带来了大量业务。 计划与现代、三星、SK集团高管会面。 将与韩国合作伙伴讨论供应链协同相关事宜。 将尽可能聪明地分配和使用存储芯片供应。 将开始为韩国研发中心招聘员工。",
           "url": "https://wallstreetcn.com/livenews/3114813",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -508,7 +611,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -530,7 +633,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -541,7 +644,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -568,6 +671,39 @@
           "time_info": "08时06分"
         },
         {
+          "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态",
+          "url": "https://wallstreetcn.com/livenews/3114960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "中国人民银行发布关于《人民币存贷款利率管理规定》公开征求意见的通知。",
+          "url": "https://flash.jin10.com/detail/20260605170334236800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "Gartner：到2030年，预计100%的IT工作都将在AI辅助下完成",
+          "url": "https://wallstreetcn.com/livenews/3114958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
           "url": "https://wallstreetcn.com/livenews/3114544",
           "source": "华尔街见闻-快讯",
@@ -577,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "国务院办公厅发布关于加强监管防范风险促进私募投资基金高质量发展的指导意见。",
+          "url": "https://flash.jin10.com/detail/20260605170244313800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "英国央行行长就前沿AI及债务市场风险提出警告",
@@ -632,6 +779,18 @@
           "time_info": "[01时47分 ~ 06时21分]"
         },
         {
+          "title": "成也存储、败也存储！韩股“黑色星期五”：三星、SK海力士双双暴跌",
+          "url": "https://www.cls.cn/detail/2391421",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 17时45分]"
+        },
+        {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
           "url": "https://www.cls.cn/detail/2391243",
           "source": "财联社热门",
@@ -643,27 +802,17 @@
           "time_info": "[08时06分 ~ 13时16分]"
         },
         {
-          "title": "成也存储、败也存储！韩股“黑色星期五”：三星、SK海力士双双暴跌",
-          "url": "https://www.cls.cn/detail/2391421",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
           "title": "软银单日暴跌11%！孙正义的亚洲首富，只当了三天",
           "url": "https://wallstreetcn.com/articles/3773851",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[06时20分 ~ 17时45分]"
         },
         {
           "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
@@ -726,8 +875,21 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "富途6月12日起暂停股票等所有品种的内地买入及入金服务，三家跨境券商均已落地集中整治细则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33309776",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时20分 ~ 17时45分]"
+        },
         {
           "title": "如何看待拼多多旗下跨境电商 Temu 因违反欧盟关于销售非法产品的规定，被罚款 2 亿欧元？",
           "url": "https://www.zhihu.com/question/2043475993025826848",
@@ -740,23 +902,33 @@
           "time_info": "[01时47分 ~ 08时06分]"
         },
         {
-          "title": "富途6月12日起暂停股票等所有品种的内地买入及入金服务，三家跨境券商均已落地集中整治细则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33309776",
-          "source": "澎湃新闻",
+          "title": "国务院：严厉打击违规募集、侵占挪用、自融自用、利益输送、资金违法跨境流动以及私募基金参与非法集资等行为",
+          "url": "https://flash.jin10.com/detail/20260605170723099800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16
+            18
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 13时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 17时45分]"
+        },
         {
           "title": "今年腾讯大部分代码都由AI生成",
           "url": "https://www.toutiao.com/trending/7647705490126946310/",
