@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:45:03.699783+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-06-05T20:36:59.740457+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 20时36分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时06分 ~ 17时45分]"
+          "time_info": "[13时15分 ~ 20时36分]"
         },
         {
           "title": "网传苹果即将发布首款折叠屏手机，确认液态金属铰链方案，新技术有哪些优劣？会给国产折叠屏带来哪些冲击？",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时04分 ~ 08时06分]"
-        },
-        {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时45分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -141,6 +141,18 @@
           "time_info": "[01时47分 ~ 08时06分]"
         },
         {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 20时36分]"
+        },
+        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：随着时间的推移，AI可以压低通胀。 还没有看到AI大规模提升生产力。",
           "url": "https://wallstreetcn.com/livenews/3114567",
           "source": "华尔街见闻-快讯",
@@ -150,6 +162,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 20时36分]"
         },
         {
           "title": "巴克莱称AI还不会取代信贷对冲基金交易员，仅7%投资人预期大裁员",
@@ -214,18 +238,6 @@
           "time_info": "[01时47分 ~ 06时21分]"
         },
         {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时45分]"
-        },
-        {
           "title": "高盛发布世界杯预测报告，模型显示西班牙以 26% 概率成为最大夺冠热门，用经济模型预测足球比赛可靠吗？",
           "url": "https://www.zhihu.com/question/2045154297281827321",
           "source": "知乎",
@@ -237,6 +249,52 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 06时21分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 20时36分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 20时36分]"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 20时36分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 20时36分]"
         },
         {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
@@ -251,6 +309,18 @@
           "time_info": "[04时04分 ~ 06时21分]"
         },
         {
+          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 20时36分]"
+        },
+        {
           "title": "AI交易降温，纳指收跌，道指创历史新高，博通大跌超12%，金银反弹",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -262,31 +332,9 @@
           "time_info": "[06时20分 ~ 06时21分]"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
           "title": "中方回应外媒称AI进入“中美争霸”",
           "url": "https://www.toutiao.com/trending/7647807825645699126/",
           "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
           "ranks": [
             7
           ],
@@ -329,17 +377,6 @@
           "time_info": "[01时47分 ~ 04时04分]"
         },
         {
-          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
-          "url": "https://wallstreetcn.com/articles/3773916",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
           "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
           "url": "https://www.cls.cn/detail/2391250",
           "source": "财联社热门",
@@ -349,17 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2391915",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
@@ -382,28 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 04时04分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
-          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
         },
         {
           "title": "LPL发布BLG和Bin的处罚公告",
@@ -479,7 +483,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -515,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "明阳电路：拟发行可转债募资不超过12亿元，用于年产10万平米人工智能高阶HDI算力产品项目、补充流动资金及偿还银行贷款项目。",
+          "url": "https://wallstreetcn.com/livenews/3115107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "美联储戴利：目前还没有看到人工智能对通胀数据产生明显影响。",
@@ -638,6 +653,17 @@
           "time_info": "13时16分"
         },
         {
+          "title": "湖北成立工业物理AI实验室，围绕“AI+工业软件+物理机理+制造数据”开展研发攻关",
+          "url": "https://wallstreetcn.com/livenews/3115097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能建设正在加速。",
           "url": "https://flash.jin10.com/detail/20260605124102796800",
           "source": "金十数据",
@@ -677,7 +703,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -688,7 +714,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -699,7 +725,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -721,7 +747,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -751,7 +777,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -839,6 +865,17 @@
           "time_info": "[06时20分 ~ 06时21分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "数字货币市场普跌，比特币在亚太早盘下探6.1万美元",
           "url": "https://wallstreetcn.com/livenews/3114555",
           "source": "华尔街见闻-快讯",
@@ -870,6 +907,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【首字延迟降低3.6倍，腾讯混元提出Stem稀疏注意力算法，长文推理加速新SOTA】腾讯混元宣布提出Stem稀疏注意力算法，已被机器学习顶会ICML-26收录。根据Stem算法×HPC算子的全栈加速方案，算法层面，Stem通过Token位置衰减（TPD）和输出感知度量（OAM）实现25%预算下的近无损精度；算子层面，HPC开源的Stem+BSA算子将稀疏收益转化为真实硬件加速，128K上下文下首字延迟降低3.7倍。",
+          "url": "https://wallstreetcn.com/livenews/3115123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 20时36分]"
+        },
+        {
+          "title": "今年腾讯大部分代码都由AI生成",
+          "url": "https://www.toutiao.com/trending/7647705490126946310/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "触发了高考祝福的底层代码",
+          "url": "https://s.weibo.com/weibo?q=%E8%A7%A6%E5%8F%91%E4%BA%86%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%9A%84%E5%BA%95%E5%B1%82%E4%BB%A3%E7%A0%81&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     },
@@ -908,48 +995,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
-          "title": "今年腾讯大部分代码都由AI生成",
-          "url": "https://www.toutiao.com/trending/7647705490126946310/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        },
-        {
-          "title": "触发了高考祝福的底层代码",
-          "url": "https://s.weibo.com/weibo?q=%E8%A7%A6%E5%8F%91%E4%BA%86%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%9A%84%E5%BA%95%E5%B1%82%E4%BB%A3%E7%A0%81&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
         }
       ]
     }
