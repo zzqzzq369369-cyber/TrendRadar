@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T03:56:14.185909+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-06-06T05:25:44.283422+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -15,19 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时25分]"
         },
         {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
@@ -41,15 +54,27 @@
           "time_info": "[01时53分 ~ 01时54分]"
         },
         {
-          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
-          "url": "https://wallstreetcn.com/articles/3773946",
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
           "title": "英国央行行长贝利：人工智能将比以往的创新更快地实现增长。",
@@ -58,7 +83,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -69,31 +94,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -103,8 +106,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -115,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -126,8 +129,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
           "title": "教育部发布2026年高考十问十答",
@@ -135,11 +138,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
@@ -149,8 +153,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
+        },
+        {
+          "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
+          "url": "https://flash.jin10.com/detail/20260606041131799800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "英国央行行长贝利：（关于人工智能）过去的经验表明，创新需要时间才能影响增长。",
@@ -159,7 +174,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -170,7 +185,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -181,7 +196,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -192,7 +207,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -203,7 +218,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -214,9 +229,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "美国5月非农就业报告发布当天，标普500指数收跌200.57点，跌幅2.64%，报7383.74点，本周累计下跌2.59%，在非农日打乱6月1-4日大体持稳的状态。 道琼斯工业平均指数收跌695.15点，跌幅1.35%，报50866.78点，本周累跌0.32%。 纳斯达克综合指数（纳指）收跌1121.526点，跌幅4.18%，报25709.432点，本周累跌4.68%。 纳斯达克100指数收跌1450.212点，跌幅4.77%，报28957.599点，本周累跌4.53%。",
+          "url": "https://wallstreetcn.com/livenews/3115323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
@@ -225,7 +251,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         }
@@ -233,8 +259,32 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "日股跳水韩股熔断， SK 海力士跌超 8%，暴跌原因是什么？释放了哪些市场信号？",
+          "url": "https://www.zhihu.com/question/2046218166812893382",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
+        },
+        {
+          "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
+          "url": "https://wallstreetcn.com/livenews/3115352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
@@ -243,20 +293,63 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         },
         {
-          "title": "日股跳水韩股熔断， SK 海力士跌超 8%，暴跌原因是什么？释放了哪些市场信号？",
-          "url": "https://www.zhihu.com/question/2046218166812893382",
-          "source": "知乎",
+          "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
+          "url": "https://wallstreetcn.com/livenews/3115345",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040853818800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260606040847799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
+          "url": "https://wallstreetcn.com/livenews/3115338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美股收盘：纳指跌超4% 半导体股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260606040542544800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
@@ -270,15 +363,37 @@
           "time_info": "01时54分"
         },
         {
+          "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3115331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "费城半导体指数在美股午后盘中下跌近9%。",
           "url": "https://flash.jin10.com/detail/20260606030109177800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3115328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     },
@@ -291,11 +406,12 @@
           "url": "https://www.cls.cn/detail/2392216",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 05时25分]"
         }
       ]
     }
