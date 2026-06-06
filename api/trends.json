@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T05:04:06.927131+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-06-07T07:03:29.670696+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
         },
         {
           "title": "诺基亚发布首款微聊手机，售价 199 元，可视频通话，但连不了 WiFi，该机在当前市场生存空间大吗？",
@@ -25,11 +25,37 @@
           "ranks": [
             6,
             5,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
+        },
+        {
+          "title": "如何看待《浪姐》发布声明否认观众辱骂王濛，确认现场观众喊的是「王濛金牌的 king」？",
+          "url": "https://www.zhihu.com/question/2046603162039969545",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
+        },
+        {
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -43,17 +69,43 @@
           "time_info": "01时12分"
         },
         {
-          "title": "如何看待《浪姐》发布声明否认观众辱骂王濛，确认现场观众喊的是「王濛金牌的 king」？",
-          "url": "https://www.zhihu.com/question/2046603162039969545",
-          "source": "知乎",
+          "title": "阿拉斯加航空首席财务官表示，需要在燃油价格更加稳定之后，才能恢复发布业绩指引。",
+          "url": "https://flash.jin10.com/detail/20260607054640198800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            12,
-            5
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
+          "url": "https://wallstreetcn.com/livenews/3115486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "time_info": "[01时12分 ~ 07时03分]"
+        },
+        {
+          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
+          "url": "https://www.zhihu.com/question/2044941270087463980",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
         },
         {
           "title": "据The Information报道，白宫人工智能高级政策顾问克里希南将离职。",
@@ -67,17 +119,41 @@
           "time_info": "01时12分"
         },
         {
-          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
-          "url": "https://wallstreetcn.com/livenews/3115486",
-          "source": "华尔街见闻-快讯",
+          "title": "高考新增AI监考员",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            7,
-            13
+            8,
+            26,
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -93,66 +169,18 @@
           "time_info": "[01时12分 ~ 05时04分]"
         },
         {
-          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
-          "url": "https://www.zhihu.com/question/2044941270087463980",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
-        },
-        {
-          "title": "高考新增AI监考员",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
-        },
-        {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
-        },
-        {
           "title": "香港天文台发布黄色暴雨警告。",
           "url": "https://wallstreetcn.com/livenews/3115469",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
             17,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时03分]"
         },
         {
           "title": "香港天文台发布红色暴雨警告。",
@@ -161,11 +189,12 @@
           "ranks": [
             18,
             23,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时03分]"
         },
         {
           "title": "高考明天开考，教育部发布四点特别提醒",
@@ -175,8 +204,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 07时03分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -188,6 +217,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "阿拉斯加航空首席财务官表示，有望在二季度财报电话会议上恢复发布业绩指引。",
+          "url": "https://flash.jin10.com/detail/20260607054615820800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "北大UP主手搓AI猫娘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
@@ -229,17 +280,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
-        },
-        {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
@@ -247,28 +287,15 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
         },
         {
-          "title": "数字货币市场继续走低，比特币已跌穿百日均线和200周均线、正测试50月均线",
-          "url": "https://wallstreetcn.com/livenews/3115489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 05时04分]"
-        },
-        {
-          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
-          "url": "https://wallstreetcn.com/articles/3773991",
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -283,8 +310,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
         },
         {
           "title": "鸡蛋价格暴涨四成",
@@ -292,7 +319,33 @@
           "source": "微博",
           "ranks": [
             30,
-            28
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
+        },
+        {
+          "title": "数字货币市场继续走低，比特币已跌穿百日均线和200周均线、正测试50月均线",
+          "url": "https://wallstreetcn.com/livenews/3115489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -331,11 +384,12 @@
           "url": "https://wallstreetcn.com/articles/3774007",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时03分]"
         }
       ]
     }
