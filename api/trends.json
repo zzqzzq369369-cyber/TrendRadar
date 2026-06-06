@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T19:25:57.441648+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-06-06T21:40:35.184411+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时08分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时08分 ~ 21时40分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时53分 ~ 14时34分]"
+        },
+        {
+          "title": "100个美丽中国打卡点名单发布",
+          "url": "https://www.douyin.com/hot/2524682",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 21时40分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -59,18 +71,6 @@
           "time_info": "[01时53分 ~ 07时09分]"
         },
         {
-          "title": "100个美丽中国打卡点名单发布",
-          "url": "https://www.douyin.com/hot/2524682",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 19时25分]"
-        },
-        {
           "title": "严防作弊!高考期间AI搜题关停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
@@ -79,11 +79,12 @@
             14,
             19,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时53分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[01时53分 ~ 21时40分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
@@ -137,18 +138,6 @@
           "time_info": "[01时53分 ~ 07时09分]"
         },
         {
-          "title": "AI文风太好认",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 19时25分]"
-        },
-        {
           "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
           "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
@@ -171,6 +160,19 @@
           "time_info": "14时34分"
         },
         {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 21时40分]"
+        },
+        {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
           "url": "https://www.zhihu.com/question/2046268823192302620",
           "source": "知乎",
@@ -184,24 +186,13 @@
           "time_info": "[10时58分 ~ 19时25分]"
         },
         {
-          "title": "中央气象台6月6日18时发布暴雨黄色预警",
-          "url": "https://wallstreetcn.com/livenews/3115451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "教育部发布4条高考特别提醒",
           "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%834%E6%9D%A1%E9%AB%98%E8%80%83%E7%89%B9%E5%88%AB%E6%8F%90%E9%86%92%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -217,15 +208,26 @@
           "time_info": "14时34分"
         },
         {
-          "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
-          "url": "https://wallstreetcn.com/livenews/3115450",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发布关于美国持续违反停火的声明",
+          "url": "https://flash.jin10.com/detail/20260606205532485800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "21时40分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3115469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "英国央行行长贝利：人工智能将比以往的创新更快地实现增长。",
@@ -261,6 +263,20 @@
           "time_info": "[01时53分 ~ 05时25分]"
         },
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 21时40分]"
+        },
+        {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
           "url": "https://www.cls.cn/detail/2391915",
           "source": "财联社热门",
@@ -284,17 +300,28 @@
           "time_info": "[10时58分 ~ 17时25分]"
         },
         {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
+          "title": "中央气象台6月6日18时发布暴雨黄色预警",
+          "url": "https://wallstreetcn.com/livenews/3115451",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9,
-            11
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 19时25分]"
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
+          "title": "水利部和中国气象局联合发布橙色山洪灾害气象预警",
+          "url": "https://wallstreetcn.com/livenews/3115450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
         },
         {
           "title": "开麦丨AI在电话那头等你，接还是不接？",
@@ -349,7 +376,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -387,6 +414,17 @@
           "time_info": "03时56分"
         },
         {
+          "title": "香港天文台发布红色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3115462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "美国疾病控制与预防中心（CDC）: 发布三份《发病率和死亡率周报》 旨在动员国际社会调配资源应对疫情；在患者隔离率较低的模型情景下，该疫情可能发展为有记录以来最大规模之一。",
           "url": "https://flash.jin10.com/detail/20260606032458077800",
           "source": "金十数据",
@@ -404,7 +442,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -459,7 +497,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -610,7 +648,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -621,8 +659,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时08分 ~ 19时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时08分 ~ 21时40分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -656,11 +694,12 @@
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 21时40分]"
         },
         {
           "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
@@ -672,8 +711,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 21时40分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -687,6 +726,30 @@
           "time_info": "05时25分"
         },
         {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
+          "title": "如何看待美股一夜蒸发2万亿",
+          "url": "https://www.toutiao.com/trending/7648181420996693523/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
           "title": "美股遭遇抛售，但高盛称未见仓位极端拥挤现象",
           "url": "https://wallstreetcn.com/livenews/3115345",
           "source": "华尔街见闻-快讯",
@@ -697,6 +760,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时09分]"
+        },
+        {
+          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
+          "url": "https://wallstreetcn.com/articles/3773995",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
         },
         {
           "title": "美股一夜蒸发超万亿美元市值",
@@ -733,37 +808,15 @@
           "time_info": "[10时58分 ~ 10时59分]"
         },
         {
-          "title": "如何看待美股一夜蒸发2万亿",
-          "url": "https://www.toutiao.com/trending/7648181420996693523/",
-          "source": "今日头条",
+          "title": "如何应对美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
-          "url": "https://wallstreetcn.com/articles/3773995",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "21时40分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -938,8 +991,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 21时40分]"
         },
         {
           "title": "如果柯南不能完结是因为太赚钱了，那为什么不能先放出主线结局然后再无限连载日常篇？",
@@ -959,7 +1012,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
