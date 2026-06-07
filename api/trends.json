@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T20:20:44.135931+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-06-07T22:52:17.099220+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -92,6 +92,33 @@
           "time_info": "[01时12分 ~ 11时45分]"
         },
         {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 22时52分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            16,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 22时52分]"
+        },
+        {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
           "url": "https://wallstreetcn.com/livenews/3115486",
           "source": "华尔街见闻-快讯",
@@ -105,6 +132,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 11时45分]"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 22时52分]"
+        },
+        {
+          "title": "《全球海洋渔业治理青年倡议》在沪发布",
+          "url": "https://wallstreetcn.com/livenews/3115579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -127,18 +177,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 20时20分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -191,6 +229,20 @@
           "time_info": "[07时03分 ~ 18时29分]"
         },
         {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            25,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 22时52分]"
+        },
+        {
           "title": "高考新增AI监考员",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -218,32 +270,6 @@
           "time_info": "[11时44分 ~ 20时20分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 20时20分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 20时20分]"
-        },
-        {
           "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
           "url": "https://wallstreetcn.com/livenews/3115527",
           "source": "华尔街见闻-快讯",
@@ -257,6 +283,18 @@
           "time_info": "[15时54分 ~ 20时20分]"
         },
         {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 22时52分]"
+        },
+        {
           "title": "黄仁勋会见韩国两大游戏商代表，共商游戏AI合作方案",
           "url": "https://wallstreetcn.com/livenews/3115526",
           "source": "华尔街见闻-快讯",
@@ -264,19 +302,6 @@
             4,
             9,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 20时20分]"
-        },
-        {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            25,
-            21
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -321,18 +346,6 @@
           "time_info": "[03时21分 ~ 07时03分]"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 20时20分]"
-        },
-        {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
@@ -344,6 +357,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时54分 ~ 20时20分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
+          "url": "https://wallstreetcn.com/livenews/3115545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 22时52分]"
         },
         {
           "title": "AI短剧 100集浓缩成3分钟",
@@ -380,6 +405,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "AI炒完芯片后，下一轮被抢的会是谁？",
+          "url": "https://flash.jin10.com/detail/20260607214620913800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "北大UP主手搓AI猫娘",
           "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E5%A4%A7UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%8C%AB%E5%A8%98",
           "source": "bilibili 热搜",
@@ -391,15 +427,15 @@
           "time_info": "07时03分"
         },
         {
-          "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
-          "url": "https://wallstreetcn.com/livenews/3115545",
-          "source": "华尔街见闻-快讯",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850545&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/Lk5lb_SlH5TkzfY-AB4dV.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260607214619409800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "22时52分"
         },
         {
           "title": "黄仁勋会见韩国两大游戏商代表 共商游戏AI合作方案",
@@ -413,6 +449,17 @@
           "time_info": "15时54分"
         },
         {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
           "url": "https://flash.jin10.com/detail/20260606230103106800",
           "source": "金十数据",
@@ -422,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "中央气象台继续发布暴雨橙色预警",
+          "url": "https://www.toutiao.com/trending/7648611591676903451/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "AI写的高考作文你打几分",
@@ -452,7 +510,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -493,7 +551,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -505,8 +563,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时12分 ~ 20时20分]"
+          "appearance_count": 11,
+          "time_info": "[01时12分 ~ 22时52分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -532,6 +590,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 20时20分]"
+        },
+        {
+          "title": "国泰海通：美股或迎来至少一两个月的波动期",
+          "url": "https://flash.jin10.com/detail/20260607222627146800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "数字货币市场继续走低，比特币已跌穿百日均线和200周均线、正测试50月均线",
@@ -606,13 +675,24 @@
           "time_info": "18时29分"
         },
         {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "业内：不要“无视”周五美股的大跌",
           "url": "https://www.toutiao.com/trending/7648521565105032746/",
           "source": "今日头条",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -623,7 +703,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
@@ -651,11 +731,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 20时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 22时52分]"
         },
         {
           "title": "东吴商社吴劲草：消费正在磨底，不直接V型反转；品牌出海或是未来最重要的成长主线",
