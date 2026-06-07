@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-08T02:03:54.946626+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-06-08T04:11:41.258287+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
       "match_count": 12,
       "titles": [
+        {
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
+        },
         {
           "title": "卡塔尔已发布飞行员通知（NOTAM），要求途经其领空的航班改道，并为从多哈和沙特机场起飞的飞机提供备用航线。该通知有效期为6月7日至14日。",
           "url": "https://flash.jin10.com/detail/20260607234221200800",
@@ -19,28 +32,17 @@
           "time_info": "00时14分"
         },
         {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
-        },
-        {
           "title": "《全球海洋渔业治理青年倡议》在沪发布",
           "url": "https://wallstreetcn.com/livenews/3115579",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -50,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -62,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -71,11 +73,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -85,8 +88,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -147,7 +150,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -157,8 +160,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
+        },
+        {
+          "title": "MarketVectorTM数字资产100小盘指数跌幅扩大至3.33%，跌穿2400点关口。 MarketVectorTM数字资产100中盘指数跌2.4%，逼近2520点。 MarketVector数字资产100指数跌约1.5%，至12130点。 比特币短线从61207.27美元上扬至61440.77美元，涨幅重新扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3115609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -166,11 +180,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -181,8 +196,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -192,8 +207,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -221,8 +236,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时11分]"
         }
       ]
     }
