@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T20:37:06.726665+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-06-09T23:54:51.543867+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 23时54分]"
+        },
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
           "url": "https://wallstreetcn.com/articles/3774087",
@@ -31,28 +43,17 @@
           "time_info": "[01时52分 ~ 08时05分]"
         },
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
-        },
-        {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
           "url": "https://wallstreetcn.com/articles/3774181",
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 20时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 23时54分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -134,6 +135,19 @@
           "time_info": "[01时52分 ~ 06时26分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 23时54分]"
+        },
+        {
           "title": "苹果：我们利用谷歌Gemini来开发下一代基础人工智能模型。 推出由苹果智能技术驱动的全新Siri AI。 新的AI架构支持应用操作和屏幕感知功能。",
           "url": "https://wallstreetcn.com/livenews/3116301",
           "source": "华尔街见闻-快讯",
@@ -168,18 +182,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 08时05分]"
-        },
-        {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
         },
         {
           "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
@@ -282,6 +284,18 @@
           "time_info": "[01时52分 ~ 08时05分]"
         },
         {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 23时54分]"
+        },
+        {
           "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
           "url": "https://www.cls.cn/detail/2394326",
           "source": "财联社热门",
@@ -292,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时05分 ~ 17时41分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
@@ -415,6 +418,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2395176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "美国总统特朗普：美国将于周二发布关于此事件的报告。",
           "url": "https://flash.jin10.com/detail/20260609123624289800",
           "source": "金十数据",
@@ -424,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
+        },
+        {
+          "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
+          "url": "https://wallstreetcn.com/livenews/3116930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "iPhone17无缘苹果最强端侧大模型",
@@ -492,6 +517,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "都在盯地缘和AI，真正没准备的可能是加息风险！",
+          "url": "https://flash.jin10.com/detail/20260609233117276800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "微信AI生态开启内测",
           "url": "https://search.bilibili.com/all?keyword=%E5%BE%AE%E4%BF%A1AI%E7%94%9F%E6%80%81%E5%BC%80%E5%90%AF%E5%86%85%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -512,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850547&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/DHZMW3QcAvif7iwXSllRk.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260609233114936800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "OpenAI：尚未决定首次公开募股的时间。",
@@ -558,6 +605,17 @@
           "time_info": "08时05分"
         },
         {
+          "title": "摩根大通计划今年部署更强大的人工智能代理",
+          "url": "https://flash.jin10.com/detail/20260609232435076800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "苹果库克：苹果对“提供一系列新功能改善来提高人们的生活”感到兴奋。",
           "url": "https://wallstreetcn.com/livenews/3116310",
           "source": "华尔街见闻-快讯",
@@ -567,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "米哈游多款游戏已接入 AI，原神未来会引入 AI 功能吗？",
+          "url": "https://www.zhihu.com/question/2041514273738847722",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
@@ -589,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "布局“AI+能源” 南通三年行动方案出炉",
+          "url": "https://wallstreetcn.com/livenews/3116916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
@@ -619,7 +699,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -663,7 +743,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -674,7 +754,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -704,7 +784,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
@@ -715,8 +795,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 20时37分]"
+          "appearance_count": 7,
+          "time_info": "[06时26分 ~ 23时54分]"
+        },
+        {
+          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
+          "url": "https://wallstreetcn.com/articles/3774155",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 23时54分]"
         },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
@@ -754,18 +846,6 @@
           "time_info": "[08时05分 ~ 13时05分]"
         },
         {
-          "title": "熊市信号触发70%！美银建议获利了结，现在美股正如“2000年泡沫破灭前1个月”",
-          "url": "https://wallstreetcn.com/articles/3774155",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
-        },
-        {
           "title": "花旗：交易员大举搭建美股空仓 诸多重大风险事件临近",
           "url": "https://wallstreetcn.com/livenews/3116699",
           "source": "华尔街见闻-快讯",
@@ -789,17 +869,29 @@
           "time_info": "[17时41分 ~ 20时37分]"
         },
         {
+          "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "日元暴跌,租借女友风评反转",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354991&amp;topic_name=%E6%97%A5%E5%85%83%E6%9A%B4%E8%B7%8C%2C%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E9%A3%8E%E8%AF%84%E5%8F%8D%E8%BD%AC",
           "source": "贴吧",
           "ranks": [
             6,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 23时54分]"
         },
         {
           "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
@@ -874,6 +966,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "摩根资管：美股将挺过任何短暂且剧烈的回调",
+          "url": "https://wallstreetcn.com/livenews/3116931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "美股“黑色星期五”引爆恐慌？高盛：正是难得的买入良机！",
           "url": "https://www.cls.cn/detail/2393754",
           "source": "财联社热门",
@@ -894,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美股高开高走 存储芯片又大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%88%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "黄仁勋谈半导体股票暴跌：每个人都应该很兴奋，现在可以以更便宜的价格买进",
@@ -976,7 +1090,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大V“白毛股神”跨境吹票，提一嘴20CM涨停？信息倒灌要警惕了",
@@ -989,6 +1103,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时05分 ~ 20时37分]"
+        },
+        {
+          "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
+          "url": "https://wallstreetcn.com/articles/3774218",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
+          "url": "https://www.zhihu.com/question/2046196309359646371",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     }
