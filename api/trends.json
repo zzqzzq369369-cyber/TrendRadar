@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T06:01:56.729464+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-06-11T07:43:50.858182+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "美元在美国CPI通胀数据发布日大致持平",
@@ -83,11 +83,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -95,11 +96,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
@@ -107,11 +109,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "GPT 为什么会生成这么诡异的图片？有没有研究者能解释为什么会出现这一现象？",
@@ -121,8 +124,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
+        },
+        {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -154,7 +168,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -176,7 +190,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -198,7 +212,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -231,20 +245,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
         {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "07时43分"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -305,8 +319,31 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2396570",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时43分]"
+        },
         {
           "title": "日元暴跌,租借女友风评反转",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354991&amp;topic_name=%E6%97%A5%E5%85%83%E6%9A%B4%E8%B7%8C%2C%E7%A7%9F%E5%80%9F%E5%A5%B3%E5%8F%8B%E9%A3%8E%E8%AF%84%E5%8F%8D%E8%BD%AC",
@@ -315,8 +352,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 07时43分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -328,17 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 03时35分]"
-        },
-        {
-          "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
@@ -358,7 +384,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -369,7 +395,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -380,7 +406,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -391,7 +417,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
