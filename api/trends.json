@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T11:51:12.416000+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-06-11T16:46:32.332440+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 11时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 16时46分]"
         },
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -42,17 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 07时43分]"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "央视发布关于第 23 届国际足联世界杯版权保护的声明，哪些信息值得关注？",
@@ -113,6 +103,40 @@
           "time_info": "03时35分"
         },
         {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 16时46分]"
+        },
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "美加墨世界杯主题曲DNA发布",
+          "url": "https://www.douyin.com/hot/2530517",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
           "url": "https://wallstreetcn.com/articles/3774282",
           "source": "华尔街见闻",
@@ -151,6 +175,18 @@
           "time_info": "[00时38分 ~ 07时43分]"
         },
         {
+          "title": "世界杯官方主题曲《DNA》发布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%80%8ADNA%E3%80%8B%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 16时46分]"
+        },
+        {
           "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
           "url": "https://www.zhihu.com/question/2047598353421170561",
           "source": "知乎",
@@ -160,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 07时43分]"
-        },
-        {
-          "title": "世界杯官方主题曲《DNA》发布",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%80%8ADNA%E3%80%8B%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -196,6 +221,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "甲骨文(ORCL.N)CEO：2026财年Q4签署了670亿美元的人工智能基础设施合同，其中大部分要么自带硬件，要么预付款项。",
           "url": "https://flash.jin10.com/detail/20260611052228013800",
           "source": "金十数据",
@@ -207,6 +243,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "大商所发布2026年端午节期间交易时间安排",
+          "url": "https://wallstreetcn.com/livenews/3118024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
           "url": "https://wallstreetcn.com/livenews/3117664",
           "source": "华尔街见闻-快讯",
@@ -216,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
@@ -246,7 +304,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -279,7 +337,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         },
@@ -293,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "阿里云Meoo CLI发布，本地AI编程项目可直接部署上线",
+          "url": "https://wallstreetcn.com/livenews/3118015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "美国驻伊拉克首都大使馆发布安全警告：建议在伊拉克的公民保持警惕。",
@@ -315,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -378,7 +458,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
         }
@@ -386,8 +466,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 16时46分]"
+        },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
           "url": "https://www.cls.cn/detail/2396570",
@@ -399,17 +490,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时43分 ~ 11时51分]"
-        },
-        {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
@@ -435,6 +515,18 @@
           "time_info": "[00时38分 ~ 07时43分]"
         },
         {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 16时46分]"
+        },
+        {
           "title": "SpaceX等超级IPO排队来袭 华尔街警告加密货币市场压力加剧",
           "url": "https://www.cls.cn/detail/2396534",
           "source": "财联社热门",
@@ -457,15 +549,26 @@
           "time_info": "[00时38分 ~ 03时35分]"
         },
         {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
+          "title": "极端气候迫近 糖价能否重演历史性暴涨？|实探厄尔尼诺“风暴眼”",
+          "url": "https://www.cls.cn/detail/2397052",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "美股存储芯片、光通信股盘前反弹，闪迪涨超4%，美光科技涨超3%，迈威尔科技、英特尔涨超2%。甲骨文美股盘前延续跌势，现跌超10%。公司资本开支超预期，新财年计划融资翻倍至400亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3118020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
@@ -477,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "路虎揽胜极光L价格暴跌至17万多？经销商：属实",
+          "url": "https://wallstreetcn.com/livenews/3118012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
