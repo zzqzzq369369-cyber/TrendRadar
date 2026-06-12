@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T08:19:31.134828+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2026-06-12T13:49:15.310733+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 08时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 13时49分]"
         },
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -45,6 +45,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 08时19分]"
+        },
+        {
+          "title": "网信办发布公约整治涉企侵权信息",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%8F%91%E5%B8%83%E5%85%AC%E7%BA%A6%E6%95%B4%E6%B2%BB%E6%B6%89%E4%BC%81%E4%BE%B5%E6%9D%83%E4%BF%A1%E6%81%AF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "LKs AI和真人推歌大PK",
+          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
         },
         {
           "title": "美国财政部外国资产控制办公室（OFAC）发布与俄罗斯相关的一般许可证，授权与现有民用核能项目相关的特定交易，授权与“萨哈林2号”项目相关的特定服务。",
@@ -167,6 +189,50 @@
           "time_info": "[00时55分 ~ 06时03分]"
         },
         {
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
+          "url": "https://www.cls.cn/detail/2397705",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
+        },
+        {
           "title": "UP主做了个AI谢苗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
           "source": "bilibili 热搜",
@@ -177,6 +243,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 08时19分]"
+        },
+        {
+          "title": "严管侮辱谩骂、造谣诽谤企业家言论，“优化营商网络环境自律公约”发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364051",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时49分]"
         },
         {
           "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
@@ -240,7 +317,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         }
@@ -262,6 +339,29 @@
           "time_info": "[00时55分 ~ 06时03分]"
         },
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 13时49分]"
+        },
+        {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时19分 ~ 13时49分]"
+        },
+        {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -271,17 +371,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 03时36分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
         },
         {
           "title": "投行：SpaceX上市在即 美股“错失恐惧症”还将持续",
@@ -304,17 +393,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
-        },
-        {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时19分"
         },
         {
           "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览（美股盘中）",
@@ -429,7 +507,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
         },
