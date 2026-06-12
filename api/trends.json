@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-13T01:38:02.550483+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T04:09:58.745592+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "伊朗发布“头骨世界杯”海报",
-          "url": "https://www.toutiao.com/trending/7650111233802731539/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
-        },
         {
           "title": "抖音AI创作大赛首个爆款出现",
           "url": "https://www.douyin.com/hot/2532139",
@@ -26,19 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
+        },
+        {
+          "title": "伊朗发布“头骨世界杯”海报",
+          "url": "https://www.toutiao.com/trending/7650111233802731539/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
         },
         {
           "title": "巴拉圭主帅和球员在发布会抱头痛哭",
           "url": "https://www.toutiao.com/trending/7650391104381780006/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
         },
         {
           "title": "严管侮辱谩骂、造谣诽谤企业家言论，“优化营商网络环境自律公约”发布",
@@ -48,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -59,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
         },
         {
           "title": "华为发布鸿蒙7操作系统",
@@ -83,6 +85,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美国白宫发布国家安全总统备忘录，就国家安全系统制定网络安全治理原则并建立相关治理框架。",
+          "url": "https://flash.jin10.com/detail/20260613032550733800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -98,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -109,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
         },
         {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
@@ -119,7 +143,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         }
@@ -137,8 +161,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 04时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
+          "url": "https://www.zhihu.com/question/2048823351049707836",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     }
