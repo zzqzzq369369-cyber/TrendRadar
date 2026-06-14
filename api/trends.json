@@ -1,146 +1,55 @@
 {
-  "generated_at": "2026-06-14T23:54:16.527714+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-06-15T01:20:46.218712+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 23,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 23时54分]"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            6,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 23时54分]"
-        },
-        {
-          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
-          "url": "https://www.cls.cn/detail/2399104",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 23时54分]"
-        },
-        {
-          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
-          "url": "https://www.cls.cn/detail/2399065",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
           "url": "https://wallstreetcn.com/articles/3774601",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时16分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
-          "title": "如何评价智谱 6 月 13 日发布的 GLM5.2 模型？",
-          "url": "https://www.zhihu.com/question/2049161661567723164",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 11时56分]"
-        },
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
+          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
+          "url": "https://wallstreetcn.com/articles/3774621",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            4,
-            3,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时04分 ~ 19时32分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 11时56分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
           "url": "https://wallstreetcn.com/articles/3774608",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 23时54分]"
-        },
-        {
-          "title": "美禁止外国主体使用安特罗匹克最新AI模型",
-          "url": "https://wallstreetcn.com/livenews/3119219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -150,89 +59,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
-          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
-          "source": "澎湃新闻",
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
           "ranks": [
-            19,
-            18
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
-          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
-          "url": "https://wallstreetcn.com/articles/3774579",
-          "source": "华尔街见闻",
+          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
+          "url": "https://www.cls.cn/detail/2399104",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 16时16分]"
-        },
-        {
-          "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
-          "url": "https://flash.jin10.com/detail/20260614041529668800",
-          "source": "金十数据",
-          "ranks": [
-            7,
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 07时04分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
-          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
-          "url": "https://wallstreetcn.com/articles/3774621",
-          "source": "华尔街见闻",
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "小米工程师谈某大模型重新出山",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B0%88%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E5%87%BA%E5%B1%B1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
-        },
-        {
-          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
-          "url": "https://www.zhihu.com/question/1997586495188521827",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 05时15分]"
-        },
-        {
-          "title": "蚂蚁集团正秘密测试AI版支付宝",
-          "url": "https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%AD%A3%E7%A7%98%E5%AF%86%E6%B5%8B%E8%AF%95AI%E7%89%88%E6%94%AF%E4%BB%98%E5%AE%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时31分 ~ 19时32分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
@@ -242,177 +103,53 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
-          "url": "https://flash.jin10.com/detail/20260614004325694800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
-          "url": "https://flash.jin10.com/detail/20260614001329812800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "《2026中国企业全球影响力报告》发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33373975",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "ARCRaiders国服首测PV",
-          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "time_info": "01时20分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 19时32分]"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 07时04分]"
-        },
         {
           "title": "增程车 5 月销量暴跌近 25% 创近五年最大降幅，仅三款车月销破 5000 辆，这条技术路线不香了？",
           "url": "https://www.zhihu.com/question/2048333074845397387",
           "source": "知乎",
           "ranks": [
-            17,
-            9,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 23时54分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 07时04分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "鸡蛋价格为何暴涨",
           "url": "https://www.toutiao.com/trending/7651163559203704363/",
           "source": "今日头条",
           "ranks": [
-            27
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时53分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "变压器出海高景气还能看两三年？出海模式升级 SST“大家都没有订单”|行业观察",
           "url": "https://www.cls.cn/detail/2399113",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 23时54分]"
-        },
-        {
-          "title": "界面财联社“2026中国企业全球影响力对话”勾勒出海新蓝图 共建生态让企业“出海选择上海”",
-          "url": "https://www.cls.cn/detail/2398979",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时15分 ~ 22时02分]"
-        },
-        {
-          "title": "险资稳慎“出海”全球配置再进一步：老六家入围“南向通”首批投资者名单，平安泰康国寿已完成首笔投资交易",
-          "url": "https://www.cls.cn/detail/2398745",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 11时56分]"
-        },
-        {
-          "title": "史上最贵世界杯到底有多赚钱",
-          "url": "https://www.toutiao.com/trending/7651200218150473270/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     }
