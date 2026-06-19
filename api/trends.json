@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T08:26:47.945184+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-06-19T14:18:17.716513+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何评价《凡人修仙传》团队 6 月 18 日发布的声明内容？",
@@ -31,6 +31,19 @@
           "time_info": "[00时33分 ~ 08时26分]"
         },
         {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 14时18分]"
+        },
+        {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
@@ -41,6 +54,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 08时26分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 14时18分]"
         },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
@@ -109,40 +135,30 @@
           "time_info": "04时45分"
         },
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时26分]"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时26分]"
-        },
-        {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
           "url": "https://www.zhihu.com/question/2050289332632790558",
           "source": "知乎",
           "ranks": [
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 08时26分]"
+          "appearance_count": 4,
+          "time_info": "[04时45分 ~ 14时18分]"
+        },
+        {
+          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时45分 ~ 14时18分]"
         },
         {
           "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
@@ -156,16 +172,26 @@
           "time_info": "[04时45分 ~ 08时26分]"
         },
         {
-          "title": "岳阳发布“射击俱乐部枪支走火致人死亡”调查报告：体验者枪支脱手，击中安全员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408344",
-          "source": "澎湃新闻",
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            19
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 08时26分]"
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
+        },
+        {
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -192,6 +218,17 @@
           "time_info": "[07时08分 ~ 08时26分]"
         },
         {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "美国财政部发布许可证，允许与委内瑞拉政府相关的电信和邮政事务进行某些交易。",
           "url": "https://flash.jin10.com/detail/20260619040618282800",
           "source": "金十数据",
@@ -201,17 +238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        },
-        {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
         },
         {
           "title": "美国财政部：美国发布与委内瑞拉相关的一般许可证。",
@@ -225,15 +251,26 @@
           "time_info": "04时45分"
         },
         {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "14时18分"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "国家统计局首次发布社会消费商品和服务零售总额指标，其对观察中国消费市场有何意义？",
@@ -242,7 +279,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时26分"
         },
@@ -280,6 +317,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
           "title": "理想AI转型背后",
           "url": "https://www.toutiao.com/trending/7652722015660412454/",
           "source": "今日头条",
@@ -308,16 +356,29 @@
           "time_info": "[00时33分 ~ 07时08分]"
         },
         {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时26分 ~ 14时18分]"
+        },
+        {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2403938",
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 08时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 14时18分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -331,17 +392,6 @@
           "time_info": "[00时33分 ~ 04时45分]"
         },
         {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
@@ -350,8 +400,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时26分]"
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 14时18分]"
         },
         {
           "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
@@ -465,11 +515,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时08分 ~ 08时26分]"
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 14时18分]"
         },
         {
           "title": "据英国金融时报：欧盟将取消银行跨境资本流动的障碍。",
