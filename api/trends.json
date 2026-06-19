@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T14:18:17.716513+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-06-19T19:21:53.573418+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "如何评价《凡人修仙传》团队 6 月 18 日发布的声明内容？",
@@ -37,11 +37,12 @@
           "ranks": [
             6,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 19时21分]"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
@@ -113,6 +114,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "市场消息：伊朗“波斯湾海峡管理部门”针对申请通过霍尔木兹海峡的船舶发布了新规。该部门警告称，通过非官方渠道提交的申请将不予受理。",
+          "url": "https://flash.jin10.com/detail/20260619185325074800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "美国副总统万斯在白宫的新闻发布会结束。",
           "url": "https://flash.jin10.com/detail/20260619001433124800",
           "source": "金十数据",
@@ -133,6 +145,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 19时21分]"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 19时21分]"
         },
         {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
@@ -165,11 +201,12 @@
           "url": "https://www.cls.cn/detail/2404033",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 08时26分]"
+          "appearance_count": 4,
+          "time_info": "[04时45分 ~ 19时21分]"
         },
         {
           "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
@@ -181,6 +218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时26分 ~ 14时18分]"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 19时21分]"
         },
         {
           "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
@@ -218,17 +267,6 @@
           "time_info": "[07时08分 ~ 08时26分]"
         },
         {
-          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
-          "url": "https://wallstreetcn.com/articles/3775064",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
           "title": "美国财政部发布许可证，允许与委内瑞拉政府相关的电信和邮政事务进行某些交易。",
           "url": "https://flash.jin10.com/detail/20260619040618282800",
           "source": "金十数据",
@@ -251,26 +289,48 @@
           "time_info": "04时45分"
         },
         {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
+          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
+          "url": "https://wallstreetcn.com/articles/3775047",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "19时21分"
         },
         {
-          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
-          "source": "澎湃新闻",
+          "title": "广东：大力发展通用大模型和行业专用大模型",
+          "url": "https://flash.jin10.com/detail/20260619183353835800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "19时21分"
+        },
+        {
+          "title": "广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心",
+          "url": "https://wallstreetcn.com/livenews/3122066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "高盛一篮子欧洲国防股指数一度上涨2%，Renk一度上涨4.5%，Exail一度上涨4.0%，莱茵金属上涨2.9%，Leonardo上涨3.4%，Kongsberg上涨3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3122063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "国家统计局首次发布社会消费商品和服务零售总额指标，其对观察中国消费市场有何意义？",
@@ -323,9 +383,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "AI预测科隆Major夺冠队伍",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "广东省人民政府印发《广东省推进服务业扩能提质实施方案》的通知，其中提到，抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心。培育引进更多具有核心竞争力的软件企业，打造一批全国领先的数字化转型服务商。",
+          "url": "https://flash.jin10.com/detail/20260619182004847800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "中国大模型技术三大主线",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E4%B8%89%E5%A4%A7%E4%B8%BB%E7%BA%BF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "理想AI转型背后",
@@ -345,6 +438,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时26分 ~ 19时21分]"
+        },
+        {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
@@ -356,18 +461,6 @@
           "time_info": "[00时33分 ~ 07时08分]"
         },
         {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时26分 ~ 14时18分]"
-        },
-        {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2403938",
           "source": "财联社热门",
@@ -377,8 +470,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 14时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 19时21分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 19时21分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -390,18 +496,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 04时45分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 14时18分]"
         },
         {
           "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
@@ -507,7 +601,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "霍尔木兹重启进行时：美军宣布结束封锁 多艘油轮驶出海峡",
@@ -516,11 +610,23 @@
           "ranks": [
             11,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 19时21分]"
+        },
+        {
+          "title": "广东：加快形成联通港澳的低空跨境物流网络",
+          "url": "https://flash.jin10.com/detail/20260619184915021800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "据英国金融时报：欧盟将取消银行跨境资本流动的障碍。",
