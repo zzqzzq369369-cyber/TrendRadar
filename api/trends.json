@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T08:10:03.236721+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-06-20T13:13:49.057035+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 13时13分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -41,6 +42,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时56分 ~ 08时10分]"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时49分 ~ 13时13分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -68,18 +83,28 @@
           "time_info": "[01时56分 ~ 08时10分]"
         },
         {
-          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
-          "url": "https://wallstreetcn.com/articles/3775091",
-          "source": "华尔街见闻",
+          "title": "第一次见心眼这么多的AI",
+          "url": "https://www.douyin.com/hot/2541043",
+          "source": "抖音",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时49分 ~ 08时10分]"
+          "appearance_count": 3,
+          "time_info": "[06时56分 ~ 13时13分]"
         },
         {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
@@ -91,18 +116,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时56分 ~ 08时10分]"
-        },
-        {
-          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3122191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[06时56分 ~ 08时10分]"
         },
         {
@@ -129,6 +142,39 @@
           "time_info": "[03时49分 ~ 05时10分]"
         },
         {
+          "title": "工作室发布致歉声明：黄子韬已接受教育、缴纳罚款，涉事车辆未经过非法改装，仅变更车身颜色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33416855",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "导演於水直言 AI 是无所不能的大模型，每个人是不完美的小模型，不完美才能产生艺术，你认可这种说法吗？",
+          "url": "https://www.zhihu.com/question/2050584252303893056",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3122199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "市场消息：美国向盟友发布了一系列谈话要点，旨在将伊朗协议包装成一项政治胜利，尽管美国仅仅确保了霍尔木兹海峡的重新开放。",
           "url": "https://flash.jin10.com/detail/20260619235204278800",
           "source": "金十数据",
@@ -138,12 +184,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "当AI开始自己造AI",
+          "url": "https://www.toutiao.com/trending/7653272712957136393/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "男子称挂专家号医生竟悄悄问AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%8C%82%E4%B8%93%E5%AE%B6%E5%8F%B7%E5%8C%BB%E7%94%9F%E7%AB%9F%E6%82%84%E6%82%84%E9%97%AEAI%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -152,11 +220,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 13时13分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -164,11 +233,23 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 13时13分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -193,11 +274,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 13时13分]"
         },
         {
           "title": "贾乃亮回应不停带货",
