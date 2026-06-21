@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T16:57:27.776304+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-06-21T19:47:09.728197+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -42,6 +42,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时25分 ~ 12时04分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 19时47分]"
+        },
+        {
+          "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
+          "url": "https://wallstreetcn.com/articles/3775122",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时47分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -98,34 +123,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%94%A1%E7%A3%8A%E5%8F%91%E5%B8%83%E3%80%8A%E5%80%92%E8%AE%A1%E6%97%B6%E3%80%8B%E6%BC%94%E8%AE%B2",
           "source": "百度热搜",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
-          "url": "https://wallstreetcn.com/articles/3775122",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时47分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -133,11 +136,36 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[07时07分 ~ 19时47分]"
+        },
+        {
+          "title": "数学博士生2年研究被AI抢发",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F2%E5%B9%B4%E7%A0%94%E7%A9%B6%E8%A2%ABAI%E6%8A%A2%E5%8F%91%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时47分]"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 19时47分]"
         },
         {
           "title": "市场消息：伊朗革命卫队海军在霍尔木兹海峡附近发布无线电广播：鉴于以色列在黎巴嫩的行动以及美国违反相关承诺，霍尔木兹海峡现已关闭航行。所有船只被命令远离该海域，以确保自身安全。",
@@ -152,6 +180,55 @@
           "time_info": "[01时26分 ~ 03时25分]"
         },
         {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 19时47分]"
+        },
+        {
+          "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
+          "url": "https://www.cls.cn/detail/2404712",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 19时47分]"
+        },
+        {
+          "title": "多地发布征集合同不公平格式条款线索的公告，涉餐饮住宿等",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33421289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 19时47分]"
+        },
+        {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时47分]"
+        },
+        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
@@ -164,51 +241,38 @@
           "time_info": "[03时24分 ~ 07时07分]"
         },
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
           "ranks": [
-            10,
-            8
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 19时47分]"
         },
         {
-          "title": "女子用AI写3000字股市谣言被罚",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时57分]"
-        },
-        {
-          "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
-          "url": "https://www.cls.cn/detail/2404712",
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
           "source": "财联社热门",
           "ranks": [
-            12,
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时57分]"
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
-          "title": "多地发布征集合同不公平格式条款线索的公告，涉餐饮住宿等",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33421289",
-          "source": "澎湃新闻",
+          "title": "AI短剧严重“缺脸” 500元买一张脸",
+          "url": "https://www.toutiao.com/trending/7653430042109853737/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 16时57分]"
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
@@ -244,17 +308,6 @@
           "time_info": "12时04分"
         },
         {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "蔡磊发布倒计时演讲",
           "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%8F%91%E5%B8%83%E5%80%92%E8%AE%A1%E6%97%B6%E6%BC%94%E8%AE%B2%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -283,29 +336,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "数学博士生2年研究被AI抢发",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F2%E5%B9%B4%E7%A0%94%E7%A9%B6%E8%A2%ABAI%E6%8A%A2%E5%8F%91%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -356,11 +387,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 16时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 19时47分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
