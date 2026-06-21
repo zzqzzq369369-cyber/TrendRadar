@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-21T07:07:43.652705+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-06-21T12:04:31.878371+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 10,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 12时04分]"
+        },
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
           "url": "https://wallstreetcn.com/articles/3775106",
@@ -19,27 +31,17 @@
           "time_info": "[01时25分 ~ 07时07分]"
         },
         {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时07分]"
-        },
-        {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
           "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 12时04分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -81,6 +83,29 @@
           "time_info": "[01时25分 ~ 07时07分]"
         },
         {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 12时04分]"
+        },
+        {
           "title": "市场消息：伊朗革命卫队海军在霍尔木兹海峡附近发布无线电广播：鉴于以色列在黎巴嫩的行动以及美国违反相关承诺，霍尔木兹海峡现已关闭航行。所有船只被命令远离该海域，以确保自身安全。",
           "url": "https://flash.jin10.com/detail/20260621005933971800",
           "source": "金十数据",
@@ -105,26 +130,125 @@
           "time_info": "[03时24分 ~ 07时07分]"
         },
         {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
+          "url": "https://flash.jin10.com/detail/20260621105013148800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
           "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
         {
-          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
-          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "title": "以色列侨民事务部长Amichai Chikli：以色列“迟早”会与叙利亚开战，叙利亚与土耳其之间的联盟对我们构成“战略挑战”。",
+          "url": "https://flash.jin10.com/detail/20260621104914004800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "12时04分"
+        },
+        {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
+          "url": "https://www.cls.cn/detail/2404712",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "蔡磊发布倒计时演讲",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%8F%91%E5%B8%83%E5%80%92%E8%AE%A1%E6%97%B6%E6%BC%94%E8%AE%B2%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "如果给人文社科专业增加一门 AI 相关课程，你觉得最应该开哪门？",
+          "url": "https://www.zhihu.com/question/2045843902720995741",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "多地发布征集合同不公平格式条款线索的公告，涉餐饮住宿等",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33421289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
+        },
+        {
+          "title": "华泰证券：AI服务器测试电源或迎国产替代机遇",
+          "url": "https://flash.jin10.com/detail/20260621083741810800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时04分"
         }
       ]
     },
@@ -161,11 +285,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时07分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 12时04分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
