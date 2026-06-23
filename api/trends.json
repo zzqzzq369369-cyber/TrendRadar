@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T13:01:50.689841+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-06-23T16:33:58.778670+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "美伊谈判联合声明发布：各方达成路线图，力争在60天内达成最终协议",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 08时05分]"
+        },
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 16时33分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -43,18 +56,6 @@
           "time_info": "[12时59分 ~ 13时01分]"
         },
         {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 13时01分]"
-        },
-        {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
@@ -73,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -106,9 +107,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
         },
         {
           "title": "乌克兰基辅市发布空袭警报，政府呼吁市民寻求避难。",
@@ -154,22 +167,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
         },
         {
           "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
@@ -177,11 +180,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
         },
         {
           "title": "AI飞轮驱动加速，半导体更多领域进入上行周期",
@@ -248,9 +252,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "六部门：加大人工智能等新技术在广告领域应用，培育数智广告新业态",
+          "url": "https://wallstreetcn.com/livenews/3123297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "净利同比最高增长134%！1700亿半导体设备股发布半年报预告|盘后公告集锦",
@@ -262,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "《中国广告业发展指数报告（2026）》发布",
+          "url": "https://wallstreetcn.com/livenews/3123289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
@@ -281,7 +318,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
         },
@@ -295,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
+          "url": "https://www.zhihu.com/question/2052439090260178506",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "报道：高通接近收购AI芯片初创公司Modular",
@@ -325,28 +373,27 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "字节跳动梁汝波：收缩业务宽度聚焦AI，火山引擎PaaS转为公司基础业务",
+          "url": "https://wallstreetcn.com/livenews/3123270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
-          "url": "https://wallstreetcn.com/articles/3775154",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 13时01分]"
-        },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
@@ -355,8 +402,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 16时33分]"
+        },
+        {
+          "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
+          "url": "https://wallstreetcn.com/articles/3775154",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 16时33分]"
         },
         {
           "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
@@ -367,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 16时33分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -380,19 +440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时47分 ~ 13时01分]"
-        },
-        {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时01分]"
+          "appearance_count": 5,
+          "time_info": "[06时47分 ~ 16时33分]"
         },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -406,6 +455,18 @@
           "time_info": "[01时40分 ~ 04时46分]"
         },
         {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 16时33分]"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -415,6 +476,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260623161955563800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "黑色星期二！韩股暴跌8% “存储双雄”齐重挫",
+          "url": "https://www.cls.cn/detail/2406617",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
@@ -449,6 +532,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 13时01分]"
+        },
+        {
+          "title": "美股盘前：半导体股大跌，英特尔跌约7%，SpaceX跌近5%",
+          "url": "https://wallstreetcn.com/livenews/3123298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
@@ -504,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘前跌2.3%，此前三个交易日该股已累跌约23%。",
+          "url": "https://flash.jin10.com/detail/20260623160425351800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "金十图示：2026年06月22日（周一）热门中概股行情一览（美股收盘）",
