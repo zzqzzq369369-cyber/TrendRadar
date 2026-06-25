@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T20:19:12.426756+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-06-25T23:40:04.346548+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 70,
+      "match_count": 76,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -17,8 +17,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时12分 ~ 23时40分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时12分 ~ 20时19分]"
+          "time_info": "[17时19分 ~ 23时40分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
@@ -32,8 +44,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 20时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 23时40分]"
         },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -73,16 +85,17 @@
           "time_info": "[17时19分 ~ 20时19分]"
         },
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            4,
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时19分 ~ 20时19分]"
+          "time_info": "[20时18分 ~ 23时40分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -97,6 +110,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 08时12分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 23时40分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -126,15 +151,16 @@
           "time_info": "[00时21分 ~ 08时12分]"
         },
         {
-          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
-          "url": "https://www.cls.cn/detail/2409082",
-          "source": "财联社热门",
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 23时40分]"
         },
         {
           "title": "建议大家不要和AI太好了",
@@ -146,6 +172,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 17时20分]"
+        },
+        {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 23时40分]"
         },
         {
           "title": "委内瑞拉 1 分钟内连发 7.1 级 7.5 级强震，美发布海啸预警，有居民楼倒塌，目前当地情况如何？",
@@ -205,18 +255,6 @@
           "time_info": "04时48分"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 20时19分]"
-        },
-        {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
           "url": "https://www.cls.cn/detail/2407855",
           "source": "财联社热门",
@@ -226,18 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 20时19分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -299,16 +325,16 @@
           "time_info": "[08时12分 ~ 13时04分]"
         },
         {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
-          "source": "澎湃新闻",
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            8
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时19分 ~ 20时19分]"
+          "time_info": "[20时18分 ~ 23时40分]"
         },
         {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
@@ -397,15 +423,26 @@
           "time_info": "[17时19分 ~ 17时20分]"
         },
         {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
+        },
+        {
+          "title": "环境部发布部分海水浴场水质概况，北海银滩等2个场地近期水质“差”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449614",
+          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "IBM发布全球首款亚纳米芯片技术",
@@ -480,9 +517,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "台积电预计，全球半导体市场将在今年突破1万亿美元，并在2030年达到1.5万亿美元。业内人士认为，台积电本次闭门会再度坚定了业界的AI信仰，其晶圆制造和先进封装扩产，具有产业发展趋势风向标意义。随着晶圆厂和封装厂次第加入到扩产序列，半导体设备和材料商，将率先受益于AI带来的本轮扩产大潮。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3124752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2409443",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "高通与Hugging Face扩大合作关系，推动从设备到云的开放、开发者驱动的人工智能。",
@@ -727,6 +786,17 @@
           "time_info": "13时04分"
         },
         {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3124735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "张泉灵说选志愿吵架可以找AI",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%89%E7%81%B5%E8%AF%B4%E9%80%89%E5%BF%97%E6%84%BF%E5%90%B5%E6%9E%B6%E5%8F%AF%E4%BB%A5%E6%89%BEAI%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -818,7 +888,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -829,8 +899,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 20时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时04分 ~ 23时40分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -914,6 +984,18 @@
           "time_info": "[00时21分 ~ 06时16分]"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 23时40分]"
+        },
+        {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
           "url": "https://www.cls.cn/detail/2408279",
           "source": "财联社热门",
@@ -950,15 +1032,15 @@
           "time_info": "[04时48分 ~ 06时16分]"
         },
         {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
@@ -1044,7 +1126,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -1063,7 +1145,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
@@ -1087,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时18分 ~ 20时19分]"
+        },
+        {
+          "title": "A股这轮牛市你赚钱了吗",
+          "url": "https://www.toutiao.com/trending/7655278728469024299/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时39分 ~ 23时40分]"
         },
         {
           "title": "标普500指数初步收跌0.2%，能源板块跌1.7%，科技板块跌0.8%，电信板块跌0.7%，工业板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Rocket Lab初步收跌10%，Strategy、Nebius集团、CoreWeave、西部数据、希捷科技至少跌超4%，高通跌3.7%，闪迪跌2.6%，星巴克则涨2.5%，Axon涨5.6%，Shopify涨5.9%，Booking涨7.1%。 家得宝初步收涨5.1%，与SHW、3M、霍尼韦尔、波音领跑道指成分股，英伟达跌1%，雪佛龙跌2.3%，微软跌2.4%。 费城半导体指数跌0.4%。",
@@ -1120,12 +1213,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "上期能源正式推出20号胶期货跨境交割业务",
+          "url": "https://wallstreetcn.com/livenews/3124730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美团LongCat开源 VitaBench2.0：长期动态智能体基准新标杆",
@@ -1134,7 +1238,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -1148,6 +1252,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 17时20分]"
+        },
+        {
+          "title": "我国将加快推进开源体系建设",
+          "url": "https://wallstreetcn.com/livenews/3124733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     }
