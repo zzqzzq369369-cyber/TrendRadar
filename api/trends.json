@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T21:39:59.301576+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-06-27T23:14:47.824523+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -31,11 +31,12 @@
             13,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 21时39分]"
+          "appearance_count": 11,
+          "time_info": "[01时46分 ~ 23时14分]"
         },
         {
           "title": "AI时代如何选专业",
@@ -75,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 23时14分]"
         },
         {
           "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
@@ -92,6 +93,19 @@
           "time_info": "[07时05分 ~ 21时39分]"
         },
         {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 23时14分]"
+        },
+        {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
           "url": "https://wallstreetcn.com/articles/3775558",
           "source": "华尔街见闻",
@@ -104,16 +118,18 @@
           "time_info": "[01时46分 ~ 07时05分]"
         },
         {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            12,
+            7,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 23时14分]"
         },
         {
           "title": "AI机器女友发布,仿真拉满",
@@ -142,17 +158,29 @@
           "time_info": "[01时46分 ~ 07时05分]"
         },
         {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
+          "source": "知乎",
           "ranks": [
-            12,
             7,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时39分]"
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时14分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 23时14分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -212,19 +240,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时56分 ~ 14时29分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时39分]"
         },
         {
           "title": "韩国政府组建跨部门机构应对涉AI犯罪",
@@ -375,15 +390,15 @@
           "time_info": "14时29分"
         },
         {
-          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2054255700407055156",
-          "source": "知乎",
+          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
+          "url": "https://wallstreetcn.com/livenews/3125605",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "23时14分"
         },
         {
           "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
@@ -397,6 +412,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
           "url": "https://wallstreetcn.com/livenews/3125443",
           "source": "华尔街见闻-快讯",
@@ -406,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "如何评价《恋与深空》无视争议发布敖尹新 PV？看完后你觉得能逆转口碑吗？",
+          "url": "https://www.zhihu.com/question/2053843444007527814",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
@@ -480,7 +517,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -520,19 +557,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 23时14分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
           "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 23时14分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -540,11 +578,24 @@
           "source": "财联社热门",
           "ranks": [
             7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时05分 ~ 23时14分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时05分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 23时14分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -556,18 +607,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 05时18分]"
-        },
-        {
-          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
-          "url": "https://wallstreetcn.com/articles/3775664",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时39分]"
         },
         {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
@@ -661,9 +700,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时14分]"
         },
         {
           "title": "美光长协的含金量：客户先押220亿美元，合同不可取消，还锁定“史上最赚钱”的毛利率！",
@@ -719,11 +758,12 @@
           "url": "https://flash.jin10.com/detail/20260627192753647800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时14分]"
         }
       ]
     },
