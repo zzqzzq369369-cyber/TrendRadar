@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T11:40:11.082740+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-06-28T15:50:39.351752+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
@@ -37,11 +37,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -68,6 +69,17 @@
           "time_info": "[01时08分 ~ 07时02分]"
         },
         {
+          "title": "美军连续2天对伊朗发动打击，伊朗革命卫队发布声明",
+          "url": "https://news.ifeng.com/c/8uJmdfaC0gA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
@@ -78,6 +90,54 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时08分 ~ 07时02分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10,
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 15时50分]"
+        },
+        {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "教育部发布填报志愿诈骗预警",
+          "url": "https://www.douyin.com/hot/2550391",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 15时50分]"
         },
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
@@ -92,28 +152,16 @@
           "time_info": "[01时08分 ~ 11时40分]"
         },
         {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时18分 ~ 07时02分]"
-        },
-        {
-          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
-          "url": "https://wallstreetcn.com/articles/3775674",
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 15时50分]"
         },
         {
           "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
@@ -123,30 +171,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 15时50分]"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
           "url": "https://www.zhihu.com/question/2053468017514602830",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时39分 ~ 15时50分]"
         },
         {
           "title": "曝GPT-5.6创下史上最高作弊率",
@@ -158,6 +196,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 03时19分]"
+        },
+        {
+          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
+          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "武汉事业单位招聘中两名考生综合成绩并列第一，人社局发布加试公告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467383",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     },
@@ -174,8 +245,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -186,8 +257,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 11时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时08分 ~ 15时50分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
