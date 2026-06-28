@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T20:16:23.298699+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-06-28T22:48:03.814595+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 20时16分]"
+          "appearance_count": 14,
+          "time_info": "[01时08分 ~ 22时48分]"
+        },
+        {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时50分 ~ 22时48分]"
         },
         {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
@@ -42,20 +54,21 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 20时16分]"
+          "appearance_count": 14,
+          "time_info": "[01时08分 ~ 22时48分]"
         },
         {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            10,
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 22时48分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -81,19 +94,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时50分 ~ 18时27分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 20时16分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -138,9 +138,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
+        },
+        {
+          "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
+          "url": "https://flash.jin10.com/detail/20260628213314042800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "教育部发布填报志愿诈骗预警",
@@ -152,6 +163,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时48分]"
         },
         {
           "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
@@ -178,16 +201,28 @@
           "time_info": "[01时08分 ~ 11时40分]"
         },
         {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时48分]"
+        },
+        {
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时16分]"
+          "time_info": "[20时16分 ~ 22时48分]"
         },
         {
           "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
@@ -199,18 +234,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 15时50分]"
-        },
-        {
-          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
-          "url": "https://www.cls.cn/detail/2411046",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时16分]"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
@@ -225,6 +248,17 @@
           "time_info": "[11时39分 ~ 15时50分]"
         },
         {
+          "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
+          "url": "https://www.zhihu.com/question/2054005413406946147",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
+        },
+        {
           "title": "曝GPT-5.6创下史上最高作弊率",
           "url": "https://www.toutiao.com/trending/7656076258098286099/",
           "source": "今日头条",
@@ -234,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 03时19分]"
+        },
+        {
+          "title": "人民日报评“AI脸看腻了”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "AI替人饭碗怎么保",
@@ -247,17 +292,6 @@
           "time_info": "[18时26分 ~ 18时27分]"
         },
         {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
-        },
-        {
           "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
           "url": "https://flash.jin10.com/detail/20260628133655032800",
           "source": "金十数据",
@@ -267,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/0RDhkEBMWjSXyCo40ljjk.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260628210453136800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "国际清算银行：人工智能热潮的可持续性、金融脆弱性、紧张的公共财政以及通胀，都是全球经济所面临的风险。",
@@ -360,11 +405,12 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时16分 ~ 22时48分]"
         }
       ]
     },
@@ -401,7 +447,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -412,7 +458,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         }
