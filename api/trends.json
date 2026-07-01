@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T20:06:46.850714+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-07-01T23:41:25.223158+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 20时06分]"
+          "appearance_count": 7,
+          "time_info": "[07时11分 ~ 23时41分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时52分 ~ 07时12分]"
+        },
+        {
+          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
+          "url": "https://wallstreetcn.com/articles/3775982",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
@@ -61,7 +73,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -116,9 +128,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "Guggenheim称AI并非该行业的“丧钟”",
+          "url": "https://wallstreetcn.com/livenews/3127515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "人工智能冲击婚纱影楼",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
@@ -180,6 +214,18 @@
           "time_info": "[16时12分 ~ 20时06分]"
         },
         {
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 23时41分]"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3126981",
           "source": "华尔街见闻-快讯",
@@ -231,7 +277,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -247,15 +293,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
+          "title": "Uber震动AI数据标注业务，解雇两位高层主管",
+          "url": "https://wallstreetcn.com/livenews/3127510",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "23时41分"
         },
         {
           "title": "马来西亚经济部长：政府正在准备人工智能治理法案，以规范人机未来。",
@@ -286,7 +332,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -346,6 +392,17 @@
           "time_info": "11时41分"
         },
         {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
           "url": "https://www.zhihu.com/question/2053591589927262082",
           "source": "知乎",
@@ -396,9 +453,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "Meta涨8%，该公司推动通过云销售过剩的AI算力。",
+          "url": "https://wallstreetcn.com/livenews/3127494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3127492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "永辉超市发布调改第二阶段成绩单 有单店13天累计销售额超1700万元",
@@ -437,7 +516,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -501,6 +580,28 @@
           "time_info": "[11时40分 ~ 16时12分]"
         },
         {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：需要立法以防止特朗普获得更多与加密货币相关的收益。",
+          "url": "https://flash.jin10.com/detail/20260701232112379800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "耐克美股盘后跌幅扩大至6.6%。",
           "url": "https://wallstreetcn.com/livenews/3126991",
           "source": "华尔街见闻-快讯",
@@ -518,7 +619,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -528,11 +629,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 20时06分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 23时41分]"
         },
         {
           "title": "美媒爆料：特朗普因加密货币获利超10亿美元",
@@ -570,13 +672,24 @@
           "time_info": "[05时28分 ~ 07时12分]"
         },
         {
+          "title": "美股盘前三大股指期货下跌",
+          "url": "https://www.douyin.com/hot/2554626",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
           "url": "https://wallstreetcn.com/articles/3775932",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
@@ -623,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美股存储板块一度重挫约9%，闪迪跌11%，铠侠ADR跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3127504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
@@ -680,6 +804,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美股狂飙黄金暴跌为何会这样",
+          "url": "https://www.toutiao.com/trending/7657495000493592070/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "金十图示：2026年06月30日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260701003659797800",
           "source": "金十数据",
@@ -714,11 +849,12 @@
           "ranks": [
             4,
             5,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 20时06分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 23时41分]"
         },
         {
           "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
@@ -727,7 +863,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
