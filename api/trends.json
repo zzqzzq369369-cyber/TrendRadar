@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-03T01:46:44.950382+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-07-03T03:22:49.089934+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3128176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
           "url": "https://www.cls.cn/detail/2415670",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -37,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -48,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -59,19 +48,53 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
-          "title": "AI演员已经能演出情绪变化了",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
-          "source": "百度热搜",
+          "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
+          "url": "https://wallstreetcn.com/livenews/3128196",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：2026年初，高管们曾担心在人工智能领域“行动不够迅速”。",
+          "url": "https://flash.jin10.com/detail/20260703030444713800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
+          "url": "https://wallstreetcn.com/livenews/3128190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3128176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -81,19 +104,65 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
           "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "美国AI三大巨头争抢哲学家",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
+          "url": "https://flash.jin10.com/detail/20260703025612811800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
+          "url": "https://wallstreetcn.com/livenews/3128187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -160,17 +229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "美国AI三大巨头争抢哲学家",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
         }
       ]
     },
@@ -183,33 +241,36 @@
           "url": "https://www.zhihu.com/question/2056021886144864275",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
-          "url": "https://wallstreetcn.com/livenews/3128161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         },
         {
           "title": "奈雪的茶股价暴跌 96% 沦为仙股，股东会仅到场十余名股东，有人仅花 4 港元参会，昔日新茶饮第一股怎么了？",
           "url": "https://www.zhihu.com/question/2055976324167213165",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
+          "url": "https://wallstreetcn.com/livenews/3128161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时22分]"
         }
       ]
     }
