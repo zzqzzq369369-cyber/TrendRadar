@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T14:32:23.923156+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-07-03T17:57:53.271229+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -33,23 +33,25 @@
           "time_info": "[01时46分 ~ 14时32分]"
         },
         {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时57分]"
+        },
+        {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
           "url": "https://wallstreetcn.com/articles/3776029",
           "source": "华尔街见闻",
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 07时05分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -64,20 +66,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时57分]"
         },
         {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 07时05分]"
         },
         {
           "title": "美国电网PJM发布警报，通知发电调度员尽快启动所有离线发电机组，并将其功率提升至满负荷（紧急最大功率）。",
@@ -97,7 +98,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -146,6 +147,29 @@
           "time_info": "03时22分"
         },
         {
+          "title": "汇丰：布局中国人工智能全产业链 把握产业投资潜在机会",
+          "url": "https://wallstreetcn.com/livenews/3128592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时57分]"
+        },
+        {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3128176",
           "source": "华尔街见闻-快讯",
@@ -156,6 +180,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时57分]"
+        },
+        {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时57分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
@@ -169,6 +217,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 07时05分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时57分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -206,34 +267,11 @@
           "time_info": "[10时49分 ~ 14时32分]"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 14时32分]"
-        },
-        {
           "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
           "url": "https://www.cls.cn/detail/2415850",
           "source": "财联社热门",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 14时32分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -250,6 +288,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 14时32分]"
+        },
+        {
+          "title": "3人发布涉赛格坠楼事件谣言被罚",
+          "url": "https://www.douyin.com/hot/2556198",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时57分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -303,20 +352,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
         {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "17时57分"
         },
         {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
@@ -347,7 +396,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -363,15 +412,15 @@
           "time_info": "07时05分"
         },
         {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
+          "title": "券商晨会精华：关注物理AI低位配置机会",
+          "url": "https://www.cls.cn/detail/2415985",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "17时57分"
         },
         {
           "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
@@ -383,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：我们将在九月份发布新的预测。",
+          "url": "https://flash.jin10.com/detail/20260703174614028800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "净利同比最高增超138%！650亿电子特气概念股发布上半年业绩预告|盘后公告集锦",
@@ -413,18 +473,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "3人发布涉赛格坠楼事件谣言被罚",
-          "url": "https://www.douyin.com/hot/2556198",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -435,7 +484,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -457,7 +506,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -479,7 +528,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -490,7 +539,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -534,7 +583,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -545,7 +594,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -567,7 +616,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -631,11 +680,12 @@
             15,
             10,
             7,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时46分 ~ 10时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时46分 ~ 17时57分]"
         },
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -655,11 +705,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时57分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时49分 ~ 14时32分]"
+          "time_info": "[14时32分 ~ 17时57分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
@@ -672,17 +735,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时22分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         },
         {
           "title": "美股今日休市 金银油交易提前结束",
@@ -702,7 +754,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -757,7 +809,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
@@ -784,11 +836,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时57分]"
         }
       ]
     },
@@ -801,11 +854,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355854&amp;topic_name=%E4%B8%89%E5%93%A5%E5%BC%BA%E9%94%81%E5%85%AC%E5%8F%B8%E4%BB%A3%E7%A0%81%E9%81%AD%E8%BE%9E%E9%80%80",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 17时57分]"
         }
       ]
     }
