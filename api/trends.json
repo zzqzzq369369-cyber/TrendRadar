@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T17:57:53.271229+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-07-03T20:10:50.076378+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时46分 ~ 10时49分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 20时10分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -58,18 +70,6 @@
           "time_info": "[01时46分 ~ 07时05分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 17时57分]"
-        },
-        {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
           "url": "https://www.cls.cn/detail/2415416",
           "source": "财联社热门",
@@ -79,6 +79,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 07时05分]"
+        },
+        {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 20时10分]"
         },
         {
           "title": "美国电网PJM发布警报，通知发电调度员尽快启动所有离线发电机组，并将其功率提升至满负荷（紧急最大功率）。",
@@ -136,6 +149,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "中国结算发布《债券通用质押式回购交易结算委托协议必备条款（试行）》和《债券通用质押式回购交易结算风险揭示书必备条款（试行）》的通知。",
+          "url": "https://flash.jin10.com/detail/20260703200218535800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
+        },
+        {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
           "url": "https://wallstreetcn.com/livenews/3128190",
           "source": "华尔街见闻-快讯",
@@ -153,21 +177,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
         {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
           "source": "财联社热门",
           "ranks": [
-            8,
-            2
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 20时10分]"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -182,28 +206,31 @@
           "time_info": "[01时46分 ~ 03时22分]"
         },
         {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
-        },
-        {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
           "url": "https://wallstreetcn.com/articles/3776098",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 20时10分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 20时10分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
@@ -219,17 +246,27 @@
           "time_info": "[01时46分 ~ 07时05分]"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
+          "title": "3人发布涉赛格坠楼事件谣言被罚",
+          "url": "https://www.douyin.com/hot/2556198",
+          "source": "抖音",
           "ranks": [
-            18,
-            12,
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时49分 ~ 17时57分]"
+          "time_info": "[14时32分 ~ 20时10分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 20时10分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -290,17 +327,6 @@
           "time_info": "[10时49分 ~ 14时32分]"
         },
         {
-          "title": "3人发布涉赛格坠楼事件谣言被罚",
-          "url": "https://www.douyin.com/hot/2556198",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
-        },
-        {
           "title": "如何评价AI巨头之间的混战",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
@@ -322,6 +348,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时22分]"
+        },
+        {
+          "title": "市场监管总局发布多项宇航领域国家标准",
+          "url": "https://flash.jin10.com/detail/20260703200109814800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
@@ -357,15 +394,15 @@
           "time_info": "14时32分"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
+          "url": "https://wallstreetcn.com/livenews/3128681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时57分"
+          "time_info": "20时10分"
         },
         {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
@@ -418,7 +455,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -440,7 +477,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -476,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "据韩媒ChosunBiz：韩国政府正在研究开发自主AI基础模型，并计划扩大AI数据中心建设，预计到2029年建成8.4吉瓦的数据中心容量，到2035年再新增10吉瓦的数据中心容量。",
@@ -520,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "交通运输部：深入实施“人工智能+交通运输”行动",
+          "url": "https://flash.jin10.com/detail/20260703194756859800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "人社部拟发布12个新职业",
@@ -660,6 +719,22 @@
           "time_info": "[10时49分 ~ 14时32分]"
         },
         {
+          "title": "奈雪的茶股价暴跌 96% 沦为仙股，股东会仅到场十余名股东，有人仅花 4 港元参会，昔日新茶饮第一股怎么了？",
+          "url": "https://www.zhihu.com/question/2055976324167213165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            7,
+            3,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 20时10分]"
+        },
+        {
           "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
           "url": "https://www.cls.cn/detail/2415948",
           "source": "财联社热门",
@@ -671,21 +746,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时05分 ~ 14时32分]"
-        },
-        {
-          "title": "奈雪的茶股价暴跌 96% 沦为仙股，股东会仅到场十余名股东，有人仅花 4 港元参会，昔日新茶饮第一股怎么了？",
-          "url": "https://www.zhihu.com/question/2055976324167213165",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10,
-            7,
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 17时57分]"
         },
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -721,8 +781,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 20时10分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
@@ -820,6 +880,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 20时10分]"
+        },
+        {
           "title": "为什么拼多多的商品比 1688 批发网上的还便宜，他们到底是怎么赚钱的，主要是从哪里进货的？",
           "url": "https://www.zhihu.com/question/314900700",
           "source": "知乎",
@@ -830,24 +903,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 14时32分]"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
         }
       ]
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "三哥强锁公司代码遭辞退",
@@ -855,11 +916,23 @@
           "source": "贴吧",
           "ranks": [
             3,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 20时10分]"
+        },
+        {
+          "title": "全球最大编程助手GitHub Copilot宣布接入首个开源模型Kimi K2.7 Code",
+          "url": "https://wallstreetcn.com/livenews/3128677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     }
