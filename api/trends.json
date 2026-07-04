@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T04:56:21.842234+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-07-05T05:59:12.546279+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时59分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时59分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时59分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -48,30 +49,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 04时56分]"
-        },
-        {
-          "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
-          "url": "https://flash.jin10.com/detail/20260705041238253800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时59分]"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
           "url": "https://wallstreetcn.com/articles/3776195",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时59分]"
+        },
+        {
+          "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
+          "url": "https://flash.jin10.com/detail/20260705041238253800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时59分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -95,11 +98,12 @@
           "url": "https://www.zhihu.com/question/2055966649900183829",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时59分]"
         },
         {
           "title": "三哥强锁公司代码遭辞退",
@@ -128,6 +132,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
+          "url": "https://wallstreetcn.com/articles/3776188",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 05时59分]"
         }
       ]
     }
