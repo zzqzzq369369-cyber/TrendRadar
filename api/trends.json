@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T05:59:12.546279+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-07-05T07:02:22.294135+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时02分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时02分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时02分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 07时02分]"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
@@ -61,8 +61,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时02分]"
+        },
+        {
+          "title": "中央气象台7月5日06时继续发布强对流天气黄色预警。",
+          "url": "https://flash.jin10.com/detail/20260705060217804800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "中央气象台7月5日06时继续发布暴雨橙色预警。",
+          "url": "https://flash.jin10.com/detail/20260705060142192800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -99,11 +121,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时02分]"
         },
         {
           "title": "三哥强锁公司代码遭辞退",
@@ -147,8 +170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时02分]"
         }
       ]
     }
