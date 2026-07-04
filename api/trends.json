@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-04T21:22:21.590583+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-07-04T23:04:52.289791+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
           "url": "https://wallstreetcn.com/articles/3776124",
@@ -28,8 +17,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 23时04分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时45分 ~ 21时22分]"
+          "time_info": "[01时24分 ~ 07时02分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -81,6 +81,18 @@
           "time_info": "[10时45分 ~ 21时22分]"
         },
         {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时04分]"
+        },
+        {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
           "source": "澎湃新闻",
@@ -93,26 +105,17 @@
           "time_info": "[01时24分 ~ 07时02分]"
         },
         {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://flash.jin10.com/detail/20260704205119305800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 23时04分]"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -212,6 +215,18 @@
           "time_info": "[10时46分 ~ 14时19分]"
         },
         {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://flash.jin10.com/detail/20260704205119305800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时04分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
           "url": "https://wallstreetcn.com/livenews/3128834",
           "source": "华尔街见闻-快讯",
@@ -222,18 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时02分]"
-        },
-        {
-          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
-          "url": "https://wallstreetcn.com/articles/3776196",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 21时22分]"
         },
         {
           "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
@@ -270,6 +273,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时45分 ~ 14时19分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 23时04分]"
         },
         {
           "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
@@ -320,17 +335,6 @@
           "time_info": "[17时22分 ~ 21时22分]"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
           "title": "华为何庭波发布V2版“韬定律”论文，补充工程细节和实测数据",
           "url": "https://wallstreetcn.com/livenews/3128891",
           "source": "华尔街见闻-快讯",
@@ -340,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+          "url": "https://wallstreetcn.com/articles/3776195",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
@@ -403,7 +418,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -458,8 +473,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 23时04分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
@@ -500,11 +515,12 @@
             16,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时24分 ~ 21时22分]"
+          "appearance_count": 13,
+          "time_info": "[01时24分 ~ 23时04分]"
         },
         {
           "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
@@ -512,11 +528,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 23时04分]"
         }
       ]
     },
