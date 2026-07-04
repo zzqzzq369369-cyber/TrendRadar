@@ -1,349 +1,55 @@
 {
-  "generated_at": "2026-07-04T23:04:52.289791+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-07-05T01:04:03.722992+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 37,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时45分 ~ 23时04分]"
-        },
-        {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "4名大学生出题 AI考了0分",
-          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时02分]"
-        },
-        {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 14时19分]"
-        },
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时45分 ~ 21时22分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时22分 ~ 23时04分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时02分]"
+          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
           "url": "https://wallstreetcn.com/articles/3776196",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 23时04分]"
-        },
-        {
-          "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "华为何庭波发布 V2 版“韬定律”论文 补充工程细节和实测数据",
-          "url": "https://flash.jin10.com/detail/20260704125108512800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "Meta股价因AI进展不及预期下跌",
-          "url": "https://www.douyin.com/hot/2556589",
-          "source": "抖音",
-          "ranks": [
-            19,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时04分]"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
-          "url": "https://wallstreetcn.com/livenews/3128822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时02分]"
-        },
-        {
-          "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/3128806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时04分]"
-        },
-        {
-          "title": "常州市市长周伟调研人工智能上游产业",
-          "url": "https://flash.jin10.com/detail/20260704100159012800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 14时19分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://flash.jin10.com/detail/20260704205119305800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 23时04分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 07时02分]"
-        },
-        {
-          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
-          "url": "https://wallstreetcn.com/livenews/3128832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 07时02分]"
-        },
-        {
-          "title": "韩国AI大跃进",
-          "url": "https://wallstreetcn.com/articles/3776121",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 10时46分]"
-        },
-        {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时19分]"
+          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时22分 ~ 23时04分]"
+          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
-          "url": "https://flash.jin10.com/detail/20260704095032353800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 14时19分]"
-        },
-        {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            29
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 10时46分]"
-        },
-        {
-          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
-          "url": "https://wallstreetcn.com/livenews/3128826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 07时02分]"
-        },
-        {
-          "title": "华为发布V2版韬定律论文",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83V2%E7%89%88%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%AE%BA%E6%96%87%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 21时22分]"
-        },
-        {
-          "title": "华为何庭波发布V2版“韬定律”论文，补充工程细节和实测数据",
-          "url": "https://wallstreetcn.com/livenews/3128891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "01时04分"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
@@ -352,152 +58,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "英国唐宁街10号发布有关霍尔木兹海峡的联合声明：英国、阿曼、法国致力于确保阿曼水域航行安全。 英国、法国准备部署范围更广的多国军事任务。",
-          "url": "https://wallstreetcn.com/livenews/3128839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
-          "url": "https://flash.jin10.com/detail/20260704084017236800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "华强北提前开苹果发布会了",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E6%8F%90%E5%89%8D%E5%BC%80%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E4%BA%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "曝摄像头AirPodsPro项目暂停",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "如何看待传统导演扎堆入局 AI 影视，是行业风口还是影视行业再也离不开 AI 了？",
-          "url": "https://www.zhihu.com/question/2056439444681515610",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://wallstreetcn.com/livenews/3128902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "香港天文台发布黄色暴雨警告。",
-          "url": "https://wallstreetcn.com/livenews/3128901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 10时46分]"
-        },
-        {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 23时04分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
-          "url": "https://wallstreetcn.com/livenews/3128802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时20分]"
+          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
-          "url": "https://wallstreetcn.com/articles/3776162",
-          "source": "华尔街见闻",
+          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
+          "url": "https://flash.jin10.com/detail/20260705000623395800",
+          "source": "金十数据",
           "ranks": [
-            10
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "01时04分"
         }
       ]
     },
@@ -506,34 +80,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "三哥强锁公司代码遭辞退",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355854&amp;topic_name=%E4%B8%89%E5%93%A5%E5%BC%BA%E9%94%81%E5%85%AC%E5%8F%B8%E4%BB%A3%E7%A0%81%E9%81%AD%E8%BE%9E%E9%80%80",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            16,
-            23,
-            25,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时24分 ~ 23时04分]"
-        },
-        {
           "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
           "url": "https://www.zhihu.com/question/2055966649900183829",
           "source": "知乎",
           "ranks": [
-            5,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 23时04分]"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "三哥强锁公司代码遭辞退",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355854&amp;topic_name=%E4%B8%89%E5%93%A5%E5%BC%BA%E9%94%81%E5%85%AC%E5%8F%B8%E4%BB%A3%E7%A0%81%E9%81%AD%E8%BE%9E%E9%80%80",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
         }
       ]
     },
@@ -542,15 +108,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "何小鹏：中国智驾领先全球，L2级辅助驾驶将加速出海",
+          "url": "https://flash.jin10.com/detail/20260704225030985800",
+          "source": "金十数据",
           "ranks": [
-            11
+            18
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     }
