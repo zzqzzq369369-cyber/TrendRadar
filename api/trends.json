@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T14:19:24.662098+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-07-04T17:22:22.190199+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 17时22分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -106,7 +106,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -186,6 +186,18 @@
           "time_info": "[05时04分 ~ 07时02分]"
         },
         {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 17时22分]"
+        },
+        {
           "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
           "url": "https://wallstreetcn.com/livenews/3128832",
           "source": "华尔街见闻-快讯",
@@ -208,18 +220,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时02分 ~ 10时46分]"
-        },
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 14时19分]"
         },
         {
           "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
@@ -276,7 +276,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -309,7 +309,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -320,15 +320,48 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "华为发布V2版韬定律论文",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83V2%E7%89%88%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%AE%BA%E6%96%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3128901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -350,9 +383,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 17时22分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.33%，暂报2234.25点，上周五结束交易以来（7*24）累计上涨5.08%，6月27-30日低位持稳于2100点附近，7月1-3日持续上扬。 MarketVectorTM数字资产100中盘指数涨1.85%，报2573.64点，最近七天累涨3.75%。 MarketVector数字资产100指数涨0.95%，报12402.25点，最近七天累涨4.56%。 目前，Solana涨0.64%、最近七天迄今累涨13%，狗狗币涨2.98%、最近七天迄今累涨1.37%，XRP涨2.77%、、最近七天迄今累涨6.81%。 比特币涨0.85%，暂报62032.74美元，最近七天迄今累涨4.07%；以太坊涨1.97%，暂报1732.62美元，最近七天迄今累涨10.49%。",
@@ -365,6 +398,49 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 03时20分]"
+        },
+        {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三哥强锁公司代码遭辞退",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355854&amp;topic_name=%E4%B8%89%E5%93%A5%E5%BC%BA%E9%94%81%E5%85%AC%E5%8F%B8%E4%BB%A3%E7%A0%81%E9%81%AD%E8%BE%9E%E9%80%80",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            16,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 17时22分]"
+        },
+        {
+          "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+          "url": "https://www.zhihu.com/question/2055966649900183829",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -382,26 +458,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时24分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "三哥强锁公司代码遭辞退",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355854&amp;topic_name=%E4%B8%89%E5%93%A5%E5%BC%BA%E9%94%81%E5%85%AC%E5%8F%B8%E4%BB%A3%E7%A0%81%E9%81%AD%E8%BE%9E%E9%80%80",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 14时19分]"
         }
       ]
     }
