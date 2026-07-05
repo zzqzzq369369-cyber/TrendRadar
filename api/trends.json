@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T19:29:41.049668+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-07-05T21:28:23.505557+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -56,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 21时28分]"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
@@ -92,22 +92,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 21时28分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时42分 ~ 19时29分]"
+          "time_info": "[19时29分 ~ 21时28分]"
         },
         {
           "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
@@ -121,15 +123,27 @@
           "time_info": "14时40分"
         },
         {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "21时28分"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 21时28分]"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
@@ -154,6 +168,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时59分]"
+        },
+        {
+          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
+          "url": "https://wallstreetcn.com/livenews/3128984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 21时28分]"
         },
         {
           "title": "中央气象台7月5日06时继续发布强对流天气黄色预警。",
@@ -204,16 +231,16 @@
           "time_info": "[07时02分 ~ 10时56分]"
         },
         {
-          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
-          "url": "https://wallstreetcn.com/livenews/3128984",
-          "source": "华尔街见闻-快讯",
+          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
+          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            10
+            23,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时42分 ~ 19时29分]"
+          "time_info": "[19时29分 ~ 21时28分]"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
@@ -282,17 +309,6 @@
           "time_info": "10时56分"
         },
         {
-          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
-          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
           "url": "https://flash.jin10.com/detail/20260705153708764800",
           "source": "金十数据",
@@ -307,7 +323,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -317,22 +333,24 @@
             8,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 21时28分]"
         },
         {
           "title": "硬盘一天三个价 电脑价格突然暴涨",
           "url": "https://www.baidu.com/s?wd=%E7%A1%AC%E7%9B%98%E4%B8%80%E5%A4%A9%E4%B8%89%E4%B8%AA%E4%BB%B7+%E7%94%B5%E8%84%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%84%B6%E6%9A%B4%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时28分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -344,6 +362,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 07时02分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
@@ -407,8 +436,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 19时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时42分 ~ 21时28分]"
         },
         {
           "title": "三哥强锁公司代码遭辞退",
