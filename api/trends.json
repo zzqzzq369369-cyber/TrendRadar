@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:17:30.738598+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-06T22:24:37.994977+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -53,11 +53,12 @@
             10,
             11,
             16,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 22时24分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -89,6 +90,17 @@
           "time_info": "[01时08分 ~ 06时07分]"
         },
         {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 22时24分]"
+        },
+        {
           "title": "研究人员借助AI技术发现两种新型超导体",
           "url": "https://wallstreetcn.com/livenews/3129164",
           "source": "华尔街见闻-快讯",
@@ -100,27 +112,28 @@
           "time_info": "13时10分"
         },
         {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 22时24分]"
+        },
+        {
           "title": "沪电股份：43亿元人工智能芯片配套高端印制电路板扩产项目预期下半年试产并逐步提升产能",
           "url": "https://wallstreetcn.com/livenews/3129307",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 18时17分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -135,15 +148,26 @@
           "time_info": "[01时08分 ~ 08时04分]"
         },
         {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
+          "title": "AI预测葡萄牙vs西班牙赛果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "22时24分"
+        },
+        {
+          "title": "香港天文台发布红色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3129424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
@@ -237,6 +261,28 @@
           "time_info": "13时10分"
         },
         {
+          "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
+          "url": "https://www.zhihu.com/question/2057495402358596554",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "广西发布洪水橙色预警，65条河流82个站超警",
           "url": "https://wallstreetcn.com/livenews/3129156",
           "source": "华尔街见闻-快讯",
@@ -254,7 +300,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -270,15 +316,48 @@
           "time_info": "13时10分"
         },
         {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "贵港发布通报澄清水库险情谣言",
+          "url": "https://www.douyin.com/hot/2560639",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "中央网信办深入开展“清朗·整治AI应用乱象”专项行动第一阶段工作",
           "url": "https://wallstreetcn.com/livenews/3129280",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "孟凡利在广州调研人工智能产业发展时强调：全力推动人工智能产业高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3129409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "沪电股份：43亿元人工智能芯片配套高端印制电路板扩产项目预期下半年试产并逐步提升产能",
@@ -287,7 +366,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -301,12 +380,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "事关儿童接种疫苗 国家疾控局等部门发布新版说明",
+          "url": "https://wallstreetcn.com/livenews/3129396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -371,8 +461,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 22时24分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
@@ -380,11 +470,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 22时24分]"
         },
         {
           "title": "硬盘一天三个价 电脑价格突然暴涨",
@@ -405,9 +496,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2418371",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -419,6 +521,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨0.11%，标普500指数涨0.32%，纳指涨0.78%。博通涨3.5%，公司宣布与苹果合作协议延长至2031年。存储概念股集体走高，西部数据涨超5%，闪迪涨超4%，希捷科技涨超4%，美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3129413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "纳指涨幅扩大至1%，此前特朗普称市场将会暴涨。",
+          "url": "https://flash.jin10.com/detail/20260706215211545800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "Strategy盘前跌幅扩大至5%，此前宣布出售2.16亿美元比特币。",
+          "url": "https://wallstreetcn.com/livenews/3129410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3129407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -445,11 +591,12 @@
             8,
             9,
             14,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 18时17分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 22时24分]"
         },
         {
           "title": "苹果印度代工厂被开源",
@@ -486,11 +633,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%A1%B6%E7%BA%A7%E7%90%83%E6%98%9F%E6%98%AF%E6%80%8E%E4%B9%88%E8%B5%9A%E9%92%B1%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 22时24分]"
         }
       ]
     }
