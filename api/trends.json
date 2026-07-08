@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T04:20:14.520663+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-07-09T06:04:45.735531+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -15,8 +15,66 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
         },
         {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
@@ -30,17 +88,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
-        },
-        {
           "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
           "url": "https://wallstreetcn.com/livenews/3130810",
           "source": "华尔街见闻-快讯",
@@ -50,51 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
@@ -128,8 +130,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 06时04分]"
+        },
+        {
+          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
+          "url": "https://www.cls.cn/detail/2420824",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时20分]"
+          "time_info": "[04时19分 ~ 06时04分]"
         },
         {
           "title": "替代HBM4？英特尔公布AI内存新专利 采用定制化封装方案",
@@ -141,17 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "三星预告将发布折叠屏新机 新设计抢先苹果竞品亮相",
-          "url": "https://www.cls.cn/detail/2420824",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时20分]"
         },
         {
           "title": "亚马逊(AMZN.O)：亚马逊云服务(AWS)与华纳兄弟探索公司(WBD.O)合作推出代理人工智能广告平台。",
@@ -226,9 +228,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260709043940767800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "OpenAI：发布国家安全原则文件。",
+          "url": "https://flash.jin10.com/detail/20260709043809283800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "SpaceX AI与Cursor发布面向法律、金融场景的Grok AI模型",
@@ -245,40 +269,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
           "url": "https://www.cls.cn/detail/2420785",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
-        },
-        {
-          "title": "金十图示：2026年07月08日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260709040709587800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 金龙指数涨2%",
-          "url": "https://flash.jin10.com/detail/20260709040053032800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
         },
         {
           "title": "全线暴跌！韩国三星、海力士杠杆ETF几乎全线跌破发行价，政客呼吁“摘牌退市”",
@@ -289,19 +292,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260709040709587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
           "url": "https://www.cls.cn/detail/2420472",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 金龙指数涨2%",
+          "url": "https://flash.jin10.com/detail/20260709040053032800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "C罗和美国队淘汰 世界杯门票暴跌60%",
@@ -314,6 +340,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 02时18分]"
+        },
+        {
+          "title": "地产ETF收跌超1.6%，与道指ETF领跌美股大类资产类ETF，布油基金涨3.9%",
+          "url": "https://wallstreetcn.com/livenews/3130885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "周三（7月8日），美股行业ETF多数收跌，区域银行ETF跌2.30%，银行业ETF跌2.27%，全球航空业ETF跌2.21%。 科技行业ETF、全球科技股指数ETF至少涨1.24%，能源业ETF涨1.76%，半导体ETF涨1.99%。",
+          "url": "https://wallstreetcn.com/livenews/3130880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
@@ -340,8 +388,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 06时04分]"
         }
       ]
     }
