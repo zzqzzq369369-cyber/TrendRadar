@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T19:03:47.760085+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-07-08T22:03:12.093295+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 43,
+      "match_count": 53,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -32,6 +32,17 @@
           "time_info": "[10时41分 ~ 13时50分]"
         },
         {
+          "title": "我国人工智能产业加速发展壮大",
+          "url": "https://www.douyin.com/hot/2563823",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
           "url": "https://www.cls.cn/detail/2419748",
           "source": "财联社热门",
@@ -53,6 +64,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时56分 ~ 13时50分]"
+        },
+        {
+          "title": "市场消息：美国银行近日向OpenAI提供了一笔5.2亿美元的授信额度。",
+          "url": "https://flash.jin10.com/detail/20260708214015006800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时03分]"
         },
         {
           "title": "VinFast发布最低价车型，抢占大众市场",
@@ -99,19 +135,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 19时03分]"
-        },
-        {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
           "url": "https://wallstreetcn.com/livenews/3130197",
           "source": "华尔街见闻-快讯",
@@ -124,6 +147,19 @@
           "time_info": "[06时11分 ~ 07时57分]"
         },
         {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 22时03分]"
+        },
+        {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3130168",
           "source": "华尔街见闻-快讯",
@@ -134,6 +170,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 06时11分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 22时03分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 22时03分]"
         },
         {
           "title": "Papi酱AI单曲《生气了》爆火",
@@ -159,16 +219,15 @@
           "time_info": "[00时29分 ~ 00时31分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "如何看待 anthropic 最新发表的论文，发现了能对大模型诛心和 PUA 的 J SPACE？",
+          "url": "https://www.zhihu.com/question/2057860832793453851",
+          "source": "知乎",
           "ranks": [
-            6,
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时25分 ~ 19时03分]"
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian跌幅扩大至15%，创2024年11月份以来最差盘中表现，该公司发布业绩报告时宣布股票增发计划。",
@@ -193,26 +252,15 @@
           "time_info": "07时57分"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
+          "title": "据报道，特朗普政府解除对OpenAI GPT 5.6的限制。",
+          "url": "https://wallstreetcn.com/livenews/3130739",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
+          "time_info": "22时03分"
         },
         {
           "title": "Meta Platforms(META.O)：Muse Image已于今日上线美国地区的Meta AI应用、Meta AI网站及Instagram Stories，并已在部分国家和地区的WhatsApp推出，Facebook也将很快支持该功能。",
@@ -259,6 +307,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "国际货币基金组织：人工智能领域的调整可能带来潜在风险，这也可能影响韩国及其他国家。",
+          "url": "https://flash.jin10.com/detail/20260708213506185800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "人社部：到2030年人社行业大模型成熟完备，人工智能应用体系基本健全",
           "url": "https://wallstreetcn.com/livenews/3130471",
           "source": "华尔街见闻-快讯",
@@ -279,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "国际货币基金组织：因人工智能硬件出口增长显著，已将韩国2026年的经济增长预测上调0.7个百分点。",
+          "url": "https://flash.jin10.com/detail/20260708213350693800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "告别“无差别上涨”，AI行情进入下半场",
@@ -309,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -323,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "美银向OpenAI提供5.2亿美元信贷额度，以争取IPO承销席位。",
+          "url": "https://wallstreetcn.com/livenews/3130727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
@@ -353,7 +434,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -408,7 +489,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -479,6 +560,28 @@
           "time_info": "04时55分"
         },
         {
+          "title": "别克发布奥特能控温超快充技术",
+          "url": "https://wallstreetcn.com/livenews/3130718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "湖北黄石发布暴雨红色预警",
+          "url": "https://www.toutiao.com/trending/7660123714301742655/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
           "url": "https://wallstreetcn.com/livenews/3130102",
           "source": "华尔街见闻-快讯",
@@ -488,12 +591,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "今年首期全国高温中暑气象预报发布",
+          "url": "https://wallstreetcn.com/livenews/3130717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -570,16 +684,62 @@
           "time_info": "[00时29分 ~ 06时11分]"
         },
         {
+          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2420785",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "世界杯四分之一决赛门票暴跌近60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 22时03分]"
+        },
+        {
           "title": "全线暴跌！韩国三星、海力士杠杆ETF几乎全线跌破发行价，政客呼吁“摘牌退市”",
           "url": "https://wallstreetcn.com/articles/3776423",
           "source": "华尔街见闻",
           "ranks": [
             10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时50分 ~ 22时03分]"
+        },
+        {
+          "title": "中东战火再燃，美股低开，存储股延续跌势，阿里涨9%，油价大涨5%，金银走低",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 19时03分]"
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "C罗和美国队淘汰 世界杯门票暴跌60%",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E5%92%8C%E7%BE%8E%E5%9B%BD%E9%98%9F%E6%B7%98%E6%B1%B0+%E4%B8%96%E7%95%8C%E6%9D%AF%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C60%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
@@ -594,6 +754,17 @@
           "time_info": "[04时55分 ~ 06时11分]"
         },
         {
+          "title": "港股为何暴涨",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%AF%E8%82%A1%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%",
           "url": "https://wallstreetcn.com/livenews/3130166",
           "source": "华尔街见闻-快讯",
@@ -604,6 +775,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 06时11分]"
+        },
+        {
+          "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
+          "url": "https://www.cls.cn/detail/2420472",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "美股三大指数集体低开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "美股三大指数集体收跌 纳指跌1.16%",
@@ -617,24 +810,13 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
-          "title": "世界杯四分之一决赛门票暴跌近60%",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E9%97%A8%E7%A5%A8%E6%9A%B4%E8%B7%8C%E8%BF%9160%25%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
           "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -648,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "美股费城半导体指数涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3130735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
@@ -683,6 +876,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "美股三大指数开盘下跌，道指开跌0.31%，标普500指数跌0.51%，纳指跌0.44%。存储概念股延续跌势，闪迪跌超1%，美光科技跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3130731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
           "url": "https://wallstreetcn.com/livenews/3130110",
           "source": "华尔街见闻-快讯",
@@ -700,9 +904,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3130721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "黄金为何暴跌？流动性踩踏压过避险逻辑",
@@ -711,7 +926,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -722,7 +937,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -792,11 +1007,12 @@
             5,
             9,
             14,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 19时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 22时03分]"
         }
       ]
     }
