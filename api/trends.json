@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T04:22:02.671295+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-11T06:01:52.888794+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -31,6 +31,32 @@
           "time_info": "[00时24分 ~ 02时23分]"
         },
         {
+          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
+          "url": "https://wallstreetcn.com/articles/3776629",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
+        },
+        {
           "title": "美国发布针对伊朗的新制裁措施，涉及8名个人和6家企业。",
           "url": "https://flash.jin10.com/detail/20260711021326882800",
           "source": "金十数据",
@@ -42,30 +68,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
-        },
-        {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
-        },
-        {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
           "url": "https://www.cls.cn/detail/2422921",
           "source": "财联社热门",
@@ -73,8 +75,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
+        },
+        {
+          "title": "上海海事局启动Ⅱ级防台应急响应，多区发布台风黄色预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561180",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "time_info": "[02时22分 ~ 06时01分]"
         },
         {
           "title": "功夫女足发布首支长预告",
@@ -101,18 +115,6 @@
           "time_info": "[02时23分 ~ 04时22分]"
         },
         {
-          "title": "上海海事局启动Ⅱ级防台应急响应，多区发布台风黄色预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33561180",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 04时22分]"
-        },
-        {
           "title": "浙江温州发布《告全体市民书》",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%B8%A9%E5%B7%9E%E5%8F%91%E5%B8%83%E3%80%8A%E5%91%8A%E5%85%A8%E4%BD%93%E5%B8%82%E6%B0%91%E4%B9%A6%E3%80%8B",
           "source": "百度热搜",
@@ -136,6 +138,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
+          "url": "https://wallstreetcn.com/livenews/3132249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
           "url": "https://wallstreetcn.com/livenews/3132205",
           "source": "华尔街见闻-快讯",
@@ -145,6 +158,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
+          "url": "https://flash.jin10.com/detail/20260711044802586800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
+          "url": "https://flash.jin10.com/detail/20260711042558788800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "金十提示：贝克休斯7月10日北美钻机数量报告推迟发布。",
@@ -172,7 +207,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -184,8 +219,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -195,8 +230,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -206,30 +241,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
-        },
-        {
-          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3132246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356077&amp;topic_name=%E4%B8%AD%E8%B5%B4%E6%97%A5%E6%B8%B8%E5%AE%A2%E6%9A%B4%E8%B7%8C%2C%E6%97%A5%E6%9C%AC%E9%A1%B6%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -239,8 +264,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -250,8 +275,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         },
         {
           "title": "世界杯小国黑马带火冷门目的地：佛得角搜索量暴涨200%",
@@ -262,8 +287,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
+        },
+        {
+          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
+          "url": "https://wallstreetcn.com/livenews/3132246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时01分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3132248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
@@ -323,8 +371,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时01分]"
         }
       ]
     }
