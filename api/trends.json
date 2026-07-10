@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T18:24:01.247469+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-07-10T21:11:08.958813+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -22,6 +22,20 @@
           "time_info": "[01时23分 ~ 14时44分]"
         },
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 21时11分]"
+        },
+        {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
           "url": "https://wallstreetcn.com/articles/3776500",
           "source": "华尔街见闻",
@@ -31,6 +45,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 05时23分]"
+        },
+        {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 21时11分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 21时11分]"
         },
         {
           "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
@@ -50,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2422609",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时11分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -89,31 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 18时24分]"
-        },
-        {
-          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
-          "url": "https://www.cls.cn/detail/2421559",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 18时24分]"
         },
         {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
@@ -172,6 +188,19 @@
           "time_info": "14时44分"
         },
         {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时44分 ~ 21时11分]"
+        },
+        {
           "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
           "source": "澎湃新闻",
@@ -209,18 +238,6 @@
           "time_info": "[07时10分 ~ 14时44分]"
         },
         {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 18时24分]"
-        },
-        {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
           "url": "https://wallstreetcn.com/livenews/3131490",
           "source": "华尔街见闻-快讯",
@@ -233,16 +250,38 @@
           "time_info": "[01时23分 ~ 03时43分]"
         },
         {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时44分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时11分]"
+        },
+        {
+          "title": "听障人士用AI做了款反诈应用",
+          "url": "https://www.toutiao.com/trending/7660363750279086121/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时11分]"
+        },
+        {
+          "title": "功夫女足发布首支长预告",
+          "url": "https://www.douyin.com/hot/2565958",
+          "source": "抖音",
+          "ranks": [
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时11分]"
         },
         {
           "title": "一条AI短片演绎杨戬劈山",
@@ -302,28 +341,6 @@
           "time_info": "[18时23分 ~ 18时24分]"
         },
         {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
-          "title": "听障人士用AI做了款反诈应用",
-          "url": "https://www.toutiao.com/trending/7660363750279086121/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
           "title": "“00后”人工智能学者唐晨宇已任北大助理教授、博导",
           "url": "https://m.thepaper.cn/newsDetail_forward_33550105",
           "source": "澎湃新闻",
@@ -335,15 +352,15 @@
           "time_info": "[18时23分 ~ 18时24分]"
         },
         {
-          "title": "功夫女足发布首支长预告",
-          "url": "https://www.douyin.com/hot/2565958",
-          "source": "抖音",
+          "title": "五大AI预测世界杯4强名单",
+          "url": "https://www.toutiao.com/trending/7659706463520997419/",
+          "source": "今日头条",
           "ranks": [
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
+          "time_info": "[21时10分 ~ 21时11分]"
         },
         {
           "title": "给哈兰德做了一支AI大片",
@@ -407,9 +424,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "自然资源部中国气象局发布黄色橙色地灾预警。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3132084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
@@ -451,7 +479,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -533,6 +561,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "瑞银：AI热潮料将提振股市长期收益",
+          "url": "https://flash.jin10.com/detail/20260710204626461800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
           "url": "https://wallstreetcn.com/livenews/3131501",
           "source": "华尔街见闻-快讯",
@@ -594,7 +633,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -649,7 +688,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -657,8 +696,20 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 21时11分]"
+        },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
@@ -670,17 +721,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 07时10分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 18时24分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -726,6 +766,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 07时10分]"
+        },
+        {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
+          "title": "中赴日游客暴跌,日本顶不住了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356077&amp;topic_name=%E4%B8%AD%E8%B5%B4%E6%97%A5%E6%B8%B8%E5%AE%A2%E6%9A%B4%E8%B7%8C%2C%E6%97%A5%E6%9C%AC%E9%A1%B6%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
+        },
+        {
+          "title": "哈兰德社媒粉丝暴涨1800万",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%E7%A4%BE%E5%AA%92%E7%B2%89%E4%B8%9D%E6%9A%B4%E6%B6%A81800%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.64%，暂报2168.03点。 MarketVectorTM数字资产100中盘指数涨0.89%，报2538.31点。 MarketVector数字资产100指数涨0.69%，报12443.14点。 目前，Solana涨0.44%，狗狗币涨0.11%，XRP持平。 比特币涨0.68%，暂报62572.83美元；以太坊跌0.11%，暂报1734.71美元。",
@@ -830,7 +914,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一图看懂 | 下周打新，科创板最能赚钱的企业要来了",
@@ -844,6 +928,29 @@
           "time_info": "[01时23分 ~ 05时23分]"
         },
         {
+          "title": "分析师：随着智能体化商业成熟 Shopify仍有望获得市场份额",
+          "url": "https://flash.jin10.com/detail/20260710205239389800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "“600万粉丝”带货主播偷税详情：通过“隐身账”逃避纳税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33556503",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时11分]"
+        },
+        {
           "title": "Meta算力过剩？扎克伯格公开否认：市场需求非常大，租出去更赚钱！",
           "url": "https://www.cls.cn/detail/2422321",
           "source": "财联社热门",
@@ -854,17 +961,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 14时44分]"
-        },
-        {
-          "title": "“600万粉丝”带货主播偷税详情：通过“隐身账”逃避纳税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33556503",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
