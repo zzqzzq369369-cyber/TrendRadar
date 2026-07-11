@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T10:32:02.678298+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-07-11T13:39:57.919481+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -16,11 +16,28 @@
             8,
             7,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时39分]"
+        },
+        {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时39分]"
         },
         {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
@@ -35,32 +52,31 @@
           "time_info": "[00时24分 ~ 06时01分]"
         },
         {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 10时32分]"
-        },
-        {
           "title": "功夫女足发布首支长预告",
           "url": "https://www.douyin.com/hot/2565958",
           "source": "抖音",
           "ranks": [
             20,
             23,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 10时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 13时39分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 13时39分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -109,18 +125,6 @@
           "time_info": "[02时22分 ~ 07时09分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时08分 ~ 10时32分]"
-        },
-        {
           "title": "美国发布针对伊朗的新制裁措施，涉及8名个人和6家企业。",
           "url": "https://flash.jin10.com/detail/20260711021326882800",
           "source": "金十数据",
@@ -130,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "《功夫女足》上映 AI预测总票房超10亿",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "美国发布针对伊朗的新制裁措施",
@@ -154,6 +169,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 10时32分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时39分]"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时39分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -192,15 +230,16 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
+          "title": "据悉OpenAI安全系统负责人将离职",
+          "url": "https://flash.jin10.com/detail/20260711093038446800",
+          "source": "金十数据",
           "ranks": [
-            9
+            7,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时32分 ~ 13时39分]"
         },
         {
           "title": "美联储半年度报告：通胀今春进一步升温，AI基建成推高通胀新因素，重申稳定价格承诺",
@@ -208,17 +247,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -260,15 +288,26 @@
           "time_info": "[07时08分 ~ 07时09分]"
         },
         {
-          "title": "据悉OpenAI安全系统负责人将离职",
-          "url": "https://flash.jin10.com/detail/20260711093038446800",
+          "title": "新修改的《医疗机构水污染物排放标准》发布",
+          "url": "https://flash.jin10.com/detail/20260711122146067800",
           "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "13时39分"
         },
         {
           "title": "五角大楼发布新一批UFO文件",
@@ -288,9 +327,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "《2026年中国航海日公告》发布 全国海洋生产总值超11万亿元",
+          "url": "https://flash.jin10.com/detail/20260711113442318800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
@@ -302,6 +352,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "“巴威”12日凌晨将在浙江三门至苍南一带沿海登陆，橙色预警继续发布",
+          "url": "https://wallstreetcn.com/livenews/3132298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "中央气象台发布今年首个暴雨红警",
+          "url": "https://www.toutiao.com/trending/7660322607220883465/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "最高级别！中央气象台发布今年首个暴雨红色预警",
+          "url": "https://wallstreetcn.com/livenews/3132291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "国家海洋预报台发布海浪红色警报和风暴潮橙色警报。",
+          "url": "https://wallstreetcn.com/livenews/3132290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "国家海洋预报台发布海水倒灌淹没风险预警 浙江温州等地风险较高",
+          "url": "https://flash.jin10.com/detail/20260711103913921800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "国家海洋预报台发布海水倒灌淹没风险预警，浙江温州等地风险较高",
+          "url": "https://wallstreetcn.com/livenews/3132287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "金十提示：贝克休斯7月10日北美钻机数量报告推迟发布。",
@@ -341,8 +457,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时39分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -377,8 +493,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时39分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
@@ -387,11 +503,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时39分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -421,22 +538,12 @@
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
-          "url": "https://flash.jin10.com/detail/20260711094525096800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时39分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
@@ -450,6 +557,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 07时09分]"
+        },
+        {
+          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
+          "url": "https://flash.jin10.com/detail/20260711094525096800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时39分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
@@ -522,19 +641,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时39分]"
         },
         {
           "title": "中国新能源重卡刷新出海纪录",
           "url": "https://wallstreetcn.com/livenews/3132283",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时32分 ~ 13时39分]"
         }
       ]
     }
