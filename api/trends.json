@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T05:48:57.321338+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-12T06:46:25.919434+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "中科星图：空天创新产品矩阵即将发布",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时46分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -63,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "台风“巴威”正快速逼近，浙江多地发布《告全体市民书》",
@@ -87,8 +87,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "上海发布台风黄色预警信号，全市防汛防台应急响应行动更新为三级",
@@ -111,11 +111,23 @@
             1,
             7,
             9,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 06时46分]"
+        },
+        {
+          "title": "中央气象台7月12日06时发布台风黄色预警",
+          "url": "https://flash.jin10.com/detail/20260712060507022800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         },
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
@@ -126,8 +138,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时46分]"
         },
         {
           "title": "河南发布防范台风巴威安全提醒",
@@ -136,11 +148,12 @@
           "ranks": [
             23,
             26,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "“巴威”即将登陆，国家海洋预报台继续发布海浪红色预警、风暴潮橙色预警。",
@@ -151,8 +164,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时46分]"
         },
         {
           "title": "台风“巴威”或将提前登陆，中央气象台继续发布台风橙色预警",
@@ -163,8 +176,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时46分]"
         },
         {
           "title": "时隔两年发布的暴雨红警意味什么",
@@ -197,8 +210,32 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时10分 ~ 06时46分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时10分 ~ 05时48分]"
+          "time_info": "[05时48分 ~ 06时46分]"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时46分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -210,28 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 05时48分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
-        },
-        {
-          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
-          "url": "https://flash.jin10.com/detail/20260712032711538800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
         },
         {
           "title": "中科星图：空天创新产品矩阵即将发布",
@@ -259,8 +274,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -271,8 +286,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -283,8 +298,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "中赴日游客暴跌,日本顶不住了",
@@ -294,19 +309,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 06时46分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
           "url": "https://flash.jin10.com/detail/20260712034752790800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时46分]"
         }
       ]
     }
