@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T04:10:21.370610+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-07-15T05:56:38.613165+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 34,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -16,19 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         },
         {
-          "title": "非美货币在美国CPI发布日普涨，纽元、挪威克朗、巴西雷亚尔涨超1%领跑",
-          "url": "https://wallstreetcn.com/livenews/3133850",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
           "ranks": [
-            2
+            6,
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时10分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         },
         {
           "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
@@ -39,20 +41,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         },
         {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
+          "title": "非美货币在美国CPI发布日普涨，纽元、挪威克朗、巴西雷亚尔涨超1%领跑",
+          "url": "https://wallstreetcn.com/livenews/3133850",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -61,21 +62,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
-          "url": "https://www.zhihu.com/question/2060378207459566963",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时10分]"
         },
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -86,8 +75,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
+        },
+        {
+          "title": "为什么 Codex 搭载 GPT-5.6 后，越来越多用户开始弃用 Skills？",
+          "url": "https://www.zhihu.com/question/2060378207459566963",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "time_info": "[02时02分 ~ 05时56分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -99,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -109,11 +111,12 @@
           "ranks": [
             20,
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         },
         {
           "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
@@ -124,8 +127,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         },
         {
           "title": "净利同比最高增长49.35倍！800亿锂矿龙头发布半年度业绩预告|盘后公告集锦",
@@ -133,11 +136,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
         },
         {
           "title": "经纬度：中国人工智能发展的战略定力",
@@ -149,8 +153,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
+        },
+        {
+          "title": "UP主解读AI浪潮下的资本周期",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 05时56分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -171,7 +187,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -182,7 +198,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -193,7 +209,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -237,7 +253,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -251,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "周二（7月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.7740元，较周一纽约尾盘涨111点，日内整体交投于6.7880-6.7691元区间。 20:30发布美国CPI通胀数据后，迅速从6.78元拉升至6.77元上方。",
+          "url": "https://wallstreetcn.com/livenews/3133886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美联储主席沃什：我的判断是，AI将增强工作，而非取代工作。",
@@ -286,6 +313,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "金价在美国CPI通胀数据发布日涨超1.2%，钯金涨4.1%",
+          "url": "https://wallstreetcn.com/livenews/3133883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "美商务部官员：芯片和AI监管措施即将出台",
           "url": "https://flash.jin10.com/detail/20260715011025049800",
           "source": "金十数据",
@@ -297,15 +335,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "UP主解读AI浪潮下的资本周期",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
-          "source": "bilibili 热搜",
+          "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
+          "url": "https://flash.jin10.com/detail/20260715050136121800",
+          "source": "金十数据",
           "ranks": [
-            18
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时10分"
+          "time_info": "05时56分"
         },
         {
           "title": "据CNBC：苹果(AAPL.O)正在与PrismML洽谈，旨在缩小人工智能模型以便在iPhone上运行。",
@@ -330,6 +368,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
+          "url": "https://wallstreetcn.com/livenews/3133879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "数字货币市场普涨，美国CPI数据发布后比特币一度涨向6.5万美元",
           "url": "https://wallstreetcn.com/livenews/3133802",
           "source": "华尔街见闻-快讯",
@@ -350,6 +399,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
+          "url": "https://flash.jin10.com/detail/20260715044652988800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
+          "url": "https://flash.jin10.com/detail/20260715044636741800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3133875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
@@ -374,6 +456,39 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
+          "url": "https://wallstreetcn.com/livenews/3133873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
+          "url": "https://wallstreetcn.com/livenews/3133872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3133871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
           "title": "三星电子将于7月22日发布新款Galaxy Watch。",
           "url": "https://wallstreetcn.com/livenews/3133795",
           "source": "华尔街见闻-快讯",
@@ -383,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国最大电网因AI热潮未能达成电力供应目标",
+          "url": "https://wallstreetcn.com/livenews/3133868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "美股开盘：AI硬件股上涨 IBM跌22%",
@@ -399,8 +525,32 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
+        },
+        {
+          "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2426306",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 05时56分]"
+        },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
@@ -426,27 +576,15 @@
           "time_info": "[00时13分 ~ 04时10分]"
         },
         {
-          "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2426306",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
-        },
-        {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
+          "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
+          "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         },
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -455,7 +593,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -492,6 +630,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3133888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "周二（7月14日），美股存储芯片与硬件供应链指数涨3.67%，报221.73点。 成分股Sandisk涨5.01%，美光、拉姆研究至少涨4.9%，希捷科技涨2.05%，西部数据涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3133874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与新兴市场ETF、黄金ETF领跑",
+          "url": "https://wallstreetcn.com/livenews/3133870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        },
+        {
+          "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3133869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     }
