@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T16:03:29.057556+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-07-14T18:44:31.543783+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -115,17 +115,6 @@
           "time_info": "[00时32分 ~ 07时54分]"
         },
         {
-          "title": "AI杀死时尚行业",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
           "title": "AI预测法国vs西班牙赛果",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BDvs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -136,6 +125,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时28分 ~ 16时03分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 18时44分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美国将公布6月份CPI报告，美联储主席沃什出席众议院听证会，国新办就上半年进出口情况举行新闻发布会",
@@ -166,9 +167,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 18时44分]"
         },
         {
           "title": "国新办将于十分钟后就2026年上半年进出口情况举行新闻发布会。",
@@ -182,27 +207,27 @@
           "time_info": "10时22分"
         },
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
+          "title": "AI杀死时尚行业",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%80%E6%AD%BB%E6%97%B6%E5%B0%9A%E8%A1%8C%E4%B8%9A&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 16时03分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时44分]"
         },
         {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
+          "title": "AI生成图片被评摄影一等奖 官方通报",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            18
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 16时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
@@ -252,6 +277,18 @@
           "time_info": "[10时22分 ~ 13时29分]"
         },
         {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时44分]"
+        },
+        {
           "title": "中国自研AI芯片取得架构突破",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94AI%E8%8A%AF%E7%89%87%E5%8F%96%E5%BE%97%E6%9E%B6%E6%9E%84%E7%AA%81%E7%A0%B4%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -263,6 +300,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 10时22分]"
+        },
+        {
+          "title": "AI短剧为何共用一张脸",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时44分]"
         },
         {
           "title": "2026世界人工智能大会看点速览。（新华社）",
@@ -277,33 +326,11 @@
           "time_info": "[02时43分 ~ 04时14分]"
         },
         {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
           "title": "万元 AI 研学营大量涌现，工程师称「90％以上都是糊弄」，为何会出现这一现象？对孩子真的有帮助吗？",
           "url": "https://www.zhihu.com/question/2060031193475715194",
           "source": "知乎",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
-        },
-        {
-          "title": "AI短剧为何共用一张脸",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E4%B8%BA%E4%BD%95%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -332,6 +359,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "三星SDI旗下AI专用电池通过关键消防安全测试",
           "url": "https://flash.jin10.com/detail/20260714131609652800",
           "source": "金十数据",
@@ -354,6 +392,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        },
+        {
           "title": "委内瑞拉首席经济顾问：未来几周我们将发布必要债务重组的可持续性分析。",
           "url": "https://flash.jin10.com/detail/20260714073232475800",
           "source": "金十数据",
@@ -374,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
+          "url": "https://www.cls.cn/detail/2425710",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "美国总统特朗普签署针对“特定固定污染源”的监管豁免公告。 白宫发布关于监管豁免的总统公告。 特朗普豁免特定污染源遵守“HON规则”（有害空气污染物国家排放标准）。",
@@ -415,9 +475,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%94%9F%E6%88%90%E7%8E%AF%E5%8D%AB%E5%B7%A5%E7%85%A7%E7%89%87%E8%8E%B7%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "LG电子与GS E&C共同开发下一代AI家居解决方案",
@@ -470,7 +541,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -481,7 +552,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -547,7 +618,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -569,9 +640,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "【长芯博创：预计上半年净利润同比增长66.45%～105.09%】长芯博创公告，预计2026年上半年净利润为2.8亿元到3.45亿元，同比增长66.45%～105.09%。公司报告期内业绩较上年同期增长，主要得益于云计算、人工智能、大数据等新一代信息技术蓬勃发展，全球算力需求持续扩张，带动数据通信行业快速增长。公司数据通信相关产品市场需求旺盛，营业收入稳步提升，进而推动公司净利润实现稳步增长。",
+          "url": "https://wallstreetcn.com/livenews/3133538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "AI时代CPU为何翻红",
@@ -610,30 +692,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 16时03分]"
-        },
-        {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 16时03分]"
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 18时44分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -642,7 +713,20 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 18时44分]"
+        },
+        {
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -662,17 +746,6 @@
           "time_info": "[06时55分 ~ 16时03分]"
         },
         {
-          "title": "世界杯最疯狂的生意 1年暴涨300倍",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E7%96%AF%E7%8B%82%E7%9A%84%E7%94%9F%E6%84%8F+1%E5%B9%B4%E6%9A%B4%E6%B6%A8300%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
           "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
           "url": "https://wallstreetcn.com/articles/3776816",
           "source": "华尔街见闻",
@@ -683,8 +756,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 16时03分]"
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 18时44分]"
+        },
+        {
+          "title": "世界杯最疯狂的生意 1年暴涨300倍",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E7%96%AF%E7%8B%82%E7%9A%84%E7%94%9F%E6%84%8F+1%E5%B9%B4%E6%9A%B4%E6%B6%A8300%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 13时29分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -726,9 +810,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "富国银行第二季度营收为226.2亿美元，预期为218亿美元。 第二季度每股收益为2.00美元。 第二季度净利息收入为123.2亿美元，预期为123.2亿美元。 富国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -740,6 +835,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 05时56分]"
+        },
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 18时44分]"
         },
         {
           "title": "销量暴跌34.7% 日系车为何不吃香了",
@@ -764,17 +871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时55分]"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.36%，报306.62点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌2.43%，报2115.08点。 在美股时段交易的原材料指数收跌0.89%，报234.18点。 在美股时段交易的金属与矿业指数收跌0.33%，报263.72点。",
