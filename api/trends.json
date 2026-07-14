@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T20:12:02.025821+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-07-14T22:49:31.860424+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -66,6 +66,20 @@
           "time_info": "[00时32分 ~ 07时54分]"
         },
         {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时22分 ~ 22时49分]"
+        },
+        {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
           "url": "https://wallstreetcn.com/articles/3776779",
           "source": "华尔街见闻",
@@ -102,6 +116,21 @@
           "time_info": "[00时32分 ~ 04时14分]"
         },
         {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时22分 ~ 22时49分]"
+        },
+        {
           "title": "全球首颗近存计算3D芯片发布",
           "url": "https://www.douyin.com/hot/2569670",
           "source": "抖音",
@@ -115,42 +144,17 @@
           "time_info": "[00时32分 ~ 07时54分]"
         },
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
           "ranks": [
-            15,
             8,
-            6
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时22分 ~ 20时12分]"
-        },
-        {
-          "title": "疑AI照片拿了摄影比赛一等奖",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 20时12分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时22分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 22时49分]"
         },
         {
           "title": "AI预测法国vs西班牙赛果",
@@ -166,28 +170,16 @@
           "time_info": "[13时28分 ~ 20时12分]"
         },
         {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
+          "title": "疑AI照片拿了摄影比赛一等奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91AI%E7%85%A7%E7%89%87%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 20时12分]"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 20时12分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 22时49分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美国将公布6月份CPI报告，美联储主席沃什出席众议院听证会，国新办就上半年进出口情况举行新闻发布会",
@@ -228,11 +220,24 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 22时49分]"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时44分 ~ 20时12分]"
+          "time_info": "[20时11分 ~ 22时49分]"
         },
         {
           "title": "国新办将于十分钟后就2026年上半年进出口情况举行新闻发布会。",
@@ -256,6 +261,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 18时44分]"
+        },
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 22时49分]"
         },
         {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
@@ -293,16 +311,15 @@
           "time_info": "[13时28分 ~ 16时03分]"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
           "ranks": [
-            10,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时44分 ~ 20时12分]"
+          "time_info": "[20时11分 ~ 22时49分]"
         },
         {
           "title": "看陈泽AI跳舞是一种挑战",
@@ -352,17 +369,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 18时44分]"
-        },
-        {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 20时12分]"
         },
         {
           "title": "2026世界人工智能大会看点速览。（新华社）",
@@ -438,7 +444,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -476,6 +482,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "美国总统特朗普签署针对“特定固定污染源”的监管豁免公告。 白宫发布关于监管豁免的总统公告。 特朗普豁免特定污染源遵守“HON规则”（有害空气污染物国家排放标准）。",
           "url": "https://wallstreetcn.com/livenews/3133122",
           "source": "华尔街见闻-快讯",
@@ -509,6 +526,17 @@
           "time_info": "10时22分"
         },
         {
+          "title": "英伟达与三菱重工拟在AI数据中心冷却及电力领域展开合作",
+          "url": "https://flash.jin10.com/detail/20260714223303543800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "报道：英伟达与三菱重工拟在AI数据中心技术领域展开合作",
           "url": "https://wallstreetcn.com/livenews/3133416",
           "source": "华尔街见闻-快讯",
@@ -531,6 +559,17 @@
           "time_info": "18时44分"
         },
         {
+          "title": "经纬度：中国人工智能发展的战略定力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "LG电子与GS E&C共同开发下一代AI家居解决方案",
           "url": "https://flash.jin10.com/detail/20260714094041891800",
           "source": "金十数据",
@@ -540,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "据日经新闻：根据协议，三菱重工将为AI数据中心供应冷却系统和能源管理设备。",
+          "url": "https://flash.jin10.com/detail/20260714222942860800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "软银CEO孙正义：询问AI是否存在泡沫是“极其愚蠢的”。",
@@ -584,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "据日经新闻：英伟达与三菱重工就人工智能数据中心的冷却和电力合作进行洽谈。",
+          "url": "https://flash.jin10.com/detail/20260714222805053800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "亿航智能回应裁员传闻：基于AI提效背景优化低绩效岗位，核心骨干团队保持稳定",
@@ -691,7 +752,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -743,7 +804,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -751,11 +812,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时54分 ~ 20时12分]"
+          "appearance_count": 10,
+          "time_info": "[07时54分 ~ 22时49分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -768,8 +830,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时54分 ~ 20时12分]"
+          "appearance_count": 10,
+          "time_info": "[07时54分 ~ 22时49分]"
         },
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -833,6 +895,19 @@
           "time_info": "[20时11分 ~ 20时12分]"
         },
         {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 22时49分]"
+        },
+        {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -883,9 +958,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
+        },
+        {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "富国银行第二季度营收为226.2亿美元，预期为218亿美元。 第二季度每股收益为2.00美元。 第二季度净利息收入为123.2亿美元，预期为123.2亿美元。 富国银行美股盘前涨超1%。",
@@ -897,18 +983,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 20时12分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -958,13 +1032,24 @@
           "time_info": "[05时56分 ~ 06时55分]"
         },
         {
+          "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2426306",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "IBM美股盘前跌幅扩大至逾20%，公司第二财季初步营收不及预期。",
           "url": "https://wallstreetcn.com/livenews/3133637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -975,7 +1060,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -986,7 +1071,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1019,7 +1104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1030,7 +1115,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
@@ -1066,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近3%，全球科技股指数ETF涨超1%，医疗业ETF跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3133693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
