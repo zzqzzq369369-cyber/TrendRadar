@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T18:58:46.451039+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-07-16T20:25:04.743602+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 53,
+      "match_count": 62,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 18时58分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时03分 ~ 20时25分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -70,19 +83,6 @@
           "time_info": "[00时20分 ~ 13时40分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时03分 ~ 18时58分]"
-        },
-        {
           "title": "国行苹果AI完成备案",
           "url": "https://www.douyin.com/hot/2572485",
           "source": "抖音",
@@ -101,11 +101,23 @@
           "source": "知乎",
           "ranks": [
             3,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 20时25分]"
+        },
+        {
+          "title": "欧盟偷偷发布涉华文件，激烈措辞“跨越外交门槛”",
+          "url": "https://news.ifeng.com/c/8uoAtuDLMsF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 20时25分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -136,6 +148,19 @@
           "time_info": "[07时03分 ~ 18时58分]"
         },
         {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时39分 ~ 20时25分]"
+        },
+        {
           "title": "全球人工智能 进入“上海时间”",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%E8%BF%9B%E5%85%A5%E2%80%9C%E4%B8%8A%E6%B5%B7%E6%97%B6%E9%97%B4%E2%80%9D",
           "source": "百度热搜",
@@ -164,20 +189,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
         {
-          "title": "欧盟偷偷发布涉华文件，激烈措辞“跨越外交门槛”",
-          "url": "https://news.ifeng.com/c/8uoAtuDLMsF",
-          "source": "凤凰网",
+          "title": "世界人工智能合作组织协定签署仪式举行。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3135070",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "20时25分"
         },
         {
           "title": "世界人工智能大会逛展攻略来了",
@@ -191,6 +216,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时03分 ~ 13时40分]"
+        },
+        {
+          "title": "报告称AI收入已达临界点 开始证明数据中心投资的经济合理性",
+          "url": "https://wallstreetcn.com/livenews/3135069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "澳大利亚政府成立AI办公室",
@@ -215,17 +251,30 @@
           "time_info": "10时27分"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            16,
-            22
+            20,
+            15,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时39分 ~ 18时58分]"
+          "time_info": "[16时10分 ~ 20时25分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 20时25分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -240,28 +289,16 @@
           "time_info": "[06时00分 ~ 07时03分]"
         },
         {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时58分]"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            15
+            17,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时10分 ~ 18时58分]"
+          "time_info": "[18时58分 ~ 20时25分]"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -344,6 +381,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "【摩尔线程：预计2026年半年度营收16.5亿-17.5亿元，同比增长135.12%-149.37%】摩尔线程公告，预计2026年半年度营业收入为16.5亿元至17.5亿元，同比增长135.12%至149.37%。业绩增长主要得益于人工智能产业蓬勃发展及市场对全功能GPU的强劲需求，公司夸娥智算集群商业化加速，产品性能获客户高度认可并实现稳定供货，推动收入快速增长。",
+          "url": "https://wallstreetcn.com/livenews/3135059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
           "url": "https://wallstreetcn.com/livenews/3134541",
           "source": "华尔街见闻-快讯",
@@ -394,7 +442,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -416,9 +464,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "世界人工智能合作组织协定签署仪式举行",
+          "url": "https://flash.jin10.com/detail/20260716201440710800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美联储主席沃什：如果AI所能带来的成果令人失望，大部分与AI相关的资本支出投资仍有其他用途。",
@@ -476,15 +535,15 @@
           "time_info": "16时11分"
         },
         {
-          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
-          "source": "澎湃新闻",
+          "title": "【海光信息：预计2026年上半年净利润同比增长41.50%到52.32%】海光信息公告，预计2026年上半年净利润17亿元到18.3亿元，同比增长41.50%到52.32%。公司持续优化“CPU+DCU”业务布局，通过高强度研发投入，不断实现技术创新、产品性能提升，保持了国内领先的市场地位。报告期内，在人工智能大模型加速迭代、AI Agent应用规模化落地、国产化进程迈向商业化应用的多重驱动下，公司持续加码研发投入、迭代优化产品性能，牢牢把握发展机遇期，推动公司高端处理器产品的市场版图扩展，实现了公司营业收入的快速增长，整体业绩的持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3135049",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "20时25分"
         },
         {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
@@ -507,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "MiniMax将携M3、H3等全模态模型及产品亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3135046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
@@ -553,6 +623,17 @@
           "time_info": "16时11分"
         },
         {
+          "title": "Meta：将利用Meta AI在青少年讨论自残话题时向家长发出警报。 警报功能现已在美、英、澳、加上线。 年底前将向全球推出该警报功能。 就青少年安全功能向超过75位心理健康临床医生征求了反馈意见。 正在构建联系紧急服务的能力。",
+          "url": "https://wallstreetcn.com/livenews/3135043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "央视记者在街头找AI伙伴",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E8%AE%B0%E8%80%85%E5%9C%A8%E8%A1%97%E5%A4%B4%E6%89%BEAI%E4%BC%99%E4%BC%B4",
           "source": "bilibili 热搜",
@@ -562,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "习近平和彭丽媛为出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式的国际贵宾举行欢迎宴会。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3135034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "市场消息：韩国将于当地时间周四下午4点发布关于杠杆ETF的声明。",
@@ -581,7 +673,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -614,16 +706,39 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "礼来将以每股6.75美元现金加CVR收购AtaiBeckley",
+          "url": "https://wallstreetcn.com/livenews/3135027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 20时25分]"
+        },
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
@@ -634,18 +749,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 07时03分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 18时58分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
@@ -760,17 +863,6 @@
           "time_info": "[02时05分 ~ 16时11分]"
         },
         {
-          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
-          "url": "https://wallstreetcn.com/livenews/3135023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
           "title": "美股盘前，存储芯片概念股普跌，SK海力士跌约5%，闪迪跌约4%，西部数据跌约4%，希捷科技跌约3%。 台积电跌约2%，此前公布二季度财报。",
           "url": "https://wallstreetcn.com/livenews/3134935",
           "source": "华尔街见闻-快讯",
@@ -780,6 +872,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3135023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时25分]"
+        },
+        {
+          "title": "韩国股市暴涨暴跌 散户快疯了",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C+%E6%95%A3%E6%88%B7%E5%BF%AB%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时58分 ~ 20时25分]"
         },
         {
           "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
@@ -806,6 +922,17 @@
           "time_info": "[06时00分 ~ 07时03分]"
         },
         {
+          "title": "韩国股市暴涨暴跌 散户快疯了",
+          "url": "https://www.toutiao.com/trending/7663039432940867110/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "美股中概股大涨 阿里巴巴涨超7%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B6%A8%E8%B6%857%25",
           "source": "百度热搜",
@@ -817,15 +944,15 @@
           "time_info": "[02时05分 ~ 02时06分]"
         },
         {
-          "title": "韩国股市暴涨暴跌 散户快疯了",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C+%E6%95%A3%E6%88%B7%E5%BF%AB%E7%96%AF%E4%BA%86",
-          "source": "百度热搜",
+          "title": "雅培第二季度净销售额为125.9亿美元，市场预期为125.4亿美元。 第二季度调整后每股收益为1.31美元，市场预期为1.28美元。 雅培预计2026年全年调整后每股收益为5.45至5.60美元，此前预期为5.38至5.58美元。 雅培预计第三季度调整后每股收益为1.38至1.46美元，市场预期为1.42美元。 雅培美股盘前涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3135057",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "20时25分"
         },
         {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元。 “超大”市值科技股指数涨1.12%，报446.55点。",
