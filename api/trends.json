@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T22:54:48.580922+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-07-19T23:57:35.893594+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 126,
+      "match_count": 128,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -76,18 +76,18 @@
           "time_info": "[00时57分 ~ 16时14分]"
         },
         {
-          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
-          "url": "https://www.cls.cn/detail/2430247",
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
           "source": "财联社热门",
           "ranks": [
-            8,
-            9,
             6,
-            5
+            4,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时57分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 23时57分]"
         },
         {
           "title": "超300款AI新品迎来全球首发",
@@ -102,18 +102,32 @@
           "time_info": "[00时57分 ~ 07时53分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
           "ranks": [
             6,
-            4,
-            2,
-            1
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时51分 ~ 23时57分]"
+        },
+        {
+          "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
+          "url": "https://www.cls.cn/detail/2430247",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 23时57分]"
         },
         {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
@@ -127,19 +141,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时57分 ~ 21时18分]"
-        },
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时51分 ~ 22时54分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -184,8 +185,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时44分 ~ 22时54分]"
+          "appearance_count": 15,
+          "time_info": "[04时44分 ~ 23时57分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -255,6 +256,19 @@
           "time_info": "[00时57分 ~ 07时53分]"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时33分 ~ 23时57分]"
+        },
+        {
           "title": "中国AI站上全球治理主场",
           "url": "https://www.douyin.com/hot/2577012",
           "source": "抖音",
@@ -266,18 +280,6 @@
           "time_info": "[16时14分 ~ 19时57分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时33分 ~ 22时54分]"
-        },
-        {
           "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
           "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
           "source": "凤凰网",
@@ -287,6 +289,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 03时03分]"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时14分 ~ 23时57分]"
         },
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -365,18 +381,28 @@
           "time_info": "[00时57分 ~ 07时53分]"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9,
-            8,
-            7
+            7,
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时14分 ~ 22时54分]"
+          "time_info": "[18时27分 ~ 23时57分]"
+        },
+        {
+          "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
+          "url": "https://wallstreetcn.com/livenews/3136307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时57分]"
         },
         {
           "title": "自然资源部发布重庆彭水山体崩塌前后对比图",
@@ -484,17 +510,15 @@
           "time_info": "[19时56分 ~ 21时18分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
+          "title": "姚期智：中国AI产业领跑全球",
+          "url": "https://flash.jin10.com/detail/20260719232612191800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时27分 ~ 22时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "“中国AI只差两三个月”，硅谷坐不住了",
@@ -532,17 +556,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
-          "url": "https://wallstreetcn.com/livenews/3136307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
@@ -553,6 +566,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 05时49分]"
+        },
+        {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时56分 ~ 23时57分]"
         },
         {
           "title": "5家创业板公司发布业绩预告，天孚通信上半年净利最高预增45%",
@@ -627,18 +653,6 @@
           "time_info": "[19时57分 ~ 21时18分]"
         },
         {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 22时54分]"
-        },
-        {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
           "url": "https://www.cls.cn/detail/2429951",
           "source": "财联社热门",
@@ -660,6 +674,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时03分 ~ 05时50分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时57分]"
         },
         {
           "title": "“真干活机器人”在WAIC走红",
@@ -686,6 +713,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 03时03分]"
+        },
+        {
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时57分]"
         },
         {
           "title": "世界人工智能大会有何看点",
@@ -722,18 +761,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时56分 ~ 21时18分]"
-        },
-        {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时54分]"
         },
         {
           "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
@@ -795,6 +822,18 @@
           "time_info": "[07时53分 ~ 10时33分]"
         },
         {
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 23时57分]"
+        },
+        {
           "title": "WAIC 2026智启具身论坛今日举行，姚卯青：物理AI 要实现规模化，必须突破三道“墙”",
           "url": "https://wallstreetcn.com/livenews/3136117",
           "source": "华尔街见闻-快讯",
@@ -819,16 +858,15 @@
           "time_info": "[19时57分 ~ 21时18分]"
         },
         {
-          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
-          "url": "https://wallstreetcn.com/livenews/3136278",
-          "source": "华尔街见闻-快讯",
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            29
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时54分]"
+          "time_info": "[22时54分 ~ 23时57分]"
         },
         {
           "title": "世界两大AI组织都是狠角色",
@@ -853,6 +891,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时51分 ~ 16时14分]"
+        },
+        {
+          "title": "无锡梁溪区组团参访2026世界人工智能大会：AI浪潮中梁溪该怎么干？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614322",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时57分]"
         },
         {
           "title": "马上评｜这两场发布会为何都以“民族团结进步”为主题",
@@ -894,7 +944,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1018,17 +1068,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
-        },
-        {
-          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
@@ -1235,7 +1274,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时54分"
         },
@@ -1262,26 +1301,15 @@
           "time_info": "16时14分"
         },
         {
-          "title": "无锡梁溪区组团参访2026世界人工智能大会：AI浪潮中梁溪该怎么干？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614322",
+          "title": "上海发布中心城区冰雹黄色预警，静安虹口杨浦将出现冰雹天气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616118",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "用AI预测西班牙vs阿根廷",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
+          "time_info": "23时57分"
         },
         {
           "title": "游族网络联合国家工业信息安全发展研究中心等发起《人工智能发展与安全倡议书》",
@@ -1523,11 +1551,12 @@
             15,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时57分 ~ 22时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 23时57分]"
         },
         {
           "title": "暴涨许久的内存条悄然降价",
@@ -1641,8 +1670,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时57分]"
         },
         {
           "title": "中国开源追上美国闭源意味着什么",
