@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-20T07:56:30.261142+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-07-20T10:49:05.363843+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 24,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
+          "url": "https://wallstreetcn.com/articles/3777339",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时49分]"
+        },
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
           "url": "https://www.cls.cn/detail/2430341",
@@ -20,15 +32,43 @@
           "time_info": "[00时58分 ~ 07时56分]"
         },
         {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时49分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时49分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时49分]"
         },
         {
           "title": "世界人工智能合作组织重要阶段性进展",
@@ -42,37 +82,11 @@
           "time_info": "[00时58分 ~ 04时44分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时56分]"
-        },
-        {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
           "url": "https://www.cls.cn/detail/2430247",
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时56分]"
-        },
-        {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -120,18 +134,6 @@
           "time_info": "[00时58分 ~ 07时56分]"
         },
         {
-          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时56分]"
-        },
-        {
           "title": "上海发布中心城区冰雹黄色预警，静安虹口杨浦将出现冰雹天气",
           "url": "https://m.thepaper.cn/newsDetail_forward_33616118",
           "source": "澎湃新闻",
@@ -142,6 +144,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时58分 ~ 06时51分]"
+        },
+        {
+          "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430665",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
+          "title": "2026世界人工智能大会硬核瞬间",
+          "url": "https://www.toutiao.com/trending/7664429615074725403/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
+          "title": "中国成为全球AI发展与治理关键力量",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83AI%E5%8F%91%E5%B1%95%E4%B8%8E%E6%B2%BB%E7%90%86%E5%85%B3%E9%94%AE%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
@@ -163,7 +198,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -216,6 +251,17 @@
           "time_info": "[04时44分 ~ 05时51分]"
         },
         {
+          "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
+          "url": "https://www.cls.cn/detail/2430678",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗革命卫队发布了显示约旦境内的F-15和F-16机库遭摧毁的画面。据革命卫队公共关系部门称，这些图像显示相关设施遭受了广泛破坏。",
           "url": "https://flash.jin10.com/detail/20260720043742041800",
           "source": "金十数据",
@@ -240,6 +286,28 @@
           "time_info": "[05时51分 ~ 06时51分]"
         },
         {
+          "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
+          "url": "https://www.zhihu.com/question/2062127994513183627",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
           "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
           "url": "https://wallstreetcn.com/livenews/3136278",
           "source": "华尔街见闻-快讯",
@@ -257,9 +325,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
+          "url": "https://wallstreetcn.com/livenews/3136481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -268,9 +347,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "国新办举行新闻发布会，介绍2026年上半年工业和信息化发展情况。",
+          "url": "https://wallstreetcn.com/livenews/3136475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "5家创业板公司发布业绩预告，天孚通信上半年净利最高预增45%",
@@ -279,9 +369,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
+          "url": "https://flash.jin10.com/detail/20260720102658536800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "AI服务器、算力租赁概念大幅走强，浪潮信息、行云科技、利通电子、杭钢股份、紫光股份、美利云、浙大网新等多股涨停，亚康股份、首都在线、宏景科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3136464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         },
         {
           "title": "姚期智：中国AI产业领跑全球",
@@ -293,6 +405,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "老外扎堆来中国,机票暴涨12倍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356299&amp;topic_name=%E8%80%81%E5%A4%96%E6%89%8E%E5%A0%86%E6%9D%A5%E4%B8%AD%E5%9B%BD%2C%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A812%E5%80%8D",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时49分]"
+        },
+        {
+          "title": "记者调查：从300元到1000元，华强北内存暴涨下的消费电子困局",
+          "url": "https://www.cls.cn/detail/2430505",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 10时49分]"
+        },
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260720060012850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     },
@@ -329,35 +482,6 @@
       ]
     },
     {
-      "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "老外扎堆来中国,机票暴涨12倍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356299&amp;topic_name=%E8%80%81%E5%A4%96%E6%89%8E%E5%A0%86%E6%9D%A5%E4%B8%AD%E5%9B%BD%2C%E6%9C%BA%E7%A5%A8%E6%9A%B4%E6%B6%A812%E5%80%8D",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 07时56分]"
-        },
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260720060012850800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
       "match_count": 1,
       "titles": [
@@ -368,7 +492,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
