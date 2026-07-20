@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-21T05:12:10.688258+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-07-21T06:59:56.932638+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
-        },
         {
           "title": "今天为什么需要世界人工智能大会",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A",
@@ -26,17 +15,15 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
-          "title": "清华姚班 全球AI半壁江山",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
           "ranks": [
-            4,
-            5,
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -51,41 +38,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
-        },
-        {
-          "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
-          "url": "https://flash.jin10.com/detail/20260721045929468800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
           "source": "澎湃新闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
-        },
-        {
-          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
-          "url": "https://wallstreetcn.com/livenews/3137082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            7,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
+        },
+        {
+          "title": "清华姚班 全球AI半壁江山",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "AI不准用,日本漫画家被迫停更",
@@ -96,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "谢霆锋兄妹发布讣告",
@@ -107,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -119,8 +99,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -132,8 +112,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
+        },
+        {
+          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
+          "url": "https://wallstreetcn.com/livenews/3137082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "多家央企旗下上市公司同日发布公告",
@@ -141,11 +132,24 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 05时12分]"
+          "appearance_count": 5,
+          "time_info": "[03时53分 ~ 06时59分]"
+        },
+        {
+          "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
+          "url": "https://flash.jin10.com/detail/20260721045929468800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时59分]"
         },
         {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
@@ -188,9 +192,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "WAIC机器人格斗拳拳到铁",
+          "url": "https://www.douyin.com/hot/2576677",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -202,12 +217,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "英国政府任命Wes Streeting为国防大臣。 任命Stephen Kinnock为威尔士事务大臣。 任命Chris Bryant为北爱尔兰事务大臣。 任命Ellie Reeves为总检察长。 任命Emma Reynolds为财政部首席秘书。 任命Kanishka Narayan为人工智能（AI）部长。 任命Hamish Falconer为欧洲关系部长。",
+          "url": "https://wallstreetcn.com/livenews/3137105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -226,11 +252,23 @@
           "url": "https://www.cls.cn/detail/2431734",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
+        },
+        {
+          "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美股存储芯片反弹",
@@ -240,8 +278,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -250,7 +299,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -261,7 +310,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -272,7 +321,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -294,7 +343,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -305,7 +354,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -316,7 +365,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         }
@@ -333,11 +382,12 @@
           "ranks": [
             23,
             7,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 06时59分]"
         }
       ]
     },
@@ -350,11 +400,12 @@
           "url": "https://www.toutiao.com/trending/7663664769782431787/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 05时12分]"
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 06时59分]"
         }
       ]
     }
