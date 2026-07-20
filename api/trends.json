@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T03:54:01.370463+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-21T05:12:10.688258+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "清华姚班 全球AI半壁江山",
@@ -35,11 +35,12 @@
           "source": "微博",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -50,8 +51,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
+        },
+        {
+          "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
+          "url": "https://flash.jin10.com/detail/20260721045929468800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
@@ -61,19 +73,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
-          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
-          "url": "https://wallstreetcn.com/articles/3777377",
-          "source": "华尔街见闻",
+          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
+          "url": "https://wallstreetcn.com/livenews/3137082",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "AI不准用,日本漫画家被迫停更",
@@ -84,8 +96,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "谢霆锋兄妹发布讣告",
@@ -95,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -107,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -116,7 +128,31 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
+        },
+        {
+          "title": "多家央企旗下上市公司同日发布公告",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%AE%E4%BC%81%E6%97%97%E4%B8%8B%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%90%8C%E6%97%A5%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 05时12分]"
+        },
+        {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -135,26 +171,26 @@
           "time_info": "[02时01分 ~ 03时54分]"
         },
         {
-          "title": "多家央企旗下上市公司同日发布公告",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%AE%E4%BC%81%E6%97%97%E4%B8%8B%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%90%8C%E6%97%A5%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 03时54分]"
-        },
-        {
           "title": "X平台产品负责任人Nikita Bier：目前团队正全力推进开发，视频、视频编辑器和Spaces功能即将上线。Cashtags、自定义时间线等多项新功能已推出，未来许多新功能将率先登陆安卓平台。",
           "url": "https://flash.jin10.com/detail/20260721030648648800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "SpaceX将于8月4日发布二季度业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3137076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -171,18 +207,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -192,8 +229,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -203,8 +240,41 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3137079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "周一（7月20日），美股行业ETF多数收跌，生物科技指数ETF跌1.70%，医疗业ETF、银行业ETF、区域银行ETF至多跌1.14%。 科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨0.29%，半导体ETF涨0.34%，能源业ETF涨0.49%。 标普500指数的11个板块中，保健板块收跌1.15%，原材料、工业、房地产、金融、可选消费板块至多跌0.94%，信息技术/科技板块涨0.1%，能源部那张0.55%，电信板块涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3137077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
+          "url": "https://wallstreetcn.com/livenews/3137072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.57%，暂报2154.58点。 MarketVectorTM数字资产100中盘指数涨1.31%，报2572.59点。 MarketVector数字资产100指数涨1.40%，报12976.54点。 目前，Solana涨2.52%，狗狗币涨1.40%，XRP涨1.67%。 比特币涨1.57%，暂报65389.40美元；以太坊涨2.09%，暂报1897.80美元。",
@@ -216,6 +286,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260721040540843800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "金十图示：2026年07月20日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260721040538600800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
+          "url": "https://flash.jin10.com/detail/20260721040127333800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -229,11 +332,29 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 03时54分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 05时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国为何急着打压中国开源大模型",
+          "url": "https://www.toutiao.com/trending/7663664769782431787/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 05时12分]"
         }
       ]
     }
