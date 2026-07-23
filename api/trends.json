@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-23T21:53:48.513814+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-07-23T23:54:54.438617+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 71,
+      "match_count": 77,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时01分 ~ 23时54分]"
+        },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时17分 ~ 21时53分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时01分 ~ 21时53分]"
         },
         {
           "title": "体育强国建设“十五五”规划发布：加强体育饭圈乱象整治、杜绝运动员网红化",
@@ -243,9 +244,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        },
+        {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 23时54分]"
         },
         {
           "title": "网警发布20起涉汛涉灾谣言案例",
@@ -268,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
@@ -331,18 +355,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 07时02分]"
-        },
-        {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 21时53分]"
         },
         {
           "title": "前所未有的人工智能失控事故！中方救场",
@@ -441,6 +453,17 @@
           "time_info": "[13时52分 ~ 16时27分]"
         },
         {
+          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 23时54分]"
+        },
+        {
           "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
           "url": "https://www.zhihu.com/question/2062640157015249755",
           "source": "知乎",
@@ -463,6 +486,18 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时54分]"
+        },
+        {
           "title": "谷歌Q2云业务超预期飙升82%，云积压订单达5140亿美元，AI投入开始兑现｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3777718",
           "source": "华尔街见闻",
@@ -474,15 +509,15 @@
           "time_info": "[07时01分 ~ 07时02分]"
         },
         {
-          "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
-          "source": "澎湃新闻",
+          "title": "不要随意把照片和视频发给AI",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时53分]"
+          "time_info": "[21时53分 ~ 23时54分]"
         },
         {
           "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
@@ -496,6 +531,18 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
+          "title": "英皇娱乐发布声明",
+          "url": "https://www.douyin.com/hot/2582615",
+          "source": "抖音",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时54分]"
+        },
+        {
           "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
           "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -505,6 +552,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 23时54分]"
         },
         {
           "title": "rain回应战胜猎鹰",
@@ -558,7 +616,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -572,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国贸易代表格里尔今天将发布关税公告。",
+          "url": "https://flash.jin10.com/detail/20260723233752032800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
@@ -607,26 +676,15 @@
           "time_info": "10时35分"
         },
         {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "不要随意把照片和视频发给AI",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%9A%8F%E6%84%8F%E6%8A%8A%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E5%8F%91%E7%BB%99AI&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "23时54分"
         },
         {
           "title": "GMI Cloud：已承诺投入5亿美元资本支出，以扩大计算能力并满足不断增长的客户需求。还与一家美国领先的前沿人工智能企业签署了金额达九位数的合同。",
@@ -673,17 +731,6 @@
           "time_info": "13时53分"
         },
         {
-          "title": "英皇娱乐发布声明",
-          "url": "https://www.douyin.com/hot/2582615",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
           "title": "《中医药振兴发展“十五五”规划》发布",
           "url": "https://flash.jin10.com/detail/20260723100121077800",
           "source": "金十数据",
@@ -712,18 +759,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -737,6 +773,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850579&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/9u1CwaYbDGbHdVT7PgOsr.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260723233239030800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "中俄外长是否将举行双边会晤？外交部：将适时发布消息",
@@ -794,6 +841,17 @@
           "time_info": "19时08分"
         },
         {
+          "title": "晶泰控股将发布XtalPi Science平台",
+          "url": "https://wallstreetcn.com/livenews/3138957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "三星阔折叠手机发布",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -811,7 +869,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -825,12 +883,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "APEC数字和人工智能部长会议通过成都声明",
+          "url": "https://wallstreetcn.com/livenews/3138953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -964,7 +1033,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -986,7 +1055,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1057,6 +1126,17 @@
           "time_info": "19时08分"
         },
         {
+          "title": "纳斯达克100指数跌幅扩大至2%，纳指跌超2.3%，标普跌1.3%、恐慌指数VIX涨17%，道指维持大约1%的跌幅。 美股超大规模云服务商（Hyperscalers）指数跌幅扩大至约5%——跳空低开之后持续扩大跌幅，刷新日低至86.24点。 亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3138960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "霍尼韦尔第二季度销售额97.2亿美元，第二季度调整后每股收益4.52美元。 霍尼韦尔预计2026年全年销售额198亿至200亿美元，此前预期199亿至202亿美元。 霍尼韦尔预计2026年有机销售额增长3%至4%，此前预期2%至3%。 霍尼韦尔预计2026年自由现金流约20亿美元，此前预期约20亿美元。 霍尼韦尔美股盘前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3138796",
           "source": "华尔街见闻-快讯",
@@ -1107,7 +1187,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         },
@@ -1158,11 +1238,12 @@
             9,
             5,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 21时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 23时54分]"
         },
         {
           "title": "新能源车跨境自驾遭远程锁车30小时",
@@ -1241,7 +1322,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -1277,6 +1358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
+        },
+        {
+          "title": "工信部：“开源”被首次提升到APEC部长级合作层面",
+          "url": "https://wallstreetcn.com/livenews/3138964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     }
