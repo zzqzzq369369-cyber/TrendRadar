@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T05:55:16.932355+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-07-26T06:55:28.500438+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -16,19 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
-        },
-        {
-          "title": "中央气象台发布今年首个台风红色预警",
-          "url": "https://www.toutiao.com/trending/7666467518051012146/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
@@ -42,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "中央气象台发布今年首个台风红警",
@@ -53,11 +42,38 @@
             12,
             13,
             8,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
+        },
+        {
+          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
+          "url": "https://www.zhihu.com/question/2064106505993971519",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10,
+            8,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "time_info": "[01时58分 ~ 06时55分]"
+        },
+        {
+          "title": "中央气象台发布今年首个台风红色预警",
+          "url": "https://www.toutiao.com/trending/7666467518051012146/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时58分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -67,8 +83,84 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
+        },
+        {
+          "title": "最高级别预警！中央气象台发布暴雨红警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658733",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
+        },
+        {
+          "title": "时光代理人3片头曲发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%89%87%E5%A4%B4%E6%9B%B2%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            3,
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 06时55分]"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "time_info": "[01时58分 ~ 06时55分]"
+        },
+        {
+          "title": "“红霞”即将登陆，中央气象台发布最高级别台风预警",
+          "url": "https://wallstreetcn.com/livenews/3139773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -86,55 +178,6 @@
           "time_info": "[00时55分 ~ 05时55分]"
         },
         {
-          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
-        },
-        {
-          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
-        },
-        {
-          "title": "最高级别预警！中央气象台发布暴雨红警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658733",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
-        },
-        {
-          "title": "时光代理人3片头曲发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%89%87%E5%A4%B4%E6%9B%B2%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时55分]"
-        },
-        {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
           "url": "https://wallstreetcn.com/articles/3777901",
           "source": "华尔街见闻",
@@ -146,52 +189,17 @@
           "time_info": "00时55分"
         },
         {
-          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
-          "url": "https://flash.jin10.com/detail/20260726044659225800",
-          "source": "金十数据",
+          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
+          "source": "澎湃新闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
-          "url": "https://www.zhihu.com/question/2064106505993971519",
-          "source": "知乎",
-          "ranks": [
-            17,
-            10,
-            8,
-            6
+            20,
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时55分]"
-        },
-        {
-          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
-          "url": "https://wallstreetcn.com/articles/3777925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 05时55分]"
-        },
-        {
-          "title": "“红霞”即将登陆，中央气象台发布最高级别台风预警",
-          "url": "https://wallstreetcn.com/livenews/3139773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "time_info": "[03时10分 ~ 06时55分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -218,6 +226,18 @@
           "time_info": "[00时55分 ~ 03时10分]"
         },
         {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 06时55分]"
+        },
+        {
           "title": "深圳市发布台风红色预警信号",
           "url": "https://flash.jin10.com/detail/20260726005022755800",
           "source": "金十数据",
@@ -230,16 +250,17 @@
           "time_info": "[01时58分 ~ 03时10分]"
         },
         {
-          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
-          "source": "澎湃新闻",
+          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260726031905539800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19
+            9,
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时10分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时51分 ~ 06时55分]"
         },
         {
           "title": "今年首个台风红色预警发布",
@@ -265,18 +286,6 @@
           "time_info": "[00时55分 ~ 01时58分]"
         },
         {
-          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
-          "url": "https://flash.jin10.com/detail/20260726031905539800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时55分]"
-        },
-        {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
@@ -286,6 +295,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 05时55分]"
+        },
+        {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
@@ -301,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -312,8 +343,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -323,8 +354,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "佛得角门将找到新工作，身价暴涨10倍",
@@ -334,8 +365,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -345,8 +376,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "显卡再次暴涨,等等党气哭",
@@ -356,8 +387,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -385,8 +416,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 06时55分]"
         },
         {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
