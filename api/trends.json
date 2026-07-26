@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T14:35:46.258553+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-07-26T17:12:15.340259+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -42,11 +42,28 @@
           "ranks": [
             13,
             18,
-            20
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 17时12分]"
+        },
+        {
+          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            13,
+            16
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时55分 ~ 14时35分]"
+          "time_info": "[03时10分 ~ 17时12分]"
         },
         {
           "title": "最高级别预警！中央气象台发布暴雨红警",
@@ -60,8 +77,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 14时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 17时12分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -121,21 +138,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 11时46分]"
-        },
-        {
-          "title": "“红霞”已加强为强台风，中央气象台发布今年首个台风红色预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33659697",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时10分 ~ 14时35分]"
         },
         {
           "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
@@ -217,6 +219,20 @@
           "time_info": "[00时55分 ~ 05时55分]"
         },
         {
+          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时55分 ~ 17时12分]"
+        },
+        {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
           "url": "https://wallstreetcn.com/articles/3777901",
           "source": "华尔街见闻",
@@ -250,6 +266,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时55分 ~ 08时01分]"
+        },
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 17时12分]"
         },
         {
           "title": "《APEC数据促进增长高级别圆桌会主席声明》发布",
@@ -291,19 +319,6 @@
           "time_info": "[04时51分 ~ 08时01分]"
         },
         {
-          "title": "新一届“35岁以下科技创新35人”中国区名单在沪发布，罗福莉在列",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658459",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时55分 ~ 14时35分]"
-        },
-        {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
@@ -317,6 +332,29 @@
           "time_info": "[05时54分 ~ 14时35分]"
         },
         {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 17时12分]"
+        },
+        {
+          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
+          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 17时12分]"
+        },
+        {
           "title": "今年首个台风红色预警发布",
           "url": "https://www.douyin.com/hot/2585235",
           "source": "抖音",
@@ -326,6 +364,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 03时10分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 17时12分]"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -341,15 +390,37 @@
           "time_info": "[08时01分 ~ 14时35分]"
         },
         {
-          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
-          "url": "https://wallstreetcn.com/articles/3777930",
-          "source": "华尔街见闻",
+          "title": "AI演员首次直播破次元",
+          "url": "https://www.douyin.com/hot/2585503",
+          "source": "抖音",
           "ranks": [
-            7
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 17时12分]"
+        },
+        {
+          "title": "AI的回答让我重新理解活着",
+          "url": "https://www.douyin.com/hot/2584567",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 17时12分]"
+        },
+        {
+          "title": "广东惠来发布龙卷风警报",
+          "url": "https://www.douyin.com/hot/2585710",
+          "source": "抖音",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时46分 ~ 14时35分]"
+          "time_info": "[17时11分 ~ 17时12分]"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -388,6 +459,39 @@
           "time_info": "[06时55分 ~ 08时01分]"
         },
         {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
+          "title": "严浩翔对AI写rap词的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%B9AI%E5%86%99rap%E8%AF%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
+          "title": "AI坑惨手机圈",
+          "url": "https://www.toutiao.com/trending/7666708037893099071/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
           "title": "Anthropic也要自研AI芯片了！已向SK海力士寻求供应",
           "url": "https://wallstreetcn.com/articles/3777924",
           "source": "华尔街见闻",
@@ -397,39 +501,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "中国AI步步紧逼，美国科技巨头先内讧了",
-          "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
@@ -443,13 +514,24 @@
           "time_info": "11时46分"
         },
         {
+          "title": "香港天文台发布黄色暴雨警告。",
+          "url": "https://flash.jin10.com/detail/20260726155109865800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "马斯克说未来中国极可能成为AI领导者",
           "url": "https://flash.jin10.com/detail/20260726131248112800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -482,7 +564,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -493,9 +575,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "顺钠股份：针对AI算力中心、超大型数据中心对供电可靠性及能效的要求开展前瞻性技术研究及产品研发",
+          "url": "https://flash.jin10.com/detail/20260726154611236800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "SK崔泰源：韩国需转型为“AI原生”国家",
@@ -515,7 +608,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -537,29 +630,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "AI演员首次直播破次元",
-          "url": "https://www.douyin.com/hot/2585503",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "AI的回答让我重新理解活着",
-          "url": "https://www.douyin.com/hot/2584567",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -567,7 +638,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "“订单暴涨3000%”！两大赛道，全球爆单",
@@ -577,8 +648,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 14时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 17时12分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -589,8 +660,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 14时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 17时12分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -650,15 +721,48 @@
           "time_info": "[00时55分 ~ 03时10分]"
         },
         {
+          "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
+          "url": "https://wallstreetcn.com/articles/3777937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
+          "title": "受胡塞武装袭击石油设施影响，沙特阿美股价走低",
+          "url": "https://flash.jin10.com/detail/20260726160157941800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "“订单暴涨3000%”！中国这两大赛道，全球爆单",
           "url": "https://m.thepaper.cn/newsDetail_forward_33658603",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "沙特阿美股价早盘下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260726150121535800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
@@ -705,7 +809,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "极氪上线“跨境守护”入口",
@@ -713,11 +817,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 17时12分]"
+        },
+        {
+          "title": "极氪APP上线跨境守护功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%81%E6%B0%AAAPP%E4%B8%8A%E7%BA%BF%E8%B7%A8%E5%A2%83%E5%AE%88%E6%8A%A4%E5%8A%9F%E8%83%BD%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时46分 ~ 14时35分]"
+          "time_info": "[17时11分 ~ 17时12分]"
         }
       ]
     }
