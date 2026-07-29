@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-29T10:44:52.849317+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-07-29T13:52:00.937347+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
+        {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 13时52分]"
+        },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
           "url": "https://www.cls.cn/detail/2439291",
@@ -20,19 +35,32 @@
           "time_info": "[00时40分 ~ 10时44分]"
         },
         {
-          "title": "AI泡沫的金丝雀，刚刚死去.....",
-          "url": "https://wallstreetcn.com/articles/3778131",
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
+            7,
+            8,
+            3,
             4,
-            2,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 13时52分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 13时52分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -47,31 +75,29 @@
           "time_info": "[00时40分 ~ 06时04分]"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
-            3,
-            4
+            13,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 10时44分]"
+          "appearance_count": 9,
+          "time_info": "[02时14分 ~ 13时52分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            7
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 13时52分]"
         },
         {
           "title": "印度成首个被AI做空的国家",
@@ -101,19 +127,6 @@
           "time_info": "[00时40分 ~ 10时44分]"
         },
         {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时14分 ~ 10时44分]"
-        },
-        {
           "title": "花40亿token做出AI督学官",
           "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
           "source": "bilibili 热搜",
@@ -128,15 +141,15 @@
           "time_info": "[00时40分 ~ 10时44分]"
         },
         {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
+          "title": "会计被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时44分]"
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件？",
@@ -206,18 +219,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "AI剧 一本万利",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -239,9 +241,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "AI剧 一本万利",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%89%A7%20%E4%B8%80%E6%9C%AC%E4%B8%87%E5%88%A9&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 13时52分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜”",
@@ -261,9 +275,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2065711565274177872",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 13时52分]"
+        },
+        {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 13时52分]"
         },
         {
           "title": "医生被指发布“除非死人不要请假”",
@@ -315,15 +353,26 @@
           "time_info": "[00时40分 ~ 06时04分]"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时44分]"
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "抖火杯AI番外大电影",
@@ -361,6 +410,17 @@
           "time_info": "[07时57分 ~ 10时44分]"
         },
         {
+          "title": "当我指挥AI工作时",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E6%8C%87%E6%8C%A5AI%E5%B7%A5%E4%BD%9C%E6%97%B6&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
           "title": "ASM业绩指引超预期，AI热潮提振芯片设备需求",
           "url": "https://wallstreetcn.com/livenews/3141168",
           "source": "华尔街见闻-快讯",
@@ -378,7 +438,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -405,6 +465,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "据日本共同社：永旺总裁将于北京时间今日15:30召开新闻发布会，回应日本南部购物中心爆炸事件。",
+          "url": "https://flash.jin10.com/detail/20260729133609423800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "AI短剧半年规模超220亿元，产业爆发重塑内容生产逻辑",
           "url": "https://wallstreetcn.com/livenews/3141243",
           "source": "华尔街见闻-快讯",
@@ -422,7 +493,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -455,7 +526,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -480,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2065711565274177872",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
         },
         {
           "title": "周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。 美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。此外，SK海力士ADR跌8.98%。 科技股七巨头（Magnificent 7）指数涨0.75%，报210.21点。 “超大”市值科技股指数跌0.40%，报411.70点。 美股超大规模云服务商（Hyperscalers）涨0.78%，报87.55点。 信息科技指数跌3.75%，报367.08点。 人工智能（AI）赢家指数跌5.22%，报350.07点。 AI软件先驱指数涨1.11%，报109.59点。",
@@ -554,7 +614,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -609,7 +669,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -642,7 +702,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -683,7 +743,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -710,8 +770,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 10时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 13时52分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 13时52分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 13时52分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -738,16 +822,15 @@
           "time_info": "[00时40分 ~ 10时44分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "title": "韩国股市暴跌甩锅中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
-            11,
-            14
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 13时52分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -761,17 +844,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 06时04分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时44分]"
         },
         {
           "title": "韩股暴跌33%，大量散户浮亏超5成，有人喊话“国家赔偿”",
@@ -796,26 +868,38 @@
           "time_info": "04时16分"
         },
         {
-          "title": "韩国股市暴跌甩锅中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
           "title": "美股芯片存储大跌",
           "url": "https://www.douyin.com/hot/2588858",
           "source": "抖音",
           "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 13时52分]"
+        },
+        {
+          "title": "韩股为何从暴涨到暴跌",
+          "url": "https://www.toutiao.com/trending/7667785968799190570/",
+          "source": "今日头条",
+          "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "韩股崩盘6周暴跌40%",
+          "url": "https://www.toutiao.com/trending/7667804440975609353/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览（美股收盘）",
@@ -904,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.35%，道琼斯指数期货跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3141455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
