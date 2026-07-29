@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T13:52:00.937347+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-07-29T16:38:57.531253+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 63,
+      "match_count": 70,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 13时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 16时38分]"
         },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 13时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 16时38分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -141,17 +141,6 @@
           "time_info": "[00时40分 ~ 10时44分]"
         },
         {
-          "title": "会计被AI取代的概率",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
           "title": "商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件？",
           "url": "https://www.zhihu.com/question/2065427614815332294",
           "source": "知乎",
@@ -224,6 +213,18 @@
           "time_info": "10时44分"
         },
         {
+          "title": "会计被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时38分]"
+        },
+        {
           "title": "xAI：推出Grok Build模式。Grok Build现已面向SuperGrok Heavy订阅用户推出早期测试版。",
           "url": "https://flash.jin10.com/detail/20260729000239462800",
           "source": "金十数据",
@@ -244,6 +245,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2065711565274177872",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 16时38分]"
         },
         {
           "title": "AI剧 一本万利",
@@ -280,16 +294,16 @@
           "time_info": "10时44分"
         },
         {
-          "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2065711565274177872",
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
           "source": "知乎",
           "ranks": [
-            15,
-            3
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时44分 ~ 13时52分]"
+          "time_info": "[13时51分 ~ 16时38分]"
         },
         {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
@@ -300,8 +314,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时38分]"
         },
         {
           "title": "医生被指发布“除非死人不要请假”",
@@ -315,6 +329,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 07时57分]"
+        },
+        {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时38分]"
         },
         {
           "title": "AI重现被困师生救援事件",
@@ -351,28 +376,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 06时04分]"
-        },
-        {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
-        {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "抖火杯AI番外大电影",
@@ -421,6 +424,17 @@
           "time_info": "[13时51分 ~ 13时52分]"
         },
         {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "ASM业绩指引超预期，AI热潮提振芯片设备需求",
           "url": "https://wallstreetcn.com/livenews/3141168",
           "source": "华尔街见闻-快讯",
@@ -430,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "工科博士谈AI时代专业选择",
@@ -471,7 +496,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -509,6 +534,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "市场消息：月之暗面（Moonshot AI）在刚刚完成的一轮融资中筹集了超出预期的35亿美元，估值达到350亿美元。",
+          "url": "https://flash.jin10.com/detail/20260729163001813800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "xAI面向Grok推出Build模型。 Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。",
           "url": "https://wallstreetcn.com/livenews/3141119",
           "source": "华尔街见闻-快讯",
@@ -518,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "券商晨会精华：AI驱动半导体产业资本开支上行，半导体设备开启新一轮成长周期",
+          "url": "https://www.cls.cn/detail/2439569",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "马克·扎克伯格称，美国不应该封堵中国人工智能，在美国禁止中国人工智能不会奏效。（英国金融时报）",
@@ -595,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "据英国《泰晤士报》：英国首相伯纳姆可能会考虑在政府公务员拟定的计划下，对收入征收新税，以资助社会护理服务。伯纳姆将在当地时间今天上午晚些时候举行成为首相后的首次新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260729162656605800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "SK海力士：利润得到应用于AI服务器和ESSD销售的HBM、DRAM的支撑。",
@@ -718,6 +776,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "多部门联合发布《国家应对气候变化“十五五”规划》",
+          "url": "https://wallstreetcn.com/livenews/3141556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "SK海力士(SKHY.O)：预计人工智能模型和软件效率的提升将扩大人工智能的使用和可及性，并推动整体基础设施需求。",
           "url": "https://flash.jin10.com/detail/20260729065157239800",
           "source": "金十数据",
@@ -727,6 +796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "闲鱼：AI订单半年成交近千万，同比增157%",
+          "url": "https://wallstreetcn.com/livenews/3141553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "华尔街大行被视为“AI周边板块”，分析师：股价料因多重利好而跑赢大盘",
@@ -743,7 +823,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -770,8 +850,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 13时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 16时38分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -780,22 +860,24 @@
           "ranks": [
             11,
             14,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 13时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 16时38分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时38分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -822,17 +904,6 @@
           "time_info": "[00时40分 ~ 10时44分]"
         },
         {
-          "title": "韩国股市暴跌甩锅中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 13时52分]"
-        },
-        {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2065354296774989670",
           "source": "知乎",
@@ -844,6 +915,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 06时04分]"
+        },
+        {
+          "title": "韩国股市暴跌甩锅中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356590&amp;topic_name=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C%E7%94%A9%E9%94%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 16时38分]"
         },
         {
           "title": "韩股暴跌33%，大量散户浮亏超5成，有人喊话“国家赔偿”",
@@ -880,6 +963,18 @@
           "time_info": "[10时44分 ~ 13时52分]"
         },
         {
+          "title": "韩股崩盘6周暴跌40%",
+          "url": "https://www.toutiao.com/trending/7667804440975609353/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 16时38分]"
+        },
+        {
           "title": "韩股为何从暴涨到暴跌",
           "url": "https://www.toutiao.com/trending/7667785968799190570/",
           "source": "今日头条",
@@ -891,15 +986,15 @@
           "time_info": "[13时51分 ~ 13时52分]"
         },
         {
-          "title": "韩股崩盘6周暴跌40%",
-          "url": "https://www.toutiao.com/trending/7667804440975609353/",
-          "source": "今日头条",
+          "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
+          "url": "https://wallstreetcn.com/articles/3778200",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览（美股收盘）",
@@ -922,6 +1017,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "SK海力士(SKHY.O)美股盘前跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260729162856277800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美股收盘：美光海力士跌约9%，闪迪较高点腰斩",
@@ -996,9 +1102,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "美股盘前，存储概念股延续跌势，美光科技、SK海力士均跌超1%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3141563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
@@ -1010,6 +1127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "一股SK海力士股票乌龙交易，导致6000万美元的加密货币合约被强制平仓",
+          "url": "https://wallstreetcn.com/livenews/3141554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
