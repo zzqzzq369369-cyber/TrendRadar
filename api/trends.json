@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-30T00:21:44.695947+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-30T02:06:56.407007+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "xAI：Grok 4.5已在Grok Build中发布，所有套餐均可在Cursor上使用。",
+          "url": "https://flash.jin10.com/detail/20260730015029688800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
@@ -15,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -26,8 +37,132 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
+          "url": "https://www.cls.cn/detail/2440344",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "AI手机大战全面开打",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
+        },
+        {
+          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260730014924073800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "02时06分"
+        },
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
         },
         {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
@@ -41,37 +176,59 @@
           "time_info": "00时21分"
         },
         {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
+          "title": "SpaceXAI：8月5日，Grok-Voice-Latest将从Grok-Voice-Think-Fast-1.0升级至Grok-Voice-Think-Fast-2.0。",
+          "url": "https://flash.jin10.com/detail/20260730014637275800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "SpaceXAI：Grok Voice Think Fast 2.0的定价为每分钟音频0.08美元。",
+          "url": "https://flash.jin10.com/detail/20260730014605338800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "02时06分"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
+          "title": "SpaceXAI：宣布推出Grok Voice Think Fast 2.0。",
+          "url": "https://flash.jin10.com/detail/20260730014520335800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "02时06分"
         },
         {
-          "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
-          "url": "https://www.cls.cn/detail/2440344",
-          "source": "财联社热门",
+          "title": "xAI：推出Grok 4.5。",
+          "url": "https://flash.jin10.com/detail/20260730014436121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
+          "url": "https://www.zhihu.com/question/2065017879477725134",
+          "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "02时06分"
         },
         {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
@@ -85,76 +242,21 @@
           "time_info": "00时21分"
         },
         {
-          "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
-          "source": "澎湃新闻",
+          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
+          "url": "https://wallstreetcn.com/livenews/3141802",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "02时06分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -164,19 +266,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "韩股暴跌！监管层接连道歉 青瓦台官员一句“无须救市”引爆舆论",
           "url": "https://www.cls.cn/detail/2440253",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "韩国政府“暂不救市”，称目前无需启动平准基金，股市暴跌不全怪杠杆ETF",
@@ -186,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
@@ -208,8 +311,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
@@ -219,8 +322,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "韩国股市暴跌甩锅中国",
@@ -230,8 +333,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         },
         {
           "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
@@ -243,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "SpaceX暴跌催生华尔街新生意，挂钩投资产品扎堆登场",
+          "url": "https://wallstreetcn.com/livenews/3141799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时06分"
         }
       ]
     },
@@ -255,11 +369,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E7%8F%AD%E4%BA%86+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%B6%E7%9D%80%E5%8E%BB%E5%81%9A%E5%89%AF%E4%B8%9A",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         }
       ]
     },
@@ -275,8 +390,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时06分]"
         }
       ]
     }
