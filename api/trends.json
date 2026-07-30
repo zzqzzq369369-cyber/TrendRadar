@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T01:26:29.557238+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-31T03:23:59.139664+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "小米澎程技术发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -26,30 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
           "url": "https://wallstreetcn.com/articles/3778258",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -59,8 +49,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "【Meta报告称未来支出承诺接近7000亿美元】Meta表示，已通过长期和短期协议，承诺了近7000亿美元的未来支出，涉及人工智能数据中心、云计算等领域。 Meta在周四的一份监管申报文件中表示，公司拥有3493亿美元的不可撤销合同承诺，主要涉及第三方云服务协议、服务器和网络基础设施。该公司还有3470亿美元尚未开始的租赁承诺，尚未反映在资产负债表中。其中仅7月份就新增了680亿美元，付款将从2027年和2028年开始。这些成本是在现有活跃租赁之外的，涵盖数据中心、托管设施及“部分网络基础设施”。",
+          "url": "https://wallstreetcn.com/livenews/3142615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "03时23分"
+        },
+        {
+          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
+          "url": "https://wallstreetcn.com/livenews/3142590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "硅谷烧书训AI,焚书坑儒2.0",
@@ -70,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
@@ -81,8 +94,97 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "小米澎程发布会",
+          "url": "https://www.douyin.com/hot/2591095",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "抗日游戏抵抗者发布实机演示",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)报告称，已通过长期和短期协议，承诺在未来投入近7000亿美元，用于人工智能数据中心、云计算等领域。",
+          "url": "https://flash.jin10.com/detail/20260731025721940800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "03时23分"
+        },
+        {
+          "title": "英国FCA将从周五起发布每日股票交易数据",
+          "url": "https://flash.jin10.com/detail/20260731025024877800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "英国FCA将从周五起发布每日股票交易数据",
+          "url": "https://wallstreetcn.com/livenews/3142609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3142605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国财政部：美国发布针对伊朗及其支持网络的新制裁措施。",
@@ -96,15 +198,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
+          "title": "【伊朗军队称打击美军在巴林空军基地，已对其装备和中心造成了重大破坏】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3142603",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "03时23分"
         },
         {
           "title": "OpenAI：GPT-5.6 SOL快速模式取代了API中的优先级处理。",
@@ -140,31 +242,9 @@
           "time_info": "01时26分"
         },
         {
-          "title": "小米澎程发布会",
-          "url": "https://www.douyin.com/hot/2591095",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
           "title": "OpenAI：LUNA API定价为每百万个输入Token0.20美元，每百万个输出Token1.20美元。",
           "url": "https://flash.jin10.com/detail/20260731010107492800",
           "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
           "ranks": [
             16
           ],
@@ -184,15 +264,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "抗日游戏抵抗者发布实机演示",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-          "source": "贴吧",
+          "title": "联邦快递：扩大与Dexterity的合作，在马里兰州黑格斯敦转运中心部署人工智能机器人。",
+          "url": "https://flash.jin10.com/detail/20260731020919950800",
+          "source": "金十数据",
           "ranks": [
-            19
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "03时23分"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -216,22 +296,24 @@
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
           "url": "https://wallstreetcn.com/livenews/3142587",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "韩股暴跌,股民穿标语游街",
@@ -241,8 +323,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         },
         {
           "title": "罚款当营销,罗技营收暴涨",
@@ -252,8 +334,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时23分]"
         }
       ]
     }
