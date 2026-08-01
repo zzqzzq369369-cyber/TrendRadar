@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-02T06:54:25.549035+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-08-02T07:58:38.094533+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
-        },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
           "url": "https://wallstreetcn.com/articles/3778475",
@@ -25,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -39,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -49,7 +39,19 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
+        },
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -63,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 07时58分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -77,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -88,19 +90,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
           "url": "https://www.zhihu.com/question/2066835566323136078",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -111,8 +114,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
+        },
+        {
+          "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
+          "url": "https://www.zhihu.com/question/2066803381927146362",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -127,37 +141,50 @@
           "time_info": "[00时06分 ~ 06时54分]"
         },
         {
-          "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
-          "url": "https://www.zhihu.com/question/2066803381927146362",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
-        },
-        {
           "title": "人工智能助力直肠癌个性化化疗",
           "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
           "url": "https://wallstreetcn.com/livenews/3143603",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时58分]"
+        },
+        {
+          "title": "最高检、公安部联合发布涉已满 12 周岁未满 14 周岁未成年人严重暴力犯罪的新规，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2066607321828909163",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
@@ -170,8 +197,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 06时54分]"
+          "appearance_count": 5,
+          "time_info": "[03时20分 ~ 07时58分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -180,11 +207,24 @@
           "ranks": [
             20,
             14,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 07时58分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时58分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -208,17 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
         }
       ]
     },
@@ -234,8 +263,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         },
         {
           "title": "南方两倍做多海力士创纪录暴涨68%，下周切换灵活杠杆将如何变化？",
@@ -245,8 +274,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时58分]"
         }
       ]
     },
@@ -262,11 +291,12 @@
             16,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 07时58分]"
         }
       ]
     },
@@ -280,11 +310,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 06时54分]"
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 07时58分]"
         }
       ]
     }
