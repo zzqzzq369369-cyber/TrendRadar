@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T13:57:35.475093+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-08-02T16:23:07.324807+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -59,18 +59,6 @@
           "time_info": "[00时06分 ~ 06时54分]"
         },
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时59分 ~ 13时57分]"
-        },
-        {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
           "url": "https://wallstreetcn.com/articles/3778474",
           "source": "华尔街见闻",
@@ -85,6 +73,30 @@
           "time_info": "[00时06分 ~ 07时58分]"
         },
         {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时59分 ~ 16时23分]"
+        },
+        {
+          "title": "最高检、公安部联合发布涉已满 12 周岁未满 14 周岁未成年人严重暴力犯罪的新规，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2066607321828909163",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时23分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -93,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时06分 ~ 16时23分]"
         },
         {
           "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
@@ -119,8 +131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时06分 ~ 16时23分]"
         },
         {
           "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
@@ -135,15 +147,42 @@
           "time_info": "[00时06分 ~ 10时39分]"
         },
         {
-          "title": "最高检、公安部联合发布涉已满 12 周岁未满 14 周岁未成年人严重暴力犯罪的新规，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2066607321828909163",
-          "source": "知乎",
+          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
+          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 16时23分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 16时23分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -171,32 +210,6 @@
           "time_info": "[00时06分 ~ 10时39分]"
         },
         {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时57分]"
-        },
-        {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时54分 ~ 13时57分]"
-        },
-        {
           "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
           "url": "https://wallstreetcn.com/livenews/3143603",
           "source": "华尔街见闻-快讯",
@@ -209,16 +222,27 @@
           "time_info": "[00时06分 ~ 07时58分]"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 13时57分]"
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 16时23分]"
         },
         {
           "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
@@ -235,6 +259,18 @@
           "time_info": "[03时20分 ~ 07时58分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时23分]"
+        },
+        {
           "title": "美两家AI巨头承认自家大模型“失控”",
           "url": "https://www.toutiao.com/trending/7668948314036899378/",
           "source": "今日头条",
@@ -249,28 +285,17 @@
           "time_info": "[00时06分 ~ 07时58分]"
         },
         {
-          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
-          "url": "https://wallstreetcn.com/articles/3778495",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时57分]"
-        },
-        {
           "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
           "url": "https://wallstreetcn.com/livenews/3143639",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 16时23分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -296,6 +321,28 @@
           "time_info": "[10时38分 ~ 10时39分]"
         },
         {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "天才女友 AI片头",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
           "url": "https://flash.jin10.com/detail/20260802095047745800",
           "source": "金十数据",
@@ -305,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "水利部：20条河流仍超警，发布红色山洪灾害气象预警",
+          "url": "https://wallstreetcn.com/livenews/3143658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "“年龄不是免罪金牌”新规发布",
@@ -329,15 +387,26 @@
           "time_info": "10时39分"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
+          "title": "韩国发布高温预警，气温创历史新高",
+          "url": "https://flash.jin10.com/detail/20260802142426309800",
+          "source": "金十数据",
           "ranks": [
-            10
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "16时23分"
+        },
+        {
+          "title": "水利部：20条河流仍超警 发布红色山洪灾害气象预警",
+          "url": "https://flash.jin10.com/detail/20260802142159030800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美国华盛顿州山火蔓延 多地发布最高级别疏散令",
@@ -365,8 +434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时06分 ~ 16时23分]"
         },
         {
           "title": "南方两倍做多海力士创纪录暴涨68%，下周切换灵活杠杆将如何变化？",
@@ -377,8 +446,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 13时57分]"
+          "appearance_count": 14,
+          "time_info": "[00时06分 ~ 16时23分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -389,8 +458,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 16时23分]"
+        },
+        {
+          "title": "IF椰子水市值从126亿暴跌到16亿",
+          "url": "https://s.weibo.com/weibo?q=%23IF%E6%A4%B0%E5%AD%90%E6%B0%B4%E5%B8%82%E5%80%BC%E4%BB%8E126%E4%BA%BF%E6%9A%B4%E8%B7%8C%E5%88%B016%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时38分 ~ 13时57分]"
+          "time_info": "[13时57分 ~ 16时23分]"
         },
         {
           "title": "IF椰子水市值从126亿暴跌到16亿",
@@ -410,18 +491,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "IF椰子水市值从126亿暴跌到16亿",
-          "url": "https://s.weibo.com/weibo?q=%23IF%E6%A4%B0%E5%AD%90%E6%B0%B4%E5%B8%82%E5%80%BC%E4%BB%8E126%E4%BA%BF%E6%9A%B4%E8%B7%8C%E5%88%B016%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
@@ -453,7 +523,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
