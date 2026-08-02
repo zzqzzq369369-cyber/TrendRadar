@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T18:40:23.610282+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-08-02T20:02:25.696498+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -59,6 +59,32 @@
           "time_info": "[00时06分 ~ 06时54分]"
         },
         {
+          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
+          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时38分 ~ 20时02分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时54分 ~ 20时02分]"
+        },
+        {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
           "url": "https://wallstreetcn.com/articles/3778474",
           "source": "华尔街见闻",
@@ -83,20 +109,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时59分 ~ 18时40分]"
-        },
-        {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时38分 ~ 18时40分]"
+          "appearance_count": 15,
+          "time_info": "[01时59分 ~ 20时02分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -105,25 +119,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 18时40分]"
-        },
-        {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时54分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 20时02分]"
         },
         {
           "title": "少年捐日军侵华罪证遭「销户」威胁，警方已立案并启动保护，这些发布死亡威胁的人该承担怎样的法律责任？",
@@ -164,6 +165,19 @@
           "time_info": "[00时06分 ~ 10时39分]"
         },
         {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时58分 ~ 20时02分]"
+        },
+        {
           "title": "最高检、公安部联合发布涉已满 12 周岁未满 14 周岁未成年人严重暴力犯罪的新规，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2066607321828909163",
           "source": "知乎",
@@ -176,16 +190,15 @@
           "time_info": "[07时58分 ~ 18时40分]"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
+          "title": "中国AI大模型的优势在哪里",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时58分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 20时02分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -213,15 +226,16 @@
           "time_info": "[00时06分 ~ 10时39分]"
         },
         {
-          "title": "中国AI大模型的优势在哪里",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "百度热搜",
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 20时02分]"
         },
         {
           "title": "美驻以大使馆发布安全警告 敦促在中东美国公民考虑撤离",
@@ -236,16 +250,15 @@
           "time_info": "[00时06分 ~ 07时58分]"
         },
         {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
+          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
+          "url": "https://wallstreetcn.com/livenews/3143681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 18时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -310,8 +323,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 20时02分]"
         },
         {
           "title": "水利部：20条河流仍超警，发布红色山洪灾害气象预警",
@@ -319,11 +332,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 20时02分]"
+        },
+        {
+          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时23分 ~ 18时40分]"
+          "time_info": "[18时40分 ~ 20时02分]"
+        },
+        {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -338,6 +376,18 @@
           "time_info": "[00时06分 ~ 02时00分]"
         },
         {
+          "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
+          "url": "https://flash.jin10.com/detail/20260802172654110800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
+        },
+        {
           "title": "美股这个财报季盈利增长“超预期”，科技巨头“资本开支与AI回报”双涨",
           "url": "https://wallstreetcn.com/articles/3778478",
           "source": "华尔街见闻",
@@ -347,6 +397,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "便宜90%！美企偷偷换上中国大模型",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%AE%9C90%25%EF%BC%81%E7%BE%8E%E4%BC%81%E5%81%B7%E5%81%B7%E6%8D%A2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 20时02分]"
         },
         {
           "title": "天才女友 AI片头",
@@ -371,17 +432,6 @@
           "time_info": "10时39分"
         },
         {
-          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "“年龄不是免罪金牌”新规发布",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%B4%E9%BE%84%E4%B8%8D%E6%98%AF%E5%85%8D%E7%BD%AA%E9%87%91%E7%89%8C%E2%80%9D%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
@@ -391,17 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
@@ -415,26 +454,26 @@
           "time_info": "10时39分"
         },
         {
-          "title": "中金：AI回调高度类似2000年四轮回撤，本轮企稳需三大压力缓解",
-          "url": "https://flash.jin10.com/detail/20260802172654110800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "AI股神爆仓有哪些启示",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E7%A5%9E%E7%88%86%E4%BB%93%E6%9C%89%E5%93%AA%E4%BA%9B%E5%90%AF%E7%A4%BA",
           "source": "bilibili 热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "广发策略：AI资产在7月份的快速回撤之后 后续大概率有较可观的修正空间",
+          "url": "https://flash.jin10.com/detail/20260802182750759800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "韩国发布高温预警，气温创历史新高",
@@ -446,17 +485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "便宜90%！美企偷偷换上中国大模型",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%AE%9C90%25%EF%BC%81%E7%BE%8E%E4%BC%81%E5%81%B7%E5%81%B7%E6%8D%A2%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "水利部：20条河流仍超警 发布红色山洪灾害气象预警",
@@ -487,7 +515,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -498,7 +526,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -514,11 +542,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 20时02分]"
         },
         {
           "title": "南方两倍做多海力士创纪录暴涨68%，下周切换灵活杠杆将如何变化？",
@@ -526,11 +555,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时06分 ~ 20时02分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -585,7 +615,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -593,7 +623,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "发现赚钱方式对人影响很大",
@@ -617,9 +647,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "为卖腊肉花10万请明星带货只卖出1单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E5%8D%96%E8%85%8A%E8%82%89%E8%8A%B110%E4%B8%87%E8%AF%B7%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E5%8F%AA%E5%8D%96%E5%87%BA1%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
