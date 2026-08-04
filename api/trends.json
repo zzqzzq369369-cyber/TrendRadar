@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T21:03:06.837240+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-08-04T23:32:26.099798+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -17,23 +17,12 @@
             13,
             17,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 21时03分]"
-        },
-        {
-          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
-          "url": "https://www.cls.cn/detail/2444881",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 23时32分]"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -46,8 +35,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 21时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 23时32分]"
+        },
+        {
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时03分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -127,6 +128,20 @@
           "time_info": "[06时08分 ~ 08时08分]"
         },
         {
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 23时32分]"
+        },
+        {
           "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
           "url": "https://www.cls.cn/detail/2444783",
           "source": "财联社热门",
@@ -165,17 +180,15 @@
           "time_info": "[00时23分 ~ 12时13分]"
         },
         {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
+          "title": "SpaceX财报发布前夕，航天概念股普涨",
+          "url": "https://wallstreetcn.com/livenews/3144849",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 21时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
@@ -199,6 +212,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 23时32分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -237,17 +264,16 @@
           "time_info": "[06时08分 ~ 08时08分]"
         },
         {
-          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
-          "url": "https://www.zhihu.com/question/2067576901791638083",
-          "source": "知乎",
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            13,
-            6
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时38分 ~ 21时03分]"
+          "time_info": "[18时37分 ~ 23时32分]"
         },
         {
           "title": "孙颖莎回应缺席发布仪式",
@@ -276,16 +302,16 @@
           "time_info": "[00时23分 ~ 06时08分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时37分 ~ 21时03分]"
+          "time_info": "[21时02分 ~ 23时32分]"
         },
         {
           "title": "禁止将本书用于人工智能训练",
@@ -300,6 +326,18 @@
           "time_info": "[18时37分 ~ 21时03分]"
         },
         {
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时32分]"
+        },
+        {
           "title": "SpaceX将发布上市后首份财报",
           "url": "https://www.douyin.com/hot/2595375",
           "source": "抖音",
@@ -309,17 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 12时13分]"
-        },
-        {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "谁来管管AI漫剧女主的穿搭",
@@ -392,17 +419,6 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
-        },
-        {
           "title": "SK海力士与闪迪联合发布首个高带宽闪存（HBF）标准规范。",
           "url": "https://wallstreetcn.com/livenews/3144397",
           "source": "华尔街见闻-快讯",
@@ -458,13 +474,24 @@
           "time_info": "12时13分"
         },
         {
+          "title": "张月遭AI生成兽图涉嫌双重侵权",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E9%81%ADAI%E7%94%9F%E6%88%90%E5%85%BD%E5%9B%BE%E6%B6%89%E5%AB%8C%E5%8F%8C%E9%87%8D%E4%BE%B5%E6%9D%83%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "AI云计算公司Corvex盘前一度大涨约100%，公司宣布已签署一项多年期协议，将向一家领先的人工智能公司提供搭载英伟达Blackwell GPU及英伟达Quantum-2 InfiniBand网络的集群。",
           "url": "https://wallstreetcn.com/livenews/3144751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -478,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "韩国总统李在明：AI重塑全球产业格局，呼吁大胆投资",
+          "url": "https://wallstreetcn.com/livenews/3144830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "亚马逊云服务(AWS)CEO：人工智能业务潜力“极为巨大”。",
@@ -513,6 +551,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "亚马逊云服务(AWS)CEO：人工智能业务正从训练转向推理。",
           "url": "https://flash.jin10.com/detail/20260803234812805800",
           "source": "金十数据",
@@ -541,7 +590,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -568,13 +617,24 @@
           "time_info": "12时13分"
         },
         {
+          "title": "AI初创公司Listen Labs按15亿美元估值融资1.25亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3144824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。",
           "url": "https://wallstreetcn.com/livenews/3144738",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -588,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "一位首席投资官说：AI投资已进入“靠陌生人施舍”阶段",
+          "url": "https://wallstreetcn.com/livenews/3144820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "创业板指涨超6%，算力硬件、半导体芯片、AI应用、医药生物等方向涨幅居前，全市场上涨个股超3700只。",
@@ -632,12 +703,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "报道：美国AI电力需求激增，开发商动用数十亿美元银行担保",
+          "url": "https://wallstreetcn.com/livenews/3144815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -648,8 +730,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时08分 ~ 21时03分]"
+          "appearance_count": 7,
+          "time_info": "[08时08分 ~ 23时32分]"
         },
         {
           "title": "A股4000只股票上涨为何科技股暴跌",
@@ -751,8 +833,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 23时32分]"
         },
         {
           "title": "美股三大指数集体高开",
@@ -799,6 +881,39 @@
           "time_info": "12时13分"
         },
         {
+          "title": "追凉航线订单暴涨500%",
+          "url": "https://wallstreetcn.com/livenews/3144843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "比特币冷钱包被曝漏洞，超 1.1 亿美元资产被盗，看似最安全的「离线存储」为什么也会被偷？",
+          "url": "https://www.zhihu.com/question/2067883838911377616",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "Spotify第二季度营收47.8亿欧元，预期47.9亿欧元。 第二季度每股收益2.61欧元，去年同期每股亏损0.42欧元。 第二季度营业利润6.55亿欧元，同比增长61%。 第二季度月活跃用户数7.77亿，预期7.7818亿。 Spotify预计第三季度营收50亿欧元，市场预期49.3亿欧元。 Spotify预计第三季度营业利润6.70亿欧元，市场预期6.811亿欧元。 Spotify预计第三季度月活跃用户数7.88亿，市场预期7.9352亿。 Spotify美股盘前跌近4%。",
           "url": "https://wallstreetcn.com/livenews/3144672",
           "source": "华尔街见闻-快讯",
@@ -819,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
+          "url": "https://wallstreetcn.com/articles/3778638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温",
