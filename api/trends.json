@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-05T19:59:48.794792+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-08-05T22:05:17.080793+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 61,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 22时05分]"
+        },
         {
           "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
@@ -28,22 +39,12 @@
             9,
             15,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时47分 ~ 19时59分]"
-        },
-        {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 19时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时47分 ~ 22时05分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -93,6 +94,18 @@
           "time_info": "[01时47分 ~ 07时02分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时05分]"
+        },
+        {
           "title": "阿里整合千问办公、腾讯升级 WorkBuddy 、字节合并飞书豆包，如今大厂为何集体押注 AI 办公？",
           "url": "https://www.zhihu.com/question/2066215215486562343",
           "source": "知乎",
@@ -137,6 +150,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "华为发布会",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -146,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -171,16 +184,42 @@
           "time_info": "[01时47分 ~ 07时02分]"
         },
         {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 22时05分]"
+        },
+        {
           "title": "AI做的动物尺度太大了",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15,
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 22时05分]"
+        },
+        {
+          "title": "华为发布新款折叠电脑售价24999元起",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E5%94%AE%E4%BB%B724999%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 19时59分]"
+          "time_info": "[19时59分 ~ 22时05分]"
         },
         {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
@@ -195,16 +234,16 @@
           "time_info": "[10时22分 ~ 13时45分]"
         },
         {
-          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
-          "url": "https://www.cls.cn/detail/2446218",
-          "source": "财联社热门",
+          "title": "余承东发布会口误 24999元报成2499元",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            7
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时33分 ~ 19时59分]"
+          "time_info": "[19时59分 ~ 22时05分]"
         },
         {
           "title": "独家｜月之暗面500亿美元Pre-IPO轮开闸 K3模型发布后额度骤然紧俏",
@@ -240,6 +279,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 16时33分]"
+        },
+        {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时05分]"
+        },
+        {
+          "title": "河南发布带薪休假新政",
+          "url": "https://www.douyin.com/hot/2598265",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时05分]"
         },
         {
           "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
@@ -286,15 +349,15 @@
           "time_info": "[05时11分 ~ 05时12分]"
         },
         {
-          "title": "余承东发布会口误 24999元报成2499元",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%A3%E8%AF%AF+24999%E5%85%83%E6%8A%A5%E6%88%902499%E5%85%83",
-          "source": "百度热搜",
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "22时05分"
         },
         {
           "title": "尊界MPV及华为新品发布会",
@@ -330,6 +393,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "《“十五五”促进中小企业发展规划》即将发布",
+          "url": "https://wallstreetcn.com/livenews/3145420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
           "url": "https://flash.jin10.com/detail/20260805011115589800",
           "source": "金十数据",
@@ -352,15 +426,15 @@
           "time_info": "16时33分"
         },
         {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
+          "title": "米哈游法务部：未经授权发布游戏泄密视频，泄密人员被判刑。",
+          "url": "https://wallstreetcn.com/livenews/3145419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "22时05分"
         },
         {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
@@ -372,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "《“十五五”促进中小企业发展规划》即将发布",
+          "url": "https://flash.jin10.com/detail/20260805212510787800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "Booking的CEO：目前，人工智能引流对我们整体业务的贡献仍然相对较小。",
@@ -407,6 +492,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "据The Information：字节跳动创始人张一鸣在上月的一次会议上告诉员工，公司不会使用蒸馏技术来推进其人工智能模型能力，即使这意味着公司暂时落后于国内竞争对手。",
+          "url": "https://flash.jin10.com/detail/20260805212414830800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "马斯克：SpaceX预计到2026年年底将形成超过2 GW的算力。 预计首批Starmind AI卫星将于明年开始发射升空。",
           "url": "https://wallstreetcn.com/livenews/3144951",
           "source": "华尔街见闻-快讯",
@@ -418,17 +514,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "河南发布带薪休假新政",
-          "url": "https://www.douyin.com/hot/2598265",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "马斯克：往后我们决定完全基于英伟达开展技术搭建。 人工智能与机器人技术将大幅提升带宽需求。",
           "url": "https://wallstreetcn.com/livenews/3144950",
           "source": "华尔街见闻-快讯",
@@ -438,6 +523,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "影石GO Ultra AI语音助手将延期推出",
+          "url": "https://wallstreetcn.com/livenews/3145415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
+          "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
+          "url": "https://www.zhihu.com/question/2068056227817284742",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "据Axios：白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
@@ -484,15 +591,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "华为发布新款折叠电脑售价24999元起",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%8A%98%E5%8F%A0%E7%94%B5%E8%84%91%E5%94%AE%E4%BB%B724999%E5%85%83%E8%B5%B7",
-          "source": "百度热搜",
+          "title": "Anthropic确认正组建团队设计自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3145408",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "22时05分"
         },
         {
           "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
@@ -578,7 +685,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -696,7 +803,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -805,6 +912,18 @@
           "time_info": "13时45分"
         },
         {
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时05分]"
+        },
+        {
           "title": "传统饮料整体销量同比暴跌60%",
           "url": "https://www.toutiao.com/trending/7669666218411819071/",
           "source": "今日头条",
@@ -816,15 +935,15 @@
           "time_info": "[10时22分 ~ 10时23分]"
         },
         {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
+          "title": "美股三大股指小幅高开 SpaceX盘初大跌市值蒸发2050亿美元",
+          "url": "https://wallstreetcn.com/livenews/3145422",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时59分"
+          "time_info": "22时05分"
         },
         {
           "title": "沪指涨超1%，科创50暴涨逾5%，半导体大爆发，“易中天”集体回应美国光模块禁令，港股科网股盘中反弹",
@@ -838,13 +957,24 @@
           "time_info": "16时33分"
         },
         {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "优步第二季度营收141.9亿美元，预估142.4亿美元。 第二季度每股收益1.17美元。 第二季度调整后EBITDA为28.2亿美元，预估27.9亿美元。 第二季度总订单额580.2亿美元，预估571.7亿美元。 优步预计第三季度调整后每股收益84至88美分。 优步预计第三季度总订单额582.5亿至602.5亿美元，市场预估593.2亿美元。 优步美股盘前跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3145355",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -888,9 +1018,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3145413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "美股再创新高之际迎“季节性陷阱”，投资者是否该撤退？",
@@ -902,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "日元急升后2024暴跌惨剧并未上演！套息交易爆仓风险已过？",
+          "url": "https://flash.jin10.com/detail/20260805211725669800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "一柜难求 局域网交易线路关闭 “近交易所”机房租金暴涨",
@@ -921,7 +1073,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -959,6 +1111,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805210745440800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
+        },
+        {
           "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
           "url": "https://wallstreetcn.com/livenews/3144863",
           "source": "华尔街见闻-快讯",
@@ -973,7 +1136,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "恐怖电影《痴迷》中国内地票房突破 1 亿，已成影史最赚钱的电影之一，如何评价这一成绩？",
@@ -996,7 +1159,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1007,9 +1170,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "美股开盘，道指涨0.33%，标普500指数涨0.56%，纳指涨0.39%。SpaceX(SPCX.O)跌10.5%，其AI支出激增引发担忧。AMD(AMD.O)跌7%，创7月28日以来最大跌幅，其Q2业绩及前景展望不佳。Shopify(SHOP.N)涨20%。黄金盘中一度站上4200美元，哈莫尼黄金(HMY.N)涨7.5%、金田(GFI.N)涨8.3%。存储概念股小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260805213030299800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时05分"
         },
         {
           "title": "Shopify第二季度营收35.8亿美元，预估34.5亿美元。 第二季度商品交易总额（GMV）1,155.7亿美元，预估1,121.2亿美元。 Shopify预计第三季度营收将以低三十位数百分比的速度增长（即同比增长约31%–33%）。 Shopify美股盘前涨超16%。",
@@ -1018,7 +1192,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1029,7 +1203,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1040,7 +1214,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
