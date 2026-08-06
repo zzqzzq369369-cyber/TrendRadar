@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T14:29:14.088788+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-08-06T17:39:21.397824+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "华为发布新款折叠电脑售价24999元起",
@@ -114,6 +114,18 @@
           "time_info": "02时21分"
         },
         {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 17时39分]"
+        },
+        {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
@@ -130,11 +142,24 @@
           "url": "https://wallstreetcn.com/articles/3778788",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 17时39分]"
+        },
+        {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时16分 ~ 14时29分]"
+          "time_info": "[14时28分 ~ 17时39分]"
         },
         {
           "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
@@ -146,6 +171,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 14时29分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 17时39分]"
         },
         {
           "title": "河南发布带薪休假新政",
@@ -172,26 +209,15 @@
           "time_info": "[11时16分 ~ 14时29分]"
         },
         {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
+          "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
+          "url": "https://www.zhihu.com/question/2068437296529897006",
+          "source": "知乎",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 17时39分]"
         },
         {
           "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
@@ -199,28 +225,6 @@
           "source": "百度热搜",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
-          "url": "https://www.zhihu.com/question/2068437296529897006",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -299,7 +303,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -343,7 +347,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -381,13 +385,24 @@
           "time_info": "11时16分"
         },
         {
+          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "AI细分赛道和选股分析（一）：半导体设备是下一个瓶颈",
           "url": "https://flash.jin10.com/detail/20260806135711209800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -436,6 +451,28 @@
           "time_info": "11时16分"
         },
         {
+          "title": "字节跳动发布SeedRealtime大模型",
+          "url": "https://www.douyin.com/hot/2598710",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
           "url": "https://flash.jin10.com/detail/20260806025420387800",
           "source": "金十数据",
@@ -467,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "苏泊尔回应AI广告低俗擦边剧情争议",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%B3%8A%E5%B0%94%E5%9B%9E%E5%BA%94AI%E5%B9%BF%E5%91%8A%E4%BD%8E%E4%BF%97%E6%93%A6%E8%BE%B9%E5%89%A7%E6%83%85%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "化妆品新国标今天发布 专家解读新变化",
@@ -546,6 +594,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "认错比谁都快 这届用户被AI气笑了",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A4%E9%94%99%E6%AF%94%E8%B0%81%E9%83%BD%E5%BF%AB+%E8%BF%99%E5%B1%8A%E7%94%A8%E6%88%B7%E8%A2%ABAI%E6%B0%94%E7%AC%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3145567",
           "source": "华尔街见闻-快讯",
@@ -560,8 +619,20 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时12分 ~ 17时39分]"
+        },
         {
           "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
           "url": "https://wallstreetcn.com/articles/3778711",
@@ -574,17 +645,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 14时29分]"
-        },
-        {
-          "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778704",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时12分 ~ 14时29分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
@@ -695,6 +755,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
+          "url": "https://wallstreetcn.com/articles/3778800",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "Cirrus Logics Inc.（CRUS）美股盘后跌7.1%。 该公司第一财季净销售4.597亿美元，分析师预期4.602亿美元。 预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。",
           "url": "https://wallstreetcn.com/livenews/3145584",
           "source": "华尔街见闻-快讯",
@@ -737,6 +808,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "AppLovin营收不及预期，软件股美股盘前下跌。甲骨文(ORCL.N)跌3.6%，Salesforce(CRM.N)跌4.6%，Adobe(ADBE.O)跌2.6%，ServiceNow下跌2.7%。",
+          "url": "https://flash.jin10.com/detail/20260806165447421800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
+          "title": "在IPO后股票锁定期到期前，SpaceX美股盘前上涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3145931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     },
@@ -751,7 +844,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -762,7 +855,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
