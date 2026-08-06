@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T20:02:33.837962+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-08-06T23:12:42.486828+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 60,
+      "match_count": 72,
       "titles": [
         {
           "title": "华为发布新款折叠电脑售价24999元起",
@@ -54,6 +54,20 @@
           "time_info": "[00时41分 ~ 02时21分]"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 23时12分]"
+        },
+        {
           "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
           "url": "https://www.cls.cn/detail/2447135",
           "source": "财联社热门",
@@ -67,6 +81,17 @@
           "time_info": "[14时28分 ~ 20时02分]"
         },
         {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 23时12分]"
+        },
+        {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
           "url": "https://www.cls.cn/detail/2446407",
           "source": "财联社热门",
@@ -77,6 +102,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时41分 ~ 07时59分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 23时12分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -105,17 +144,6 @@
           "time_info": "[00时41分 ~ 07时59分]"
         },
         {
-          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
-          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
           "url": "https://flash.jin10.com/detail/20260806001438716800",
           "source": "金十数据",
@@ -127,17 +155,26 @@
           "time_info": "00时41分"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
+          "title": "阿联酋基金拟斥资超60亿美元在日本建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3146128",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 20时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "中国AI连续14周霸榜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E8%BF%9E%E7%BB%AD14%E5%91%A8%E9%9C%B8%E6%A6%9C%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -163,19 +200,6 @@
           "time_info": "[00时41分 ~ 06时12分]"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 20时02分]"
-        },
-        {
           "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
           "url": "https://www.zhihu.com/question/2068437296529897006",
           "source": "知乎",
@@ -184,8 +208,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 23时12分]"
         },
         {
           "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
@@ -209,6 +233,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 14时29分]"
+        },
+        {
+          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 23时12分]"
         },
         {
           "title": "河南发布带薪休假新政",
@@ -235,16 +272,16 @@
           "time_info": "[11时16分 ~ 14时29分]"
         },
         {
-          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
-          "source": "澎湃新闻",
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            10
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时39分 ~ 20时02分]"
+          "time_info": "[20时02分 ~ 23时12分]"
         },
         {
           "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
@@ -280,6 +317,18 @@
           "time_info": "[14时28分 ~ 14时29分]"
         },
         {
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 23时12分]"
+        },
+        {
           "title": "亚洲多策略对冲基金7月出现大幅回撤，因AI概念股遭遇猛烈抛售",
           "url": "https://wallstreetcn.com/livenews/3145658",
           "source": "华尔街见闻-快讯",
@@ -297,7 +346,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -308,18 +357,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
-          "url": "https://www.cls.cn/detail/2447281",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -344,6 +382,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "GTA6将发布新预告片",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "存储巨头财报未达高预期 AI概念股遭遇新一轮抛售 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2447710",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家在任27年后离职，将创办自己的人工智能公司。",
@@ -388,6 +448,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "意大利首次对全部监测城市发布高温红色预警",
+          "url": "https://wallstreetcn.com/livenews/3146121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
+          "url": "https://www.zhihu.com/question/2068662948407546390",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "明晟公司（MSCI）表示，其8月指数调整公告定将于8月12日发布，且将在概要公告发布后即刻向客户提供详细的调仓信息。",
@@ -445,6 +527,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "大厂AI人才争夺战：秋招提前至盛夏，有岗位“薪酬不设上限”",
+          "url": "https://wallstreetcn.com/livenews/3146118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "AI细分赛道和选股分析（一）：半导体设备是下一个瓶颈",
           "url": "https://flash.jin10.com/detail/20260806135711209800",
           "source": "金十数据",
@@ -478,6 +571,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "“中式天庭”AI视频海外爆火",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%E2%80%9DAI%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "私募资本涌入新兴市场，竞相为AI基础设施建设提供资金",
           "url": "https://wallstreetcn.com/livenews/3145609",
           "source": "华尔街见闻-快讯",
@@ -500,6 +604,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "美国AI电厂之争愈演愈烈：加州建议围绕\"数据中心权利\"立法",
+          "url": "https://wallstreetcn.com/livenews/3146115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "字节跳动发布SeedRealtime大模型",
           "url": "https://www.douyin.com/hot/2598710",
           "source": "抖音",
@@ -509,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "戚薇真的把自己做成AI了",
@@ -544,6 +670,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
+          "url": "https://www.zhihu.com/question/2068498722300990537",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "保障生态环境法典实施 最高法发布首个配套司法解释",
           "url": "https://wallstreetcn.com/livenews/3145750",
           "source": "华尔街见闻-快讯",
@@ -577,6 +714,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3146108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3145598",
           "source": "华尔街见闻-快讯",
@@ -605,7 +753,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -654,17 +802,6 @@
           "time_info": "11时16分"
         },
         {
-          "title": "戚薇用AI解锁末世",
-          "url": "https://www.douyin.com/hot/2599650",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "认错比谁都快 这届用户被AI气笑了",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A4%E9%94%99%E6%AF%94%E8%B0%81%E9%83%BD%E5%BF%AB+%E8%BF%99%E5%B1%8A%E7%94%A8%E6%88%B7%E8%A2%ABAI%E6%B0%94%E7%AC%91%E4%BA%86",
           "source": "百度热搜",
@@ -690,7 +827,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -701,8 +838,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时12分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[06时12分 ~ 23时12分]"
         },
         {
           "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
@@ -755,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
@@ -812,8 +960,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 23时12分]"
         },
         {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
@@ -836,6 +984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "软件股美股早盘普遍下挫，投资者关注Datadog、Figma等公司的业绩",
+          "url": "https://wallstreetcn.com/livenews/3146124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "Cirrus Logics Inc.（CRUS）美股盘后跌7.1%。 该公司第一财季净销售4.597亿美元，分析师预期4.602亿美元。 预计第二财季净收入5.10亿-5.7亿美元，分析师预期5.566亿美元。",
@@ -910,9 +1069,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "SpaceX涨超5%，刷新日高。 美股盘初，特斯拉与美国得州州长宣布，SpaceX在Grimes县扩建，Terafab一期项目意味着168亿美元资本开支投资，SpaceX将在Grimes县建设芯片设施。",
+          "url": "https://wallstreetcn.com/livenews/3146110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "疯狂补仓撑起美股反弹，专家警告：对冲抛压可能会卷土重来！",
+          "url": "https://flash.jin10.com/detail/20260806221403559800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
@@ -979,11 +1160,12 @@
           "url": "https://www.zhihu.com/question/2068681750381683955",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 23时12分]"
         },
         {
           "title": "字节跳动内部严禁蒸馏开源模型",
@@ -992,7 +1174,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         }
