@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-07T14:09:23.533453+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-08-07T16:12:54.004906+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
+          "url": "https://wallstreetcn.com/articles/3778845",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 16时12分]"
+        },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
@@ -20,29 +32,31 @@
           "time_info": "[07时57分 ~ 10时39分]"
         },
         {
-          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
-          "url": "https://wallstreetcn.com/articles/3778845",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时09分]"
-        },
-        {
           "title": "GTA6将发布新预告片",
           "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
             2,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时09分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 16时12分]"
+        },
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 16时12分]"
         },
         {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
@@ -56,17 +70,26 @@
           "time_info": "07时57分"
         },
         {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "source": "华尔街见闻",
+          "title": "东航发布新规： 提前14天可免费退改签",
+          "url": "https://flash.jin10.com/detail/20260807155036214800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "ai漫剧男主唯一塌房方式被找到了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%94%AF%E4%B8%80%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "内娱第一人 戚薇开放形象AI授权",
@@ -82,6 +105,18 @@
           "time_info": "[10时38分 ~ 14时09分]"
         },
         {
+          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069020073851983605",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 16时12分]"
+        },
+        {
           "title": "北京亦庄发布全市首个词元经济政策，每年发放1亿元模型、词元券",
           "url": "https://flash.jin10.com/detail/20260807121720926800",
           "source": "金十数据",
@@ -93,6 +128,32 @@
           "time_info": "12时54分"
         },
         {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 16时12分]"
+        },
+        {
+          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 16时12分]"
+        },
+        {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
           "url": "https://wallstreetcn.com/articles/3778828",
           "source": "华尔街见闻",
@@ -102,6 +163,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时38分 ~ 14时09分]"
+        },
+        {
+          "title": "汪峰公司因AI从1100人减到400人",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 16时12分]"
         },
         {
           "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
@@ -128,39 +201,16 @@
           "time_info": "[07时57分 ~ 10时39分]"
         },
         {
-          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069020073851983605",
-          "source": "知乎",
+          "title": "戚薇AI短剧 雷霆视角",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            11,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时09分]"
-        },
-        {
-          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时09分]"
-        },
-        {
-          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
-          "url": "https://www.cls.cn/detail/2448129",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时09分]"
+          "time_info": "[14时09分 ~ 16时12分]"
         },
         {
           "title": "粉笔教育发布“自曝式”公开信",
@@ -174,6 +224,18 @@
           "time_info": "[10时38分 ~ 10时39分]"
         },
         {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 16时12分]"
+        },
+        {
           "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
@@ -183,6 +245,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "戚薇 授权AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 16时12分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "机构：2026年AI服务器出货量增幅上调至近31%",
@@ -229,15 +314,26 @@
           "time_info": "12时54分"
         },
         {
-          "title": "戚薇AI短剧 雷霆视角",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "Alphabet又发债了！一文读懂：AI天量资本支出疑云仍未散去？",
+          "url": "https://www.cls.cn/detail/2447998",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "16时12分"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
@@ -251,6 +347,28 @@
           "time_info": "07时57分"
         },
         {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "东航发布新规：提前14天可免费退改签",
+          "url": "https://wallstreetcn.com/livenews/3146547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "戚薇 AI漫剧",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20AI%E6%BC%AB%E5%89%A7&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -260,17 +378,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
-        },
-        {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
         },
         {
           "title": "港股大模型“双雄”大涨",
@@ -290,9 +397,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "阿里推出一站式AI语音生产力平台CosyVoice Studio",
+          "url": "https://wallstreetcn.com/livenews/3146542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "汪峰公司因AI从1100人减到400人",
@@ -350,26 +468,15 @@
           "time_info": "07时57分"
         },
         {
-          "title": "戚薇 授权AI",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "汪峰公司因AI从1100人减到400人",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
+          "title": "AI漫剧男主如此小众的塌房方式",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%A6%82%E6%AD%A4%E5%B0%8F%E4%BC%97%E7%9A%84%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F",
           "source": "百度热搜",
           "ranks": [
-            24
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "16时12分"
         },
         {
           "title": "美国科学家首次用AI设计出病毒",
@@ -386,7 +493,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -397,8 +504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时09分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 16时12分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -412,6 +519,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时57分 ~ 14时09分]"
+        },
+        {
+          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3146560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "黄金暴涨4%突破4200：最凶的一批买盘还在场外！",
