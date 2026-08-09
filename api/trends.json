@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T11:41:20.654727+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-08-09T13:03:32.669030+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -66,19 +66,6 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时41分]"
-        },
-        {
           "title": "伊媒发布伊朗最高领袖视频",
           "url": "https://www.toutiao.com/trending/7671613890689502783/",
           "source": "今日头条",
@@ -89,6 +76,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 09时37分]"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时03分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -117,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时03分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -133,8 +134,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时03分]"
         },
         {
           "title": "兵韬志略｜日本发布2026防卫白皮书，“总体战”动员值得警惕",
@@ -186,22 +187,35 @@
           "url": "https://www.zhihu.com/question/2068817961792623517",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 13时03分]"
         },
         {
           "title": "台风红色预警发布",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
         },
         {
           "title": "浙江舟山发布实施“五停”命令",
@@ -218,6 +232,18 @@
           "time_info": "[03时28分 ~ 07时27分]"
         },
         {
+          "title": "我使馆发布公民赴泰参加文体活动提醒：文明、理性、有序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744139",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 13时03分]"
+        },
+        {
           "title": "伊朗媒体发布伊朗最高领袖视频",
           "url": "https://wallstreetcn.com/livenews/3146994",
           "source": "华尔街见闻-快讯",
@@ -230,49 +256,28 @@
           "time_info": "[00时32分 ~ 05时29分]"
         },
         {
-          "title": "中央气象台升级发布台风红色预警",
-          "url": "https://flash.jin10.com/detail/20260809104129624800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
           "url": "https://wallstreetcn.com/livenews/3147043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "我使馆发布公民赴泰参加文体活动提醒：文明、理性、有序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744139",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
+        },
+        {
+          "title": "中央气象台升级发布台风红色预警",
+          "url": "https://flash.jin10.com/detail/20260809104129624800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -285,6 +290,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时28分 ~ 07时27分]"
+        },
+        {
+          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时36分 ~ 13时03分]"
         },
         {
           "title": "AI帮你开发以前要花钱的功能",
@@ -321,18 +339,6 @@
           "time_info": "[09时36分 ~ 11时41分]"
         },
         {
-          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时36分 ~ 11时41分]"
-        },
-        {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
           "url": "https://www.zhihu.com/question/2069446019272724909",
           "source": "知乎",
@@ -342,6 +348,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时36分 ~ 09时37分]"
+        },
+        {
+          "title": "中央气象台升级发布台风红色预警",
+          "url": "https://www.toutiao.com/trending/7671856440352443945/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -366,13 +384,24 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "AI是否能帮助数学实现大突破",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%98%AF%E5%90%A6%E8%83%BD%E5%B8%AE%E5%8A%A9%E6%95%B0%E5%AD%A6%E5%AE%9E%E7%8E%B0%E5%A4%A7%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -388,6 +417,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "伊朗媒体发布伊朗最高领袖视频",
           "url": "https://flash.jin10.com/detail/20260809084524493800",
           "source": "金十数据",
@@ -399,15 +439,26 @@
           "time_info": "09时37分"
         },
         {
-          "title": "中央气象台升级发布台风红色预警",
-          "url": "https://www.toutiao.com/trending/7671856440352443945/",
-          "source": "今日头条",
+          "title": "据印尼气象、气候和地球物理局发布的报告，当地时间8月9日10时02分，印尼亚齐特区沙璜市西北205公里处发生5.7级地震，震源深度10公里，没有海啸风险。",
+          "url": "https://flash.jin10.com/detail/20260809113024703800",
+          "source": "金十数据",
           "ranks": [
-            23
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "13时03分"
+        },
+        {
+          "title": "“热管理”已成AI相关核心技术了吗",
+          "url": "https://www.toutiao.com/trending/7671858005583036470/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
@@ -434,8 +485,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时03分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -446,8 +497,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时03分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -462,6 +513,41 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
+        },
+        {
+          "title": "开学三件套全线暴涨",
+          "url": "https://www.douyin.com/hot/2602827",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 13时03分]"
+        },
+        {
           "title": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
           "url": "https://wallstreetcn.com/articles/3778979",
           "source": "华尔街见闻",
@@ -471,39 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "开学三件套全线暴涨",
-          "url": "https://www.douyin.com/hot/2602827",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         }
       ]
     },
@@ -535,11 +588,12 @@
             16,
             18,
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 11时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时03分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
