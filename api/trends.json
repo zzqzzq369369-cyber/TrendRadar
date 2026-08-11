@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T15:05:27.790827+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-08-11T18:56:34.225517+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 74,
+      "match_count": 84,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -46,6 +46,19 @@
           "time_info": "[01时03分 ~ 15时05分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 18时56分]"
+        },
+        {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
@@ -70,15 +83,16 @@
           "time_info": "[01时03分 ~ 07时34分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 18时56分]"
         },
         {
           "title": "OpenAI：新的高级席位（Premium Seat）使用额度相比标准版提升5倍，无5小时使用限制，并提供可预测的每周使用额度重置。",
@@ -90,6 +104,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 18时56分]"
         },
         {
           "title": "上海发布8月11日交通出行通告，早高峰期间仍需注意风雨影响",
@@ -104,6 +132,19 @@
           "time_info": "[07时34分 ~ 15时05分]"
         },
         {
+          "title": "如何看待 GPT-6 （Astra）？",
+          "url": "https://www.zhihu.com/question/2070082903229347029",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 18时56分]"
+        },
+        {
           "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
           "url": "https://flash.jin10.com/detail/20260811005211685800",
           "source": "金十数据",
@@ -115,13 +156,24 @@
           "time_info": "01时03分"
         },
         {
+          "title": "字节跳动新成立AI数据与安全部门",
+          "url": "https://flash.jin10.com/detail/20260811183836039800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "巴克莱仍偏好美国成长股和大型股 因AI支出支撑业绩",
           "url": "https://wallstreetcn.com/livenews/3147906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -143,21 +195,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时05分]"
         },
         {
           "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
@@ -182,31 +222,6 @@
           "time_info": "05时40分"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时05分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时05分]"
-        },
-        {
           "title": "河北发布暴雨橙色预警信号",
           "url": "https://www.douyin.com/hot/2603964",
           "source": "抖音",
@@ -221,17 +236,16 @@
           "time_info": "[03时55分 ~ 09时30分]"
         },
         {
-          "title": "如何看待 GPT-6 （Astra）？",
-          "url": "https://www.zhihu.com/question/2070082903229347029",
-          "source": "知乎",
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            20,
-            17
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时05分]"
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 18时56分]"
         },
         {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
@@ -294,6 +308,41 @@
           "time_info": "[13时06分 ~ 15时05分]"
         },
         {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 18时56分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 18时56分]"
+        },
+        {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 18时56分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：本公司及合作伙伴将为人工智能基础设施客户创建专用资金池。",
           "url": "https://flash.jin10.com/detail/20260811040700664800",
           "source": "金十数据",
@@ -351,6 +400,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 09时30分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 18时56分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 18时56分]"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -421,15 +494,26 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
+          "title": "局地特大暴雨！河南发布暴雨橙色预警",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%80%E5%9C%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%EF%BC%81%E6%B2%B3%E5%8D%97%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时05分"
+          "time_info": "18时56分"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
@@ -454,6 +538,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "英伟达(NVDA.O)CEO黄仁勋：没有人拒绝新的人工智能融资计划。",
           "url": "https://flash.jin10.com/detail/20260811045118217800",
           "source": "金十数据",
@@ -465,15 +560,15 @@
           "time_info": "05时40分"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "水利部和中国气象局8月11日18时联合发布红色山洪灾害气象预警，预计河南中部局地发生山洪灾害可能性很大。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3148017",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时05分"
+          "time_info": "18时56分"
         },
         {
           "title": "大摩启动1.5万亿美元美国创新基础设施计划 聚焦AI等前沿技术",
@@ -529,39 +624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
         },
         {
           "title": "韩国总统李在明：还应优先考虑非芯片人工智能领域，如小型模块化反应堆。",
@@ -735,9 +797,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "英国海上贸易行动办公室发布阿曼湾油轮安全事件通告",
+          "url": "https://wallstreetcn.com/livenews/3148001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "ai漫剧顶流已经出了8季了",
@@ -779,9 +852,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "北京市七区发布暴雨红色预警",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E5%B8%82%E4%B8%83%E5%8C%BA%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
@@ -817,6 +901,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "智光电气：网传完成英伟达AIDC BESS自测等消息不属实",
+          "url": "https://wallstreetcn.com/livenews/3147990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144750元/吨，较上日16:30价格持平。",
           "url": "https://wallstreetcn.com/livenews/3147813",
           "source": "华尔街见闻-快讯",
@@ -839,6 +934,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "河南发布暴雨橙色预警",
+          "url": "https://www.toutiao.com/trending/7672700992412192265/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "北京市发布暴雨橙色预警",
           "url": "https://www.douyin.com/hot/2603930",
           "source": "抖音",
@@ -848,12 +954,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "上海：推动自主芯片与主流大模型深度融合",
+          "url": "https://wallstreetcn.com/livenews/3147983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "9天8板暴涨130%！民爆热股月涨幅市场第二，连涨股近日扫描，这些方向占比较高",
@@ -866,6 +983,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时03分 ~ 07时34分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时29分 ~ 18时56分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -890,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时34分 ~ 15时05分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 15时05分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -1008,6 +1125,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
+          "url": "https://wallstreetcn.com/articles/3779141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "金十图示：2026年08月10日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260811004202641800",
           "source": "金十数据",
@@ -1088,7 +1216,7 @@
     },
     {
       "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -1150,6 +1278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
+          "url": "https://wallstreetcn.com/livenews/3147986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     },
