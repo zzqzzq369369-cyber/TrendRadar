@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T00:59:51.731288+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-13T02:01:44.686456+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "朱镕基同志遗像发布",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
+        },
+        {
+          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -26,19 +38,53 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
-          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
+          "url": "https://wallstreetcn.com/livenews/3148728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
+          "url": "https://flash.jin10.com/detail/20260813013509723800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "消息人士称，谷歌(GOOG.O)联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
+          "url": "https://flash.jin10.com/detail/20260813013427834800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
+          "url": "https://www.zhihu.com/question/2070928873705791858",
           "source": "知乎",
           "ranks": [
+            10,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "荣耀发布首款机器人手机 9999元起售",
@@ -48,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -59,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -70,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -81,30 +127,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "朱镕基同志遗像发布",
           "url": "https://www.douyin.com/hot/2607329",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
-          "url": "https://www.zhihu.com/question/2070928873705791858",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "腾讯算力采购大增 单季资本开支528亿元同比升176% 即将发布Hy4|财报解读",
@@ -114,19 +150,53 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
           "url": "https://wallstreetcn.com/livenews/3148703",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
+        },
+        {
+          "title": "三角洲AI夏日晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
+        },
+        {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时01分"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
         },
         {
           "title": "中国军号海外账号发布高燃视频",
@@ -151,6 +221,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "辽宁铁人就要求换裁判发布致歉信",
+          "url": "https://www.douyin.com/hot/2606634",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
           "title": "国务院国资委：围绕云计算、网络、人工智能、量子等根技术，加力关键核心技术攻关",
           "url": "https://wallstreetcn.com/livenews/3148694",
           "source": "华尔街见闻-快讯",
@@ -162,15 +243,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "三角洲AI夏日晚会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "河南信阳升级发布暴雨红色预警",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%BF%A1%E9%98%B3%E5%8D%87%E7%BA%A7%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            28
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时01分"
         }
       ]
     },
@@ -183,22 +264,12 @@
           "url": "https://flash.jin10.com/detail/20260813003439020800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260813003436500800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -208,8 +279,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -219,19 +290,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
           "url": "https://wallstreetcn.com/livenews/3148701",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "美股三大指数集体高开",
@@ -239,6 +311,17 @@
           "source": "抖音",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260813003436500800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -255,22 +338,41 @@
           "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "雪王出海为什么水土不服",
           "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# --- 程序员/开发方向 (改用国内常用语) --- 独立开发 个人开发 SaaS 开源 GitHub 代码 插件",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达最新开源大模型上线",
+          "url": "https://www.douyin.com/hot/2607298",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时01分"
         }
       ]
     }
