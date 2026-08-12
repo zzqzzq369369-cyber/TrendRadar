@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T14:13:20.591840+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-08-12T18:02:27.877483+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 51,
+      "match_count": 61,
       "titles": [
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -88,6 +88,17 @@
           "time_info": "[00时09分 ~ 09时47分]"
         },
         {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 18时02分]"
+        },
+        {
           "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
           "url": "https://wallstreetcn.com/articles/3779115",
           "source": "华尔街见闻",
@@ -97,17 +108,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 04时03分]"
-        },
-        {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 14时13分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -131,6 +131,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 07时39分]"
+        },
+        {
+          "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33761589",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 18时02分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 18时02分]"
         },
         {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
@@ -166,28 +190,16 @@
           "time_info": "[00时09分 ~ 07时39分]"
         },
         {
-          "title": "部分博物馆出现停电、空调瘫痪等情况，国家文物局发布紧急通知",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33761589",
-          "source": "澎湃新闻",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            3,
-            4
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 14时13分]"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 14时13分]"
+          "time_info": "[14时13分 ~ 18时02分]"
         },
         {
           "title": "AI产业给韩国人带来什么",
@@ -196,7 +208,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -212,15 +224,16 @@
           "time_info": "07时39分"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
+          "title": "河南发布暴雨红色预警",
+          "url": "https://www.douyin.com/hot/2606494",
+          "source": "抖音",
           "ranks": [
-            2
+            7,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 18时02分]"
         },
         {
           "title": "十五五生态保护规划发布",
@@ -229,7 +242,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -243,18 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "河南发布暴雨红色预警",
-          "url": "https://www.douyin.com/hot/2606494",
-          "source": "抖音",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 14时13分]"
         },
         {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
@@ -317,13 +318,36 @@
           "time_info": "[03时01分 ~ 04时03分]"
         },
         {
+          "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2070445459840000945",
+          "source": "知乎",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 18时02分]"
+        },
+        {
+          "title": "韩国发布七大战略：5年登月、9年商用核反应堆…",
+          "url": "https://news.ifeng.com/c/8vX128VQ5CD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "四川多地发布高温红色、橙色预警",
           "url": "https://flash.jin10.com/detail/20260812134048770800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -372,15 +396,15 @@
           "time_info": "09时47分"
         },
         {
-          "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2070445459840000945",
-          "source": "知乎",
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "18时02分"
         },
         {
           "title": "河南发布暴雨红色预警 启动防汛二级应急响应",
@@ -392,6 +416,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "天普股份：截至目前公司及天普欣才均无开展人工智能相关业务的计划",
+          "url": "https://wallstreetcn.com/livenews/3148546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
+          "url": "https://www.zhihu.com/question/2070779372970012693",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "上交所发布关于上海毕得医药科技股份有限公司相关事项的监管工作函。",
+          "url": "https://flash.jin10.com/detail/20260812174357627800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "马斯克：我们会先解决Grok Bot测试版目前存在的一些基础问题，并在本周晚些时候发布Grok4.6后，向更多用户开放Grok Bot测试。",
@@ -414,6 +471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "腾讯Q2财报：模型与产品双向赋能，云收入同比增长，Hy4近期发布",
+          "url": "https://wallstreetcn.com/livenews/3148543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美国财长贝森特：我们欢迎Meta发布Muse Glimmer，这是美国创新取得的又一胜利。保持美国在人工智能领域的领先地位意味着推进开放权重和封闭权重模型，确保未来建立在可信赖的基础之上。",
@@ -444,9 +512,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "国行苹果AI支持机型",
@@ -477,7 +556,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -526,6 +605,28 @@
           "time_info": "00时09分"
         },
         {
+          "title": "据伊朗学生通讯社：霍尔木兹甘省机场管理局发布通知，阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173329946800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "华为秋季发布会或定档9月23日",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%8823%E6%97%A5%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "标普500指数收跌24.91点，跌幅0.32%，美国非农就业报告发布后连续两个交易日回撤，报7728.20点。 道琼斯工业平均指数收跌184.13点，跌幅0.34%，报53791.85点。 纳斯达克综合指数（纳指）收跌159.911点，跌幅0.60%，报26445.446点。 纳斯达克100指数收跌96.325点，跌幅0.33%，报29525.479点。",
           "url": "https://wallstreetcn.com/livenews/3148231",
           "source": "华尔街见闻-快讯",
@@ -535,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
+          "url": "https://wallstreetcn.com/livenews/3148525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -554,7 +666,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -565,7 +677,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -576,7 +688,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -595,7 +707,7 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -644,15 +756,15 @@
           "time_info": "[00时09分 ~ 07时39分]"
         },
         {
-          "title": "海外显卡价格暴涨",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%A4%96%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
-          "source": "bilibili 热搜",
+          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3148557",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "18时02分"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -667,6 +779,18 @@
           "time_info": "[05时45分 ~ 07时39分]"
         },
         {
+          "title": "海外显卡价格暴涨",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%A4%96%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 18时02分]"
+        },
+        {
           "title": "盘后暴涨15%！CoreWeave营收同比翻倍 在手订单高达千亿美元",
           "url": "https://www.cls.cn/detail/2451858",
           "source": "财联社热门",
@@ -677,6 +801,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 14时13分]"
+        },
+        {
+          "title": "华裔加密货币投资者从30楼离奇坠亡",
+          "url": "https://www.toutiao.com/trending/7672984185451053082/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
@@ -745,6 +880,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "华裔加密货币大亨离奇坠亡",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E8%A3%94%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%A4%A7%E4%BA%A8%E7%A6%BB%E5%A5%87%E5%9D%A0%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
           "url": "https://wallstreetcn.com/livenews/3148179",
           "source": "华尔街见闻-快讯",
@@ -759,8 +905,19 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "雪王出海为什么水土不服",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9B%AA%E7%8E%8B%E5%87%BA%E6%B5%B7%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B0%B4%E5%9C%9F%E4%B8%8D%E6%9C%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
         {
           "title": "台风过境浙江舟山1500艘渔船出海开捕",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%A2%83%E6%B5%99%E6%B1%9F%E8%88%9F%E5%B1%B11500%E8%89%98%E6%B8%94%E8%88%B9%E5%87%BA%E6%B5%B7%E5%BC%80%E6%8D%95",
@@ -776,13 +933,24 @@
           "time_info": "[03时00分 ~ 07时39分]"
         },
         {
+          "title": "美国又撤销一项TikTok禁令，联邦政府设备上也可以使用了",
+          "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美国政府设备重新允许使用TikTok",
           "url": "https://www.toutiao.com/trending/7672969055648615946/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
