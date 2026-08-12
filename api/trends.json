@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T04:42:39.825866+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-08-13T07:40:10.885701+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "朱镕基同志遗像发布",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
         },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -53,6 +53,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
+        },
+        {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
           "url": "https://flash.jin10.com/detail/20260813013509723800",
           "source": "金十数据",
@@ -75,15 +86,53 @@
           "time_info": "02时01分"
         },
         {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
+        },
+        {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
           "url": "https://wallstreetcn.com/livenews/3148756",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "朱镕基同志遗像发布",
+          "url": "https://www.douyin.com/hot/2607329",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
+        },
+        {
+          "title": "腾讯算力采购大增 单季资本开支528亿元同比升176% 即将发布Hy4|财报解读",
+          "url": "https://www.cls.cn/detail/2452763",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
         },
         {
           "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
@@ -99,26 +148,54 @@
           "time_info": "[00时59分 ~ 04时42分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
+          "title": "荣耀发布首款机器人手机 9999元起售",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 07时40分]"
         },
         {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 07时40分]"
+        },
+        {
+          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
+          "url": "https://www.zhihu.com/question/2070508935673378471",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 07时40分]"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 07时40分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -132,62 +209,27 @@
           "time_info": "[00时59分 ~ 04时42分]"
         },
         {
-          "title": "朱镕基同志遗像发布",
-          "url": "https://www.douyin.com/hot/2607329",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
-        },
-        {
-          "title": "腾讯算力采购大增 单季资本开支528亿元同比升176% 即将发布Hy4|财报解读",
-          "url": "https://www.cls.cn/detail/2452763",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
-        },
-        {
-          "title": "荣耀发布首款机器人手机 9999元起售",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA+9999%E5%85%83%E8%B5%B7%E5%94%AE",
+          "title": "朝鲜谴责日本发布“再侵略白皮书”",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E8%B0%B4%E8%B4%A3%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E2%80%9C%E5%86%8D%E4%BE%B5%E7%95%A5%E7%99%BD%E7%9A%AE%E4%B9%A6%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 07时40分]"
         },
         {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时01分 ~ 04时42分]"
-        },
-        {
-          "title": "DeepSeek发布V4Pro正式版",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 04时42分]"
+          "time_info": "[07时39分 ~ 07时40分]"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
@@ -202,18 +244,6 @@
           "time_info": "[00时59分 ~ 02时01分]"
         },
         {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 04时42分]"
-        },
-        {
           "title": "三角洲AI夏日晚会",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -225,15 +255,59 @@
           "time_info": "[00时59分 ~ 02时01分]"
         },
         {
+          "title": "路透调查显示，超过80%的日本企业仅部分使用或根本不使用人工智能。",
+          "url": "https://flash.jin10.com/detail/20260813070104983800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "路透调查显示，超过一半的日本企业计划在近期增加人工智能预算，31%的企业尚未决定。",
+          "url": "https://flash.jin10.com/detail/20260813070049622800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "据悉苹果洽谈向出版商付费，以提升其人工智能Siri",
+          "url": "https://flash.jin10.com/detail/20260813064006751800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)已讨论一项数亿美元的预算，用于向一批出版商支付Siri人工智能合作协议的费用。",
+          "url": "https://flash.jin10.com/detail/20260813063512720800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "中国军号海外账号发布高燃视频",
@@ -245,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，苹果(AAPL.O)正寻求与出版商达成新协议，以便使用其内容开发人工智能语音助手Siri。",
+          "url": "https://flash.jin10.com/detail/20260813063348828800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "辽宁铁人就要求换裁判发布致歉信",
@@ -286,18 +371,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "朝鲜谴责日本发布“再侵略白皮书”",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E8%B0%B4%E8%B4%A3%E6%97%A5%E6%9C%AC%E5%8F%91%E5%B8%83%E2%80%9C%E5%86%8D%E4%BE%B5%E7%95%A5%E7%99%BD%E7%9A%AE%E4%B9%A6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -305,8 +379,19 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
+        },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260813040557554800",
@@ -314,9 +399,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
@@ -342,17 +438,6 @@
           "time_info": "[00时59分 ~ 04时42分]"
         },
         {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
-        },
-        {
           "title": "美股三大指数集体高开",
           "url": "https://www.douyin.com/hot/2607617",
           "source": "抖音",
@@ -362,6 +447,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 04时42分]"
+        },
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时39分 ~ 07时40分]"
         },
         {
           "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
@@ -393,7 +500,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -404,7 +511,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -423,8 +530,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
         },
         {
           "title": "雪王出海为什么水土不服",
@@ -435,8 +542,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 07时40分]"
         }
       ]
     },
@@ -450,11 +557,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时01分 ~ 07时40分]"
         }
       ]
     }
