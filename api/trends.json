@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:48:03.439469+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-08-14T12:08:16.370951+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -14,22 +14,95 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            18,
+            21,
+            23,
+            19,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            23,
+            18,
+            17,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -46,83 +119,29 @@
           "time_info": "[00时59分 ~ 05时43分]"
         },
         {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21,
-            23,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            23,
-            18,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
-        },
-        {
           "title": "DeepSeek发布调价公告",
           "url": "https://www.douyin.com/hot/2608709",
           "source": "抖音",
           "ranks": [
             8,
             9,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 09时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 12时08分]"
+        },
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -175,15 +194,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149415",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
+          "url": "https://flash.jin10.com/detail/20260814114429385800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时08分"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -199,6 +218,18 @@
           "time_info": "[00时59分 ~ 09时48分]"
         },
         {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时08分]"
+        },
+        {
           "title": "iPhone18系列发布节奏确认",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -210,6 +241,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 04时40分]"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
+        },
+        {
+          "title": "AI交易降温后银行股受益 华尔街押注金融板块延续上涨",
+          "url": "https://www.cls.cn/detail/2453846",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
@@ -245,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "AI用配音演员声线接广告",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%A8%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%A3%B0%E7%BA%BF%E6%8E%A5%E5%B9%BF%E5%91%8A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
           "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
@@ -308,9 +372,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "华储网发布关于2026年8月18日中央储备冻猪肉轮换出库竞价交易有关事项的通知：本次出库竞价交易挂牌国产冻猪肉12000吨。",
+          "url": "https://wallstreetcn.com/livenews/3149444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -341,7 +416,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -355,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报151600元/吨，较上日16:30价格上涨2250元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3149439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
@@ -385,7 +471,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -396,7 +482,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -423,6 +509,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "LG与英伟达签署关于机器人、AI工厂和行动技术的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3149425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "人工智能芯片制造商Cerebras：对AMD联合产品的需求巨大。",
           "url": "https://flash.jin10.com/detail/20260813235516723800",
           "source": "金十数据",
@@ -440,7 +537,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -473,7 +570,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -506,6 +603,17 @@
           "time_info": "[00时59分 ~ 05时43分]"
         },
         {
+          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
+          "url": "https://wallstreetcn.com/articles/3779335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时08分]"
+        },
+        {
           "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
           "url": "https://wallstreetcn.com/articles/3779338",
           "source": "华尔街见闻",
@@ -518,17 +626,6 @@
           "time_info": "[00时59分 ~ 05时43分]"
         },
         {
-          "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
-          "url": "https://wallstreetcn.com/articles/3779335",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 09时48分]"
-        },
-        {
           "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
           "url": "https://www.cls.cn/detail/2453979",
           "source": "财联社热门",
@@ -536,8 +633,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时08分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -675,11 +772,12 @@
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 12时08分]"
         }
       ]
     },
