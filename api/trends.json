@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:13:28.306482+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-08-14T17:59:55.970991+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 53,
+      "match_count": 65,
       "titles": [
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -27,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 14时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 17时59分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -59,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 14时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 17时59分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -89,11 +90,12 @@
             17,
             22,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 14时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 17时59分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -102,11 +104,12 @@
           "ranks": [
             26,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时59分 ~ 14时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时59分 ~ 17时59分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -141,11 +144,23 @@
           "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 17时59分]"
+        },
+        {
+          "title": "中国AI把价格打下来，美国巨头一口气降80%",
+          "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -209,15 +224,15 @@
           "time_info": "12时08分"
         },
         {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
+          "title": "智谱发布GLM-5.3模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "17时59分"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -243,6 +258,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 12时08分]"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 17时59分]"
         },
         {
           "title": "iPhone18系列发布节奏确认",
@@ -328,6 +355,17 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
           "url": "https://flash.jin10.com/detail/20260814011003598800",
           "source": "金十数据",
@@ -337,6 +375,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
+          "url": "https://www.zhihu.com/question/2071591447367770456",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -356,7 +416,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -394,15 +454,59 @@
           "time_info": "00时59分"
         },
         {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "智谱：发布GLM-5.3模型 在复杂编码和长时程任务方面表现更佳",
           "url": "https://flash.jin10.com/detail/20260814134055071800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "据Axios：OpenAI在IPO前进行高管更换。",
+          "url": "https://flash.jin10.com/detail/20260814173053117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "中芯国际赵海军：下半年人工智能产生的产业推动与溢出效应还将持续",
@@ -480,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端",
+          "url": "https://wallstreetcn.com/livenews/3149649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
@@ -587,7 +702,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -625,6 +740,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "又一“大空头”质疑AI繁荣：最大软肋可能在两家公司上",
+          "url": "https://flash.jin10.com/detail/20260814170743373800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3149282",
           "source": "华尔街见闻-快讯",
@@ -634,12 +760,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "当AI汽车长了双灵眸大眼",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93AI%E6%B1%BD%E8%BD%A6%E9%95%BF%E4%BA%86%E5%8F%8C%E7%81%B5%E7%9C%B8%E5%A4%A7%E7%9C%BC%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -766,6 +903,39 @@
           "time_info": "[04时40分 ~ 05时43分]"
         },
         {
+          "title": "【图解牛熊股】本周最牛股暴涨逾148%，医药股霸屏牛股榜",
+          "url": "https://www.cls.cn/detail/2454516",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "旺旺净利润暴跌,情怀卖不动了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357488&amp;topic_name=%E6%97%BA%E6%97%BA%E5%87%80%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%2C%E6%83%85%E6%80%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "韩国股市暴涨22%，但几乎“无人持仓”",
+          "url": "https://wallstreetcn.com/articles/3779396",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 存储概念走强",
           "url": "https://flash.jin10.com/detail/20260814040105197800",
           "source": "金十数据",
@@ -802,7 +972,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
@@ -811,9 +981,31 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 17时59分]"
+        },
+        {
+          "title": "媒体：胖东来少赚钱也不惯着漫天要价",
+          "url": "https://www.toutiao.com/trending/7672695268320051251/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "17时59分"
+        },
+        {
+          "title": "央行等两部门：决定在全国范围内推广跨国公司本外币跨境资金集中运营业务",
+          "url": "https://wallstreetcn.com/livenews/3149650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "雪王出海为什么水土不服",
@@ -833,7 +1025,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         }
@@ -849,11 +1041,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 14时13分]"
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 17时59分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
