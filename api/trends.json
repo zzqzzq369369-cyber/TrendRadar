@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T09:12:20.134465+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-16T11:51:48.536547+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "中国博主发布进入靖国神社视频",
@@ -15,8 +15,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
+          "url": "https://wallstreetcn.com/articles/3779512",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
+          "url": "https://www.zhihu.com/question/2071619812795609447",
+          "source": "知乎",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
         },
         {
           "title": "车企集体“逃离”新车发布会",
@@ -30,48 +65,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
-          "url": "https://www.zhihu.com/question/2071619812795609447",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
-          "url": "https://wallstreetcn.com/articles/3779512",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
+          "title": "预告：国新办将于8月17日举行新闻发布会 介绍2026年7月份国民经济运行情况",
+          "url": "https://wallstreetcn.com/livenews/3150024",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
-          "url": "https://flash.jin10.com/detail/20260816080958361800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "11时51分"
         },
         {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
@@ -85,37 +87,147 @@
           "time_info": "09时12分"
         },
         {
-          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
-          "url": "https://wallstreetcn.com/livenews/3150009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
           "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
           "url": "https://wallstreetcn.com/articles/3779514",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "中国博主发布进入靖国神社视频",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E8%BF%9B%E5%85%A5%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
+          "url": "https://wallstreetcn.com/articles/3779510",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
+          "url": "https://flash.jin10.com/detail/20260816080958361800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
+          "url": "https://wallstreetcn.com/livenews/3150009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
         },
         {
           "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
           "url": "https://www.cls.cn/detail/2455045",
           "source": "财联社热门",
           "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
+          "url": "https://wallstreetcn.com/articles/3779508",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "60岁AI动画赛道新人",
+          "url": "https://www.douyin.com/hot/2610767",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "“AI神童”爆仓引发连锁反应",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E7%A5%9E%E7%AB%A5%E2%80%9D%E7%88%86%E4%BB%93%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "我和闺蜜联手掀翻AI穿书剧本",
+          "url": "https://www.douyin.com/hot/2610954",
+          "source": "抖音",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "美国大模型帮日本对AI进行投毒",
+          "url": "https://www.toutiao.com/trending/7673727363703639571/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "11时51分"
         },
         {
           "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
@@ -151,59 +263,37 @@
           "time_info": "09时12分"
         },
         {
-          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
-          "url": "https://wallstreetcn.com/articles/3779510",
+          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3150021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "11时51分"
         },
         {
-          "title": "60岁AI动画赛道新人",
-          "url": "https://www.douyin.com/hot/2610767",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
-          "url": "https://wallstreetcn.com/articles/3779508",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "“AI神童”爆仓引发连锁反应",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E7%A5%9E%E7%AB%A5%E2%80%9D%E7%88%86%E4%BB%93%E5%BC%95%E5%8F%91%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94",
+          "title": "莫言谈AI写作：只是拼凑旧作然后搅拌",
+          "url": "https://www.baidu.com/s?wd=%E8%8E%AB%E8%A8%80%E8%B0%88AI%E5%86%99%E4%BD%9C%EF%BC%9A%E5%8F%AA%E6%98%AF%E6%8B%BC%E5%87%91%E6%97%A7%E4%BD%9C%E7%84%B6%E5%90%8E%E6%90%85%E6%8B%8C",
           "source": "百度热搜",
           "ranks": [
-            14
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "中国博主发布进入靖国神社视频",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E8%BF%9B%E5%85%A5%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "11时51分"
         },
         {
           "title": "机构：AI“芯片通胀”正冲击英国经济",
@@ -261,28 +351,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "我和闺蜜联手掀翻AI穿书剧本",
-          "url": "https://www.douyin.com/hot/2610954",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "美国大模型帮日本对AI进行投毒",
-          "url": "https://www.toutiao.com/trending/7673727363703639571/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
           "title": "大爷手搓AI长片赛博英雄传",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
           "source": "bilibili 热搜",
@@ -308,40 +376,65 @@
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
           "url": "https://www.cls.cn/detail/2455064",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
           "url": "https://www.cls.cn/detail/2455043",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
         },
         {
           "title": "旺旺净利润暴跌,情怀卖不动了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357488&amp;topic_name=%E6%97%BA%E6%97%BA%E5%87%80%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%2C%E6%83%85%E6%80%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "博通暴跌20% 市场在怕什么？",
+          "url": "https://wallstreetcn.com/premium/articles/3779502?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "11时51分"
+        },
+        {
+          "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
+          "url": "https://wallstreetcn.com/livenews/3150016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     }
