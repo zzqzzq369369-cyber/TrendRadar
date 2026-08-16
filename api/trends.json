@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T13:27:37.993471+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-08-16T15:30:59.676253+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
+        },
+        {
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "中国博主发布进入靖国神社视频",
@@ -25,22 +37,37 @@
           "source": "今日头条",
           "ranks": [
             1,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
-          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
-          "url": "https://www.cls.cn/detail/2455147",
-          "source": "财联社热门",
+          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
+          "url": "https://wallstreetcn.com/articles/3779510",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
+        },
+        {
+          "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
+          "url": "https://wallstreetcn.com/articles/3779514",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
@@ -66,40 +93,41 @@
           "time_info": "09时12分"
         },
         {
-          "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
-          "url": "https://wallstreetcn.com/articles/3779510",
-          "source": "华尔街见闻",
+          "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
+          "url": "https://flash.jin10.com/detail/20260816151639180800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            5,
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            6,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "time_info": "[11时51分 ~ 15时30分]"
         },
         {
-          "title": "最优“AI泡沫交易”：同时做多“傲慢”与“偏见”",
-          "url": "https://wallstreetcn.com/articles/3779514",
-          "source": "华尔街见闻",
+          "title": "中国博主发布进入靖国神社视频",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E8%BF%9B%E5%85%A5%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            2
+            20,
+            1,
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
-        },
-        {
-          "title": "预告：国新办17日下午3时举行新闻发布会 介绍2026年7月份国民经济运行情况",
-          "url": "https://flash.jin10.com/detail/20260816124337792800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "“AI版金融创新”：CDO vs CCO=2008 vs 2026？",
@@ -113,17 +141,18 @@
           "time_info": "09时12分"
         },
         {
-          "title": "中国博主发布进入靖国神社视频",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%B8%83%E8%BF%9B%E5%85%A5%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
+          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
+          "url": "https://wallstreetcn.com/livenews/3150009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            1,
-            8
+            5,
+            16,
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
@@ -139,17 +168,28 @@
           "time_info": "[09时12分 ~ 13时27分]"
         },
         {
-          "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
-          "url": "https://wallstreetcn.com/livenews/3150009",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
+          "url": "https://www.cls.cn/detail/2455045",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            16,
-            21
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
+        },
+        {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "预告：国新办将于8月17日举行新闻发布会 介绍2026年7月份国民经济运行情况",
@@ -157,11 +197,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 15时30分]"
+        },
+        {
+          "title": "预告：国新办17日下午3时举行新闻发布会 介绍2026年7月份国民经济运行情况",
+          "url": "https://flash.jin10.com/detail/20260816124337792800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时51分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 15时30分]"
         },
         {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
@@ -176,16 +229,43 @@
           "time_info": "[09时12分 ~ 11时51分]"
         },
         {
-          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
-          "url": "https://www.cls.cn/detail/2455045",
-          "source": "财联社热门",
+          "title": "雷军晒图：15年前的今天小米手机发布",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E5%9B%BE%EF%BC%9A15%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            7
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时30分]"
+        },
+        {
+          "title": "我和闺蜜联手掀翻AI穿书剧本",
+          "url": "https://www.douyin.com/hot/2610954",
+          "source": "抖音",
+          "ranks": [
+            25,
+            21,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "time_info": "[11时51分 ~ 15时30分]"
         },
         {
           "title": "60岁AI动画赛道新人",
@@ -200,52 +280,41 @@
           "time_info": "[09时12分 ~ 13时27分]"
         },
         {
-          "title": "我和闺蜜联手掀翻AI穿书剧本",
-          "url": "https://www.douyin.com/hot/2610954",
-          "source": "抖音",
-          "ranks": [
-            25,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
-        },
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 13时27分]"
-        },
-        {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 13时27分]"
-        },
-        {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
           "url": "https://wallstreetcn.com/livenews/3150021",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 15时30分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时51分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 15时30分]"
+        },
+        {
+          "title": "雷军晒15年前小米手机发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%9215%E5%B9%B4%E5%89%8D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时30分]"
         },
         {
           "title": "“AI神童”爆仓引发连锁反应",
@@ -258,6 +327,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 11时51分]"
+        },
+        {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -294,48 +375,37 @@
           "time_info": "09时12分"
         },
         {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
+          "title": "固德威与深算院达成战略合作 共建AI+智慧能源联合创新中心",
+          "url": "https://flash.jin10.com/detail/20260816142707893800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时12分"
+          "time_info": "15时30分"
         },
         {
-          "title": "雷军晒15年前小米手机发布会",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%9215%E5%B9%B4%E5%89%8D%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
+          "url": "https://www.zhihu.com/question/2071916942760342436",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时30分"
         },
         {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "雷军晒图：15年前的今天小米手机发布",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E5%9B%BE%EF%BC%9A15%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时30分"
         },
         {
           "title": "莫言谈AI写作：只是拼凑旧作然后搅拌",
@@ -347,6 +417,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "王祖贤：我们是用AI不是被AI用",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
+        },
+        {
+          "title": "纯数学研究者未来会被 AI 取代吗？",
+          "url": "https://www.zhihu.com/question/2014665409727570582",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         },
         {
           "title": "机构：AI“芯片通胀”正冲击英国经济",
@@ -404,17 +496,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
           "title": "AI给假网,吧友中招银狐病毒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
           "source": "贴吧",
@@ -424,12 +505,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "周鸿祎：美芯片禁令反给中国AI开扇门",
+          "url": "https://www.toutiao.com/trending/7674482791823707698/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         }
       ]
     },
     {
       "keyword_group": "# --- 金融 (保留核心) --- 比特币 加密货币 美股 暴跌 暴涨",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
@@ -437,11 +529,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -452,8 +545,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "旺旺净利润暴跌,情怀卖不动了",
@@ -462,11 +555,12 @@
           "ranks": [
             17,
             20,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 15时30分]"
         },
         {
           "title": "博通暴跌20% 市场在怕什么？",
@@ -474,11 +568,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 15时30分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -486,11 +581,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 15时30分]"
+        },
+        {
+          "title": "Anthropic二季度营收同比暴涨1400%",
+          "url": "https://www.toutiao.com/trending/7674506368329453102/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时30分"
         }
       ]
     }
