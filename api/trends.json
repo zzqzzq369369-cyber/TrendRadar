@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T04:20:39.593955+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-08-17T09:08:49.506550+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -15,31 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
             4,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -53,13 +42,26 @@
           "time_info": "[00时22分 ~ 04时20分]"
         },
         {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
+        },
+        {
           "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
           "url": "https://flash.jin10.com/detail/20260817035338220800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -68,11 +70,12 @@
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -83,19 +86,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
           "url": "https://www.cls.cn/detail/2455252",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
+        },
+        {
+          "title": "一条AI短片演绎时间焦虑",
+          "url": "https://www.douyin.com/hot/2612104",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "两人为博眼球发布不实信息被处罚",
@@ -105,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -116,42 +133,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报",
           "url": "https://www.cls.cn/detail/2455230",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
-        },
-        {
-          "title": "一条AI短片演绎时间焦虑",
-          "url": "https://www.douyin.com/hot/2612104",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -159,11 +166,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 09时08分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -179,6 +187,18 @@
           "time_info": "[00时22分 ~ 04时20分]"
         },
         {
+          "title": "RTX60 系显卡大概什么时候发布?",
+          "url": "https://www.zhihu.com/question/1940427571205478236",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 09时08分]"
+        },
+        {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
           "url": "https://wallstreetcn.com/livenews/3150051",
           "source": "华尔街见闻-快讯",
@@ -188,6 +208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "山西发布地质灾害黄色预警",
+          "url": "https://wallstreetcn.com/livenews/3150134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦发布联合声明，谴责以色列拒绝美国总统特朗普关于加沙的计划。",
@@ -201,15 +232,59 @@
           "time_info": "00时23分"
         },
         {
-          "title": "RTX60 系显卡大概什么时候发布?",
-          "url": "https://www.zhihu.com/question/1940427571205478236",
-          "source": "知乎",
+          "title": "涉中美AI，美被曝想逼多国“二选一”",
+          "url": "https://wallstreetcn.com/livenews/3150130",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时20分"
+          "time_info": "09时08分"
+        },
+        {
+          "title": "AI融资需求不断攀升 Alphabet考虑首次发行澳元债券",
+          "url": "https://wallstreetcn.com/livenews/3150129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "涉中美AI，美被曝想逼多国“二选一”",
+          "url": "https://flash.jin10.com/detail/20260817084226020800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "A股近500家公司公布半年报，AI硬件、化工能源景气度高",
+          "url": "https://wallstreetcn.com/livenews/3150106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日15:00国新办就国民经济运行情况举行新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260817081916533800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
