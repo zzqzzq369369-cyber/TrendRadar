@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-08-20T09:07:37.904877+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-20T11:47:04.133872+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# --- AI/新技术 (放宽限制) --- AI 人工智能 大模型 Sora GPT Midjourney Stable Diffusion 新功能 发布",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "《黑神话：钟馗》发布 15 分钟实机演示视频，有哪些细节设计值得关注？",
+          "url": "https://www.zhihu.com/question/2073711181198357987",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "莫德纳市值单日暴增445亿美元 AI医药技术成隐秘功臣",
+          "url": "https://www.cls.cn/detail/2459016",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "王兴兴：具身智能的“ChatGPT时刻”最快2到3年，最慢5到10年到来",
+          "url": "https://wallstreetcn.com/livenews/3152065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "美联储会议纪要偏鹰：7月加息阵营不止三人，多人认为若通胀不降需行动，部分料AI推升通胀",
+          "url": "https://wallstreetcn.com/articles/3779834",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
+        },
         {
           "title": "事关外卖骑手等劳动权益保障，工会工作“十五五”规划发布",
           "url": "https://flash.jin10.com/detail/20260820090239812800",
@@ -19,37 +64,40 @@
           "time_info": "09时07分"
         },
         {
-          "title": "美联储会议纪要偏鹰：7月加息阵营不止三人，多人认为若通胀不降需行动，部分料AI推升通胀",
-          "url": "https://wallstreetcn.com/articles/3779834",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
           "title": "美联储纪要“鹰声”不小：许多官员保留加息选项 AI借贷风险也被盯上",
           "url": "https://www.cls.cn/detail/2458884",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
           "title": "饭碗要凉,AI作者录屏自证手搓",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359015&amp;topic_name=%E9%A5%AD%E7%A2%97%E8%A6%81%E5%87%89%2CAI%E4%BD%9C%E8%80%85%E5%BD%95%E5%B1%8F%E8%87%AA%E8%AF%81%E6%89%8B%E6%90%93",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
+        },
+        {
+          "title": "如何看待大量「有名有姓」的数学猜想被 AI 解决？",
+          "url": "https://www.zhihu.com/question/2072638750023055197",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
           "title": "美国年轻人对AI态度大转弯：55%受访者“担忧超过兴奋”",
@@ -59,30 +107,76 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
           "title": "自制AI电影出马仙镇东北",
           "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
-          "title": "如何看待大量「有名有姓」的数学猜想被 AI 解决？",
-          "url": "https://www.zhihu.com/question/2072638750023055197",
-          "source": "知乎",
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
+        },
+        {
+          "title": "OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫",
+          "url": "https://www.cls.cn/detail/2458892",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "MiniMax发布Agent工作台MiniMax Design，推动H3模型商业化",
+          "url": "https://wallstreetcn.com/livenews/3152057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "11时47分"
+        },
+        {
+          "title": "纪要暗示利率风险仍偏上行，美联储减少沟通将引发担忧——新版发布",
+          "url": "https://flash.jin10.com/detail/20260820111713892800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报150950元/吨，较上日16:30价格下跌500元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3152053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "姜珮瑶找凌玲像AI一样丝滑",
@@ -99,17 +193,6 @@
           "title": "UP主用AI给盲人装上眼睛",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
           "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "集中撤榜,起点斩杀AI文",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
-          "source": "贴吧",
           "ranks": [
             21
           ],
@@ -140,6 +223,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "霍尔木兹供应风险未退，全球成品油荒持续升温——新版发布",
+          "url": "https://flash.jin10.com/detail/20260820105326772800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "新规一刀切,AI漫剧被迫停更",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
           "source": "贴吧",
@@ -164,8 +258,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
           "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
@@ -175,8 +269,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
+        },
+        {
+          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
+          "url": "https://www.cls.cn/detail/2458911",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
+        },
+        {
+          "title": "抗癌圣杯！Moderna首个“mRNA个性化癌症疫苗”三期试验成功，股价暴涨近180%",
+          "url": "https://wallstreetcn.com/articles/3779803",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
           "title": "中一签赚47.46万！宇树科技开盘暴涨629.44%，总市值4449亿元",
@@ -184,28 +302,6 @@
           "source": "澎湃新闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
-          "url": "https://www.cls.cn/detail/2458911",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "抗癌圣杯！Moderna首个“mRNA个性化癌症疫苗”三期试验成功，股价暴涨近180%",
-          "url": "https://wallstreetcn.com/articles/3779803",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -227,22 +323,24 @@
           "url": "https://www.cls.cn/detail/2458937",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
           "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
           "url": "https://www.cls.cn/detail/2458966",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -270,7 +368,7 @@
     },
     {
       "keyword_group": "# --- 出海/搞钱方向 (改用中文) --- 出海 跨境 TikTok 海外版 独立站 Shopify 带货 副业 搞钱 赚钱 # 注意：赚钱这个词如果不想要那个贴吧的，可以加个过滤：",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "涉王星案！跨境人口贩卖集团17名犯罪嫌疑人被提起公诉",
@@ -280,8 +378,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时47分]"
+        },
+        {
+          "title": "中国服务赋能中国制造加速出海",
+          "url": "https://www.douyin.com/hot/2616489",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "王星案跨境人口贩卖集团 17 名犯罪嫌疑人被提起公诉，涉嫌拐卖妇女罪、绑架罪等，他们将面临怎样的判罚？",
@@ -293,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "司法部认定欧盟针对京东的《外国补贴条例》跨境调查构成不当域外管辖，任何人不得协助执行，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2073493262573352062",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         }
       ]
     }
